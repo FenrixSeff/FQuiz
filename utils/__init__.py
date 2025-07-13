@@ -1,0 +1,1 @@
+from .pelajaran import pelajaran

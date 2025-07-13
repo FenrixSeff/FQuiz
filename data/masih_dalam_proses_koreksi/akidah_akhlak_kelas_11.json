@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Perilaku bakhil dapat menghambat...",
+    "pilihan": {
+      "A": "Aliran rezeki dari Allah SWT",
+      "B": "Pertumbuhan ekonomi masyarakat",
+      "C": "Hubungan silaturahmi antarumat",
+      "D": "Perkembangan ilmu pengetahuan",
+      "E": "Pelaksanaan ibadah mahdah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tanpa syariat, tasawuf akan menjadi...",
+    "pilihan": {
+      "A": "Kering spiritualitasnya",
+      "B": "Kesesatan yang menyesatkan",
+      "C": "Terlalu fokus pada ritual",
+      "D": "Kehilangan makna hakikat",
+      "E": "Terpisah dari akidah Islam"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara tabzir dan israf adalah...",
+    "pilihan": {
+      "A": "Tabzir boros pada hal haram, israf berlebihan pada hal halal",
+      "B": "Tabzir terkait harta, israf terkait waktu",
+      "C": "Israf lebih berat dosanya daripada tabzir",
+      "D": "Tabzir dilarang Al-Qur\"an, israf dibolehkan",
+      "E": "Israf bentuk kikir, tabzir bentuk boros"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Imam Junaid al-Baghdadi menekankan pentingnya...",
+    "pilihan": {
+      "A": "Penyatuan diri dengan Tuhan (ittihad)",
+      "B": "Keseimbangan syariat dan hakikat",
+      "C": "Zuhud ekstrem dalam kehidupan",
+      "D": "Keterlibatan dalam politik praktis",
+      "E": "Penolakan terhadap ilmu fiqih"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Urutan tingkatan tasawuf yang benar adalah...",
+    "pilihan": {
+      "A": "Syariat → Tarekat → Hakikat → Makrifat",
+      "B": "Tarekat → Syariat → Makrifat → Hakikat",
+      "C": "Hakikat → Makrifat → Syariat → Tarekat",
+      "D": "Makrifat → Hakikat → Tarekat → Syariat",
+      "E": "Syariat → Hakikat → Tarekat → Makrifat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Bagaimana Islam memandang sifat bakhil?",
+    "pilihan": {
+      "A": "Dibolehkan untuk menjaga stabilitas ekonomi",
+      "B": "Terpuji jika untuk persiapan masa depan",
+      "C": "Tercela karena menghambat distribusi harta",
+      "D": "Diperlukan dalam pengelolaan keuangan negara",
+      "E": "Netral selama tidak merugikan orang lain"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Syariat berfungsi sebagai pondasi bagi...",
+    "pilihan": {
+      "A": "Pencapaian makrifatullah",
+      "B": "Pengembangan filsafat metafisika",
+      "C": "Pembenaran praktik bid\"ah",
+      "D": "Penghapusan kewajiban ibadah",
+      "E": "Pemisahan agama dan negara"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Ciri-ciri orang yang bakhil meliputi...",
+    "pilihan": {
+      "A": "Sering menyumbang tanpa pamrih",
+      "B": "Menolak membayar zakat wajib",
+      "C": "Rajin berinfak di jalan Allah",
+      "D": "Membantu orang lain secara ikhlas",
+      "E": "Mengutamakan kepentingan umum"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Cara menghindari perilaku israf adalah...",
+    "pilihan": {
+      "A": "Menggunakan skala prioritas kebutuhan",
+      "B": "Menghabiskan harta untuk foya-foya",
+      "C": "Menimbun harta tanpa berbagi",
+      "D": "Membatasi konsumsi makanan bergizi",
+      "E": "Menghindari sedekah sama sekali"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Hakikat dalam tasawuf adalah...",
+    "pilihan": {
+      "A": "Pemahaman esensi ibadah dan ketuhanan",
+      "B": "Hukum-hukum fikih praktis",
+      "C": "Ritual dzikir berjamaah",
+      "D": "Bentuk-bentuk shalat sunnah",
+      "E": "Aturan muamalah perdagangan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dampak negatif israf bagi lingkungan adalah...",
+    "pilihan": {
+      "A": "Meningkatnya keadilan sosial",
+      "B": "Terjaganya ekosistem alam",
+      "C": "Eksploitasi sumber daya berlebihan",
+      "D": "Berkurangnya polusi udara",
+      "E": "Pelestarian keanekaragaman hayati"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tingkatan tasawuf yang berfokus pada praktik lahiriah adalah...",
+    "pilihan": {
+      "A": "Makrifat",
+      "B": "Tarekat",
+      "C": "Hakikat",
+      "D": "Syariat",
+      "E": "Khawariq"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tokoh sufi penggagas konsep mahabbah adalah...",
+    "pilihan": {
+      "A": "Imam Al-Ghazali",
+      "B": "Rabi\"ah al-Adawiyah",
+      "C": "Ibnu Arabi",
+      "D": "Al-Hallaj",
+      "E": "Syekh Abdul Qadir Jailani"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Contoh perilaku tabzir adalah...",
+    "pilihan": {
+      "A": "Menyumbang untuk pembangunan masjid",
+      "B": "Membeli makanan untuk dibuang",
+      "C": "Menabung untuk pendidikan anak",
+      "D": "Bersedekah ke panti asuhan",
+      "E": "Berinvestasi dalam usaha halal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Makna syariat dalam konteks tasawuf adalah...",
+    "pilihan": {
+      "A": "Pengalaman penyatuan dengan Tuhan",
+      "B": "Aturan hukum Islam yang bersifat lahiriah",
+      "C": "Pengetahuan tentang alam gaib",
+      "D": "Meditasi untuk mencapai pencerahan",
+      "E": "Ritual khusus kalangan sufi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tarekat dalam tasawuf merujuk pada...",
+    "pilihan": {
+      "A": "Hukum waris Islam",
+      "B": "Jalan spiritual berbasis ajaran sufi",
+      "C": "Peraturan ibadah haji",
+      "D": "Sistem peradilan Islam",
+      "E": "Ketentuan muamalah jual-beli"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Hukum tabzir dalam Islam adalah...",
+    "pilihan": {
+      "A": "Makruh",
+      "B": "Mubah",
+      "C": "Sunnah",
+      "D": "Haram",
+      "E": "Wajib"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Al-Ghazali dalam tasawuf berfokus pada...",
+    "pilihan": {
+      "A": "Penyatuan manusia dengan alam",
+      "B": "Reformasi spiritual berbasis syariat",
+      "C": "Politik ketatanegaraan Islam",
+      "D": "Eksperimen kimia dan fisika",
+      "E": "Pemberontakan terhadap otoritas agama"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Makrifat dalam tasawuf berarti...",
+    "pilihan": {
+      "A": "Hafalan Al-Qur\"an 30 juz",
+      "B": "Pengetahuan mendalam tentang Tuhan",
+      "C": "Penguasaan ilmu fikih tingkat tinggi",
+      "D": "Kemampuan membuat syair religius",
+      "E": "Keterampilan berdebat teologis"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Bakhil menurut istilah syariat berarti...",
+    "pilihan": {
+      "A": "Bersedekah secara berlebihan",
+      "B": "Menahan hak orang lain dalam harta",
+      "C": "Berinfak dengan harta haram",
+      "D": "Menggunakan harta untuk maksiat",
+      "E": "Tidak peduli pada kebutuhan diri"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu dampak negatif perilaku israf adalah...",
+    "pilihan": {
+      "A": "Meningkatnya solidaritas sosial",
+      "B": "Terwujudnya keseimbangan ekologis",
+      "C": "Hilangnya keberkahan harta",
+      "D": "Meningkatkan produktivitas kerja",
+      "E": "Mendorong pertumbuhan ekonomi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan berikut: (1) Mengikuti aturan fikih, (2) Berguru pada mursyid, (3) Mengalami pencerahan spiritual, (4) Memahami hakikat ketuhanan. Urutan tahapan tasawuf yang sesuai adalah...",
+    "pilihan": {
+      "A": "(1)-(2)-(3)-(4)",
+      "B": "(1)-(2)-(4)-(3)",
+      "C": "(2)-(1)-(3)-(4)",
+      "D": "(3)-(1)-(2)-(4)",
+      "E": "(4)-(3)-(2)-(1)"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tokoh sufi yang dianggap sebagai \"Hujjatul Islam\" adalah...",
+    "pilihan": {
+      "A": "Syekh Abdul Qadir Jailani",
+      "B": "Ibnu Arabi",
+      "C": "Imam Al-Ghazali",
+      "D": "Jalaluddin Rumi",
+      "E": "Ibnu Sina"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Berikut yang termasuk contoh israf adalah...",
+    "pilihan": {
+      "A": "Makan secukupnya saat lapar",
+      "B": "Menggunakan air wudhu seperlunya",
+      "C": "Membeli barang mewah secara berlebihan",
+      "D": "Menyisihkan gaji untuk sedekah",
+      "E": "Menggunakan pakaian sederhana"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam QS. Al-Furqan ayat 67, Allah memuji hamba-Nya yang...",
+    "pilihan": {
+      "A": "Bersikap boros dalam berinfak",
+      "B": "Bersikap kikir dalam mengeluarkan harta",
+      "C": "Bersikap pertengahan dalam berbelanja",
+      "D": "Menghabiskan harta untuk kemewahan",
+      "E": "Tidak pernah bersedekah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Konsep zuhud yang benar dalam tasawuf adalah...",
+    "pilihan": {
+      "A": "Meninggalkan dunia sepenuhnya",
+      "B": "Tidak peduli pada urusan akhirat",
+      "C": "Memanfaatkan dunia untuk ibadah",
+      "D": "Mengumpulkan harta sebanyak-banyaknya",
+      "E": "Mengharamkan yang halal"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Perilaku bakhil dapat dihindari dengan...",
+    "pilihan": {
+      "A": "Meningkatkan konsumsi pribadi",
+      "B": "Bekerja tanpa henti",
+      "C": "Menimbun harta di bank",
+      "D": "Menghindari interaksi sosial",
+      "E": "Menyedekahkan sebagian harta"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Makna tarekat secara harfiah adalah...",
+    "pilihan": {
+      "A": "Hukum",
+      "B": "Pengetahuan",
+      "C": "Jalan",
+      "D": "Cahaya",
+      "E": "Tujuan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Al-Hallaj dikenal dengan konsep...",
+    "pilihan": {
+      "A": "Mahabbah",
+      "B": "Fana",
+      "C": "Ana al-Haqq",
+      "D": "Ma\"rifah",
+      "E": "Ittihad"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Hikmah dari menghindari tabzir adalah...",
+    "pilihan": {
+      "A": "Harta menjadi lebih berkah",
+      "B": "Keinginan foya-foya meningkat",
+      "C": "Hilangnya kesempatan berinvestasi",
+      "D": "Terganggunya stabilitas emosi",
+      "E": "Berkurangnya rasa syukur"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tasawuf pada hakikatnya bertujuan untuk...",
+    "pilihan": {
+      "A": "Meningkatkan status sosial",
+      "B": "Menghindari kewajiban syariat",
+      "C": "Memperbanyak pengikut",
+      "D": "Menguasai ilmu sihir",
+      "E": "Mendekatkan diri kepada Allah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan termasuk akhlak tercela dalam penggunaan harta adalah...",
+    "pilihan": {
+      "A": "Bakhil",
+      "B": "Israf",
+      "C": "Tabzir",
+      "D": "Iqtisad",
+      "E": "Ghabin"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Iqtisad berarti...",
+    "pilihan": {
+      "A": "Boros tanpa perhitungan",
+      "B": "Menghambur-hamburkan harta",
+      "C": "Kikir dalam membelanjakan harta",
+      "D": "Berlebihan dalam konsumsi",
+      "E": "Sikap pertengahan dalam berbelanja"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Menurut hadits, tangan di atas lebih baik dari tangan di bawah. Maksudnya adalah...",
+    "pilihan": {
+      "A": "Tangan yang memberi lebih baik dari yang menerima",
+      "B": "Tangan yang kikir lebih baik dari yang dermawan",
+      "C": "Tangan yang bekerja lebih baik dari yang mengemis",
+      "D": "Tangan yang menulis lebih baik dari yang tidak",
+      "E": "Tangan yang kuat lebih baik dari yang lemah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sikap zuhud tidak berarti...",
+    "pilihan": {
+      "A": "Menghargai dunia sebagai sarana ibadah",
+      "B": "Mengutamakan kepentingan akhirat",
+      "C": "Tidak terikat secara berlebihan pada harta",
+      "D": "Bersikap qana\"ah terhadap rezeki",
+      "E": "Meninggalkan tanggung jawab duniawi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dampak positif dari sikap dermawan adalah...",
+    "pilihan": {
+      "A": "Mendapatkan banyak pujian",
+      "B": "Meningkatkan rasa iri sosial",
+      "C": "Mendorong perilaku konsumtif",
+      "D": "Menyebabkan kebangkrutan",
+      "E": "Mempererat hubungan persaudaraan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Rabi\"ah al-Adawiyah menekankan ibadah dengan motivasi...",
+    "pilihan": {
+      "A": "Takut neraka",
+      "B": "Ingin surga",
+      "C": "Paksaan keluarga",
+      "D": "Pamer kesalehan",
+      "E": "Cinta kepada Allah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Berikut ini yang merupakan ciri tasawuf yang benar menurut Islam adalah...",
+    "pilihan": {
+      "A": "Meninggalkan syariat Islam",
+      "B": "Mengabaikan ibadah wajib",
+      "C": "Menghalalkan yang haram",
+      "D": "Mengisolasi diri dari masyarakat",
+      "E": "Tetap melaksanakan perintah agama"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Konsep fana dalam tasawuf berarti...",
+    "pilihan": {
+      "A": "Kekal bersama Allah",
+      "B": "Kematian fisik",
+      "C": "Hilangnya kesadaran diri",
+      "D": "Penyatuan dengan alam",
+      "E": "Hancurnya sifat buruk manusia"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu ajaran pokok tasawuf adalah...",
+    "pilihan": {
+      "A": "Mengumpulkan harta kekayaan",
+      "B": "Mencari popularitas",
+      "C": "Menjadi penguasa",
+      "D": "Menguasai ilmu politik",
+      "E": "Meningkatkan kualitas hati"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perhatikan pernyataan: (1) Mengurangi sampah makanan, (2) Membeli barang sesuai kebutuhan, (3) Memanfaatkan barang bekas. Pernyataan di atas merupakan contoh penerapan...",
+    "pilihan": {
+      "A": "Bakhil",
+      "B": "Israf",
+      "C": "Tabzir",
+      "D": "Iqtisad",
+      "E": "Ghabin"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu cara mendidik diri agar tidak bakhil adalah...",
+    "pilihan": {
+      "A": "Membiasakan hidup mewah",
+      "B": "Menyembunyikan kekayaan",
+      "C": "Menghindari orang miskin",
+      "D": "Berlatih menyedekahkan harta",
+      "E": "Tidak membayar zakat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Paham yang menyatakan Tuhan menyatu dengan alam disebut...",
+    "pilihan": {
+      "A": "Tauhid",
+      "B": "Baqa",
+      "C": "Fana",
+      "D": "Wahdatul wujud",
+      "E": "Hulul"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Berikut yang tidak termasuk tokoh sufi adalah...",
+    "pilihan": {
+      "A": "Hasan al-Basri",
+      "B": "Ibnu Athaillah",
+      "C": "Syekh Siti Jenar",
+      "D": "Imam Malik",
+      "E": "Al-Qusyairi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kitab yang ditulis oleh Imam Al-Ghazali tentang tasawuf adalah...",
+    "pilihan": {
+      "A": "Al-Hikam",
+      "B": "Fushush al-Hikam",
+      "C": "Al-Muqaddimah",
+      "D": "Ihya Ulumuddin",
+      "E": "Kasyf al-Mahjub"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Praktik tabzir bertentangan dengan prinsip Islam dalam hal...",
+    "pilihan": {
+      "A": "Keadilan sosial",
+      "B": "Kesetaraan gender",
+      "C": "Pembagian waris",
+      "D": "Politik kenegaraan",
+      "E": "Peperangan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Makna hakikat menurut Ibnu Arabi adalah...",
+    "pilihan": {
+      "A": "Pengalaman mistis transenden",
+      "B": "Hukum syariat yang ketat",
+      "C": "Ritual penyucian diri",
+      "D": "Realitas sejati di balik fenomena",
+      "E": "Ketaatan formal dalam ibadah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam QS. Al-Isra\" ayat 27, Allah menyamakan pelaku tabzir dengan...",
+    "pilihan": {
+      "A": "Malaikat pencatat amal",
+      "B": "Batu yang keras",
+      "C": "Binatang ternak",
+      "D": "Orang yang hilang akal",
+      "E": "Saudara setan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Karya monumental Imam Al-Ghazali \"Ihya Ulumuddin\" membahas...",
+    "pilihan": {
+      "A": "Fikih perbandingan mazhab",
+      "B": "Ilmu falak dan astronomi",
+      "C": "Sejarah khilafah Islam",
+      "D": "Kebangkitan ilmu-ilmu agama",
+      "E": "Teknologi kedokteran Islam"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sifat qana\"ah merupakan obat untuk menghindari...",
+    "pilihan": {
+      "A": "Perilaku israf",
+      "B": "Kedermawanan",
+      "C": "Kepatuhan beragama",
+      "D": "Semangat belajar",
+      "E": "Kesalehan sosial"
+    },
+    "jawaban": "a"
+  }
+]

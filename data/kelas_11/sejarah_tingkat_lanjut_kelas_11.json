@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Negara-negara yang tergabung dalam Blok Sentral pada Perang Dunia 1 adalah?",
+    "pilihan": {
+      "A": "Italia, Prancis, Rusia",
+      "B": "Jerman, Austria-Hongaria, Italia",
+      "C": "Inggris, Prancis, Rusia",
+      "D": "Jerman, Italia, Jepang",
+      "E": "Jerman, Austria-Hongaria, Bulgaria"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Konferensi yang menjadi dasar ideologi Gerakan Non-Blok adalah?",
+    "pilihan": {
+      "A": "Konferensi Beograd",
+      "B": "Konferensi Asia-Afrika",
+      "C": "Konferensi Yalta",
+      "D": "Konferensi Bandung",
+      "E": "Konferensi Potsdam"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Peristiwa yg menandai dimulainya perlombaan angkasa antara Amerika Serikat dan Uni Soviet adalah?",
+    "pilihan": {
+      "A": "Penerbangan Yuri Gagarin",
+      "B": "Peluncuran Sputnik 1 oleh Uni Soviet",
+      "C": "Peluncuran Vostok 1 oleh Uni Soviet",
+      "D": "Peluncuran Explorer 1 oleh Amerika Serikat",
+      "E": "Pendaratan Apollo 11 di bulan oleh Amerika Serikat"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kapan Perang Dunia 2 dimulai?",
+    "pilihan": {
+      "A": "1939",
+      "B": "1945",
+      "C": "1941",
+      "D": "1938",
+      "E": "1914"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Apa nama blok militer yang dibentuk negara-negara Asia Tenggara untuk melawan komunisme?",
+    "pilihan": {
+      "A": "Pakta Warsawa",
+      "B": "NATO",
+      "C": "ANZUS",
+      "D": "SEATO",
+      "E": "ASEAN"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Siapa presiden Amerika Serikat saat bom atom dijatuhkan di Jepang?",
+    "pilihan": {
+      "A": "John F. Kennedy",
+      "B": "Harry S. Truman",
+      "C": "Dwight D. Eisenhower",
+      "D": "Woodrow Wilson",
+      "E": "Franklin D. Roosevelt"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Apa penyebab pecahnya perang dunia 1?",
+    "pilihan": {
+      "A": "Revolusi Rusia",
+      "B": "Penyerangan Jerman ke Polandia",
+      "C": "Invasi Jepang ke Tiongkok",
+      "D": "Penyerangan Pearl Harbor",
+      "E": "Pembunuhan Franz Ferdinand"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa nama kode invasi Jerman ke Uni Soviet pada tahun 1941?",
+    "pilihan": {
+      "A": "Operasi Neptune",
+      "B": "Operasi Barbarossa",
+      "C": "Operasi Overlord",
+      "D": "Operasi Market Garden",
+      "E": "Operasi Torch"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Organisasi apa yang dibentuk setelah PD 2 untuk menjaga perdamaian dunia?",
+    "pilihan": {
+      "A": "NATO",
+      "B": "Uni Eropa",
+      "C": "Perserikatan Bangsa Bangsa (PBB)",
+      "D": "Liga Bangsa Bangsa (LBB)",
+      "E": "ASEAN"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kapan Bulgaria menandatangani perjanjian Neuilly?",
+    "pilihan": {
+      "A": "1917",
+      "B": "1920",
+      "C": "1918",
+      "D": "1919",
+      "E": "1916"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Apa nama perjanjian yang mengakhiri Perang Dunia 1?",
+    "pilihan": {
+      "A": "Traktat London",
+      "B": "Piagam Atlantik",
+      "C": "Perjanjian Trianon",
+      "D": "Perjanjian Warsawa",
+      "E": "Perjanjian Versailles"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Negara manakah yang memprakarsai berdirinya Liga Bangsa-Bangsa?",
+    "pilihan": {
+      "A": "Prancis",
+      "B": "Italia",
+      "C": "Inggris",
+      "D": "Jerman",
+      "E": "Amerika Serikat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Negara mana yang menjadi lokasi pertempuran Stalingrad?",
+    "pilihan": {
+      "A": "Polandia",
+      "B": "Rusia",
+      "C": "Prancis",
+      "D": "Italia",
+      "E": "Jerman"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Apa tujuan utama D-Day pada 6 Juni 1944?",
+    "pilihan": {
+      "A": "Menyerbu Moskow",
+      "B": "Membebaskan Prancis dari pendudukan Jerman",
+      "C": "Menghentikan Perang Dunia 1",
+      "D": "Melumpuhkan Jerman dari arah timur",
+      "E": "Menyerang Jepang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Negara manakah yang diserang Jerman sebagai awal mula PD 2?",
+    "pilihan": {
+      "A": "Austria",
+      "B": "Inggris",
+      "C": "Prancis",
+      "D": "Polandia",
+      "E": "Amerika"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Siapa pemimpin Perancis saat Perang Dunia II berakhir?",
+    "pilihan": {
+      "A": "Philippe Pétain",
+      "B": "Napoleon Bonaparte",
+      "C": "Charles de Gaulle",
+      "D": "Francois Mitterrand",
+      "E": "Georges Clemenceau"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Apa nama perjanjian yang membagi Jerman menjadi empat zona setelah PD II?",
+    "pilihan": {
+      "A": "Perjanjian Paris",
+      "B": "Perjanjian San Francisco",
+      "C": "Perjanjian Versailles",
+      "D": "Perjanjian Yalta",
+      "E": "Perjanjian Potsdam"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kota mana yang pertama kali dibom atom oleh Amerika Serikat pada tahun 1945?",
+    "pilihan": {
+      "A": "Nagasaki",
+      "B": "Konoha",
+      "C": "Osaka",
+      "D": "Hiroshima",
+      "E": "Tokyo"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Negara mana yang menjadi lokasi Konferensi Yalta?",
+    "pilihan": {
+      "A": "Rusia",
+      "B": "Amerika Serikat",
+      "C": "Prancis",
+      "D": "Inggris",
+      "E": "Jerman"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Negara manakah yang pertama kali menggunakan gas beracun dalam PD 1?",
+    "pilihan": {
+      "A": "Jerman",
+      "B": "Rusia",
+      "C": "Inggris",
+      "D": "Prancis",
+      "E": "Austria"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Negara mana yang keluar dari Perang Dunia I pada tahun 1917 karena revolusi internal?",
+    "pilihan": {
+      "A": "Jerman",
+      "B": "Prancis",
+      "C": "Austria",
+      "D": "Italia",
+      "E": "Rusia"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa nama pesawat yang menjatuhkan bom atom di Hiroshima?",
+    "pilihan": {
+      "A": "Memphis Belle",
+      "B": "Bockscar",
+      "C": "Spirit of St. Louis",
+      "D": "Superfortress",
+      "E": "Enola Gay"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa nama kode invasi Sekutu ke Italia pada 1943?",
+    "pilihan": {
+      "A": "Operasi Overlord",
+      "B": "Operasi Barbarossa",
+      "C": "Operasi Husky",
+      "D": "Operasi Torch",
+      "E": "Operasi Neptune"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Apa nama kelompok aliansi Jerman, Italia, dan Jepang?",
+    "pilihan": {
+      "A": "Triple Entente",
+      "B": "NATO",
+      "C": "Sekutu",
+      "D": "Pakta Warsawa",
+      "E": "Axis"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Organisasi militer yang dibentuk oleh negara-negara Barat selama Perang Dingin adalah?",
+    "pilihan": {
+      "A": "SEATO",
+      "B": "NATO",
+      "C": "Warsawa",
+      "D": "PBB",
+      "E": "LBB"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perjanjian yang menandai berakhirnya Perang Dunia 2 di Eropa adalah?",
+    "pilihan": {
+      "A": "Perjanjian Potsdam",
+      "B": "Perjanjian Francisco",
+      "C": "Perjanjian Versailles",
+      "D": "Perjanjian Paris",
+      "E": "Perjanjian Reims"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Negara yang pertama kali menggunakan senjata nuklir dalam perang adalah?",
+    "pilihan": {
+      "A": "Jepang",
+      "B": "Uni Soviet",
+      "C": "Inggris",
+      "D": "Jerman",
+      "E": "Amerika Serikat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa nama perjanjian yang mengakhiri Perang Dunia II di Asia?",
+    "pilihan": {
+      "A": "Perjanjian Versailles",
+      "B": "Perjanjian San Francisco",
+      "C": "Perjanjian Potsdam",
+      "D": "Perjanjian Trianon",
+      "E": "Perjanjian Neuilly"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Siapa pemimpin militer Jepang yang menandatangani penyerahan tanpa syarat kepada Sekutu pada tahun 1945?",
+    "pilihan": {
+      "A": "Mamoru Shigemitsu",
+      "B": "Hideki Tojo",
+      "C": "Emperor Hirohito",
+      "D": "Isoroku Yamamoto",
+      "E": "Yamashita Tomoyuki"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Apa nama blok militer yang dipimpin Uni Soviet selama Perang Dingin?",
+    "pilihan": {
+      "A": "SEATO",
+      "B": "PBB",
+      "C": "Pakta Warsawa",
+      "D": "LBB",
+      "E": "NATO"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kapan Perang Dingin berakhir?",
+    "pilihan": {
+      "A": "1993",
+      "B": "1991",
+      "C": "1999",
+      "D": "1989",
+      "E": "1985"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Siapa pemimpin Italia yang bersekutu dengan Jerman pada PD II?",
+    "pilihan": {
+      "A": "Giuseppe Garibaldi",
+      "B": "Benito Mussolini",
+      "C": "Adolf Hitler",
+      "D": "Giovanni Gronchi",
+      "E": "Victor Emmanuel III"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Negara mana yang dikenal dengan sebutan 'Uncle Sam'?",
+    "pilihan": {
+      "A": "Amerika Serikat",
+      "B": "Meksiko",
+      "C": "Australia",
+      "D": "Kanada",
+      "E": "Inggris"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dampak politik dari Perang Dunia 2 adalah?",
+    "pilihan": {
+      "A": "Meningkatnya isolasionisme",
+      "B": "Terbentuknya LBB",
+      "C": "Munculnya politik adidaya",
+      "D": "Berkembangnya kolonialisme",
+      "E": "Berkurangnya demokrasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Negara manakah yang menjadi lokasi Konferensi Potsdam setelah Perang Dunia II?",
+    "pilihan": {
+      "A": "Jerman",
+      "B": "Prancis",
+      "C": "Amerika Serikat",
+      "D": "Inggris",
+      "E": "Rusia"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Siapa perdana menteri Inggris yang menyatakan perang terhadap Jerman pada tahun 1939, yang menandai keterlibatan Inggris dalam Perang Dunia II?",
+    "pilihan": {
+      "A": "Margaret Thatcher",
+      "B": "Winston Churchill",
+      "C": "Edward Heath",
+      "D": "Clement Attlee",
+      "E": "Neville Chamberlain"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perang Dingin adalah konflik ideologi antara?",
+    "pilihan": {
+      "A": "Demokrasi dan Monarki",
+      "B": "Komunisme dan Feodalisme",
+      "C": "Kapitalisme dan Sosialisme",
+      "D": "Liberal dan Konservatif",
+      "E": "Nasionalisme dan Internasionalisme"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kebijakan luar negeri Indonesia yang tidak memihak blok barat maupun timur dikenal dengan?",
+    "pilihan": {
+      "A": "Politik Bebas Aktif",
+      "B": "Politik Konfrontasi",
+      "C": "Politik Mercusuar",
+      "D": "Politik Non-Intervensi",
+      "E": "Politik Luar Negeri Terbuka"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Siapa pemimpin Uni Soviet selama Perang Dunia 2?",
+    "pilihan": {
+      "A": "Joseph Stalin",
+      "B": "Mikhail Gorbachev",
+      "C": "Leon Trotsky",
+      "D": "Vladimir Lenin",
+      "E": "Nikita Khrushchev"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Negara manakah yang dikenal dengan sebutan 'Negeri Matahari Terbit'?",
+    "pilihan": {
+      "A": "Korea",
+      "B": "Vietnam",
+      "C": "Jepang",
+      "D": "Thailand",
+      "E": "Tiongkok"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kapan Bulgaria ikut dalam Perang Dunia 1?",
+    "pilihan": {
+      "A": "1916",
+      "B": "1914",
+      "C": "1912",
+      "D": "1915",
+      "E": "1918"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Apa nama operasi invasi besar-besaran Sekutu ke Normandia, Prancis?",
+    "pilihan": {
+      "A": "Operasi Valkyrie",
+      "B": "Operasi Torch",
+      "C": "Operasi Market Garden",
+      "D": "Operasi Overlord",
+      "E": "Operasi Barbarossa"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Apa nama program bantuan ekonomi Amerika Serikat ke Eropa pasca PD II?",
+    "pilihan": {
+      "A": "New Deal",
+      "B": "Point Four Program",
+      "C": "Lend-Lease Act",
+      "D": "Marshall Plan",
+      "E": "Truman Doctrine"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Apa nama peristiwa penyerangan Jepang ke pangkalan laut Amerika di Hawaii?",
+    "pilihan": {
+      "A": "Battle of Iwo Jima",
+      "B": "Battle of Midway",
+      "C": "Battle of Coral Sea",
+      "D": "Pearl Harbor",
+      "E": "Battle of Okinawa"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Siapa pemimpin Jerman yang menandatangani kapitulasi tanpa syarat pada 1945?",
+    "pilihan": {
+      "A": "Joseph Goebbels",
+      "B": "Erwin Rommel",
+      "C": "Adolf Hitler",
+      "D": "Karl Dönitz",
+      "E": "Heinrich Himmler"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Negara yang mengalami kekalahan dan harus menanggung beban reparasi setelah Perang Dunia 1 adalah?",
+    "pilihan": {
+      "A": "Inggris",
+      "B": "Italia",
+      "C": "Austria-Hongaria",
+      "D": "Jerman",
+      "E": "Prancis"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Negara mana yang pertama kali menyerah pada Sekutu di Eropa dalam PD II?",
+    "pilihan": {
+      "A": "Jerman",
+      "B": "Prancis",
+      "C": "Italia",
+      "D": "Austria",
+      "E": "Belanda"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Siapa presiden Amerika Serikat yang memprakarsai Marshall Plan?",
+    "pilihan": {
+      "A": "John F. Kennedy",
+      "B": "Franklin D. Roosevelt",
+      "C": "Harry S. Truman",
+      "D": "Dwight D. Eisenhower",
+      "E": "Lyndon B. Johnson"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Siapa yg menjadi pemimpin Nazi Jerman selama Perang Dunia 2?",
+    "pilihan": {
+      "A": "Adolf Hitler",
+      "B": "Joseph Stalin",
+      "C": "Winston Churchill",
+      "D": "Benito Mussolini",
+      "E": "Franklin D. Roosevelt"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Apa nama perjanjian damai yang mengakhiri Perang Dunia I antara Sekutu dan Jerman?",
+    "pilihan": {
+      "A": "Perjanjian Brest-Litovsk",
+      "B": "Perjanjian San Stefano",
+      "C": "Perjanjian Versailles",
+      "D": "Perjanjian Trianon",
+      "E": "Perjanjian Neuilly"
+    },
+    "jawaban": "c"
+  }
+]
