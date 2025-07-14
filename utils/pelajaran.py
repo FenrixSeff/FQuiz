@@ -7,16 +7,16 @@ c = "\033[96m"
 R = "\033[0m"
 
 def pelajaran():
-    data_fld = Path(__file__).parent.parent / "data"    # <~ Lokasi
-    kelas_fld = list(data_fld.glob("*/"))       # <~ Daftar target
+    data_fld = Path(__file__).parent.parent / "data" # parsing folder
+    kelas_fld = list(data_fld.glob("*/"))
 
     os.system("cls" if os.name == "nt" else "clear")
-    dft_kls = [k.name for k in kelas_fld if k.is_dir()]
+    dft_kls = [k.name for k in kelas_fld if k.is_dir()] # angkut folder
     print(f"\n\n[{c}≡{R}] Daftar Kelas\n ")
     for no, kelas in enumerate(dft_kls, 1):
-        print(f"  [{g}{no}{R}] {kelas}")
+        print(f"  [{g}{no}{R}] {kelas.upper()}")
 
-    while True:
+    while True:     # validasi input user
         pilih_kelas = input(f"\n[{g}↑{R}] Pilih kelas: ").strip()
         if pilih_kelas.isdigit():
             no_kls = int(pilih_kelas)
@@ -24,15 +24,15 @@ def pelajaran():
                 break
         print(f"\n[{y}!{R}] Pilih kelas yang tersedia!")
 
-    mapel_fld = data_fld / dft_kls[no_kls - 1]   # <~ Lokasi
-    mapel_file = list(mapel_fld.glob("*.json"))     # <~ Daftar target
+    mapel_fld = data_fld / dft_kls[no_kls - 1]   # folder target
+    mapel_file = list(mapel_fld.glob("*.json"))     # isi folder target
 
-    # buat daftar untuk dilihat user
+    # daftar untuk di lihat user
     os.system("cls" if os.name == "nt" else "clear")
     dft_mapel = [m.stem for m in mapel_file]
     print(f"\n\n[{c}≡{R}] Daftar Pelajaran\n ")
     for no, mapel in enumerate(dft_mapel, 1):
-        print(f"  [{g}{no}{R}] {mapel}")
+        print(f"  [{g}{no}{R}] {mapel.upper()}")
 
     while True:
         pilih_mapel = input(f"\n[{g}↑{R}] Pilih mapel: ").strip()
@@ -42,7 +42,7 @@ def pelajaran():
                 break
         print(f"\n[{y}!{R}] Pilih mapel yang tersedia!")
 
-    return mapel_file[no_mapel - 1]
+    return mapel_file[no_mapel - 1] # lempar hasil ke script utama
 
 if __name__ == "__main__":
     pelajaran()

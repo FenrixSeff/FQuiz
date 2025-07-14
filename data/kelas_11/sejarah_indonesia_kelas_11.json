@@ -1,6 +1,6 @@
 [
   {
-    "pertanyaan": "Tujuan utama Jepang membentuk Putera (Pusat Tenaga Rakyat) adalah...",
+    "pertanyaan": "Tujuan utama Jepang membentuk Putera (Pusat Tenaga Rakyat) adalah?",
     "pilihan": {
       "A": "Mempersiapkan kemerdekaan Indonesia",
       "B": "Memobilisasi dan menggalang dukungan rakyat Indonesia bagi kepentingan perang Jepang",
@@ -11,7 +11,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Heiho sebagai organisasi militer bentukan Jepang bertujuan...",
+    "pertanyaan": "Heiho sebagai organisasi militer bentukan Jepang bertujuan?",
     "pilihan": {
       "A": "Membentuk angkatan perang Indonesia merdeka",
       "B": "Menjadikan pemuda Indonesia sebagai pembantu prajurit Jepang",
@@ -22,7 +22,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Fujinkai sebagai organisasi perempuan bentukan Jepang bertujuan...",
+    "pertanyaan": "Fujinkai sebagai organisasi perempuan bentukan Jepang bertujuan?",
     "pilihan": {
       "A": "Mempersiapkan kemerdekaan Indonesia",
       "B": "Mengerahkan perempuan untuk mendukung logistik perang",
@@ -33,7 +33,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "BPUPKI (Badan Penyelidik Usaha Persiapan Kemerdekaan Indonesia) dibentuk pada...",
+    "pertanyaan": "BPUPKI (Badan Penyelidik Usaha Persiapan Kemerdekaan Indonesia) dibentuk pada?",
     "pilihan": {
       "A": "29 April 1945",
       "B": "1 Maret 1945",
@@ -44,7 +44,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Ketua BPUPKI adalah...",
+    "pertanyaan": "Ketua BPUPKI adalah?",
     "pilihan": {
       "A": "Ir. Soekarno",
       "B": "Dr. Radjiman Wedyodiningrat",
@@ -55,7 +55,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "PPKI (Panitia Persiapan Kemerdekaan Indonesia) dibentuk pada...",
+    "pertanyaan": "PPKI (Panitia Persiapan Kemerdekaan Indonesia) dibentuk pada?",
     "pilihan": {
       "A": "17 Agustus 1945",
       "B": "1 Juni 1945",
@@ -66,7 +66,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Tujuan Jepang membentuk BPUPKI adalah...",
+    "pertanyaan": "Tujuan Jepang membentuk BPUPKI adalah?",
     "pilihan": {
       "A": "Membentuk pemerintahan militer Jepang",
       "B": "Mempersiapkan kemerdekaan Indonesia di bawah pengaruh Jepang",
@@ -77,7 +77,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Tokoh pemuda yang mendesak percepatan proklamasi kemerdekaan adalah...",
+    "pertanyaan": "Tokoh pemuda yang mendesak percepatan proklamasi kemerdekaan adalah?",
     "pilihan": {
       "A": "Moh. Hatta",
       "B": "Latief Hendraningrat dan S. Suhud",
@@ -88,7 +88,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Peristiwa Rengasdengklok terjadi karena...",
+    "pertanyaan": "Peristiwa Rengasdengklok terjadi karena?",
     "pilihan": {
       "A": "Perselisihan antara Soekarno dan Hatta",
       "B": "Penolakan Jepang terhadap kemerdekaan Indonesia",
@@ -99,7 +99,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Proklamasi Kemerdekaan Indonesia dilaksanakan di...",
+    "pertanyaan": "Dimana lokasi Proklamasi Kemerdekaan Indonesia dilaksanakan?",
     "pilihan": {
       "A": "Gedung Proklamasi, Jalan Imam Bonjol",
       "B": "Istana Kepresidenan, Jakarta",
@@ -110,7 +110,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Soekarno dan Moh. Hatta diangkat sebagai presiden dan wakil presiden pertama pada...",
+    "pertanyaan": "Soekarno dan Moh. Hatta diangkat sebagai presiden dan wakil presiden pertama pada?",
     "pilihan": {
       "A": "29 Agustus 1945 oleh KNIP",
       "B": "17 Agustus 1945 saat proklamasi",
@@ -121,7 +121,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Naskah Proklamasi Kemerdekaan Indonesia dirumuskan oleh...",
+    "pertanyaan": "Naskah Proklamasi Kemerdekaan Indonesia dirumuskan oleh?",
     "pilihan": {
       "A": "Soekarno, Moh. Hatta, dan Achmad Soebardjo",
       "B": "Soekarno, Moh. Yamin, dan Supomo",
@@ -132,7 +132,7 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Peran Fatmawati dalam Proklamasi Kemerdekaan adalah...",
+    "pertanyaan": "Peran Fatmawati dalam Proklamasi Kemerdekaan adalah?",
     "pilihan": {
       "A": "Menyusun konsep UUD 1945",
       "B": "Mengetik naskah Proklamasi",
@@ -143,7 +143,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "UUD 1945 disahkan oleh...",
+    "pertanyaan": "Siapa yang mengesahkan UUD 1945?",
     "pilihan": {
       "A": "PPKI pada 18 Agustus 1945",
       "B": "Panitia sembilan pada 22 juni 1945",
@@ -154,7 +154,7 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Maklumat Pemerintah 14 November 1945 mengubah sistem pemerintahan menjadi...",
+    "pertanyaan": "Maklumat Pemerintah 14 November 1945 mengubah sistem pemerintahan menjadi?",
     "pilihan": {
       "A": "Sistem federal",
       "B": "Sistem presidensial",
@@ -165,7 +165,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Partai Masyumi didirikan secara resmi pada...",
+    "pertanyaan": "Kapan Partai Masyumi didirikan secara resmi?",
     "pilihan": {
       "A": "1 Juni 1945",
       "B": "17 Agustus 1945",
@@ -176,7 +176,7 @@
     "jawaban": "e"
   },
   {
-    "pertanyaan": "BKR (Badan Keamanan Rakyat) merupakan cikal bakal...",
+    "pertanyaan": "BKR merupakan cikal bakal?",
     "pilihan": {
       "A": "Badan Intelijen Negara",
       "B": "Kepolisian Negara Republik Indonesia",
@@ -187,7 +187,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Tokoh yang mengetik naskah Proklamasi adalah...",
+    "pertanyaan": "Tokoh yang mengetik naskah Proklamasi adalah?",
     "pilihan": {
       "A": "Sukarni",
       "B": "B.M. Diah",
@@ -198,7 +198,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Konflik antara golongan tua dan muda menjelang Proklamasi terutama tentang...",
+    "pertanyaan": "Konflik antara golongan tua dan muda menjelang Proklamasi terutama tentang?",
     "pilihan": {
       "A": "Waktu pelaksanaan proklamasi kemerdekaan",
       "B": "Tempat pelaksanaan proklamasi",
@@ -209,7 +209,7 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "PPKI diketuai oleh...",
+    "pertanyaan": "Siapa ketua PPKI?",
     "pilihan": {
       "A": "Sutan Sjahrir",
       "B": "Dr. Radjiman Wedyodiningrat",
@@ -220,7 +220,7 @@
     "jawaban": "e"
   },
   {
-  "pertanyaan": "Inti pokok yang termuat dalam Pembukaan UUD 1945 adalah...",
+  "pertanyaan": "Inti pokok yang termuat dalam Pembukaan UUD 1945 adalah?",
   "pilihan": {
     "A": "Dasar negara Pancasila",
     "B": "Tujuan pembentukan negara Indonesia",
@@ -242,7 +242,7 @@
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Naskah Proklamasi Kemerdekaan ditandatangani oleh...",
+    "pertanyaan": "Naskah Proklamasi Kemerdekaan ditandatangani oleh?",
     "pilihan": {
       "A": "Semua orang yg berada ditempat itu",
       "B": "Achmad Soebardjo",
@@ -253,7 +253,7 @@
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Penyerahan kedaulatan dari Belanda ke Indonesia terjadi pada...",
+    "pertanyaan": "Kapan penyerahan kedaulatan dari Belanda ke Indonesia terjadi?",
     "pilihan": {
       "A": "1 Juni 1950",
       "B": "17 Agustus 1945",
@@ -264,7 +264,7 @@
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Konferensi Meja Bundar (KMB) dilaksanakan di...",
+    "pertanyaan": "Dimana lokasi Konferensi Meja Bundar (KMB) dilaksanakan?",
     "pilihan": {
       "A": "Geneva, Swiss",
       "B": "Jakarta, Indonesia",
@@ -286,7 +286,7 @@
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Latar belakang Maklumat Pemerintah 3 November 1945 adalah...",
+    "pertanyaan": "Latar belakang Maklumat Pemerintah 3 November 1945 adalah?",
     "pilihan": {
       "A": "Menyatukan organisasi perjuangan",
       "B": "Mengubah sistem pemerintahan",
@@ -297,7 +297,7 @@
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Peran Soekarno dalam Proklamasi Kemerdekaan adalah...",
+    "pertanyaan": "Apa Peran Soekarno dalam Proklamasi Kemerdekaan?",
     "pilihan": {
       "A": "Mengamankan lokasi proklamasi",
       "B": "Mengetik naskah Proklamasi",
@@ -308,7 +308,7 @@
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Peran Moh. Hatta dalam Proklamasi Kemerdekaan adalah...",
+    "pertanyaan": "Apa Peran Moh. Hatta dalam Proklamasi Kemerdekaan?",
     "pilihan": {
       "A": "Mengamankan lokasi",
       "B": "Merumuskan konsep naskah proklamasi",
@@ -330,7 +330,7 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Peristiwa penting yang terjadi pada 18 Agustus 1945 adalah...",
+    "pertanyaan": "Peristiwa penting yang terjadi pada 18 Agustus 1945 adalah?",
     "pilihan": {
       "A": "Merumuskan UUD 1945",
       "B": "Pengesahan UUD 1945 dan Pelantikan Soekarno-Hatta sebagai presiden dan wakil presiden",
@@ -341,7 +341,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Pasca-pengakuan kedaulatan, bentuk negara Indonesia menjadi...",
+    "pertanyaan": "Pasca-pengakuan kedaulatan, bentuk negara Indonesia menjadi?",
     "pilihan": {
       "A": "Republik Indonesia Serikat (RIS)",
       "B": "Negara Kesatuan Republik Indonesia",
@@ -352,7 +352,7 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Ketua PPKI adalah...",
+    "pertanyaan": "Ketua PPKI adalah?",
     "pilihan": {
       "A": "Ir. Soekarno",
       "B": "Dr. Radjiman Wedyodiningrat",
@@ -374,7 +374,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Maklumat Pemerintah 14 November 1945 berisi tentang...",
+    "pertanyaan": "Maklumat Pemerintah 14 November 1945 berisi tentang?",
     "pilihan": {
       "A": "Perubahan sistem pemerintahan menjadi parlementer",
       "B": "Pembentukan negara federal",
@@ -385,7 +385,7 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Latar belakang pembentukan BKR adalah...",
+    "pertanyaan": "Latar belakang pembentukan BKR adalah?",
     "pilihan": {
       "A": "Menjaga keamanan tanpa menimbulkan konflik dengan Sekutu",
       "B": "Membentuk angkatan perang yang kuat",
@@ -396,7 +396,7 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Dampak pembentukan partai politik pasca-kemerdekaan adalah...",
+    "pertanyaan": "Dampak pembentukan partai politik pasca-kemerdekaan adalah?",
     "pilihan": {
       "A": "Terfragmentasinya kekuatan politik nasional",
       "B": "Menguatnya sistem presidensial",
@@ -407,7 +407,7 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Peran aktif Ny. Fatmawati dalam perjuangan kemerdekaan terutama sebagai...",
+    "pertanyaan": "Peran aktif Ny. Fatmawati dalam perjuangan kemerdekaan terutama sebagai?",
     "pilihan": {
       "A": "Menteri sosial pertama",
       "B": "Diplomat wanita pertama",
@@ -418,7 +418,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Tanggal 27 Desember 1949 merupakan hari...",
+    "pertanyaan": "Tanggal 27 Desember 1949 merupakan hari?",
     "pilihan": {
       "A": "Pengakuan kedaulatan Indonesia oleh Belanda",
       "B": "Proklamasi kemerdekaan Indonesia",
@@ -429,13 +429,13 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Tokoh utama pendiri Partai Masyumi adalah...",
+    "pertanyaan": "Salah satu Tokoh utama pendiri Partai Masyumi adalah?",
     "pilihan": {
-      "A": "K.H. Mas Mansyur dan Amir Sjarifuddin",
-      "B": "Moh. Natsir dan K.H. Wahid Hasyim",
-      "C": "Sutan Sjahrir dan Amir Sjarifuddin",
+      "A": "K.H. Mas Mansyur",
+      "B": "K.H. Wahid Hasyim",
+      "C": "Sutan Sjahrir",
       "D": "Soekarno dan Moh. Hatta",
-      "E": "Tan Malaka dan Chaerul Saleh"
+      "E": "Tan Malaka"
     },
     "jawaban": "b"
   },
@@ -451,7 +451,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Tokoh yang memimpin sidang pertama PPKI adalah...",
+    "pertanyaan": "Tokoh yang memimpin sidang pertama PPKI adalah?",
     "pilihan": {
       "A": "K.H. Mas Mansyur",
       "B": "Dr. Radjiman Wedyodiningrat",
@@ -462,7 +462,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Makna penting Konferensi Meja Bundar (KMB) bagi Indonesia adalah...",
+    "pertanyaan": "Makna penting Konferensi Meja Bundar (KMB) bagi Indonesia adalah?",
     "pilihan": {
       "A": "Pembentukan angkatan perang nasional",
       "B": "Pembentukan negara federal",
@@ -473,7 +473,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Peran KNIP (Komite Nasional Indonesia Pusat) adalah...",
+    "pertanyaan": "Peran KNIP (Komite Nasional Indonesia Pusat) adalah?",
     "pilihan": {
       "A": "Membentuk kabinet presidensial",
       "B": "Menggantikan fungsi pemerintahan",
@@ -484,7 +484,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Pembentukan Jawa Hokokai pada masa pendudukan Jepang bertujuan untuk...",
+    "pertanyaan": "Pembentukan Jawa Hokokai pada masa pendudukan Jepang bertujuan untuk?",
     "pilihan": {
       "A": "Menyebarkan agama Shinto",
       "B": "Mempersiapkan kemerdekaan Indonesia",
@@ -495,7 +495,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Peristiwa penting yang terjadi segera setelah Proklamasi 17 Agustus 1945 adalah...",
+    "pertanyaan": "Peristiwa penting yang terjadi segera setelah Proklamasi 17 Agustus 1945 adalah?",
     "pilihan": {
       "A": "Pengakuan kedaulatan oleh Belanda",
       "B": "Pelaksanaan Pemilu pertama",
@@ -506,7 +506,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Tokoh yang menjadi simbol perlawanan dalam Pertempuran Surabaya 10 November 1945 adalah...",
+    "pertanyaan": "Tokoh yang menjadi simbol perlawanan dalam Pertempuran Surabaya 10 November 1945 adalah?",
     "pilihan": {
       "A": "Jenderal Sudirman",
       "B": "Bung Tomo melalui pidato radio",
@@ -517,7 +517,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Maklumat Pemerintah 3 November 1945 berisi tentang...",
+    "pertanyaan": "Maklumat Pemerintah 3 November 1945 berisi tentang?",
     "pilihan": {
       "A": "Penunjukkan menteri",
       "B": "Perubahan sistem pemerintahan",
@@ -528,7 +528,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Peran penting Jenderal Sudirman dalam revolusi kemerdekaan adalah...",
+    "pertanyaan": "Peran penting Jenderal Sudirman dalam revolusi kemerdekaan adalah?",
     "pilihan": {
       "A": "Memimpin KNIP",
       "B": "Menjadi perdana menteri pertama",
@@ -539,7 +539,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Pembentukan Republik Indonesia Serikat (RIS) pada 1949 merupakan hasil dari...",
+    "pertanyaan": "Pembentukan Republik Indonesia Serikat (RIS) pada 1949 merupakan hasil dari?",
     "pilihan": {
       "A": "Perjanjian Renville",
       "B": "Perjanjian Linggarjati",

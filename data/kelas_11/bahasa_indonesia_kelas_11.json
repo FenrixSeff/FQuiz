@@ -1,42 +1,42 @@
 [
   {
-    "pertanyaan": "Unsur intrinsik drama yang menggambarkan latar tempat, waktu, dan suasana disebut...",
+    "pertanyaan": "Unsur intrinsik drama yang menggambarkan latar tempat, waktu, dan suasana disebut?",
     "pilihan": {
-      "A": "Tema",
+      "A": "Latar",
       "B": "Tokoh",
-      "C": "Latar",
+      "C": "Tema",
       "D": "Amanat",
       "E": "Alur"
     },
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Tokoh protagonis dalam drama biasanya memiliki sifat...",
+    "pertanyaan": "Tokoh protagonis dalam drama biasanya memiliki sifat?",
     "pilihan": {
-      "A": "Kejam dan pendendam",
+      "A": "Baik dan membela kebenaran",
       "B": "Licik dan pemalas",
-      "C": "Baik dan membela kebenaran",
+      "C": "Kejam dan pendendam",
       "D": "Jahat dan suka mencela",
       "E": "Sombong dan egois"
     },
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Prolog dalam pementasan drama berfungsi untuk...",
+    "pertanyaan": "Prolog dalam pementasan drama berfungsi untuk?",
     "pilihan": {
-      "A": "Menutup pertunjukan drama",
+      "A": "Memberi penjelasan awal cerita",
       "B": "Memperkenalkan pemain",
-      "C": "Memberi penjelasan awal cerita",
+      "C": "Menutup pertunjukan drama",
       "D": "Menambah efek suara",
       "E": "Mengatur pencahayaan"
     },
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Pengulangan kata atau frasa dalam sebuah kalimat disebut majas...",
+    "pertanyaan": "Pengulangan kata atau frasa dalam sebuah kalimat disebut majas?",
     "pilihan": {
-      "A": "Hiperbola",
-      "B": "Repetisi",
+      "A": "Repetisi",
+      "B": "Hiperbola",
       "C": "Personifikasi",
       "D": "Paradoks",
       "E": "Metafora"
@@ -44,40 +44,40 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Majas yang melebih-lebihkan suatu hal secara berlebihan disebut...",
+    "pertanyaan": "Majas yang melebih-lebihkan suatu hal secara berlebihan disebut?",
     "pilihan": {
-      "A": "Litotes",
+      "A": "Hiperbola",
       "B": "Metonimia",
-      "C": "Hiperbola",
+      "C": "Litotes",
       "D": "Eufemisme",
       "E": "Sarkasme"
     },
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Makna denotatif dari kata 'mawar' adalah...",
+    "pertanyaan": "Makna denotatif dari kata 'mawar' adalah?",
     "pilihan": {
-      "A": "Gadis yang cantik",
+      "A": "Bunga dengan duri",
       "B": "Simbol cinta sejati",
-      "C": "Bunga dengan duri",
+      "C": "Gadis yang cantik",
       "D": "Perasaan cinta",
       "E": "Simbol kesedihan"
     },
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Yang termasuk dalam unsur pertunjukan drama adalah...",
+    "pertanyaan": "Yang termasuk dalam unsur pertunjukan drama adalah?",
     "pilihan": {
       "A": "Pameran, pencipta lagu, penyair",
-      "B": "Pemain, sutradara, penonton",
+      "B": "Pelukis, koreografer, pembaca puisi",
       "C": "Narasi, puisi, cerpen",
-      "D": "Pelukis, koreografer, pembaca puisi",
+      "D": "Pemain, sutradara, penonton",
       "E": "Desainer grafis, editor, penulis"
     },
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Ciri bahasa dalam karya tulis ilmiah adalah...",
+    "pertanyaan": "Ciri bahasa dalam karya tulis ilmiah adalah?",
     "pilihan": {
       "A": "Menggunakan ungkapan emosional",
       "B": "Bahasa lisan dan gaul",
@@ -88,7 +88,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Yang termasuk dalam unsur intrinsik drama adalah...",
+    "pertanyaan": "Yang termasuk dalam unsur intrinsik drama adalah?",
     "pilihan": {
       "A": "Biografi pengarang",
       "B": "Gaya bahasa",
@@ -99,7 +99,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Casting dalam produksi drama berfungsi untuk...",
+    "pertanyaan": "Casting dalam produksi drama berfungsi untuk?",
     "pilihan": {
       "A": "Menentukan lokasi pementasan",
       "B": "Menentukan tata cahaya",
@@ -110,7 +110,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Kata 'api asmara membakar hatiku' merupakan contoh majas...",
+    "pertanyaan": "Kata 'api asmara membakar hatiku' merupakan contoh majas?",
     "pilihan": {
       "A": "Metafora",
       "B": "Hiperbola",
@@ -121,73 +121,73 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Dalam struktur KTI, bagian yang berisi latar belakang masalah ada di bagian...",
+    "pertanyaan": "Dalam struktur KTI, bagian yang berisi latar belakang masalah ada di bagian?",
     "pilihan": {
       "A": "Penutup",
-      "B": "Pendahuluan",
+      "B": "Lampiran",
       "C": "Isi",
-      "D": "Lampiran",
+      "D": "Pendahuluan",
       "E": "Abstrak"
     },
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Tujuan penulisan karya tulis ilmiah adalah untuk...",
+    "pertanyaan": "Tujuan penulisan karya tulis ilmiah adalah untuk?",
     "pilihan": {
       "A": "Menyampaikan opini pribadi secara bebas",
       "B": "Mempromosikan karya seni",
-      "C": "Menyampaikan hasil penelitian secara sistematis",
+      "C": "Menghibur pembaca",
       "D": "Menunjukkan kehebatan penulis",
-      "E": "Menghibur pembaca"
+      "E": "Menyampaikan hasil penelitian secara sistematis"
     },
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Kalimat 'badai itu mengamuk sepanjang malam' adalah contoh majas...",
+    "pertanyaan": "Kalimat 'badai itu mengamuk sepanjang malam' adalah contoh majas?",
     "pilihan": {
       "A": "Eufemisme",
-      "B": "Personifikasi",
+      "B": "Litotes",
       "C": "Hiperbola",
       "D": "Repetisi",
-      "E": "Litotes"
-    },
-    "jawaban": "e"
-  },
-  {
-    "pertanyaan": "Makna konotatif dari kata 'ular' dalam kalimat 'dia seperti ular berbisa' adalah...",
-    "pilihan": {
-      "A": "Binatang melata",
-      "B": "Reptil",
-      "C": "Orang yang berbahaya dan licik",
-      "D": "Orang yang ramah",
-      "E": "Pengusaha sukses"
-    },
-    "jawaban": "e"
-  },
-  {
-    "pertanyaan": "Bagian dari struktur teks drama yang menunjukkan puncak konflik disebut...",
-    "pilihan": {
-      "A": "Eksposisi",
-      "B": "Komplikasi",
-      "C": "Klimaks",
-      "D": "Resolusi",
-      "E": "Epilog"
-    },
-    "jawaban": "e"
-  },
-  {
-    "pertanyaan": "Majas yang menyandingkan dua hal yang bertentangan disebut...",
-    "pilihan": {
-      "A": "Hiperbola",
-      "B": "Sarkasme",
-      "C": "Paradoks",
-      "D": "Metonimia",
       "E": "Personifikasi"
     },
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Pernyataan yang bersifat umum, objektif, dan berdasarkan fakta termasuk dalam jenis teks...",
+    "pertanyaan": "Makna konotatif dari kata 'ular' dalam kalimat 'dia seperti ular berbisa' adalah?",
+    "pilihan": {
+      "A": "Binatang melata",
+      "B": "Reptil",
+      "C": "Pengusaha sukses",
+      "D": "Orang yang ramah",
+      "E": "Orang yang berbahaya dan licik"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Bagian dari struktur teks drama yang menunjukkan puncak konflik disebut?",
+    "pilihan": {
+      "A": "Eksposisi",
+      "B": "Komplikasi",
+      "C": "Epilog",
+      "D": "Resolusi",
+      "E": "Klimaks"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Majas yang menyandingkan dua hal yang bertentangan disebut?",
+    "pilihan": {
+      "A": "Hiperbola",
+      "B": "Sarkasme",
+      "C": "Personifikasi",
+      "D": "Metonimia",
+      "E": "Paradoks"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pernyataan yang bersifat umum, objektif, dan berdasarkan fakta termasuk dalam jenis teks?",
     "pilihan": {
       "A": "Eksposisi",
       "B": "Anekdot",
@@ -198,18 +198,18 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Ciri utama bahasa ilmiah adalah...",
+    "pertanyaan": "Ciri utama bahasa ilmiah adalah?",
     "pilihan": {
       "A": "Subjektif dan tidak baku",
       "B": "Puitis dan bebas",
-      "C": "Objektif dan sistematis",
+      "C": "Sangat singkat dan padat",
       "D": "Menghibur dan komunikatif",
-      "E": "Sangat singkat dan padat"
+      "E": "Objektif dan sistematis"
     },
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Kalimat 'Dia bukan orang jahat, hanya sedikit senang menyakiti orang lain' adalah contoh majas...",
+    "pertanyaan": "Kalimat 'Dia bukan orang jahat, hanya sedikit senang menyakiti orang lain' adalah contoh majas?",
     "pilihan": {
       "A": "Litotes",
       "B": "Ironi",
@@ -220,51 +220,51 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Majas pars pro toto berarti...",
+    "pertanyaan": "Majas pars pro toto berarti?",
     "pilihan": {
       "A": "Menyebut benda dengan cirinya",
       "B": "Menyebut keseluruhan untuk mewakili sebagian",
-      "C": "Menyebut sebagian untuk mewakili keseluruhan",
+      "C": "Menyamakan benda dengan manusia",
       "D": "Mengganti kata benda dengan simbol",
-      "E": "Menyamakan benda dengan manusia"
+      "E": "Menyebut sebagian untuk mewakili keseluruhan"
     },
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Tokoh figuran dalam drama berfungsi untuk...",
+    "pertanyaan": "Tokoh figuran dalam drama berfungsi untuk?",
     "pilihan": {
       "A": "Membuat konflik utama",
       "B": "Memunculkan alur utama",
-      "C": "Mendukung tokoh utama",
+      "C": "Menentukan tema",
       "D": "Mengatur naskah",
-      "E": "Menentukan tema"
+      "E": "Mendukung tokoh utama"
     },
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Yang termasuk dalam ciri teks karya ilmiah adalah...",
+    "pertanyaan": "Yang termasuk dalam ciri teks karya ilmiah adalah?",
     "pilihan": {
       "A": "Bahasa konotatif",
       "B": "Emotif dan subyektif",
-      "C": "Logis, sistematis, dan dapat diuji",
+      "C": "Mengandung sindiran",
       "D": "Banyak majas dan puisi",
-      "E": "Mengandung sindiran"
+      "E": "Logis, sistematis, dan dapat diuji"
     },
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Makna kata 'merah' dalam kalimat 'Ia naik darah hingga wajahnya merah padam' adalah makna...",
+    "pertanyaan": "Makna kata 'merah' dalam kalimat 'Ia naik darah hingga wajahnya merah padam' adalah makna?",
     "pilihan": {
       "A": "Denotatif",
       "B": "Simbolik",
-      "C": "Konotatif",
+      "C": "Leksikal",
       "D": "Sinonim",
-      "E": "Leksikal"
+      "E": "Konotatif"
     },
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Tokoh antagonis dalam sebuah drama berperan sebagai...",
+    "pertanyaan": "Tokoh antagonis dalam sebuah drama berperan sebagai?",
     "pilihan": {
       "A": "Pembantu pemeran utama",
       "B": "Sumber kebahagiaan tokoh utama",
@@ -275,7 +275,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Unsur yang mengatur jalannya cerita dari awal hingga akhir disebut...",
+    "pertanyaan": "Unsur yang mengatur jalannya cerita dari awal hingga akhir disebut?",
     "pilihan": {
       "A": "Latar",
       "B": "Alur",
@@ -286,18 +286,18 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Kalimat 'Hatinya sekeras batu' merupakan contoh majas...",
+    "pertanyaan": "Kalimat 'Hatinya sekeras batu' merupakan contoh majas?",
     "pilihan": {
-      "A": "Simile",
+      "A": "Metafora",
       "B": "Personifikasi",
-      "C": "Metafora",
+      "C": "Simile",
       "D": "Hiperbola",
       "E": "Sarkasme"
     },
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Berikut ini adalah peran sutradara dalam pementasan drama, kecuali...",
+    "pertanyaan": "Berikut ini adalah peran sutradara dalam pementasan drama, kecuali?",
     "pilihan": {
       "A": "Menentukan pemain",
       "B": "Mengarahkan jalannya latihan",
@@ -308,7 +308,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Teks karya ilmiah yang disajikan dalam bentuk padat disebut...",
+    "pertanyaan": "Teks karya ilmiah yang disajikan dalam bentuk padat disebut?",
     "pilihan": {
       "A": "Daftar pustaka",
       "B": "Abstrak",
@@ -319,7 +319,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Tujuan utama penggunaan bahasa baku dalam KTI adalah...",
+    "pertanyaan": "Tujuan utama penggunaan bahasa baku dalam KTI adalah?",
     "pilihan": {
       "A": "Agar tulisan lebih santai",
       "B": "Agar pembaca terhibur",
@@ -330,7 +330,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Tokoh dalam drama yang mengalami perubahan sifat disebut...",
+    "pertanyaan": "Tokoh dalam drama yang mengalami perubahan sifat disebut?",
     "pilihan": {
       "A": "Tokoh statis",
       "B": "Tokoh pembantu",
@@ -341,7 +341,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Majas yang menggunakan nama benda atau istilah yang berkaitan erat disebut...",
+    "pertanyaan": "Majas yang menggunakan nama benda atau istilah yang berkaitan erat disebut?",
     "pilihan": {
       "A": "Personifikasi",
       "B": "Metonimia",
@@ -352,7 +352,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Kalimat 'Tangan Tuhan bekerja dalam keheningan' merupakan contoh majas...",
+    "pertanyaan": "Kalimat 'Tangan Tuhan bekerja dalam keheningan' merupakan contoh majas?",
     "pilihan": {
       "A": "Personifikasi",
       "B": "Sarkasme",
@@ -363,7 +363,7 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Yang bukan merupakan ciri-ciri karya tulis ilmiah adalah...",
+    "pertanyaan": "Yang bukan merupakan ciri-ciri karya tulis ilmiah adalah?",
     "pilihan": {
       "A": "Bahasa baku",
       "B": "Tersusun sistematis",
@@ -374,7 +374,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Majas yang menyatakan sesuatu secara halus agar tidak menyinggung disebut...",
+    "pertanyaan": "Majas yang menyatakan sesuatu secara halus agar tidak menyinggung disebut?",
     "pilihan": {
       "A": "Sarkasme",
       "B": "Litotes",
@@ -385,7 +385,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Bagian penutup dalam struktur karya tulis ilmiah biasanya berisi...",
+    "pertanyaan": "Bagian penutup dalam struktur karya tulis ilmiah biasanya berisi?",
     "pilihan": {
       "A": "Judul dan topik",
       "B": "Latar belakang",
@@ -396,7 +396,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Drama yang mengandung unsur humor disebut...",
+    "pertanyaan": "Drama yang mengandung unsur humor disebut?",
     "pilihan": {
       "A": "Tragedi",
       "B": "Satire",
@@ -407,7 +407,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Makna konotatif dari kata 'tajam' dalam kalimat 'perkataannya sangat tajam' adalah...",
+    "pertanyaan": "Makna konotatif dari kata 'tajam' dalam kalimat 'perkataannya sangat tajam' adalah?",
     "pilihan": {
       "A": "Menusuk fisik",
       "B": "Kata-katanya pedas dan menyakitkan",
@@ -418,7 +418,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Yang dimaksud dengan tokoh sentral dalam drama adalah...",
+    "pertanyaan": "Yang dimaksud dengan tokoh sentral dalam drama adalah?",
     "pilihan": {
       "A": "Tokoh paling lucu",
       "B": "Tokoh yang paling banyak bicara",
@@ -429,7 +429,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Berikut ini adalah fungsi amanat dalam drama...",
+    "pertanyaan": "Berikut ini adalah fungsi amanat dalam drama?",
     "pilihan": {
       "A": "Sebagai alur cerita",
       "B": "Sebagai tempat kejadian",
@@ -440,7 +440,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Makna denotatif dari kata 'api' adalah...",
+    "pertanyaan": "Makna denotatif dari kata 'api' adalah?",
     "pilihan": {
       "A": "Semangat yang menyala-nyala",
       "B": "Pertengkaran besar",
@@ -451,7 +451,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Berikut ini yang termasuk majas sindiran adalah...",
+    "pertanyaan": "Berikut ini yang termasuk majas sindiran adalah?",
     "pilihan": {
       "A": "Hiperbola",
       "B": "Sarkasme",
@@ -462,7 +462,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Panggung pertunjukan drama biasanya didukung oleh tata artistik yang meliputi...",
+    "pertanyaan": "Panggung pertunjukan drama biasanya didukung oleh tata artistik yang meliputi?",
     "pilihan": {
       "A": "Kamera dan editing",
       "B": "Cahaya, properti, dan tata suara",
@@ -473,7 +473,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Berikut ini yang merupakan bagian dari struktur karya tulis ilmiah adalah...",
+    "pertanyaan": "Berikut ini yang merupakan bagian dari struktur karya tulis ilmiah adalah?",
     "pilihan": {
       "A": "Cerita dan latar",
       "B": "Rumusan masalah dan landasan teori",
@@ -484,7 +484,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Tokoh yang tidak mengalami perubahan sikap dari awal sampai akhir disebut...",
+    "pertanyaan": "Tokoh yang tidak mengalami perubahan sikap dari awal sampai akhir disebut?",
     "pilihan": {
       "A": "Tokoh bulat",
       "B": "Tokoh figuran",
@@ -495,7 +495,7 @@
     "jawaban": "d"
   },
   {
-    "pertanyaan": "Penggunaan kalimat aktif dan pasif dalam karya ilmiah bertujuan untuk...",
+    "pertanyaan": "Penggunaan kalimat aktif dan pasif dalam karya ilmiah bertujuan untuk?",
     "pilihan": {
       "A": "Membingungkan pembaca",
       "B": "Memperindah bahasa",
@@ -506,7 +506,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Konflik dalam drama sering muncul karena perbedaan antara...",
+    "pertanyaan": "Konflik dalam drama sering muncul karena perbedaan antara?",
     "pilihan": {
       "A": "Waktu dan tempat",
       "B": "Tokoh dan tema",
@@ -517,7 +517,7 @@
     "jawaban": "c"
   },
   {
-    "pertanyaan": "Kata 'bintang' dalam kalimat 'Ia adalah bintang panggung malam ini' bermakna...",
+    "pertanyaan": "Kata 'bintang' dalam kalimat 'Ia adalah bintang panggung malam ini' bermakna?",
     "pilihan": {
       "A": "Makna kiasan: sangat bersinar dalam pertunjukan",
       "B": "Makna denotasi: benda langit",
@@ -528,7 +528,7 @@
     "jawaban": "a"
   },
   {
-    "pertanyaan": "Teks yang menggambarkan objek secara rinci menggunakan pancaindra disebut teks...",
+    "pertanyaan": "Teks yang menggambarkan objek secara rinci menggunakan pancaindra disebut teks?",
     "pilihan": {
       "A": "Narasi",
       "B": "Deskripsi",
@@ -539,7 +539,7 @@
     "jawaban": "b"
   },
   {
-    "pertanyaan": "Majas yang menyatakan makna berlawanan dari yang sebenarnya disebut...",
+    "pertanyaan": "Majas yang menyatakan makna berlawanan dari yang sebenarnya disebut?",
     "pilihan": {
       "A": "Metafora",
       "B": "Ironi",

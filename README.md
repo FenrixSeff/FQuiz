@@ -1,6 +1,6 @@
 # FQuiz
 
-Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interaktif. Pengguna dapat memilih kelas dan mata pelajaran. 'Beberapa soal mungkin ada yang muncul di test semester'
+Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interaktif. Pengguna dapat memilih kelas dan mata pelajaran.
 
 ## Fitur
 - **Pemilihan Kelas & Mapel**: Baru tersedia untuk kelas 11 dan beberapa pelajaran saja
@@ -8,6 +8,7 @@ Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interakti
   - Hitung nilai akhir (persentase)
   - Durasi pengerjaan
 - **Pencatatan Riwayat**: Simpan hasil ke `riwayat.txt`
+- **Berisi beberapa bocoran soal untuk test semester**
 
 ## Dependensi
 - Python 3.x+
@@ -15,7 +16,7 @@ Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interakti
 ## Instalasi
 ```bash
 pkg install git
-git clone https://github.com/FenrixSeff/DoTask.git
+git clone https://github.com/FenrixSeff/FQuiz.git
 ```
 
 ## Struktur File Proyek
@@ -46,3 +47,16 @@ FQuiz
 python fquiz.py
 ```
 
+## Catatan
+
+Script masih dalam tahap awal - beberapa fitur mungkin berubah
+
+## Pengembang
+
+Fenrix
+
+## Penulis
+
+Fenrix
+
+**License**: Open-source
