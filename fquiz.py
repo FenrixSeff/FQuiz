@@ -72,7 +72,7 @@ if koreksi:
     cek = input(f"[{c}?{R}] Koreksi jawaban? (y/n): ").strip().lower()
     if cek == "y":
         print(f"\n\n[{c}≡{R}] Hasil koreksi "
-              f"{c}{target.stem.upper()}{R}\n")
+              f"{c}{target.stem.title()}{R}\n")
         for i in koreksi:
             print(f"[{i['no']}] {i['soal']}\n")
             time.sleep(random.uniform(0.01, 0.100))
@@ -84,15 +84,17 @@ if koreksi:
                   f"{i['kunci_user'].upper()}. {i['isi_user']}     "
                   f"{r}<~{R} Jawabanmu\n")
 
-        print(f"\n[{c}≡{R}] Corrected By Fenrix     ~>  "
-              f"Instagram: {g}@f.hi_7{R}")
+        print(f"\n[{c}≡{R}] Corrected By Fenrix")
     else:
         print(f"[{g}✔{R}] Makasih dah coba project gabut ini brooo")
 else:
     print(f"[{g}✔{R}] Mantap lu bro")
 
 tgl = time.strftime("%d/%m/%y")
-with open("riwayat.txt", "w") as f:
-    f.write(f"[{mulai}/{tgl}] {target.stem.upper()} "
-            f"Total benar: [{benar}], Total salah: [{salah}], "
-            f"Total nilai: [{100 / len(isi) * benar}]")
+with open("riwayat.txt", "a") as f:
+    f.write(f"[{mulai}/{tgl}] {target.stem.title()} "
+            f"Total benar: {benar}, Total salah: {salah}, "
+            f"Total nilai: {100 / len(isi) * benar}\n")
+
+print(f"[{c}={R}] Instagram: {g}@f.hi_7{R}")
+print(f"[{c}-{R}] FQuiz v1.23.34")

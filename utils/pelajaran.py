@@ -14,7 +14,7 @@ def pelajaran():
     dft_kls = [k.name for k in kelas_fld if k.is_dir()] # angkut folder
     print(f"\n\n[{c}≡{R}] Daftar Kelas\n ")
     for no, kelas in enumerate(dft_kls, 1):
-        print(f"  [{g}{no}{R}] {kelas.upper()}")
+        print(f"  [{g}{no}{R}] {kelas.title()}")
 
     while True:     # validasi input user
         pilih_kelas = input(f"\n[{g}↑{R}] Pilih kelas: ").strip()
@@ -30,9 +30,9 @@ def pelajaran():
     # daftar untuk di lihat user
     os.system("cls" if os.name == "nt" else "clear")
     dft_mapel = [m.stem for m in mapel_file]
-    print(f"\n\n[{c}≡{R}] Daftar Pelajaran\n ")
+    print(f"\n\n[{c}≡{R}] Daftar Pelajaran {c}{mapel_fld.name}{R}\n ")
     for no, mapel in enumerate(dft_mapel, 1):
-        print(f"  [{g}{no}{R}] {mapel.upper()}")
+        print(f"  [{g}{no}{R}] {mapel.title()}")
 
     while True:
         pilih_mapel = input(f"\n[{g}↑{R}] Pilih mapel: ").strip()
