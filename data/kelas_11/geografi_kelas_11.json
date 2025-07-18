@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Inti konsep pembangunan berkelanjutan adalah?",
+    "pilihan": {
+      "A": "Memaksimalkan keuntungan ekonomi jangka pendek",
+      "B": "Memenuhi kebutuhan sekarang tanpa mengorbankan generasi masa depan",
+      "C": "Menggunakan sumber daya alam sebanyak-banyaknya",
+      "D": "Membangun infrastruktur tanpa memperhatikan lingkungan",
+      "E": "Memprioritaskan pertumbuhan industri di atas segalanya"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Rotasi tanaman dalam pertanian berkelanjutan bertujuan untuk?",
+    "pilihan": {
+      "A": "Meningkatkan ketergantungan pada pupuk kimia",
+      "B": "Mengurangi kesuburan tanah secara terus-menerus",
+      "C": "Memutus siklus hama dan penyakit tanaman",
+      "D": "Menanam satu jenis tanaman secara terus-menerus",
+      "E": "Mempercepat erosi tanah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Teori Malthus menyatakan bahwa?",
+    "pilihan": {
+      "A": "Pertumbuhan penduduk mengikuti deret ukur sementara produksi pangan deret hitung",
+      "B": "Teknologi akan selalu mengimbangi pertumbuhan penduduk",
+      "C": "Penduduk tumbuh deret hitung sementara pangan deret ukur",
+      "D": "Migrasi merupakan solusi utama masalah kependudukan",
+      "E": "Pembangunan berkelanjutan akan menyelesaikan masalah kelaparan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sensus penduduk de facto menghitung penduduk berdasarkan?",
+    "pilihan": {
+      "A": "Tempat tinggal resmi sesuai KTP",
+      "B": "Tempat seseorang berada saat sensus",
+      "C": "Survei sampel di beberapa wilayah",
+      "D": "Data administrasi kependudukan",
+      "E": "Perkiraan statistik tanpa penghitungan langsung"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Piramida penduduk ekspansif menunjukkan ciri?",
+    "pilihan": {
+      "A": "Dasar piramida sempit menunjukkan kelahiran rendah",
+      "B": "Bagian tengah piramida lebih lebar dari dasar",
+      "C": "Dasar piramida lebar menunjukkan kelahiran tinggi",
+      "D": "Puncak piramida lebar menunjukkan penduduk tua dominan",
+      "E": "Hampir sama lebar dari dasar hingga puncak"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sex ratio 95 berarti?",
+    "pilihan": {
+      "A": "Terdapat 95 perempuan per 100 laki-laki",
+      "B": "Terdapat 95 laki-laki per 100 perempuan",
+      "C": "Perbandingan penduduk usia produktif dan tidak produktif",
+      "D": "Angka ketergantungan penduduk",
+      "E": "Rasio urbanisasi di suatu wilayah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pertumbuhan penduduk alami dihitung dengan rumus?",
+    "pilihan": {
+      "A": "(Imigrasi - Emigrasi) + (Kelahiran - Kematian)",
+      "B": "Kelahiran - Kematian",
+      "C": "(Kelahiran + Imigrasi) - (Kematian + Emigrasi)",
+      "D": "Jumlah penduduk akhir tahun - penduduk awal tahun",
+      "E": "Angka kelahiran kasar dikurangi angka kematian kasar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tsunami terutama disebabkan oleh?",
+    "pilihan": {
+      "A": "Aktivitas vulkanik bawah laut",
+      "B": "Perubahan tekanan atmosfer ekstrem",
+      "C": "Gangguan magnetik bumi",
+      "D": "Hantaman meteor di laut",
+      "E": "Gempa bumi tektonik di dasar laut"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Keunggulan utama penggunaan pupuk organik dalam jangka panjang bagi kesehatan tanah adalah?",
+    "pilihan": {
+      "A": "Menyediakan unsur hara makro secara cepat dan terukur",
+      "B": "Steril dari mikroorganisme pengurai",
+      "C": "Memperbaiki struktur fisik dan meningkatkan aktivitas biologi tanah",
+      "D": "Tidak larut dalam air sehingga tidak dapat diserap tanaman",
+      "E": "Meningkatkan keasaman tanah secara drastis"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kritik utama terhadap teori Neo-Malthusian adalah?",
+    "pilihan": {
+      "A": "Menganggap sumber daya alam tak terbatas",
+      "B": "Terlalu optimis dengan pertumbuhan ekonomi",
+      "C": "Tidak memperhitungkan ledakan penduduk",
+      "D": "Mengabaikan peran inovasi teknologi",
+      "E": "Menyatakan bumi mampu menampung populasi tak terbatas"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sistem registrasi penduduk di Indonesia mencakup pencatatan?",
+    "pilihan": {
+      "A": "Peristiwa kelahiran dan kematian saja",
+      "B": "Perpindahan penduduk antarnegara",
+      "C": "Peristiwa vital (kelahiran, kematian, perkawinan)",
+      "D": "Data ekonomi rumah tangga",
+      "E": "Sensus penduduk sepuluh tahunan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Piramida penduduk stasioner menunjukkan?",
+    "pilihan": {
+      "A": "Tingkat kelahiran dan kematian seimbang",
+      "B": "Kelahiran sangat tinggi dan kematian rendah",
+      "C": "Kematian bayi sangat tinggi",
+      "D": "Migrasi keluar sangat besar",
+      "E": "Ledakan penduduk remaja"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Menurut standar demografi yang umum digunakan, rentang usia produktif adalah?",
+    "pilihan": {
+      "A": "0-14 tahun",
+      "B": "18-58 tahun",
+      "C": "65 tahun ke atas",
+      "D": "15-64 tahun",
+      "E": "21-60 tahun"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Faktor utama penyebab tanah longsor adalah?",
+    "pilihan": {
+      "A": "Perubahan suhu udara ekstrem",
+      "B": "Intensitas curah hujan tinggi pada lereng curam",
+      "C": "Aktivitas seismik bawah laut",
+      "D": "Peningkatan kelembaban udara",
+      "E": "Deforestasi di daerah dataran rendah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pertumbuhan penduduk total memperhitungkan faktor?",
+    "pilihan": {
+      "A": "Kelahiran dan kematian saja",
+      "B": "Migrasi masuk dan keluar",
+      "C": "Urbanisasi dan transmigrasi",
+      "D": "Kelahiran, kematian, dan migrasi neto",
+      "E": "Angka harapan hidup dan fertilitas"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Erupsi vulkanik yang bersifat eksplosif umumnya disebabkan oleh?",
+    "pilihan": {
+      "A": "Magma bersifat basaltik dan encer",
+      "B": "Kandungan silika rendah dalam magma",
+      "C": "Magma kaya silika dan sangat kental",
+      "D": "Tekanan gas vulkanik yang rendah",
+      "E": "Struktur gunung berapi perisai"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pupuk hijau dalam pertanian berkelanjutan berasal dari?",
+    "pilihan": {
+      "A": "Bahan kimia sintetis",
+      "B": "Abu hasil pembakaran",
+      "C": "Kotoran hewan ternak",
+      "D": "Sampah plastik daur ulang",
+      "E": "Tanaman legum yang dibenamkan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perbedaan utama teori Malthus dan Neo-Malthus adalah?",
+    "pilihan": {
+      "A": "Malthus memprediksi populasi akan menurun secara alami",
+      "B": "Malthus percaya pada kemampuan teknologi mengatasi masalah penduduk",
+      "C": "Neo-Malthus mengabaikan dampak lingkungan",
+      "D": "Neo-Malthus menekankan pada kelangkaan sumber daya selain pangan",
+      "E": "Neo-Malthus menolak konsep ledakan penduduk"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kelemahan metode survei penduduk adalah?",
+    "pilihan": {
+      "A": "Cakupan wilayah terbatas (sampel)",
+      "B": "Menghitung semua penduduk tanpa kecuali",
+      "C": "Dilakukan setiap sepuluh tahun",
+      "D": "Memerlukan biaya sangat besar",
+      "E": "Data tidak dapat diolah secara statistik"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Piramida penduduk konstruktif menunjukkan?",
+    "pilihan": {
+      "A": "Proporsi penduduk muda sangat besar",
+      "B": "Penduduk tua dominan",
+      "C": "Kematian bayi sangat tinggi",
+      "D": "Migrasi masuk signifikan",
+      "E": "Tingkat kelahiran sangat rendah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Angka ketergantungan (dependency ratio) dihitung berdasarkan?",
+    "pilihan": {
+      "A": "Perbandingan penduduk usia produktif dan tidak produktif",
+      "B": "Sex ratio suatu wilayah",
+      "C": "Tingkat urbanisasi penduduk",
+      "D": "Kepadatan penduduk per km²",
+      "E": "Laju pertumbuhan penduduk alami"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Penyebab utama dari sebagian besar gempa bumi yang terjadi di dunia adalah?",
+    "pilihan": {
+      "A": "Aktivitas magma di bawah gunung berapi",
+      "B": "Runtuhan atap gua bawah tanah",
+      "C": "Aktivitas manusia seperti ledakan tambang",
+      "D": "Patahan lokal akibat tekanan hidrostatis waduk",
+      "E": "Pergeseran lempeng tektonik di kerak bumi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Migrasi neto dalam pertumbuhan penduduk adalah?",
+    "pilihan": {
+      "A": "Perpindahan penduduk antarprovinsi",
+      "B": "Total kelahiran dikurangi kematian",
+      "C": "Angka urbanisasi murni",
+      "D": "Jumlah imigran dikurangi emigran",
+      "E": "Jumlah migran masuk dan keluar"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Bencana akibat human error di bidang geografi contohnya adalah?",
+    "pilihan": {
+      "A": "Gempa bumi tektonik",
+      "B": "Tsunami akibat gempa bawah laut",
+      "C": "Banjir bandang akibat hujan deras",
+      "D": "Erupsi vulkanik alami",
+      "E": "Tanah longsor akibat penggundulan hutan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Indikator kesuburan tanah adalah?",
+    "pilihan": {
+      "A": "Kandungan pasir yang tinggi",
+      "B": "Kemampuan menyediakan unsur hara",
+      "C": "Warna tanah yang gelap",
+      "D": "Tekstur tanah sangat kasar",
+      "E": "pH tanah sangat asam atau basa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Solusi Neo-Malthusian untuk masalah penduduk adalah?",
+    "pilihan": {
+      "A": "Revolusi hijau intensif",
+      "B": "Pembangunan industri besar-besaran",
+      "C": "Pengendalian kelahiran secara ketat",
+      "D": "Ekspansi wilayah permukiman",
+      "E": "Eksploitasi sumber daya maksimal"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sensus de jure lebih mengutamakan pencatatan berdasarkan?",
+    "pilihan": {
+      "A": "Tempat seseorang berada saat sensus",
+      "B": "Tempat tinggal resmi sesuai administrasi",
+      "C": "Survei acak di lapangan",
+      "D": "Perkiraan statistik demografi",
+      "E": "Data sekunder dari catatan sipil"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Negara dengan piramida penduduk ekspansif umumnya memiliki?",
+    "pilihan": {
+      "A": "Angka kelahiran rendah",
+      "B": "Angka harapan hidup tinggi",
+      "C": "Tingkat fertilitas tinggi",
+      "D": "Penduduk tua dominan",
+      "E": "Migrasi keluar besar-besaran"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Usia nonproduktif dalam demografi adalah?",
+    "pilihan": {
+      "A": "10-60 tahun",
+      "B": "15-64 tahun",
+      "C": "20-55 tahun",
+      "D": "0-14 tahun dan 65 tahun ke atas",
+      "E": "Semua usia yang bekerja"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Mitigasi bencana gempa bumi mencakup?",
+    "pilihan": {
+      "A": "Mengabaikan sistem peringatan dini",
+      "B": "Penebangan hutan di lereng bukit",
+      "C": "Pembangunan permukiman di zona gempa",
+      "D": "Membangun rumah tahan gempa",
+      "E": "Pembuatan tanggul di pantai"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pertumbuhan penduduk negatif terjadi ketika?",
+    "pilihan": {
+      "A": "Kelahiran lebih tinggi dari kematian",
+      "B": "Imigrasi lebih besar dari emigrasi",
+      "C": "Jumlah penduduk bertambah cepat",
+      "D": "Kematian + emigrasi > kelahiran + imigrasi",
+      "E": "Angka fertilitas lebih tinggi dari mortalitas"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tsunami dapat terjadi akibat fenomena?",
+    "pilihan": {
+      "A": "Gempa bumi darat yang dalam",
+      "B": "Erupsi gunung berapi bawah laut",
+      "C": "Perubahan tekanan udara ekstrem",
+      "D": "Tanah longsor di gurun pasir",
+      "E": "Kebakaran hutan besar-besaran"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Komposisi pupuk kandang yang baik berasal dari?",
+    "pilihan": {
+      "A": "Kotoran hewan yang telah terdekomposisi",
+      "B": "Sampah plastik yang dihancurkan",
+      "C": "Bahan kimia sintetis murni",
+      "D": "Logam berat terkonsentrasi",
+      "E": "Abu vulkanik langsung"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tokoh Neo-Malthusian yang terkenal adalah?",
+    "pilihan": {
+      "A": "Thomas Malthus",
+      "B": "David Ricardo",
+      "C": "Karl Marx",
+      "D": "Esther Boserup",
+      "E": "Paul Ehrlich (The Population Bomb)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Keunggulan metode sensus dibanding registrasi adalah?",
+    "pilihan": {
+      "A": "Tidak memerlukan petugas lapangan",
+      "B": "Dilakukan secara terus menerus",
+      "C": "Biaya lebih murah",
+      "D": "Data lebih akurat karena cakupan menyeluruh",
+      "E": "Hasil dapat diperoleh instan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Piramida penduduk Jerman saat ini cenderung berbentuk?",
+    "pilihan": {
+      "A": "Ekspansif (lebar di dasar)",
+      "B": "Stasioner (hampir sama lebar)",
+      "C": "Konstruktif (dasar menyempit)",
+      "D": "Segitiga sempurna",
+      "E": "Persegi panjang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Beban ketergantungan tinggi terjadi ketika?",
+    "pilihan": {
+      "A": "Penduduk usia produktif dominan",
+      "B": "Proporsi usia muda dan tua kecil",
+      "C": "Angka ketergantungan > 60%",
+      "D": "Sex ratio seimbang",
+      "E": "Tingkat urbanisasi rendah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Penyebab utama longsor di daerah perkotaan adalah?",
+    "pilihan": {
+      "A": "Pembangunan infrastruktur tidak memperhatikan daya dukung lingkungan",
+      "B": "Aktivitas tektonik intensif",
+      "C": "Erupsi gunung berapi dekat kota",
+      "D": "Gelombang badai tropis",
+      "E": "Perubahan suhu harian ekstrem"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Faktor non-alami yang mempengaruhi pertumbuhan penduduk adalah?",
+    "pilihan": {
+      "A": "Tingkat kelahiran",
+      "B": "Tingkat kematian",
+      "C": "Migrasi penduduk",
+      "D": "Bencana alam",
+      "E": "Wabah penyakit"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Zona subduksi merupakan area rawan bencana?",
+    "pilihan": {
+      "A": "Gempa bumi dan tsunami",
+      "B": "Badai pasir dan kekeringan",
+      "C": "Angin tornado",
+      "D": "Kebakaran hutan",
+      "E": "Banjir bandang"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Rotasi tanaman dengan legum bermanfaat untuk?",
+    "pilihan": {
+      "A": "Meningkatkan kadar nitrogen tanah",
+      "B": "Menurunkan porositas tanah",
+      "C": "Meningkatkan erosi tanah",
+      "D": "Mengasamkan tanah secara ekstrem",
+      "E": "Menarik hama tanaman"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kritik Esther Boserup terhadap Malthus adalah?",
+    "pilihan": {
+      "A": "Teknologi tidak bisa mengimbangi populasi",
+      "B": "Sumber daya alam benar-benar terbatas",
+      "C": "Manusia tidak mampu beradaptasi",
+      "D": "Pertumbuhan penduduk akan mendorong inovasi pertanian",
+      "E": "Ledakan penduduk harus dikendalikan ketat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Badan resmi penyelenggara sensus penduduk di Indonesia adalah?",
+    "pilihan": {
+      "A": "Kementerian Lingkungan Hidup",
+      "B": "Badan Pusat Statistik (BPS)",
+      "C": "Kementerian Dalam Negeri",
+      "D": "Badan Meteorologi Klimatologi dan Geofisika",
+      "E": "Badan Nasional Penanggulangan Bencana"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Piramida penduduk Indonesia saat ini berbentuk?",
+    "pilihan": {
+      "A": "Ekspansif dengan dasar lebar",
+      "B": "Konstruktif penuh",
+      "C": "Stasioner sempurna",
+      "D": "Inversi (puncak lebar)",
+      "E": "Persegi panjang"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Rasio jenis kelamin dipengaruhi terutama oleh?",
+    "pilihan": {
+      "A": "Tingkat urbanisasi",
+      "B": "Jenis pekerjaan dominan",
+      "C": "Kepadatan penduduk",
+      "D": "Tingkat pendidikan",
+      "E": "Angka harapan hidup perempuan dan laki-laki"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Early warning system untuk tsunami meliputi?",
+    "pilihan": {
+      "A": "Pemantauan aktivitas seismik dan perubahan permukaan laut",
+      "B": "Pengamatan pola migrasi burung",
+      "C": "Pemantauan kelembaban tanah",
+      "D": "Pengukuran tekanan udara harian",
+      "E": "Analisis pertumbuhan tanaman"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Transmigrasi termasuk dalam komponen pertumbuhan penduduk?",
+    "pilihan": {
+      "A": "Alami",
+      "B": "Mortalitas",
+      "C": "Urbanisasi",
+      "D": "Fertilitas",
+      "E": "Migrasi neto"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Letusan gunung berapi tipe Plinian bersifat?",
+    "pilihan": {
+      "A": "Erupsi efusif dengan aliran lava",
+      "B": "Tanpa material piroklastik",
+      "C": "Hembusan gas lemah",
+      "D": "Pembentukan kubah lava saja",
+      "E": "Ledakan sangat kuat dengan kolom erupsi tinggi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dampak positif dari pembangunan berkelanjutan di sektor pertanian adalah?",
+    "pilihan": {
+      "A": "Meningkatkan ketergantungan pada pupuk kimia sintetis",
+      "B": "Mengurangi keanekaragaman hayati",
+      "C": "Menghabiskan sumber daya alam tak terbarukan",
+      "D": "Meningkatkan erosi tanah secara signifikan",
+      "E": "Memperbaiki kualitas tanah dalam jangka panjang"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Karakteristik utama gempa bumi vulkanik adalah?",
+    "pilihan": {
+      "A": "Terjadi akibat tumbukan lempeng tektonik",
+      "B": "Berkaitan dengan aktivitas magma gunung berapi",
+      "C": "Memiliki kekuatan sangat besar (di atas 8 SR)",
+      "D": "Menghasilkan tsunami besar",
+      "E": "Terjadi di tengah samudra jauh dari daratan"
+    },
+    "jawaban": "b"
+  }
+]

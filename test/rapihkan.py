@@ -7,7 +7,6 @@ for nu, z in enumerate(kls, 1):
     print(f"[{nu}] {z.name}")
 
 user = int(input("\nKelas berapa? "))
-
 jalur = fld / kls[user -1]
 trg = list(jalur.glob("*.json"))
 for no, i in enumerate(trg, 1):

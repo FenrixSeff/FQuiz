@@ -14,8 +14,8 @@ koreksi = []
 mulai = time.strftime("%H:%M")
 benar = 0
 salah = 0
-b = ""
-s = ""
+pg_bn = ""
+pg_sh = ""
 for i in range(random.randint(1, 100)):
     random.shuffle(isi)
 
@@ -27,7 +27,7 @@ R = "\033[0m"
 
 for no, i in enumerate(isi, 1):
     os.system("cls" if os.name == "nt" else "clear")
-    print(f"\n\n[Benar : {benar}] {b}\n[Salah : {salah}] {s}")
+    print(f"\n\n[Benar : {benar}] {pg_bn}\n[Salah : {salah}] {pg_sh}")
     print(f"\n[{no}] {i['pertanyaan']}\n")
 
     for opsi, nilai in i["pilihan"].items():
@@ -43,12 +43,14 @@ for no, i in enumerate(isi, 1):
 
     if user == i["jawaban"]:
         benar += 1
-        b += "+"
-        s = ""
+        pg_bn = "+" * pg_bn.count("+")
+        pg_bn += f"{g}+{R}"
+        pg_sh = ""
     else:
         salah += 1
-        b = ""
-        s += "+"
+        pg_sh = "+" * pg_sh.count("+")
+        pg_sh += f"{r}+{R}"
+        pg_bn = ""
         k = i["jawaban"]
         koreksi.append({
             "no": no,

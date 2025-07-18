@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Musik tradisional Indonesia memiliki karakteristik utama yaitu?",
+    "pilihan": {
+      "A": "Menggunakan notasi partitur modern",
+      "B": "Diwariskan secara turun-temurun secara lisan",
+      "C": "Selalu menggunakan instrumen elektronik",
+      "D": "Bebas dari pengaruh budaya lokal",
+      "E": "Hanya dipentaskan untuk upacara keagamaan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Zaman musik nontradisional yang ditandai dengan eksperimen suara elektronik dan teknik rekaman mutakhir disebut periode?",
+    "pilihan": {
+      "A": "Barok",
+      "B": "Klasik",
+      "C": "Romantik",
+      "D": "Kontemporer",
+      "E": "Renaissance"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada masa Hindu-Buddha di Indonesia, tari berfungsi utama sebagai?",
+    "pilihan": {
+      "A": "Media dakwah agama",
+      "B": "Sarana hiburan istana",
+      "C": "Pertunjukan komersial",
+      "D": "Propaganda politik",
+      "E": "Ritual pemujaan dewa-dewa"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ciri utama teater tradisional Nusantara adalah?",
+    "pilihan": {
+      "A": "Menggunakan naskah baku",
+      "B": "Pementasan di gedung tertutup",
+      "C": "Interaksi langsung dengan penonton",
+      "D": "Pemain profesional bersertifikat",
+      "E": "Tema bersifat universal abstrak"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Unsur pertunjukan yang bertugas menciptakan ilusi karakter melalui make-up disebut?",
+    "pilihan": {
+      "A": "Desain panggung",
+      "B": "Tata rias",
+      "C": "Manajemen naskah",
+      "D": "Koreografi",
+      "E": "Tata busana"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tari kreasi baru berfungsi utama sebagai?",
+    "pilihan": {
+      "A": "Pelestarian murni adat",
+      "B": "Ekspresi artistik kontemporer",
+      "C": "Ritual inisiasi suku",
+      "D": "Media penyembuhan tradisional",
+      "E": "Simbol status sosial"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Properti topeng Leak dalam tari Bali melambangkan?",
+    "pilihan": {
+      "A": "Kesuburan alam",
+      "B": "Kepahlawanan ksatriya",
+      "C": "Kecantikan wanita",
+      "D": "Kekuatan supranatural",
+      "E": "Kebijaksanaan tua"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Musik nontradisional Barat periode Barok (1600-1750) dipelopori oleh komposer?",
+    "pilihan": {
+      "A": "Beethoven",
+      "B": "Mozart",
+      "C": "Bach",
+      "D": "Debussy",
+      "E": "Stravinsky"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pengaruh Islam pada tari Indonesia terlihat dalam?",
+    "pilihan": {
+      "A": "Penggunaan gamelan sebagai pengiring",
+      "B": "Gerakan yang menghindari kontak fisik",
+      "C": "Tema epos Ramayana-Mahabharata",
+      "D": "Kostum yang menampakkan aurat",
+      "E": "Iringan musik rebana dan qasidah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teater kontemporer ditandai oleh?",
+    "pilihan": {
+      "A": "Pementasan di pendapa terbuka",
+      "B": "Penghapuran batas seni multimedia",
+      "C": "Penggunaan cerita mitologi saja",
+      "D": "Ketaatan pada pakem tradisional",
+      "E": "Pemain terbatas dari kalangan bangsawan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Unsur naskah dalam pertunjukan teater berfungsi sebagai?",
+    "pilihan": {
+      "A": "Pedoman visual panggung",
+      "B": "Koreografi gerak penari",
+      "C": "Desain kostum pemain",
+      "D": "Tata pencahayaan panggung",
+      "E": "Dasar alur cerita dan dialog"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tari keprajuritan Jawa seperti Bedhaya Ketawang menggambarkan?",
+    "pilihan": {
+      "A": "Ritual pertanian",
+      "B": "Penyembuhan penyakit",
+      "C": "Kisah percintaan",
+      "D": "Keagungan keraton",
+      "E": "Ekspresi duka kematian"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kain tenun Ulos dalam tari Batak berfungsi sebagai simbol?",
+    "pilihan": {
+      "A": "Status sosial dan penghormatan",
+      "B": "Peperangan antarsuku",
+      "C": "Pemujaan dewa laut",
+      "D": "Keterampilan berburu",
+      "E": "Pertanian padi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perbedaan mendasar musik tradisional dan nontradisional terletak pada?",
+    "pilihan": {
+      "A": "Sumber bunyi yang digunakan",
+      "B": "Tempat pementasan",
+      "C": "Jumlah pemain minimal",
+      "D": "Bahasa yang digunakan dalam lirik",
+      "E": "Cara pewarisan dan konteks budaya"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Zaman musik klasik (1750-1820) dipengaruhi nilai-nilai?",
+    "pilihan": {
+      "A": "Romantisme dan emosi liar",
+      "B": "Abstraksi dan atonalitas",
+      "C": "Keseimbangan dan struktur formal",
+      "D": "Eksperimen elektronik",
+      "E": "Improvisasi bebas"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tari pada masa kolonial Belanda sering dimanfaatkan untuk?",
+    "pilihan": {
+      "A": "Ritual penyembahan gubernur",
+      "B": "Propaganda politik kemerdekaan",
+      "C": "Pendidikan moral anak",
+      "D": "Upacara adat tertutup",
+      "E": "Pertunjukan turis Eropa"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Wayang Orang termasuk kategori teater?",
+    "pilihan": {
+      "A": "Modern",
+      "B": "Kontemporer",
+      "C": "Absurd",
+      "D": "Tradisional",
+      "E": "Eksperimental"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Desain panggung berfungsi untuk?",
+    "pilihan": {
+      "A": "Menentukan gaji pemain",
+      "B": "Menghapus kebutuhan tata cahaya",
+      "C": "Membatasi gerak penari",
+      "D": "Menciptakan ruang imajinatif",
+      "E": "Menggantikan peran sutradara"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tari Saman termasuk kategori tari dengan fungsi?",
+    "pilihan": {
+      "A": "Keprajuritan",
+      "B": "Penyembahan berhala",
+      "C": "Hiburan dan dakwah Islam",
+      "D": "Ritual pertanian",
+      "E": "Pemanggilan hujan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Properti kipas dalam tari Sunda melambangkan?",
+    "pilihan": {
+      "A": "Senjata perang",
+      "B": "Alat pertanian",
+      "C": "Binatang mitologi",
+      "D": "Kekuasaan raja",
+      "E": "Kelembutan wanita"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Musik nontradisional Indonesia berkembang pesat setelah?",
+    "pilihan": {
+      "A": "Zaman prasejarah",
+      "B": "Masuknya pengaruh Barat abad 20",
+      "C": "Peradaban Mesir Kuno",
+      "D": "Kerajaan Majapahit",
+      "E": "Era reformasi 1998"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ciri khas tari pada masa Islam di Indonesia adalah?",
+    "pilihan": {
+      "A": "Penggunaan boneka wayang",
+      "B": "Gerakan menyembah arca",
+      "C": "Nyanyian pujian kepada Nabi",
+      "D": "Busana tertutup syar'i",
+      "E": "Iringan gong besar"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Teater modern Indonesia dipelopori oleh kelompok seperti?",
+    "pilihan": {
+      "A": "Wayang Kulit Purwa",
+      "B": "Teater Koma",
+      "C": "Randai Minangkabau",
+      "D": "Kethoprak Mataram",
+      "E": "Lenong Betawi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pemain dalam pertunjukan disebut juga?",
+    "pilihan": {
+      "A": "Aktor",
+      "B": "Sutradara",
+      "C": "Penata cahaya",
+      "D": "Dramaturg",
+      "E": "Skriptorium"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tari keagamaan Hindu Bali seperti Sanghyang Dedari bertujuan?",
+    "pilihan": {
+      "A": "Memanggil hujan",
+      "B": "Menolak bala penyakit",
+      "C": "Menyambut kelahiran bayi",
+      "D": "Ritual pertanian",
+      "E": "Pengusiran roh jahat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Mandau dalam tari Dayak melambangkan?",
+    "pilihan": {
+      "A": "Kecantikan wanita",
+      "B": "Persatuan suku",
+      "C": "Alat pertanian",
+      "D": "Keperkayaan pria",
+      "E": "Kekuatan spiritual"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Contoh musik tradisional Indonesia adalah?",
+    "pilihan": {
+      "A": "Symphony",
+      "B": "Gamelan",
+      "C": "Opera",
+      "D": "Jazz",
+      "E": "Konser piano"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Zaman Romantik dalam musik nontradisional menekankan pada?",
+    "pilihan": {
+      "A": "Struktur matematis",
+      "B": "Teknologi komputer",
+      "C": "Aturan kontrapung ketat",
+      "D": "Emosi subjektif dan dramatis",
+      "E": "Improvisasi bebas tanpa pola"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kolonialisme mempengaruhi tari Nusantara melalui?",
+    "pilihan": {
+      "A": "Penghapusan semua tari adat",
+      "B": "Pengembangan tari untuk hiburan turis",
+      "C": "Pelarangan tari berbusana tradisional",
+      "D": "Pemaksaan tari Eropa secara total",
+      "E": "Penghancuran semua properti tari"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teater tradisional Ludruk berasal dari daerah?",
+    "pilihan": {
+      "A": "Jawa Barat",
+      "B": "Jawa Timur",
+      "C": "Bali",
+      "D": "Sumatera Utara",
+      "E": "Kalimantan Tengah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tata rias karakter antagonis dalam teater biasanya menggunakan?",
+    "pilihan": {
+      "A": "Warna cerah dan garis lembut",
+      "B": "Bentuk wajah simetris sempurna",
+      "C": "Ornamen bunga-bunga",
+      "D": "Make-up natural polos",
+      "E": "Warna gelap dan garis tajam"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tari kreasi baru Gatotkaca Gandrung menggabungkan unsur?",
+    "pilihan": {
+      "A": "Tradisional dan modern",
+      "B": "Klasik Barat murni",
+      "C": "Hip-hop internasional",
+      "D": "Ritual primitif saja",
+      "E": "Gerakan robotik digital"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Selendang dalam tari Melayu simbolisasi?",
+    "pilihan": {
+      "A": "Keterikatan adat",
+      "B": "Senjata tajam",
+      "C": "Alat komunikasi dengan dewa",
+      "D": "Kemurnian alam",
+      "E": "Pohon kehidupan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Musik nontradisional Indonesia mencakup genre?",
+    "pilihan": {
+      "A": "Keroncong dan dangdut",
+      "B": "Gending jawa kuno",
+      "C": "Tembang macapat",
+      "D": "Gondang Batak tradisi",
+      "E": "Tabuh lelambatan Bali"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Komposer zaman Renaissance adalah?",
+    "pilihan": {
+      "A": "Beethoven",
+      "B": "Mozart",
+      "C": "Palestrina",
+      "D": "Stravinsky",
+      "E": "Schoenberg"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tari Bedhaya di keraton Yogyakarta termasuk perkembangan tari masa?",
+    "pilihan": {
+      "A": "Prasejarah",
+      "B": "Hindu-Buddha",
+      "C": "Kontemporer",
+      "D": "Kolonial",
+      "E": "Islam"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teater modern ditandai dengan?",
+    "pilihan": {
+      "A": "Naskah terstruktur dan sutradara",
+      "B": "Cerita berdasarkan mitos saja",
+      "C": "Pemain tidak profesional",
+      "D": "Panggung tanpa desain",
+      "E": "Intervensi penonton langsung"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Desain panggung teater tradisional Minangkabau (Randai) biasanya berbentuk?",
+    "pilihan": {
+      "A": "Proscenium tertutup",
+      "B": "Lingkaran terbuka",
+      "C": "Trapesium bertingkat",
+      "D": "Panggung putar elektronik",
+      "E": "Menara bertingkat"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tari Kuda Lumping memiliki fungsi sebagai?",
+    "pilihan": {
+      "A": "Tari penyambutan tamu negara",
+      "B": "Ritual pernikahan adat",
+      "C": "Tari pergaulan remaja",
+      "D": "Ekspresi kekuatan magis dan spiritual",
+      "E": "Pertunjukan opera modern"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Rangkaian bunga di kepala penari Bali (sanggul) melambangkan?",
+    "pilihan": {
+      "A": "Kemiskinan",
+      "B": "Kesedihan",
+      "C": "Kesuburan dan kemakmuran",
+      "D": "Perang suku",
+      "E": "Kematian"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Musik tradisional Sasando berasal dari pulau?",
+    "pilihan": {
+      "A": "Jawa",
+      "B": "Sumatera",
+      "C": "Sulawesi",
+      "D": "Timor",
+      "E": "Papua"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Zaman Impresionisme musik dipelopori oleh?",
+    "pilihan": {
+      "A": "Bach",
+      "B": "Mozart",
+      "C": "Debussy",
+      "D": "Beethoven",
+      "E": "Handel"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tari Seudati dari Aceh berkembang pada masa?",
+    "pilihan": {
+      "A": "Hindu-Buddha",
+      "B": "Kemerdekaan RI",
+      "C": "Kolonial Portugis",
+      "D": "Prasejarah",
+      "E": "Islam"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ciri teater kontemporer adalah?",
+    "pilihan": {
+      "A": "Ketaatan pada pakem tradisi",
+      "B": "Pemain berasal dari satu suku",
+      "C": "Penggunaan naskah kaku",
+      "D": "Penghapusan batas antar disiplin seni",
+      "E": "Durasi pementasan tetap"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tari Reog Ponorogo termasuk kategori tari?",
+    "pilihan": {
+      "A": "Keprajuritan",
+      "B": "Keagamaan Islam",
+      "C": "Kreasi baru",
+      "D": "Upacara kematian",
+      "E": "Pertanian"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tari kreasi baru sering memodifikasi unsur?",
+    "pilihan": {
+      "A": "Gerak, musik, dan kostum tradisi",
+      "B": "Bahasa asing secara dominan",
+      "C": "Instrumen modern saja",
+      "D": "Tema mitologi Barat",
+      "E": "Properti teknologi tinggi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kain Tapis Lampung dalam tari tradisional melambangkan?",
+    "pilihan": {
+      "A": "Status sosial wanita",
+      "B": "Alat perang lelaki",
+      "C": "Kemarahan dewa gunung",
+      "D": "Sistem barter suku",
+      "E": "Peta geografis daerah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Musik nontradisional yang berkembang tahun 1910-1960 dengan ciri improvisasi dan sinkopasi disebut?",
+    "pilihan": {
+      "A": "Jazz",
+      "B": "Klasik",
+      "C": "Gregorian",
+      "D": "Rock",
+      "E": "Elektronika"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pengaruh kolonial pada tari Jawa terlihat dalam tari?",
+    "pilihan": {
+      "A": "Bedhaya Ketawang",
+      "B": "Tayub",
+      "C": "Golek Menak",
+      "D": "Gambyong Pareanom",
+      "E": "Serimpi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Teater tradisional Makyong berasal dari?",
+    "pilihan": {
+      "A": "Jawa",
+      "B": "Bali",
+      "C": "Riau",
+      "D": "Sunda",
+      "E": "Madura"
+    },
+    "jawaban": "c"
+  }
+]

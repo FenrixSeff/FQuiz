@@ -14,12 +14,13 @@ Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interakti
 - Python 3.x+
 
 ## Instalasi
+
+Clone repo menggunakan `git`
 ```bash
-pkg install git
 git clone https://github.com/FenrixSeff/FQuiz.git
 ```
 
-## Struktur File Proyek
+## Struktur File FQuiz
 ```
 FQuiz
 │
