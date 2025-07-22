@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Secara istilah, ijtihad berarti...",
+    "pilihan": {
+      "A": "Mengikuti pendapat ulama tanpa dalil",
+      "B": "Bersungguh-sungguh mengeluarkan hukum dari dalil syar'i",
+      "C": "Mengumpulkan pendapat berbagai madzhab",
+      "D": "Meneliti sejarah hukum Islam",
+      "E": "Menerjemahkan nash Al-Qur'an secara harfiah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dasar hukum ijtihad dalam QS. An-Nisa: 59 adalah perintah...",
+    "pilihan": {
+      "A": "Mengembalikan persoalan kepada Allah dan Rasul",
+      "B": "Mengikuti pemimpin secara mutlak",
+      "C": "Memutuskan hukum dengan voting",
+      "D": "Menerapkan hukum adat lokal",
+      "E": "Menunda keputusan hingga ada nash jelas"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Hadis Muadz bin Jabal menjadi dasar ijtihad karena...",
+    "pilihan": {
+      "A": "Nabi menyetujui metode ijtihadnya dengan ra'yu",
+      "B": "Nabi melarang penggunaan qiyas",
+      "C": "Muadz hanya menggunakan Al-Qur'an",
+      "D": "Muadz menolak berijtihad",
+      "E": "Nabi memerintahkan taklid buta"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Ruang lingkup ijtihad adalah masalah...",
+    "pilihan": {
+      "A": "Ibadah mahdhah yang sudah baku",
+      "B": "Aqidah dan dasar-dasar iman",
+      "C": "Hukum pidana Islam (hudud)",
+      "D": "Yang sudah ada ijma' ulama",
+      "E": "Yang tidak ada nash sharih-nya"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam menghadapi masalah baru, metode ijtihad yang tepat adalah...",
+    "pilihan": {
+      "A": "Taklid kepada imam madzhab",
+      "B": "Menerapkan qiyas atau maslahah mursalah",
+      "C": "Menunggu petunjuk Nabi secara langsung",
+      "D": "Mengikuti pendapat populer",
+      "E": "Menghindari keputusan hukum"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Syarat utama seorang mujtahid adalah...",
+    "pilihan": {
+      "A": "Keturunan Arab",
+      "B": "Memiliki pengikut banyak",
+      "C": "Menguasai bahasa Arab dan ilmu ushul fiqh",
+      "D": "Berusia di atas 50 tahun",
+      "E": "Pernah menjadi hakim"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Mujtahid Muthlaq Mustaqil adalah tingkatan mujtahid yang...",
+    "pilihan": {
+      "A": "Hanya mengikuti metodologi imam madzhab",
+      "B": "Mengkompromikan berbagai madzhab",
+      "C": "Berijtihad hanya dalam masalah tertentu",
+      "D": "Membuat metodologi ijtihad sendiri",
+      "E": "Hanya men-tarjih dalam madzhab"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Contoh Mujtahid Fil Madzhab adalah...",
+    "pilihan": {
+      "A": "Imam Syafi'i",
+      "B": "Imam Abu Hanifah",
+      "C": "Imam Nawawi (madzhab Syafi'i)",
+      "D": "Ibnu Taimiyah",
+      "E": "Imam Al-Ghazali"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Mujtahid Muntashib adalah mujtahid yang...",
+    "pilihan": {
+      "A": "Berijtihad tanpa mengikuti madzhab tertentu",
+      "B": "Menolak semua madzhab",
+      "C": "Hanya menyalin pendapat imam madzhab",
+      "D": "Menggabungkan beberapa madzhab",
+      "E": "Mengikuti madzhab dalam ushul tapi berijtihad dalam furu'"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Taklid menurut istilah syar'i adalah...",
+    "pilihan": {
+      "A": "Berijtihad dengan sungguh-sungguh",
+      "B": "Mengikuti pendapat tanpa mengetahui dalilnya",
+      "C": "Meneliti dalil sebelum mengamalkan",
+      "D": "Memilih pendapat terkuat dari berbagai madzhab",
+      "E": "Membuat metodologi baru"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Hukum taklid bagi orang awam menurut Ahlussunnah wal Jama'ah adalah...",
+    "pilihan": {
+      "A": "Haram",
+      "B": "Makruh",
+      "C": "Mubah",
+      "D": "Wajib",
+      "E": "Sunah muakkad"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dasar diperbolehkannya taklid adalah...",
+    "pilihan": {
+      "A": "QS. Al-Fatihah:1",
+      "B": "Pendapat pribadi ulama kontemporer",
+      "C": "Hadis tentang larangan bertanya",
+      "D": "Ijma' ulama tentang kebolehan taklid bagi awam",
+      "E": "Kebiasaan masyarakat kota"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "'Udzur syar'i yang membolehkan taklid adalah...",
+    "pilihan": {
+      "A": "Malas mempelajari agama",
+      "B": "Mencari pendapat paling ringan",
+      "C": "Keinginan mengikuti tren",
+      "D": "Tidak percaya pada ulama",
+      "E": "Keterbatasan ilmu dan kemampuan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perbedaan antara taklid dan ittiba' terletak pada...",
+    "pilihan": {
+      "A": "Ittiba' mengetahui dalil, taklid tidak",
+      "B": "Taklid lebih tinggi tingkatannya",
+      "C": "Ittiba' hanya untuk ulama",
+      "D": "Taklid memilih pendapat sendiri",
+      "E": "Ittiba' tanpa dasar ilmu"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tarjih dalam istilah ushul fiqh berarti...",
+    "pilihan": {
+      "A": "Mengikuti pendapat tanpa dalil",
+      "B": "Menguatkan satu pendapat atas lainnya dengan dalil",
+      "C": "Menggabungkan beberapa pendapat",
+      "D": "Meninggalkan semua pendapat",
+      "E": "Membuat madzhab baru"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Talfiq adalah...",
+    "pilihan": {
+      "A": "Mengikuti satu madzhab secara konsisten",
+      "B": "Mengambil pendapat dari berbagai madzhab dalam satu masalah",
+      "C": "Meneliti sejarah madzhab",
+      "D": "Menerjemahkan kitab kuning",
+      "E": "Membuat pendapat baru"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Hukum talfiq menurut mayoritas ulama ushul adalah...",
+    "pilihan": {
+      "A": "Wajib",
+      "B": "Sunah",
+      "C": "Boleh dengan syarat tidak menghasilkan hukum baru",
+      "D": "Haram mutlak",
+      "E": "Makruh"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Yang dimaksud bermadzhab adalah...",
+    "pilihan": {
+      "A": "Fanatik buta pada satu pendapat",
+      "B": "Mengikuti metodologi istinbath imam madzhab",
+      "C": "Menolak semua pendapat ulama",
+      "D": "Membuat agama baru",
+      "E": "Hanya mengikuti Al-Qur'an"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Cara bermadzhab secara qauli berarti...",
+    "pilihan": {
+      "A": "Mengikuti hasil istinbath imam madzhab",
+      "B": "Menerapkan metode istinbath imam untuk masalah baru",
+      "C": "Menggabung pendapat beberapa imam",
+      "D": "Memilih pendapat paling ringan",
+      "E": "Menolak pendapat imam madzhab"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Contoh bermadzhab secara manhaji adalah...",
+    "pilihan": {
+      "A": "Mengikuti kitab Fathul Qarib untuk masalah fiqh",
+      "B": "Menerapkan qiyas Syafi'i pada transaksi digital",
+      "C": "Mengambil pendapat Imam Malik tentang shalat",
+      "D": "Mengikuti Imam Abu Hanifah dalam masalah waris",
+      "E": "Memilih pendapat termudah dari berbagai madzhab"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dasar diperbolehkannya bermadzhab adalah...",
+    "pilihan": {
+      "A": "Perintah Nabi dalam hadis shahih",
+      "B": "Ijma' sahabat Nabi",
+      "C": "Keputusan pemerintah",
+      "D": "Kebutuhan praktis umat Islam awam",
+      "E": "Tradisi keluarga"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Manfaat bermadzhab antara lain...",
+    "pilihan": {
+      "A": "Memecah belah umat Islam",
+      "B": "Memudahkan praktik beragama secara terstruktur",
+      "C": "Membatasi perkembangan ilmu fiqh",
+      "D": "Menyulitkan memahami agama",
+      "E": "Mengurangi otoritas ulama"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pandangan NU tentang bermadzhab adalah...",
+    "pilihan": {
+      "A": "Wajib mengikuti satu madzhab secara utuh",
+      "B": "Haram mengikuti madzhab tertentu",
+      "C": "Boleh sebagai sarana memahami agama",
+      "D": "Sunnah hanya untuk ulama",
+      "E": "Bid'ah yang sesat"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Yang bukan syarat mujtahid adalah...",
+    "pilihan": {
+      "A": "Mengetahui ilmu Al-Qur'an dan tafsir",
+      "B": "Menguasai bahasa Arab secara mendalam",
+      "C": "Memahami hadis dan ilmu musthalah hadis",
+      "D": "Mengetahui ilmu ushul fiqh",
+      "E": "Berusia minimal 40 tahun"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Mujtahid Muqayyad disebut juga...",
+    "pilihan": {
+      "A": "Mujtahid mutlak mustaqil",
+      "B": "Mujtahid muntasib",
+      "C": "Mujtahid bil ra'yi",
+      "D": "Mujtahid muthlaq",
+      "E": "Mujtahid fil madzhab"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tokoh yang termasuk Mujtahid Muthlaq Mustaqil adalah...",
+    "pilihan": {
+      "A": "Imam Nawawi",
+      "B": "Imam Rafi'i",
+      "C": "Imam Syafi'i",
+      "D": "Syaikh Ibrahim al-Baijuri",
+      "E": "Imam Ghazali"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Taklid haram dilakukan oleh...",
+    "pilihan": {
+      "A": "Orang awam",
+      "B": "Orang tua",
+      "C": "Wanita",
+      "D": "Anak kecil",
+      "E": "Seseorang yang mampu berijtihad"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalil ijma' tentang kebolehan taklid merujuk pada konsensus...",
+    "pilihan": {
+      "A": "Sahabat Nabi",
+      "B": "Tabii'n",
+      "C": "Ulama empat madzhab",
+      "D": "Ulama kontemporer",
+      "E": "Pemerintah Islam"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Contoh ittiba' adalah...",
+    "pilihan": {
+      "A": "Shalat subuh 2 rakaat karena ikut masyarakat",
+      "B": "Tidak shalat karena tidak paham dalil",
+      "C": "Menggabung madzhab dalam satu shalat",
+      "D": "Membuat tata cara shalat baru",
+      "E": "Shalat subuh 2 rakaat setelah tahu dalil shahih"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Talfiq yang dilarang adalah yang menghasilkan...",
+    "pilihan": {
+      "A": "Pendapat baru yang lebih kuat",
+      "B": "Pemahaman yang lebih mendalam",
+      "C": "Kesepakatan ulama",
+      "D": "Kemudahan beribadah",
+      "E": "Hukum yang tidak diakui madzhab manapun"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ulama ushul fiqh sepakat larangan talfiq dalam masalah...",
+    "pilihan": {
+      "A": "Ibadah yang satu kesatuan (seperti satu kali shalat)",
+      "B": "Muamalah kontemporer",
+      "C": "Masalah sosial kemasyarakatan",
+      "D": "Penafsiran sejarah",
+      "E": "Penerjemahan Al-Qur'an"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Madzhab secara bahasa berarti...",
+    "pilihan": {
+      "A": "Tempat pergi atau jalan",
+      "B": "Kumpulan hadis",
+      "C": "Kitab fiqh tebal",
+      "D": "Perdebatan ulama",
+      "E": "Konsensus masyarakat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Cara bermadzhab qauli contohnya...",
+    "pilihan": {
+      "A": "Menggunakan metode qiyas Imam Malik",
+      "B": "Menggabung madzhab Syafi'i dan Hanafi",
+      "C": "Membuat pendapat baru tentang zakat profesi",
+      "D": "Mengikuti pendapat Imam Syafi'i di kitab Al-Umm",
+      "E": "Menolak semua kitab madzhab"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dasar bermadzhab menurut ulama NU adalah...",
+    "pilihan": {
+      "A": "Kewajiban mengikuti satu imam",
+      "B": "Kebutuhan menjaga kesinambungan ilmu",
+      "C": "Perintah Nabi dalam hadis khusus",
+      "D": "Keputusan politik khalifah",
+      "E": "Tradisi leluhur semata"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Manfaat bermadzhab secara manhaji adalah...",
+    "pilihan": {
+      "A": "Fanatik pada satu pendapat",
+      "B": "Menghilangkan perbedaan pendapat",
+      "C": "Menyulitkan pengambilan hukum",
+      "D": "Membatasi ijtihad",
+      "E": "Mengembangkan fiqh untuk masalah kontemporer"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pandangan Syaikh Ibrahim al-Baijuri tentang bermadzhab...",
+    "pilihan": {
+      "A": "Bid'ah yang sesat",
+      "B": "Wajib bagi setiap muslim",
+      "C": "Sarana penting dalam beragama",
+      "D": "Hanya untuk ulama",
+      "E": "Tidak diperlukan di zaman modern"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Yang bukan termasuk tingkatan mujtahid adalah...",
+    "pilihan": {
+      "A": "Mujtahid Muthlaq Mustaqil",
+      "B": "Mujtahid Muntasib",
+      "C": "Mujtahid Muqallad",
+      "D": "Mujtahid Fil Madzhab",
+      "E": "Mujtahid Muqayyad"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Fungsi taklid dalam masyarakat awam adalah...",
+    "pilihan": {
+      "A": "Memecah belah umat",
+      "B": "Memudahkan praktik agama secara benar",
+      "C": "Membuat agama semakin sulit",
+      "D": "Menghilangkan otoritas ulama",
+      "E": "Mendorong setiap orang berijtihad"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perbedaan esensial taklid dan ittiba' terletak pada...",
+    "pilihan": {
+      "A": "Pengetahuan tentang dalil",
+      "B": "Status sosial pelaku",
+      "C": "Jenis masalah yang dihadapi",
+      "D": "Waktu pelaksanaan",
+      "E": "Bahasa yang digunakan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tarjih dalam Bahtsul Masail NU berarti...",
+    "pilihan": {
+      "A": "Mengikuti pendapat tanpa penelitian",
+      "B": "Menunda keputusan",
+      "C": "Menggabung semua pendapat",
+      "D": "Menguatkan satu pendapat dengan dalil terkuat",
+      "E": "Membuat pendapat baru"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Contoh talfiq yang dilarang adalah...",
+    "pilihan": {
+      "A": "Mengikuti madzhab Syafi'i dalam thaharah",
+      "B": "Mengikuti madzhab Hanafi dalam jual beli",
+      "C": "Wudhu dengan niat mengikuti Syafi'i (wajib niat) dan mengusuh kepala 1/4 mengikuti Hanafi",
+      "D": "Shalat mengikuti satu madzhab secara utuh",
+      "E": "Puasa mengikuti Imam Malik"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Ulama yang membolehkan talfiq dengan syarat ketat adalah...",
+    "pilihan": {
+      "A": "Imam Syafi'i",
+      "B": "Ibnu Taimiyah",
+      "C": "Ibnu Qudamah",
+      "D": "Imam Ghazali",
+      "E": "Ibnu Hazm"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam tradisi NU, bermadzhab dilakukan secara...",
+    "pilihan": {
+      "A": "Qauli untuk ibadah dan manhaji untuk muamalah",
+      "B": "Hanya qauli tanpa manhaji",
+      "C": "Hanya manhaji tanpa qauli",
+      "D": "Talfiq dalam semua aspek",
+      "E": "Ittiba' tanpa dasar ilmu"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pernyataan yang benar tentang bermadzhab adalah...",
+    "pilihan": {
+      "A": "Menghambat perkembangan fiqh",
+      "B": "Memudahkan penyimpangan agama",
+      "C": "Menjaga otentisitas pemahaman agama",
+      "D": "Mewajibkan fanatisme sempit",
+      "E": "Menolak perkembangan zaman"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kitab yang menjadi rujukan utama madzhab Syafi'i adalah...",
+    "pilihan": {
+      "A": "Al-Umm karya Imam Syafi'i",
+      "B": "Al-Muwaththa' karya Imam Malik",
+      "C": "Al-Majmu' karya Imam Nawawi",
+      "D": "Fathul Qarib karya Al-Ghazi",
+      "E": "Kifayatul Akhyar karya Al-Hishni"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Menurut NU, hukum bermadzhab bagi santri adalah...",
+    "pilihan": {
+      "A": "Wajib mempelajari satu madzhab secara mendalam",
+      "B": "Haram mempelajari madzhab tertentu",
+      "C": "Sunah mempelajari semua madzhab",
+      "D": "Makruh mempelajari madzhab",
+      "E": "Mubah sesuai minat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tokoh NU yang menegaskan pentingnya bermadzhab adalah...",
+    "pilihan": {
+      "A": "M. Natsir",
+      "B": "Buya Hamka",
+      "C": "Ahmad Dahlan",
+      "D": "KH. Hasyim Asy'ari dalam Risalah Ahlussunnah wal Jama'ah",
+      "E": "Cak Nur"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam masalah kontemporer, NU menggunakan pendekatan...",
+    "pilihan": {
+      "A": "Hanya qauli tanpa penyesuaian",
+      "B": "Mengikuti pendapat Barat",
+      "C": "Talfiq bebas tanpa batas",
+      "D": "Menolak ijtihad kontemporer",
+      "E": "Manhaji dengan tetap dalam koridor madzhab"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Fungsi Lajnah Bahtsul Masail NU dalam bermadzhab adalah...",
+    "pilihan": {
+      "A": "Menciptakan madzhab baru",
+      "B": "Mewajibkan talfiq",
+      "C": "Menghapus madzhab-madzhab lama",
+      "D": "Men-tarjih pendapat untuk masalah kekinian",
+      "E": "Menolak tradisi ijtihad"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Hukum bermadzhab bagi masyarakat awam menurut pandangan Ahlussunnah wal Jama'ah adalah...",
+    "pilihan": {
+      "A": "Haram karena termasuk bid'ah",
+      "B": "Makruh karena memecah belah umat",
+      "C": "Mubah jika tidak fanatik",
+      "D": "Wajib sebagai sarana memahami agama",
+      "E": "Sunah hanya di bulan Ramadhan"
+    },
+    "jawaban": "d"
+  }
+]

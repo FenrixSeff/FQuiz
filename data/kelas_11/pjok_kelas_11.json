@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Sejarah sepak bola modern berasal dari negara?",
+    "pilihan": {
+      "A": "Brasil",
+      "B": "Jerman",
+      "C": "Italia",
+      "D": "Spanyol",
+      "E": "Inggris"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teknik dasar dalam sepak bola yang digunakan untuk menghentikan bola yang datang disebut?",
+    "pilihan": {
+      "A": "Menggiring",
+      "B": "Menembak",
+      "C": "Mengoper",
+      "D": "Mengontrol",
+      "E": "Menyundul"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jumlah pemain dalam satu tim sepak bola adalah?",
+    "pilihan": {
+      "A": "9 orang",
+      "B": "10 orang",
+      "C": "11 orang",
+      "D": "12 orang",
+      "E": "15 orang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Teknik pukulan dalam bulu tangkis yang dilakukan dengan gerakan cepat dan kuat untuk menuntaskan serangan disebut?",
+    "pilihan": {
+      "A": "Dropshot",
+      "B": "Lob",
+      "C": "Smash",
+      "D": "Clear",
+      "E": "Drive"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Servis yang bertujuan agar shuttlecock jatuh dekat net dan menyulitkan lawan untuk menyerang adalah?",
+    "pilihan": {
+      "A": "Servis rendah",
+      "B": "Servis tinggi",
+      "C": "Servis lob",
+      "D": "Jump servis",
+      "E": "Servis flick"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada lari jarak pendek, start yang digunakan adalah?",
+    "pilihan": {
+      "A": "Start jongkok",
+      "B": "Start berdiri",
+      "C": "Start melayang",
+      "D": "Start duduk",
+      "E": "Start jinjit"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada lompat jauh, fase yang bertujuan untuk mendapatkan kecepatan optimal sebelum take off disebut?",
+    "pilihan": {
+      "A": "Awalan",
+      "B": "Tolakan",
+      "C": "Melayang",
+      "D": "Mendarat",
+      "E": "Persiapan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu bentuk latihan untuk meningkatkan kekuatan otot adalah?",
+    "pilihan": {
+      "A": "Lari cepat",
+      "B": "Lompat tali",
+      "C": "Bersepeda",
+      "D": "Jogging",
+      "E": "Push up"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Gerakan dasar dalam senam lantai yang bertujuan untuk melindungi diri saat terjatuh disebut?",
+    "pilihan": {
+      "A": "Kayang",
+      "B": "Sikap lilin",
+      "C": "Guling",
+      "D": "Meroda",
+      "E": "Handstand"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Senam ritmik biasanya dilakukan dengan iringan?",
+    "pilihan": {
+      "A": "Musik",
+      "B": "Alat musik",
+      "C": "Hitungan",
+      "D": "Nyanyian",
+      "E": "Tepuk tangan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada renang gaya bebas, posisi wajah yang benar adalah?",
+    "pilihan": {
+      "A": "Menghadap ke atas",
+      "B": "Menghadap ke samping",
+      "C": "Menghadap ke bawah",
+      "D": "Menghadap ke depan",
+      "E": "Menghadap ke permukaan air"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Manfaat utama renang bagi kesehatan tubuh adalah?",
+    "pilihan": {
+      "A": "Meningkatkan daya tahan jantung dan paru-paru",
+      "B": "Menyembuhkan penyakit jantung",
+      "C": "Mempercepat pertumbuhan tulang",
+      "D": "Meningkatkan nafsu makan",
+      "E": "Menyehatkan mata"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Latihan untuk meningkatkan kelentukan tubuh disebut?",
+    "pilihan": {
+      "A": "Stretching",
+      "B": "Push up",
+      "C": "Sit up",
+      "D": "Squat jump",
+      "E": "Lari cepat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Penyakit yang menyerang sistem kekebalan tubuh manusia adalah?",
+    "pilihan": {
+      "A": "Diabetes",
+      "B": "HIV/AIDS",
+      "C": "Hipertensi",
+      "D": "TBC",
+      "E": "Malaria"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "HIV menyebar melalui hal berikut, kecuali?",
+    "pilihan": {
+      "A": "Hubungan seks tanpa pengaman",
+      "B": "Pertukaran jarum suntik",
+      "C": "Transfusi darah terkontaminasi",
+      "D": "Berjabat tangan",
+      "E": "Ibu ke anak saat melahirkan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Cara paling efektif untuk mencegah penularan HIV/AIDS adalah?",
+    "pilihan": {
+      "A": "Menghindari penggunaan narkoba",
+      "B": "Menggunakan kondom saat berhubungan seks",
+      "C": "Tidak berhubungan seks di luar nikah",
+      "D": "Semua jawaban benar",
+      "E": "Menghindari berjabat tangan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu cara pencegahan penyebaran HIV/AIDS di kalangan remaja adalah?",
+    "pilihan": {
+      "A": "Mengikuti edukasi seks yang sehat",
+      "B": "Menggunakan narkoba",
+      "C": "Bergaul bebas",
+      "D": "Menghindari olahraga",
+      "E": "Menghindari komunikasi dengan orang asing"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Posisi badan yang benar saat melakukan guling depan adalah?",
+    "pilihan": {
+      "A": "Badan kaku",
+      "B": "Badan dibulatkan",
+      "C": "Badan melenting",
+      "D": "Kaki diluruskan",
+      "E": "Tangan tidak menyentuh matras"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gerakan senam yang dilakukan dengan alat seperti tali, simpai, atau bola disebut?",
+    "pilihan": {
+      "A": "Senam aerobik",
+      "B": "Senam lantai",
+      "C": "Senam artistik",
+      "D": "Senam ketangkasan",
+      "E": "Senam irama"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada lompat tinggi gaya straddle, posisi kaki saat melewati mistar adalah?",
+    "pilihan": {
+      "A": "Satu kaki di depan, satu di belakang",
+      "B": "Kedua kaki terbuka seperti gunting",
+      "C": "Kedua kaki rapat dan lurus",
+      "D": "Kedua kaki ditekuk dan mendekap mistar",
+      "E": "Kedua kaki menyilang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tahapan dalam tolak peluru yang benar adalah?",
+    "pilihan": {
+      "A": "Sikap awal - ayunan - lepasan - follow through",
+      "B": "Sikap awal - ancang-ancang - lepasan - follow through",
+      "C": "Ancang-ancang - tolakan - lepasan - follow through",
+      "D": "Ancang-ancang - lepasan - tolakan - follow through",
+      "E": "Follow through - lepasan - tolakan - ancang-ancang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tujuan utama latihan kebugaran jasmani adalah?",
+    "pilihan": {
+      "A": "Meningkatkan kemampuan fisik",
+      "B": "Menurunkan berat badan",
+      "C": "Meningkatkan daya pikir",
+      "D": "Meningkatkan kecerdasan emosional",
+      "E": "Meningkatkan keterampilan motorik halus"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Latihan squat jump berguna untuk meningkatkan?",
+    "pilihan": {
+      "A": "Kelentukan",
+      "B": "Daya tahan",
+      "C": "Kekuatan otot kaki",
+      "D": "Kecepatan",
+      "E": "Koordinasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah teknik dasar dalam sepak bola, kecuali?",
+    "pilihan": {
+      "A": "Menggiring bola",
+      "B": "Menembak bola",
+      "C": "Menyundul bola",
+      "D": "Mengoper bola",
+      "E": "Servis"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teknik pukulan dalam bulu tangkis yang dilakukan dengan cara bola jatuh perlahan di depan net disebut?",
+    "pilihan": {
+      "A": "Smash",
+      "B": "Lob",
+      "C": "Clear",
+      "D": "Dropshot",
+      "E": "Drive"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Gerakan kayang bertujuan untuk melatih?",
+    "pilihan": {
+      "A": "Kekuatan otot kaki",
+      "B": "Daya tahan tubuh",
+      "C": "Koordinasi tangan dan kaki",
+      "D": "Keseimbangan",
+      "E": "Kelentukan dan kekuatan otot lengan dan punggung"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada renang gaya dada, gerakan kaki yang benar adalah?",
+    "pilihan": {
+      "A": "Menghentak ke belakang",
+      "B": "Mengepak seperti katak",
+      "C": "Naik turun cepat",
+      "D": "Melingkar",
+      "E": "Menendang lurus"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah manfaat kebugaran jasmani, kecuali?",
+    "pilihan": {
+      "A": "Meningkatkan kualitas tidur",
+      "B": "Meningkatkan risiko penyakit jantung",
+      "C": "Meningkatkan daya tahan tubuh",
+      "D": "Menjaga berat badan ideal",
+      "E": "Meningkatkan konsentrasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "HIV/AIDS tidak menular melalui?",
+    "pilihan": {
+      "A": "Hubungan seksual tanpa pengaman",
+      "B": "Penggunaan jarum suntik bersama",
+      "C": "Transfusi darah terkontaminasi",
+      "D": "Berbagi makanan dengan penderita",
+      "E": "Ibu ke anak saat melahirkan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Berikut adalah gejala awal HIV/AIDS, kecuali?",
+    "pilihan": {
+      "A": "Demam",
+      "B": "Nyeri kepala",
+      "C": "Sakit perut terus-menerus",
+      "D": "Peningkatan nafsu makan",
+      "E": "Pembengkakan kelenjar getah bening"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Penyakit HIV/AIDS dapat dideteksi melalui tes?",
+    "pilihan": {
+      "A": "Rapid test",
+      "B": "Tes urine",
+      "C": "Tes darah",
+      "D": "Tes DNA",
+      "E": "Tes alergi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Teknik dasar bulu tangkis yang digunakan untuk memulai permainan adalah?",
+    "pilihan": {
+      "A": "Smash",
+      "B": "Dropshot",
+      "C": "Drive",
+      "D": "Clear",
+      "E": "Servis"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada lari jarak pendek, saat aba-aba 'ya' diberikan, pelari harus?",
+    "pilihan": {
+      "A": "Mengangkat badan",
+      "B": "Melompat",
+      "C": "Melangkah perlahan",
+      "D": "Menunggu aba-aba selanjutnya",
+      "E": "Mulai berlari"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada tolak peluru, posisi peluru saat dipegang adalah?",
+    "pilihan": {
+      "A": "Dipegang dengan dua tangan",
+      "B": "Diletakkan di antara jari dan bahu",
+      "C": "Dipegang dengan ujung jari",
+      "D": "Diletakkan di leher bagian belakang",
+      "E": "Diletakkan di telapak tangan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gerakan dalam senam ritmik yang tidak menggunakan alat disebut?",
+    "pilihan": {
+      "A": "Senam irama tanpa alat",
+      "B": "Senam lantai",
+      "C": "Senam aerobik",
+      "D": "Senam artistik",
+      "E": "Senam ketangkasan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu cara untuk menjaga kebugaran jasmani adalah?",
+    "pilihan": {
+      "A": "Tidur lebih awal",
+      "B": "Olahraga teratur",
+      "C": "Makan makanan berlemak",
+      "D": "Menghindari air putih",
+      "E": "Menghindari aktivitas fisik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "HIV/AIDS tidak dapat ditularkan melalui?",
+    "pilihan": {
+      "A": "Jarum suntik bekas",
+      "B": "Berbagi sikat gigi",
+      "C": "Berjabat tangan",
+      "D": "Hubungan intim",
+      "E": "Transfusi darah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Berikut adalah cara pencegahan HIV/AIDS di kalangan remaja, kecuali?",
+    "pilihan": {
+      "A": "Mengikuti edukasi seks",
+      "B": "Tidak berganti-ganti pasangan",
+      "C": "Menggunakan kondom",
+      "D": "Bergaul bebas",
+      "E": "Menjaga kesetiaan dalam hubungan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada senam lantai, gerakan sikap lilin bertujuan untuk melatih?",
+    "pilihan": {
+      "A": "Keseimbangan",
+      "B": "Kelentukan",
+      "C": "Koordinasi",
+      "D": "Daya tahan tubuh",
+      "E": "Kekuatan otot perut dan lengan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada lompat tinggi, istilah 'take off' berarti?",
+    "pilihan": {
+      "A": "Mendarat",
+      "B": "Tolakan",
+      "C": "Melayang",
+      "D": "Awalan",
+      "E": "Persiapan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gerakan dalam renang gaya dada yang dilakukan setelah tendangan kaki adalah?",
+    "pilihan": {
+      "A": "Gerakan lengan",
+      "B": "Inhalasi",
+      "C": "Coasting",
+      "D": "Recovery",
+      "E": "Breathing"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Berikut adalah bentuk latihan untuk meningkatkan daya tahan jantung dan paru-paru, kecuali?",
+    "pilihan": {
+      "A": "Lari jarak jauh",
+      "B": "Bersepeda",
+      "C": "Push up",
+      "D": "Jogging",
+      "E": "Renang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Penyakit yang disebabkan oleh virus HIV disebut?",
+    "pilihan": {
+      "A": "TBC",
+      "B": "Diabetes",
+      "C": "Chikungunya",
+      "D": "Hepatitis",
+      "E": "AIDS"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "HIV dapat menular melalui cairan tubuh berikut, kecuali?",
+    "pilihan": {
+      "A": "Darah",
+      "B": "Air mani",
+      "C": "Air susu ibu",
+      "D": "Keringat",
+      "E": "Cairan vagina"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Latihan yang bertujuan untuk meningkatkan kecepatan adalah?",
+    "pilihan": {
+      "A": "Lari zig-zag",
+      "B": "Lari jarak jauh",
+      "C": "Jogging 10 menit",
+      "D": "Push up berantai",
+      "E": "Lari sprint 30 meter"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Berikut adalah cara pencegahan penularan HIV/AIDS di tempat pelayanan kesehatan, kecuali?",
+    "pilihan": {
+      "A": "Menggunakan jarum suntik sekali pakai",
+      "B": "Memastikan darah donor aman",
+      "C": "Menggunakan alat bedah yang steril",
+      "D": "Membuang limbah medis sembarangan",
+      "E": "Menggunakan pelindung seperti sarung tangan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada senam lantai, gerakan roll depan bertujuan untuk melatih?",
+    "pilihan": {
+      "A": "Keseimbangan",
+      "B": "Kekuatan otot tangan",
+      "C": "Kelentukan dan koordinasi",
+      "D": "Daya tahan tubuh",
+      "E": "Kelincahan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Berikut adalah strategi dalam permainan bulu tangkis, kecuali?",
+    "pilihan": {
+      "A": "Mengontrol permainan dengan pukulan clear",
+      "B": "Melakukan smash bertubi-tubi",
+      "C": "Menggunakan dropshot untuk mengecoh lawan",
+      "D": "Menghindari variasi pukulan",
+      "E": "Mengatur posisi tubuh saat bertahan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Teknik menggiring bola dalam sepak bola bertujuan untuk?",
+    "pilihan": {
+      "A": "Menembakkan bola ke gawang",
+      "B": "Mengoper bola ke teman",
+      "C": "Menghindari penjagaan lawan",
+      "D": "Mengontrol bola yang datang",
+      "E": "Menyundul bola"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pada renang gaya bebas, gerakan kaki dilakukan secara?",
+    "pilihan": {
+      "A": "Bersamaan dan naik turun",
+      "B": "Bergantian",
+      "C": "Mengepak",
+      "D": "Melingkar",
+      "E": "Menghentak"
+    },
+    "jawaban": "b"
+  }
+]

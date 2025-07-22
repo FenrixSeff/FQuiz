@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Hak Asasi Manusia (HAM) bersifat universal, artinya?",
+    "pilihan": {
+      "A": "Berlaku hanya di Indonesia",
+      "B": "Bergantung pada status sosial",
+      "C": "Hanya berlaku untuk warga negara tertentu",
+      "D": "Bersifat sementara",
+      "E": "Berlaku untuk semua manusia di dunia"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Lembaga yang bertugas mengawasi pelaksanaan HAM di Indonesia adalah?",
+    "pilihan": {
+      "A": "Komisi Nasional Hak Asasi Manusia (Komnas HAM)",
+      "B": "Komisi Pemberantasan Korupsi (KPK)",
+      "C": "Mahkamah Konstitusi (MK)",
+      "D": "Badan Intelijen Negara (BIN)",
+      "E": "Kejaksaan Agung"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Contoh pelanggaran HAM berat adalah?",
+    "pilihan": {
+      "A": "Pemukulan oleh anggota Polri",
+      "B": "Pembunuhan massal dalam konflik",
+      "C": "Pencurian kendaraan bermotor",
+      "D": "Penipuan online",
+      "E": "Kekerasan dalam pacaran"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pasal dalam UUD 1945 yang menjamin hak kebebasan beragama adalah?",
+    "pilihan": {
+      "A": "Pasal 28 I",
+      "B": "Pasal 33",
+      "C": "Pasal 31 ayat 1",
+      "D": "Pasal 32 ayat 1",
+      "E": "Pasal 29 ayat 2"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Demokrasi Pancasila menjunjung tinggi musyawarah untuk mufakat. Prinsip ini berasal dari nilai?",
+    "pilihan": {
+      "A": "Materialisme",
+      "B": "Gotong royong",
+      "C": "Individualisme",
+      "D": "Kerakyatan",
+      "E": "Liberalisme"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu ciri demokrasi Pancasila adalah?",
+    "pilihan": {
+      "A": "Kekuasaan ditentukan oleh mayoritas tanpa menghiraukan minoritas",
+      "B": "Kebebasan tanpa batas",
+      "C": "Pemungutan suara dilakukan dengan kekerasan",
+      "D": "Tidak ada pengawasan dari rakyat",
+      "E": "Pemerintahan berdasarkan hukum (rule of law)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sistem hukum Indonesia berasal dari tradisi hukum?",
+    "pilihan": {
+      "A": "Romawi",
+      "B": "Jerman",
+      "C": "Islam",
+      "D": "Kolonial Belanda",
+      "E": "Kombinasi berbagai sistem hukum"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Lembaga peradilan yang memeriksa perkara terkait pelanggaran HAM berat adalah?",
+    "pilihan": {
+      "A": "Mahkamah Agung (MA)",
+      "B": "Mahkamah Konstitusi (MK)",
+      "C": "Pengadilan HAM",
+      "D": "Pengadilan Negeri",
+      "E": "Pengadilan Militer"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Perjanjian internasional yang menjadi dasar perlindungan HAM global adalah?",
+    "pilihan": {
+      "A": "Universal Declaration of Human Rights (UDHR)",
+      "B": "ASEAN Human Rights Declaration",
+      "C": "Konvensi Jenewa",
+      "D": "Piagam PBB",
+      "E": "Konvensi Hak Anak"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Peran Indonesia dalam perdamaian dunia terlihat dari partisipasi dalam?",
+    "pilihan": {
+      "A": "Sanksi ekonomi unilateral",
+      "B": "Perang saudara di negara lain",
+      "C": "Ekspor senjata ke negara konflik",
+      "D": "Operasi penjaga perdamaian PBB (UN Peacekeepers)",
+      "E": "Pembentukan aliansi militer ofensif"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Ancaman terhadap integrasi nasional dari dalam negeri adalah?",
+    "pilihan": {
+      "A": "Globalisasi",
+      "B": "Radikalisme dan separatisme",
+      "C": "Perubahan iklim",
+      "D": "Inflasi",
+      "E": "Krisis energi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Strategi mengatasi ancaman disintegrasi bangsa adalah?",
+    "pilihan": {
+      "A": "Membatasi kebebasan beragama",
+      "B": "Menggalakkan konflik antargolongan",
+      "C": "Memperkuat kesadaran Bhinneka Tunggal Ika",
+      "D": "Menghapus otonomi daerah",
+      "E": "Mengabaikan budaya lokal"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara diatur dalam?",
+    "pilihan": {
+      "A": "Pembukaan UUD 1945 Alinea I",
+      "B": "Pasal 28 UUD 1945",
+      "C": "Pasal 1 UUD 1945",
+      "D": "Pembukaan UUD 1945 Alinea IV",
+      "E": "Undang-Undang Dasar Sementara 1950"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai ideologi negara berfungsi sebagai?",
+    "pilihan": {
+      "A": "Pedoman pemilihan pemimpin",
+      "B": "Landasan hukum pembangunan",
+      "C": "Pandangan hidup bangsa",
+      "D": "Sumber anggaran negara",
+      "E": "Dasar pembentukan partai politik"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Bentuk negara Indonesia adalah?",
+    "pilihan": {
+      "A": "Republik federasi",
+      "B": "Kerajaan konstitusional",
+      "C": "Republik kesatuan",
+      "D": "Republik parlementer",
+      "E": "Oligarki"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sistem pemerintahan Indonesia berdasarkan UUD 1945 adalah?",
+    "pilihan": {
+      "A": "Presidensial",
+      "B": "Parlementer",
+      "C": "Federal",
+      "D": "Monarki konstitusional",
+      "E": "Diktator"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Lembaga tinggi negara yang bertugas mengubah dan menetapkan UUD 1945 adalah?",
+    "pilihan": {
+      "A": "DPR",
+      "B": "Mahkamah Agung",
+      "C": "Mahkamah Konstitusi",
+      "D": "Presiden",
+      "E": "MPR"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kedaulatan negara Indonesia berada di tangan?",
+    "pilihan": {
+      "A": "Presiden",
+      "B": "DPR",
+      "C": "Rakyat",
+      "D": "TNI",
+      "E": "Partai politik"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai sumber nilai dalam penyelenggaraan negara diatur dalam?",
+    "pilihan": {
+      "A": "UU No. 2 Tahun 2020",
+      "B": "UU No. 39 Tahun 1999",
+      "C": "UU No. 12 Tahun 2011",
+      "D": "UU No. 24 Tahun 2009",
+      "E": "UU No. 5 Tahun 1985"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pasal dalam UUD 1945 yang mengatur tentang sistem peradilan di Indonesia adalah?",
+    "pilihan": {
+      "A": "Pasal 24",
+      "B": "Pasal 25",
+      "C": "Pasal 26",
+      "D": "Pasal 27",
+      "E": "Pasal 28"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Lembaga yang bertugas menjaga keamanan dalam negeri adalah?",
+    "pilihan": {
+      "A": "TNI",
+      "B": "BNN",
+      "C": "BIN",
+      "D": "Polri",
+      "E": "BNP2TKI"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Peran Indonesia di ASEAN yang paling menonjol adalah?",
+    "pilihan": {
+      "A": "Mengirimkan pasukan ke negara anggota",
+      "B": "Membangun infrastruktur di negara anggota",
+      "C": "Mengekspor minyak ke negara anggota",
+      "D": "Menjadi tuan rumah Piala Dunia",
+      "E": "Menjadi penengah konflik regional"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ancaman dari luar negeri yang dapat mengganggu integrasi nasional adalah?",
+    "pilihan": {
+      "A": "Kesenjangan ekonomi",
+      "B": "Radikalisme agama",
+      "C": "Intervensi asing melalui budaya (cultural invasion)",
+      "D": "Korupsi",
+      "E": "Krisis energi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Strategi untuk mengatasi ancaman cyber terhadap persatuan bangsa adalah?",
+    "pilihan": {
+      "A": "Membatasi penggunaan internet",
+      "B": "Meningkatkan literasi digital dan keamanan siber",
+      "C": "Menghapus media sosial",
+      "D": "Mengontrol semua situs web",
+      "E": "Menyensor informasi dari luar negeri"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar pembangunan nasional terlihat dalam?",
+    "pilihan": {
+      "A": "Pembangunan infrastruktur",
+      "B": "Peningkatan ekspor",
+      "C": "Pengurangan utang negara",
+      "D": "Pembangunan yang berkeadilan dan berkelanjutan",
+      "E": "Penghapusan subsidi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu prinsip demokrasi Pancasila adalah?",
+    "pilihan": {
+      "A": "Kedaulatan rakyat",
+      "B": "Kekuasaan absolut",
+      "C": "Kekuasaan partai mayoritas",
+      "D": "Kekuasaan militer",
+      "E": "Kekuasaan presiden mutlak"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kerukunan antarumat beragama di Indonesia diwujudkan melalui?",
+    "pilihan": {
+      "A": "Diskriminasi agama",
+      "B": "Pembatasan kegiatan keagamaan",
+      "C": "Penghapusan agama",
+      "D": "Pembentukan kelompok eksklusif",
+      "E": "Pembangunan tempat ibadah yang seimbang"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai sumber nilai dalam kehidupan berbangsa dan bernegara tercermin dalam?",
+    "pilihan": {
+      "A": "Pemilihan umum",
+      "B": "Pengambilan keputusan secara sepihak",
+      "C": "Pembentukan undang-undang",
+      "D": "Penghapusan budaya lokal",
+      "E": "Pembatasan kebebasan pers"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara dijiwai oleh nilai-nilai agama. Hal ini terlihat dari sila pertama yang berbunyi?",
+    "pilihan": {
+      "A": "Persatuan Indonesia",
+      "B": "Kemanusiaan yang adil dan beradab",
+      "C": "Ketuhanan Yang Maha Esa",
+      "D": "Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan",
+      "E": "Keadilan sosial bagi seluruh rakyat Indonesia"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara pertama kali disampaikan oleh?",
+    "pilihan": {
+      "A": "Soekarno",
+      "B": "Moh. Hatta",
+      "C": "Soepomo",
+      "D": "Sutan Sjahrir",
+      "E": "Achmad Subardjo"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tanggal 1 Juni diperingati sebagai Hari Lahir Pancasila karena pada tanggal tersebut?",
+    "pilihan": {
+      "A": "Pancasila disahkan oleh PPKI",
+      "B": "BPUPKI dibubarkan",
+      "C": "UUD 1945 ditetapkan",
+      "D": "Proklamasi Kemerdekaan Indonesia",
+      "E": "Soekarno menyampaikan pidato tentang dasar negara"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai kepribadian bangsa Indonesia tercermin dalam?",
+    "pilihan": {
+      "A": "Kebiasaan konsumtif",
+      "B": "Gotong royong dan musyawarah",
+      "C": "Individualisme",
+      "D": "Materialisme",
+      "E": "Egoisme"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara berfungsi untuk?",
+    "pilihan": {
+      "A": "Mengatur tata cara pemilu",
+      "B": "Menjadi pedoman penyelenggaraan negara",
+      "C": "Mengganti UUD 1945",
+      "D": "Menjadi dasar pembentukan partai politik",
+      "E": "Menghapuskan otonomi daerah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai ideologi terbuka berarti?",
+    "pilihan": {
+      "A": "Dapat diubah sesuai keinginan penguasa",
+      "B": "Hanya berlaku untuk generasi tertentu",
+      "C": "Bersifat fleksibel tanpa batas",
+      "D": "Dapat diganti dengan ideologi lain",
+      "E": "Mengakomodasi perkembangan zaman dengan tetap berpegang pada nilai-nilai dasarnya"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara diatur dalam dokumen resmi bernama?",
+    "pilihan": {
+      "A": "Piagam Jakarta",
+      "B": "Pembukaan UUD 1945",
+      "C": "Proklamasi Kemerdekaan",
+      "D": "Undang-Undang Dasar Sementara 1950",
+      "E": "TAP MPR No. XVII/MPR/1998"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara pertama kali dinyatakan dalam sidang?",
+    "pilihan": {
+      "A": "Konferensi Meja Bundar",
+      "B": "PPKI",
+      "C": "PKN",
+      "D": "BPUPKI",
+      "E": "Kongres Pemuda 1928"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara harus diamalkan dalam kehidupan sehari-hari, contohnya?",
+    "pilihan": {
+      "A": "Mengabaikan gotong royong",
+      "B": "Menghargai perbedaan pendapat",
+      "C": "Mengutamakan kepentingan kelompok",
+      "D": "Mendiskriminasi kelompok minoritas",
+      "E": "Menghindari musyawarah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara harus dipertahankan karena berfungsi sebagai?",
+    "pilihan": {
+      "A": "Sumber konflik",
+      "B": "Pembenar kekuasaan",
+      "C": "Alat kontrol politik",
+      "D": "Pemersatu bangsa",
+      "E": "Pembatas kebebasan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara harus dikedepankan dalam?",
+    "pilihan": {
+      "A": "Kehidupan pribadi",
+      "B": "Kehidupan sosial, politik, dan kenegaraan",
+      "C": "Kehidupan keluarga",
+      "D": "Kehidupan ekonomi",
+      "E": "Kehidupan budaya"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara harus diamalkan dalam kehidupan bernegara, contohnya?",
+    "pilihan": {
+      "A": "Mengabaikan hukum",
+      "B": "Menghindari partisipasi politik",
+      "C": "Mengutamakan kepentingan kelompok",
+      "D": "Mendiskriminasi warga negara",
+      "E": "Menjunjung tinggi HAM"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara harus dijaga karena merupakan?",
+    "pilihan": {
+      "A": "Warisan kolonial",
+      "B": "Hasil revolusi",
+      "C": "Ideologi sementara",
+      "D": "Kesepakatan bersama para pendiri negara",
+      "E": "Pengaruh asing"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai dasar negara harus diamalkan dalam kehidupan sehari-hari, salah satunya dalam bentuk?",
+    "pilihan": {
+      "A": "Mengabaikan norma sosial",
+      "B": "Menghormati hak orang lain",
+      "C": "Mendahulukan kepentingan pribadi",
+      "D": "Menghindari gotong royong",
+      "E": "Menolak perbedaan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu contoh ancaman terhadap persatuan dan kesatuan bangsa dari dalam negeri adalah?",
+    "pilihan": {
+      "A": "Globalisasi budaya",
+      "B": "Kesenjangan ekonomi antar daerah",
+      "C": "Perubahan iklim",
+      "D": "Krisis energi",
+      "E": "Inflasi tinggi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu contoh ancaman dari luar negeri yang dapat mengganggu integrasi nasional adalah?",
+    "pilihan": {
+      "A": "Propaganda ideologi asing melalui media sosial",
+      "B": "Pembangunan infrastruktur oleh asing",
+      "C": "Kerjasama ekonomi internasional",
+      "D": "Investasi asing di sektor energi",
+      "E": "Kurangnya lapangan kerja"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perwujudan Pancasila dalam kehidupan bermasyarakat adalah?",
+    "pilihan": {
+      "A": "Menghargai perbedaan suku dan agama",
+      "B": "Mendiskriminasi kelompok minoritas",
+      "C": "Mengabaikan musyawarah dalam pengambilan keputusan",
+      "D": "Mengutamakan kepentingan kelompok",
+      "E": "Menghindari gotong royong"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perwujudan Pancasila dalam kehidupan berbangsa dan bernegara adalah?",
+    "pilihan": {
+      "A": "Menghargai HAM dan menjunjung tinggi hukum",
+      "B": "Mengabaikan hukum demi kepentingan penguasa",
+      "C": "Mendiskriminasi warga negara",
+      "D": "Mengutamakan kekuasaan eksekutif",
+      "E": "Menghindari partisipasi dalam pemerintahan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perwujudan Pancasila dalam kehidupan bernegara terlihat dari?",
+    "pilihan": {
+      "A": "Diskriminasi terhadap kelompok tertentu",
+      "B": "Pengambilan keputusan secara sepihak",
+      "C": "Pembatasan hak kebebasan beragama",
+      "D": "Pembentukan undang-undang yang berkeadilan",
+      "E": "Pemungutan pajak secara sewenang-wenang"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu upaya untuk menjaga persatuan dan kesatuan bangsa adalah dengan?",
+    "pilihan": {
+      "A": "Mengutamakan kelompok mayoritas",
+      "B": "Mendorong konflik antar suku",
+      "C": "Mengabaikan budaya daerah",
+      "D": "Meningkatkan solidaritas antar kelompok",
+      "E": "Membatasi kebebasan beragama"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu strategi untuk menghadapi ancaman disintegrasi bangsa adalah?",
+    "pilihan": {
+      "A": "Memperkuat identitas nasional",
+      "B": "Mengabaikan keberagaman",
+      "C": "Mendorong konflik antar daerah",
+      "D": "Menghapus otonomi daerah",
+      "E": "Membatasi kebebasan berpendapat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu bentuk peran aktif siswa dalam menjaga persatuan dan kesatuan bangsa adalah?",
+    "pilihan": {
+      "A": "Menghindari kerja sama dengan teman yang berbeda",
+      "B": "Membedakan teman berdasarkan latar belakang",
+      "C": "Menghargai teman dari suku dan agama berbeda",
+      "D": "Mengutamakan kelompok sendiri",
+      "E": "Mengabaikan norma sosial"
+    },
+    "jawaban": "c"
+  }
+]

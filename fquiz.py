@@ -98,5 +98,5 @@ with open("riwayat.txt", "a") as f:
             f"Total benar: {benar}, Total salah: {salah}, "
             f"Total nilai: {100 / len(isi) * benar}\n")
 
-print(f"[{c}={R}] Instagram: {g}@f.hi_7{R}")
-print(f"[{c}-{R}] FQuiz v1.23.34")
+print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
+print(f"[{c}-{R}] FQuiz v1.33.34")

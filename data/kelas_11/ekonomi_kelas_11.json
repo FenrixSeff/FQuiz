@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "BUMN yang seluruh modalnya dimiliki negara disebut?",
+    "pilihan": {
+      "A": "Persero",
+      "B": "Perum",
+      "C": "Firma",
+      "D": "Persekutuan Komanditer",
+      "E": "Koperasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perhitungan pendapatan nasional yang mengukur total nilai barang/jasa akhir yang dihasilkan dalam suatu negara selama satu tahun disebut?",
+    "pilihan": {
+      "A": "Produk Nasional Bruto (PNB)",
+      "B": "Disposable Income (DI)",
+      "C": "Pendapatan Nasional Neto (PNN)",
+      "D": "Pendapatan Perorangan (PI)",
+      "E": "Produk Domestik Bruto (PDB)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pengangguran yang terjadi karena perubahan struktur ekonomi disebut pengangguran?",
+    "pilihan": {
+      "A": "Friksional",
+      "B": "Struktural",
+      "C": "Musiman",
+      "D": "Konjungtural",
+      "E": "Teknologi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teori kuantitas uang yang dirumuskan Irving Fisher dikenal dengan persamaan?",
+    "pilihan": {
+      "A": "Y = C + S",
+      "B": "C + I + G + (X-M)",
+      "C": "MV = PT",
+      "D": "S = I",
+      "E": "AD = AS"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kebijakan moneter yang dilakukan bank sentral dengan menjual SBI termasuk kebijakan?",
+    "pilihan": {
+      "A": "Pasar terbuka",
+      "B": "Diskonto",
+      "C": "Cadangan kas",
+      "D": "Kredit selektif",
+      "E": "Sanering"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Komponen terbesar dalam struktur penerimaan APBN Indonesia biasanya berasal dari?",
+    "pilihan": {
+      "A": "Pajak",
+      "B": "PNBP",
+      "C": "Hibah",
+      "D": "Utang luar negeri",
+      "E": "Dividen BUMN"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pajak yang bebannya dapat dialihkan kepada pihak lain disebut pajak?",
+    "pilihan": {
+      "A": "Langsung",
+      "B": "Tidak langsung",
+      "C": "Subjektif",
+      "D": "Objektif",
+      "E": "Proporsional"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Organisasi kerjasama ekonomi internasional yang anggotanya negara-negara di kawasan Asia Tenggara adalah?",
+    "pilihan": {
+      "A": "APEC",
+      "B": "OPEC",
+      "C": "ASEAN",
+      "D": "EU",
+      "E": "NAFTA"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "BUMD adalah badan usaha yang dimiliki oleh?",
+    "pilihan": {
+      "A": "Pemerintah pusat",
+      "B": "Pemerintah daerah",
+      "C": "Swasta nasional",
+      "D": "Koperasi",
+      "E": "Asing"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Rumus untuk menghitung Pendapatan Per Kapita adalah?",
+    "pilihan": {
+      "A": "PI dikurangi pajak langsung",
+      "B": "PNB dikurangi penyusutan",
+      "C": "NNP ditambah transfer payment",
+      "D": "PDB dibagi jumlah penduduk",
+      "E": "PDB ditambah pendapatan neto luar negeri"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sistem upah dimana pekerja mendapat bagian keuntungan perusahaan disebut?",
+    "pilihan": {
+      "A": "Upah waktu",
+      "B": "Upah borongan",
+      "C": "Upah satuan",
+      "D": "Upah partisipasi",
+      "E": "Upah skala berubah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Indeks harga yang mengukur perubahan harga bahan baku industri disebut?",
+    "pilihan": {
+      "A": "IHK",
+      "B": "IHP",
+      "C": "IHT",
+      "D": "Indeks harga saham",
+      "E": "Deflator PDB"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kebijakan fiskal ekspansif ditandai dengan?",
+    "pilihan": {
+      "A": "Penurunan pajak dan peningkatan belanja negara",
+      "B": "Peningkatan pajak dan penurunan belanja negara",
+      "C": "Penjualan SBI secara besar-besaran",
+      "D": "Peningkatan suku bunga acuan",
+      "E": "Pengetatan persyaratan kredit"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Fungsi APBN sebagai alat stabilisasi ekonomi berarti APBN berperan untuk?",
+    "pilihan": {
+      "A": "Menciptakan lapangan kerja",
+      "B": "Memelihara stabilitas perekonomian",
+      "C": "Mendistribusikan pendapatan",
+      "D": "Mengatur alokasi sumber daya",
+      "E": "Mendorong pertumbuhan ekonomi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pajak yang dipungut berdasarkan Undang-Undang No. 36 Tahun 2008 adalah?",
+    "pilihan": {
+      "A": "Pajak Pertambahan Nilai",
+      "B": "Pajak Penghasilan",
+      "C": "Pajak Bumi dan Bangunan",
+      "D": "Bea Materai",
+      "E": "Pajak Kendaraan Bermotor"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Manfaat devisa bagi suatu negara adalah KECUALI?",
+    "pilihan": {
+      "A": "Alat pembayaran internasional",
+      "B": "Alat stabilisasi moneter",
+      "C": "Sumber pendapatan negara",
+      "D": "Pembiayaan impor",
+      "E": "Meningkatkan ketergantungan pada negara lain"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Koperasi yang menyediakan kebutuhan pokok anggotanya disebut koperasi?",
+    "pilihan": {
+      "A": "Simpan pinjam",
+      "B": "Produksi",
+      "C": "Konsumsi",
+      "D": "Jasa",
+      "E": "Serba usaha"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Indikator kesenjangan ekonomi yang mengukur ketimpangan distribusi pendapatan adalah?",
+    "pilihan": {
+      "A": "Gini Ratio",
+      "B": "Lorenz Curve",
+      "C": "Indeks Williamson",
+      "D": "Indeks Theil",
+      "E": "Semua benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pengangguran yang terjadi karena tidak tersedianya lapangan kerja disebut pengangguran?",
+    "pilihan": {
+      "A": "Terbuka",
+      "B": "Terselubung",
+      "C": "Musiman",
+      "D": "Setengah menganggur",
+      "E": "Sukarela"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Faktor utama penyebab inflasi di Indonesia adalah?",
+    "pilihan": {
+      "A": "Tekanan permintaan",
+      "B": "Kenaikan biaya produksi",
+      "C": "Ekspektasi inflasi",
+      "D": "Impor inflasi",
+      "E": "Semua benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kebijakan moneter kontraktif bertujuan untuk?",
+    "pilihan": {
+      "A": "Meningkatkan jumlah uang beredar",
+      "B": "Menurunkan jumlah uang beredar",
+      "C": "Mendorong investasi",
+      "D": "Meningkatkan konsumsi",
+      "E": "Memperluas lapangan kerja"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Postur APBN terdiri dari tiga komponen utama yaitu?",
+    "pilihan": {
+      "A": "Penerimaan, belanja, pembiayaan",
+      "B": "Pajak, PNBP, hibah",
+      "C": "Belanja pusat, belanja daerah, transfer",
+      "D": "Rutin, pembangunan, darurat",
+      "E": "Defisit, surplus, berimbang"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Asas pemungutan pajak yang menyatakan pajak harus sesuai dengan kemampuan wajib pajak disebut asas?",
+    "pilihan": {
+      "A": "Wilayah",
+      "B": "Kebangsaan",
+      "C": "Sumber",
+      "D": "Keadilan",
+      "E": "Kepastian"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dampak positif perdagangan internasional adalah?",
+    "pilihan": {
+      "A": "Transfer teknologi",
+      "B": "Spesialisasi produksi",
+      "C": "Peningkatan pilihan konsumen",
+      "D": "Aliran devisa masuk",
+      "E": "Semua benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "BUMN yang bentuknya perseroan terbatas adalah?",
+    "pilihan": {
+      "A": "Perum",
+      "B": "Perjan",
+      "C": "Persero",
+      "D": "Firma",
+      "E": "CV"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "PNN (Pendapatan Nasional Neto) dihitung dengan rumus?",
+    "pilihan": {
+      "A": "PI - Pajak langsung",
+      "B": "PDB + Pendapatan Neto LN",
+      "C": "PNN - Pajak tidak langsung",
+      "D": "PNB - Penyusutan",
+      "E": "NNP + Transfer payment"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Angkatan kerja terdiri dari?",
+    "pilihan": {
+      "A": "Penduduk usia kerja",
+      "B": "Orang yang bekerja dan pengangguran",
+      "C": "Tenaga kerja terdidik",
+      "D": "Pencari kerja baru",
+      "E": "Penduduk usia non-produktif"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Inflasi dengan laju di bawah 10% per tahun disebut inflasi?",
+    "pilihan": {
+      "A": "Hyperinflasi",
+      "B": "Sedang",
+      "C": "Tinggi",
+      "D": "Merayap",
+      "E": "Terbuka"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Alat kebijakan moneter yang mengatur jumlah uang beredar melalui rasio cadangan wajib minimum disebut?",
+    "pilihan": {
+      "A": "Open market operation",
+      "B": "Discount rate policy",
+      "C": "Reserve requirement",
+      "D": "Moral suasion",
+      "E": "Credit control"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sumber penerimaan terbesar APBD provinsi biasanya berasal dari?",
+    "pilihan": {
+      "A": "Pajak daerah",
+      "B": "Retribusi daerah",
+      "C": "Dana perimbangan",
+      "D": "Bagi hasil pajak",
+      "E": "PAD lainnya"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pajak yang dipungut oleh pemerintah pusat tetapi sebagian hasilnya diberikan ke daerah adalah?",
+    "pilihan": {
+      "A": "Pajak penghasilan",
+      "B": "Pajak pertambahan nilai",
+      "C": "Pajak bumi dan bangunan",
+      "D": "Bea materai",
+      "E": "Pajak ekspor"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Faktor yang mempengaruhi nilai tukar mata uang adalah?",
+    "pilihan": {
+      "A": "Tingkat inflasi",
+      "B": "Suku bunga",
+      "C": "Neraca pembayaran",
+      "D": "Ekspektasi pasar",
+      "E": "Semua benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Peran koperasi dalam perekonomian Indonesia adalah sebagai?",
+    "pilihan": {
+      "A": "Penghasil devisa utama",
+      "B": "Pelengkap sektor swasta",
+      "C": "Pengendali monopoli",
+      "D": "Soko guru perekonomian",
+      "E": "Pengatur kebijakan fiskal"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Masalah utama dalam penghitungan pendapatan nasional adalah?",
+    "pilihan": {
+      "A": "Double counting",
+      "B": "Kesenjangan pendapatan",
+      "C": "Ketidakakuratan data",
+      "D": "Perbedaan metode",
+      "E": "Semua benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Upah minimum regional (UMR) ditetapkan untuk melindungi?",
+    "pilihan": {
+      "A": "Pengusaha besar",
+      "B": "Tenaga kerja lokal",
+      "C": "Investor asing",
+      "D": "Pemerintah daerah",
+      "E": "Eksportir"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Indeks harga konsumen (IHK) digunakan untuk mengukur?",
+    "pilihan": {
+      "A": "Perubahan harga barang konsumsi",
+      "B": "Harga saham di bursa efek",
+      "C": "Harga bahan baku industri",
+      "D": "Nilai ekspor dan impor",
+      "E": "Pendapatan per kapita"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kebijakan fiskal yang dilakukan melalui perubahan pengeluaran pemerintah disebut?",
+    "pilihan": {
+      "A": "Kebijakan moneter",
+      "B": "Kebijakan perpajakan",
+      "C": "Kebijakan anggaran",
+      "D": "Kebijakan diskonto",
+      "E": "Kebijakan cadangan kas"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Defisit APBN dapat dibiayai dengan KECUALI?",
+    "pilihan": {
+      "A": "Utang dalam negeri",
+      "B": "Utang luar negeri",
+      "C": "Pencetakan uang baru",
+      "D": "Penjualan aset negara",
+      "E": "Peningkatan pajak"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pajak langsung adalah pajak yang?",
+    "pilihan": {
+      "A": "Dipungut tanpa surat ketetapan",
+      "B": "Dibayar melalui pihak ketiga",
+      "C": "Dikenakan atas konsumsi",
+      "D": "Bebannya tidak dapat dialihkan",
+      "E": "Dibayar secara berkala"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Manfaat kerjasama ekonomi internasional adalah?",
+    "pilihan": {
+      "A": "Memperluas pasar",
+      "B": "Efisiensi produksi",
+      "C": "Transfer teknologi",
+      "D": "Stabilitas ekonomi",
+      "E": "Semua benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "BUMN yang bergerak di sektor strategis seperti Pertamina termasuk kategori?",
+    "pilihan": {
+      "A": "Firma",
+      "B": "Perum",
+      "C": "Perjan",
+      "D": "Persero",
+      "E": "Holding company"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Komponen dalam pendekatan pengeluaran untuk menghitung PDB adalah?",
+    "pilihan": {
+      "A": "Konsumsi + Tabungan",
+      "B": "Gaji + Sewa + Bunga + Laba",
+      "C": "Nilai tambah seluruh sektor",
+      "D": "C + I + G + (X - M)",
+      "E": "Ekspor - Impor"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tingkat pengangguran alamiah (natural rate of unemployment) terdiri dari?",
+    "pilihan": {
+      "A": "Pengangguran friksional dan struktural",
+      "B": "Pengangguran musiman dan konjungtural",
+      "C": "Pengangguran terselubung dan terbuka",
+      "D": "Pengangguran sukarela dan tak sukarela",
+      "E": "Pengangguran jangka panjang dan pendek"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Indeks harga yang digunakan untuk menghitung inflasi adalah?",
+    "pilihan": {
+      "A": "IHK",
+      "B": "IHP",
+      "C": "Deflator PDB",
+      "D": "Indeks harga saham",
+      "E": "A dan C benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kebijakan moneter longgar (easy money policy) bertujuan untuk?",
+    "pilihan": {
+      "A": "Mendorong pertumbuhan ekonomi",
+      "B": "Mengendalikan inflasi",
+      "C": "Menurunkan investasi",
+      "D": "Menaikkan suku bunga",
+      "E": "Mengurangi jumlah uang beredar"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Fungsi alokasi dalam APBN/APBD berarti anggaran digunakan untuk?",
+    "pilihan": {
+      "A": "Mengarahkan sumber daya ke prioritas",
+      "B": "Menjaga stabilitas ekonomi",
+      "C": "Mendistribusikan pendapatan",
+      "D": "Meningkatkan efisiensi",
+      "E": "Menjaga keseimbangan fiskal"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pajak progresif adalah pajak yang?",
+    "pilihan": {
+      "A": "Dibebankan pada barang mewah",
+      "B": "Tarifnya tetap berapapun pendapatan",
+      "C": "Tarifnya menurun dengan naiknya pendapatan",
+      "D": "Tarifnya meningkat dengan naiknya pendapatan",
+      "E": "Dikenakan pada perusahaan besar"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Faktor pendorong perdagangan internasional adalah?",
+    "pilihan": {
+      "A": "Perbedaan sumber daya alam",
+      "B": "Perbedaan teknologi",
+      "C": "Perbedaan selera",
+      "D": "Efisiensi produksi",
+      "E": "Semua benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Bentuk kerjasama koperasi dengan BUMN dalam perekonomian Indonesia dikenal sebagai?",
+    "pilihan": {
+      "A": "Sistem ekonomi kerakyatan",
+      "B": "Tripartit",
+      "C": "Kemitraan",
+      "D": "Sinergi BUMN-Koperasi",
+      "E": "Pola kemandirian ekonomi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Masalah dalam penghitungan pendapatan nasional dengan pendekatan pendapatan adalah?",
+    "pilihan": {
+      "A": "Kesulitan menghitung pendapatan informal",
+      "B": "Double counting",
+      "C": "Perbedaan nilai tambah",
+      "D": "Keterbatasan data pengeluaran",
+      "E": "Ketidakakuratan data ekspor-impor"
+    },
+    "jawaban": "a"
+  }
+]
