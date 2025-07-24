@@ -220,15 +220,15 @@
     "jawaban": "e"
   },
   {
-  "pertanyaan": "Inti pokok yang termuat dalam Pembukaan UUD 1945 adalah?",
-  "pilihan": {
-    "A": "Dasar negara Pancasila",
-    "B": "Tujuan pembentukan negara Indonesia",
-    "C": "Pernyataan kemerdekaan bangsa Indonesia",
-    "D": "Kedaulatan rakyat",
-    "E": "Semua jawaban benar"
-  },
-  "jawaban": "e"
+    "pertanyaan": "Inti pokok yang termuat dalam Pembukaan UUD 1945 adalah?",
+    "pilihan": {
+      "A": "Dasar negara Pancasila",
+      "B": "Tujuan pembentukan negara Indonesia",
+      "C": "Pernyataan kemerdekaan bangsa Indonesia",
+      "D": "Kedaulatan rakyat",
+      "E": "Semua jawaban benar"
+    },
+    "jawaban": "e"
   },
   {
     "pertanyaan": "PNI pimpinan soekarno didirikan kembali pada?",

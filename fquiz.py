@@ -99,4 +99,4 @@ with open("riwayat.txt", "a") as f:
             f"Total nilai: {100 / len(isi) * benar}\n")
 
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.33.34")
+print(f"[{c}-{R}] FQuiz v1.34.34")
