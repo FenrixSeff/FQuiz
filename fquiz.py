@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import time
 import random
@@ -7,8 +8,11 @@ from utils import pelajaran
 
 
 target = pelajaran()
-with open(target, "r") as f:
-    isi = json.load(f)
+if target:
+    with open(target, "r") as f:
+        isi = json.load(f)
+else:
+    sys.exit(0)
 
 koreksi = []
 mulai = time.strftime("%H:%M")
@@ -99,4 +103,4 @@ with open("riwayat.txt", "a") as f:
             f"Total nilai: {100 / len(isi) * benar}\n")
 
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.34.34")
+print(f"[{c}-{R}] FQuiz v1.34.36")
