@@ -3,18 +3,24 @@ import sys
 import json
 import time
 import random
+from threading import Thread
 from pathlib import Path
-from utils import pelajaran
+from utils import pelajaran, jumlah_waktu, batas_waktu, sisa_waktu
 
+koreksi = []
+wadah = [0]
 
-target = pelajaran()
-if target:
-    with open(target, "r") as f:
+mapel = pelajaran()
+if mapel:
+    with open(mapel, "r") as f:
         isi = json.load(f)
 else:
     sys.exit(0)
 
-koreksi = []
+wkt = jumlah_waktu()
+b_w = Thread(target=batas_waktu, args=(wkt,), daemon=True).start()
+s_w = Thread(target=sisa_waktu, args=(wkt, wadah), daemon=True).start()
+
 mulai = time.strftime("%H:%M")
 benar = 0
 salah = 0
@@ -31,7 +37,8 @@ R = "\033[0m"
 
 for no, i in enumerate(isi, 1):
     os.system("cls" if os.name == "nt" else "clear")
-    print(f"\n\n[Benar : {benar}] {pg_bn}\n[Salah : {salah}] {pg_sh}")
+    print(f"\n[Waktu : {wadah[0]}]\n[Benar : {benar}] {pg_bn}"
+          f"\n[Salah : {salah}] {pg_sh}")
     print(f"\n[{no}] {i['pertanyaan']}\n")
 
     for opsi, nilai in i["pilihan"].items():
@@ -78,7 +85,7 @@ if koreksi:
     cek = input(f"[{c}?{R}] Koreksi jawaban? (y/n): ").strip().lower()
     if cek == "y":
         print(f"\n\n[{c}≡{R}] Hasil koreksi "
-              f"{c}{target.stem.title()}{R}\n")
+              f"{c}{mapel.stem.title()}{R}\n")
         for i in koreksi:
             print(f"[{i['no']}] {i['soal']}\n")
             time.sleep(random.uniform(0.01, 0.100))
@@ -98,9 +105,9 @@ else:
 
 tgl = time.strftime("%d/%m/%y")
 with open("riwayat.txt", "a") as f:
-    f.write(f"[{mulai}/{tgl}] {target.stem.title()} "
+    f.write(f"[{mulai}/{tgl}] {mapel.stem.title()} "
             f"Total benar: {benar}, Total salah: {salah}, "
             f"Total nilai: {100 / len(isi) * benar}\n")
 
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.34.36")
+print(f"[{c}-{R}] FQuiz v1.37.36")
