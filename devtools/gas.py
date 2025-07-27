@@ -40,7 +40,7 @@ def info_soal(target, kelas):
           f"  [-] Jawaban D: {d}\n"
           f"  [-] Jawaban E: {e}\n")
 
-def rapihkan(target, spasi=2):
+def rapihkan(target, isi, spasi=2):
     with open(target, "w") as f:
         json.dump(isi, f, indent=spasi)
 
@@ -58,6 +58,7 @@ while True:
         break
     elif user == "0":
         exit(0)
+
 while True:
     os.system("clear")
     print("\n\n[≡] Option\n")
@@ -65,7 +66,7 @@ while True:
         print(f"  [{no}] {i}")
     user = int(input("\n[↑] Pilih opsi: "))
     if user == 0:
-        print("\nDevTools v1.2.10")
+        print("\nDevTools v1.3.10")
         exit(0)
 
     elif user == 1:
@@ -74,9 +75,16 @@ while True:
         if d:
             f = buka_file(d)
             info_soal(f, d)
-            y = input("[?] Kembali (y): ")
+            y = input("[?] Kembali? ")
         else:
             pass
 
     elif user == 2:
-        pass
+        os.system("clear")
+        d = pelajaran()
+        if d:
+            f = buka_file(d)
+            rapihkan(d, f)
+            y = input("[?] Kembali? ")
+        else:
+            pass
