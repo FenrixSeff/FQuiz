@@ -53,7 +53,7 @@ while True:
     os.system("clear")
     print("\n\n[≡] DevTools\n\n"
           "  [0] Nggak jadi..\n")
-    user = input("[!] Masukan password untuk mengakses: ").lower()
+    user = input("[!] Masukan password untuk mengakses: ").strip()
     if user == "seffhii":    # Tuh gw spil password nya
         break
     elif user == "0":

@@ -3,12 +3,13 @@ import sys
 import json
 import time
 import random
-from threading import Thread
+from threading import Thread, Event
 from pathlib import Path
-from utils import pelajaran, jumlah_waktu, batas_waktu, sisa_waktu
+from utils import pelajaran, jumlah_waktu, sisa_waktu
 
 koreksi = []
 wadah = [0]
+stop = Event()
 
 mapel = pelajaran()
 if mapel:
@@ -18,8 +19,11 @@ else:
     sys.exit(0)
 
 wkt = jumlah_waktu()
-b_w = Thread(target=batas_waktu, args=(wkt,), daemon=True).start()
-s_w = Thread(target=sisa_waktu, args=(wkt, wadah), daemon=True).start()
+s_w = Thread(
+    target=sisa_waktu,
+    args=(wkt, wadah, stop),
+    daemon=True
+    ).start()
 
 mulai = time.strftime("%H:%M")
 benar = 0
@@ -36,6 +40,8 @@ c = "\033[96m"
 R = "\033[0m"
 
 for no, i in enumerate(isi, 1):
+    if wadah[0] == 0:
+        break
     os.system("cls" if os.name == "nt" else "clear")
     print(f"\n[Waktu : {wadah[0]}]\n[Benar : {benar}] {pg_bn}"
           f"\n[Salah : {salah}] {pg_sh}")
@@ -72,10 +78,11 @@ for no, i in enumerate(isi, 1):
             "isi_user": i["pilihan"][user.upper()]
         })
 
+stop.set()
 os.system("cls" if os.name == "nt" else "clear")
 selesai = time.strftime("%H:%M")
 print("\n")
-print(f"[{y}❒{R}] Selesai.."); time.sleep(0.5)
+print(f"[{y}❒{R}] {'Selesai..' if wadah[0] != 0 else 'Waktu habis..'}")
 print(f"[{g}✔{R}] Total benar: {benar}")
 print(f"[{r}✘{R}] Total salah: {salah}")
 print(f"[{g}⇆{R}] Total nilai: {100 / len(isi) * benar}")
@@ -101,7 +108,7 @@ if koreksi:
     else:
         print(f"[{g}✔{R}] Makasih dah coba project gabut ini brooo")
 else:
-    print(f"[{g}✔{R}] Mantap lu bro")
+    print(f"[{g}✔{R}] Mantap lu brooo..")
 
 tgl = time.strftime("%d/%m/%y")
 with open("riwayat.txt", "a") as f:
@@ -110,4 +117,4 @@ with open("riwayat.txt", "a") as f:
             f"Total nilai: {100 / len(isi) * benar}\n")
 
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.37.36")
+print(f"[{c}-{R}] FQuiz v1.39.37")

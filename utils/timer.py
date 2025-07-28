@@ -15,22 +15,25 @@ def jumlah_waktu():
     dft_lv = [50, 35, 25, 15, 1]
     print()
     while True:
-        user = int(input("[!] Pilih tingkat kesulitan: "))
-        if 0 < user <= len(dft_lv):
+        try:
+            user = int(input("[!] Pilih tingkat kesulitan: "))
+            if 0 < user <= len(dft_lv):
+                return dft_lv[user -1]
+            print("\n[!] Pilih tingkat kesulitan yang tersedia!!")
+        except ValueError:
+            print("\n[!] Masukin angka brooo..")
+
+# def batas_waktu(waktu):
+    # time.sleep(waktu * 60)
+    # os._exit(0)
+
+def sisa_waktu(waktu, wadah, berhenti):
+    for i in range(waktu, -1, -1):
+        if berhenti.is_set():
             break
-        print("\n[!] Pilih tingkat kesulitan yang tersedia!!")
-    return dft_lv[user -1]
-
-def batas_waktu(waktu):
-    time.sleep(waktu * 60)
-    os._exit(0)
-
-def sisa_waktu(waktu, wadah):
-    for i in range(waktu, 0, -1):
         wadah[0] = i
         time.sleep(60)
 
 if __name__ == "__main__":
     jumlah_waktu()
-    batas_waktu()
     sisa_waktu()
