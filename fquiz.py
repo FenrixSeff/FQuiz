@@ -5,8 +5,11 @@ import time
 import random
 from threading import Thread, Event
 from pathlib import Path
-from utils import pelajaran, jumlah_waktu, sisa_waktu
+from utils import pelajaran
+from utils import jumlah_waktu, sisa_waktu
+from utils import init_db, simpan_riwayat
 
+init_db()
 koreksi = []
 wadah = [0]
 stop = Event()
@@ -81,11 +84,12 @@ for no, i in enumerate(isi, 1):
 stop.set()
 os.system("cls" if os.name == "nt" else "clear")
 selesai = time.strftime("%H:%M")
+nilai = 100 / len(isi) * benar
 print("\n")
 print(f"[{y}❒{R}] {'Selesai..' if wadah[0] != 0 else 'Waktu habis..'}")
 print(f"[{g}✔{R}] Total benar: {benar}")
 print(f"[{r}✘{R}] Total salah: {salah}")
-print(f"[{g}⇆{R}] Total nilai: {100 / len(isi) * benar}")
+print(f"[{g}⇆{R}] Total nilai: {nilai}")
 print(f"[{y}Ω{R}] {mulai} - {selesai}")
 
 if koreksi:
@@ -111,10 +115,7 @@ else:
     print(f"[{g}✔{R}] Mantap lu brooo..")
 
 tgl = time.strftime("%d/%m/%y")
-with open("riwayat.txt", "a") as f:
-    f.write(f"[{mulai}/{tgl}] {mapel.stem.title()} "
-            f"Total benar: {benar}, Total salah: {salah}, "
-            f"Total nilai: {100 / len(isi) * benar}\n")
+simpan_riwayat(tgl, mapel.stem, wkt, wadah[0], benar, salah, nilai)
 
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.39.37")
+print(f"[{c}-{R}] FQuiz v1.43.38")

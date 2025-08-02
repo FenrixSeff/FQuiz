@@ -5,7 +5,7 @@ from pathlib import Path
 
 lok = Path(__file__).resolve().parent.parent
 sys.path.append(str(lok))
-from utils import pelajaran
+from utils import pelajaran, hapus_semua_riwayat
 
 def buka_file(target):
     with open(target, "r") as f:
@@ -46,6 +46,7 @@ def rapihkan(target, isi, spasi=2):
 
 dft = {"1": "Cek distribusi jawaban",
        "2": "Set indentasi file",
+       "3": "Hapus riwayat",
        "0": "Keluar"
     }
 
@@ -66,7 +67,7 @@ while True:
         print(f"  [{no}] {i}")
     user = int(input("\n[↑] Pilih opsi: "))
     if user == 0:
-        print("\nDevTools v1.3.10")
+        print("\nDevTools v1.4.13")
         exit(0)
 
     elif user == 1:
@@ -88,3 +89,8 @@ while True:
             y = input("[?] Kembali? ")
         else:
             pass
+    elif user == 3:
+        os.system("clear")
+        hapus_semua_riwayat()
+        print("\n")
+        y = input("[?] Kembali? ")

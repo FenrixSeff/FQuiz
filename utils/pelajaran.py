@@ -1,6 +1,7 @@
 import os
 import sys
 from pathlib import Path
+from .db_handler import buka_riwayat
 
 g = "\033[92m"
 y = "\033[93m"
@@ -18,9 +19,13 @@ def pelajaran():
         for no, kelas in enumerate(dft_kls, 1):
             print(f"  [{no}] {kelas.name.title()}")
 
-        print(f"  [0] Keluar")
+        print("  [0] Keluar\n"
+              "  [$] Riwayat")
         while True:     # validasi input user
             pilih_kelas = input(f"\n[{g}↑{R}] Pilih kelas: ").strip()
+            if pilih_kelas in["riwayat", "logs", "$"]:
+                buka_riwayat()
+                return
             if pilih_kelas.isdigit():
                 no_kls = int(pilih_kelas)
                 if 0 < no_kls <= len(dft_kls):

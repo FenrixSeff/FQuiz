@@ -19,13 +19,10 @@ def jumlah_waktu():
             user = int(input("[!] Pilih tingkat kesulitan: "))
             if 0 < user <= len(dft_lv):
                 return dft_lv[user -1]
+
             print("\n[!] Pilih tingkat kesulitan yang tersedia!!")
         except ValueError:
             print("\n[!] Masukin angka brooo..")
-
-# def batas_waktu(waktu):
-    # time.sleep(waktu * 60)
-    # os._exit(0)
 
 def sisa_waktu(waktu, wadah, berhenti):
     for i in range(waktu, -1, -1):
