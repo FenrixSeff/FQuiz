@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Pemberontakan PKI Madiun terjadi pada tahun...",
+    "pilihan": {
+      "A": "1945",
+      "B": "1946",
+      "C": "1948",
+      "D": "1950",
+      "E": "1965"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tokoh yang memimpin pemberontakan DI/TII di Jawa Barat adalah...",
+    "pilihan": {
+      "A": "Sekarmadji Maridjan Kartosuwiryo",
+      "B": "Dewan Banteng",
+      "C": "Sjafruddin Prawiranegara",
+      "D": "Ibrahim Adjie",
+      "E": "Nasution"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Peristiwa G30S/PKI terjadi pada tanggal...",
+    "pilihan": {
+      "A": "17 Agustus 1945",
+      "B": "27 Desember 1949",
+      "C": "30 September 1965",
+      "D": "1 Oktober 1965",
+      "E": "11 Maret 1966"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pemberontakan Republik Maluku Selatan (RMS) dipimpin oleh...",
+    "pilihan": {
+      "A": "Natsir",
+      "B": "Andi Aziz",
+      "C": "Sjafruddin Prawiranegara",
+      "D": "Dr. Soumokil",
+      "E": "Sudirman"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pemberontakan PRRI-Permesta terjadi pada tahun...",
+    "pilihan": {
+      "A": "1948-1950",
+      "B": "1956-1961",
+      "C": "1965-1966",
+      "D": "1966-1970",
+      "E": "1998-1999"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Masa Demokrasi Parlementer di Indonesia berlangsung pada periode...",
+    "pilihan": {
+      "A": "1945-1949",
+      "B": "1949-1950",
+      "C": "1966-1998",
+      "D": "1959-1965",
+      "E": "1950-1959"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ciri khas masa Demokrasi Parlementer adalah...",
+    "pilihan": {
+      "A": "Presiden memegang kekuasaan penuh",
+      "B": "Kabinet dipimpin oleh perdana menteri dan bertanggung jawab kepada parlemen",
+      "C": "Tidak ada partai politik",
+      "D": "Pemerintahan otoriter",
+      "E": "Pemilihan umum langsung"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Konferensi Asia Afrika pertama diselenggarakan di kota...",
+    "pilihan": {
+      "A": "Jakarta",
+      "B": "Bali",
+      "C": "Yogyakarta",
+      "D": "Surabaya",
+      "E": "Bandung"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Konferensi Asia Afrika diadakan pada tahun...",
+    "pilihan": {
+      "A": "1945",
+      "B": "1949",
+      "C": "1955",
+      "D": "1965",
+      "E": "1975"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Gerakan Non-Blok resmi berdiri pada tahun 1961 di...",
+    "pilihan": {
+      "A": "Bandung",
+      "B": "India",
+      "C": "Mesir",
+      "D": "Yugoslavia",
+      "E": "Kuba"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Lahirnya Orde Baru ditandai dengan dikeluarkannya...",
+    "pilihan": {
+      "A": "Proklamasi Kemerdekaan",
+      "B": "Dekrit Presiden 5 Juli 1959",
+      "C": "Supersemar",
+      "D": "Traktat Renville",
+      "E": "Perjanjian Linggarjati"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Supersemar dikeluarkan oleh Presiden Soekarno pada tanggal...",
+    "pilihan": {
+      "A": "1 Maret 1966",
+      "B": "11 Maret 1966",
+      "C": "27 Desember 1949",
+      "D": "17 Agustus 1945",
+      "E": "30 September 1965"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada tahap lanjut pembangunan Orde Baru, fokus bergeser ke sektor?",
+    "pilihan": {
+      "A": "Pertanian",
+      "B": "Jasa",
+      "C": "Perdagangan",
+      "D": "Pertambangan",
+      "E": "Perindustrian"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pemilu pertama pada masa Orde Baru diselenggarakan pada tahun...",
+    "pilihan": {
+      "A": "1955",
+      "B": "1965",
+      "C": "1971",
+      "D": "1977",
+      "E": "1992"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pada masa Orde Baru, partai politik dibatasi menjadi tiga, yaitu...",
+    "pilihan": {
+      "A": "PNI, NU, dan PKI",
+      "B": "PPP, PDI, dan PKB",
+      "C": "PDI, PKB, dan PAN",
+      "D": "Golkar, PDI-P, dan PKS",
+      "E": "Golkar, PPP, dan PDI"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Masa Reformasi di Indonesia dimulai setelah pengunduran diri Presiden Soeharto pada tanggal...",
+    "pilihan": {
+      "A": "20 Mei 1998",
+      "B": "21 Mei 1998",
+      "C": "22 Mei 1998",
+      "D": "23 Mei 1998",
+      "E": "24 Mei 1998"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu ciri utama masa Reformasi adalah...",
+    "pilihan": {
+      "A": "Pemerintahan otoriter",
+      "B": "Pembatasan kebebasan pers",
+      "C": "Desentralisasi kekuasaan melalui otonomi daerah",
+      "D": "Dominasi satu partai politik",
+      "E": "Pembubaran organisasi masyarakat"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pemilu pertama pada masa Reformasi diselenggarakan pada tahun...",
+    "pilihan": {
+      "A": "1997",
+      "B": "1998",
+      "C": "1999",
+      "D": "2000",
+      "E": "2004"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Setelah berakhirnya Perang Dingin, dunia memasuki era...",
+    "pilihan": {
+      "A": "Uni Soviet berkuasa",
+      "B": "Amerika Serikat sebagai satu-satunya superpower",
+      "C": "Perang Dunia III",
+      "D": "Dominasi Jepang",
+      "E": "Kebangkitan Tiongkok"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Organisasi regional di Asia Tenggara yang didirikan pada tahun 1967 adalah...",
+    "pilihan": {
+      "A": "APEC",
+      "B": "ASEAN",
+      "C": "SAARC",
+      "D": "OPEC",
+      "E": "NAFTA"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu tujuan utama ASEAN adalah...",
+    "pilihan": {
+      "A": "Membentuk kesatuan militer",
+      "B": "Menciptakan stabilitas politik dan pertumbuhan ekonomi di kawasan",
+      "C": "Menggabungkan semua negara menjadi satu negara",
+      "D": "Menghancurkan pengaruh Barat",
+      "E": "Membentuk blok perdagangan dengan Eropa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada masa Demokrasi Terpimpin, sistem pemerintahan Indonesia berubah menjadi...",
+    "pilihan": {
+      "A": "Presidensial murni",
+      "B": "Parlementer",
+      "C": "Presidensial dengan ciri-ciri otoriter",
+      "D": "Monarki konstitusional",
+      "E": "Federal"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dekrit Presiden 5 Juli 1959 dikeluarkan oleh Presiden...",
+    "pilihan": {
+      "A": "Soekarno",
+      "B": "Soeharto",
+      "C": "Sukarno",
+      "D": "B.J. Habibie",
+      "E": "Abdurrahman Wahid"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dekrit Presiden 5 Juli 1959 mengembalikan sistem pemerintahan Indonesia ke...",
+    "pilihan": {
+      "A": "UUD 1945",
+      "B": "Konstitusi RIS",
+      "C": "UUD 1950",
+      "D": "Peraturan Pemerintah Pengganti UU",
+      "E": "Konferensi Meja Bundar"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada masa Demokrasi Terpimpin, terdapat konsep NASAKOM yang merupakan singkatan dari...",
+    "pilihan": {
+      "A": "Nasionalis, Agama, Kapitalis",
+      "B": "Nasionalis, Sosialis, Komunis",
+      "C": "Nasionalis, Agama, Sosialis",
+      "D": "Nasionalis, Agama, Komunis",
+      "E": "Nasionalis, Sosialis, Kapitalis"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Peristiwa yang menjadi awal runtuhnya Orde Baru adalah...",
+    "pilihan": {
+      "A": "Pemilu 1997",
+      "B": "Krisis ekonomi 1997-1998",
+      "C": "Pemilu 1999",
+      "D": "Reformasi 1998",
+      "E": "Tragedi Semanggi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Setelah berakhirnya Perang Dingin, negara-negara yang sebelumnya tergabung dalam blok Timur membentuk organisasi bernama...",
+    "pilihan": {
+      "A": "NATO",
+      "B": "Warsawa Pact",
+      "C": "European Union",
+      "D": "Commonwealth of Independent States",
+      "E": "ASEAN"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada masa Reformasi, sistem pemerintahan Indonesia mengalami perubahan dengan diberlakukannya amandemen UUD 1945 sebanyak...",
+    "pilihan": {
+      "A": "1 kali",
+      "B": "2 kali",
+      "C": "3 kali",
+      "D": "4 kali",
+      "E": "5 kali"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Amandemen UUD 1945 yang mengatur tentang masa jabatan presiden dan wakil presiden adalah...",
+    "pilihan": {
+      "A": "Amandemen I",
+      "B": "Amandemen II",
+      "C": "Amandemen III",
+      "D": "Amandemen IV",
+      "E": "Amandemen V"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tokoh yang berperan penting dalam mempertahankan keutuhan bangsa Indonesia melawan pemberontakan DI/TII adalah...",
+    "pilihan": {
+      "A": "Sukarno",
+      "B": "Soeharto",
+      "C": "Nasution",
+      "D": "Sjafruddin Prawiranegara",
+      "E": "Sekarmadji Maridjan Kartosuwiryo"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pada masa Orde Baru, pembangunan nasional dilaksanakan melalui program...",
+    "pilihan": {
+      "A": "KPLH",
+      "B": "PELITA",
+      "C": "REPELITA",
+      "D": "BKT",
+      "E": "GBHN"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Repelita adalah singkatan dari...",
+    "pilihan": {
+      "A": "Rencana Pembangunan Lima Tahun",
+      "B": "Rencana Pembangunan Lima Tahunan",
+      "C": "Rencana Pembangunan Lima Tahunan Indonesia",
+      "D": "Rencana Pembangunan Lima Tahunan Nasional",
+      "E": "Rencana Pembangunan Lima Tahunan Republik Indonesia"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada masa Reformasi, terjadi perubahan dalam sistem pemerintahan dengan diterapkannya sistem...",
+    "pilihan": {
+      "A": "Sentralisasi",
+      "B": "Desentralisasi",
+      "C": "Federal",
+      "D": "Otoriter",
+      "E": "Monarki"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "UU yang menjadi dasar pemberlakuan otonomi daerah pada masa Reformasi adalah...",
+    "pilihan": {
+      "A": "UU No. 24 Tahun 2000",
+      "B": "UU No. 25 Tahun 1999",
+      "C": "UU No. 23 Tahun 2014",
+      "D": "UU No. 22 Tahun 1999",
+      "E": "UU No. 5 Tahun 1974"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada masa Demokrasi Parlementer, terjadi pergantian kabinet yang sangat sering, hal ini disebabkan oleh...",
+    "pilihan": {
+      "A": "Kepentingan partai politik yang berbeda",
+      "B": "Intervensi asing",
+      "C": "Kegagalan ekonomi",
+      "D": "Konflik militer",
+      "E": "Semua jawaban benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tokoh yang menjadi Panglima Tertinggi dalam operasi penumpasan PRRI-Permesta adalah...",
+    "pilihan": {
+      "A": "Soeharto",
+      "B": "Haryono",
+      "C": "Sudirman",
+      "D": "Yani",
+      "E": "Nasution"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada masa Orde Baru, lembaga yang berperan dalam pengawasan dan penegakan hukum adalah...",
+    "pilihan": {
+      "A": "Dewan Perwakilan Rakyat",
+      "B": "Komisi Pemberantasan Korupsi",
+      "C": "Mahkamah Konstitusi",
+      "D": "Mahkamah Agung",
+      "E": "Dewan Pertimbangan Agung"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada masa Reformasi, lembaga baru yang dibentuk untuk mengawasi korupsi adalah...",
+    "pilihan": {
+      "A": "Mahkamah Agung",
+      "B": "Komnas HAM",
+      "C": "Mahkamah Konstitusi",
+      "D": "Ombudsman",
+      "E": "Komisi Pemberantasan Korupsi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada masa Demokrasi Terpimpin, Soekarno mengeluarkan kebijakan Konfrontasi dengan Malaysia yang bertujuan untuk...",
+    "pilihan": {
+      "A": "Mencegah pembentukan Federasi Malaysia",
+      "B": "Memperluas wilayah Indonesia",
+      "C": "Mendukung pemberontakan di Malaysia",
+      "D": "Meningkatkan hubungan dengan Inggris",
+      "E": "Membentuk negara Melayu Raya"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Secara resmi, kebijakan luar negeri Indonesia pada masa Orde Baru adalah?",
+    "pilihan": {
+      "A": "Non-blok",
+      "B": "Pro-Barat",
+      "C": "Pro-Timur",
+      "D": "Isolasi",
+      "E": "Militan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada masa Reformasi, Indonesia mengalami perubahan dalam sistem pemilu dengan diterapkannya sistem...",
+    "pilihan": {
+      "A": "Proporsional tertutup",
+      "B": "Proporsional terbuka",
+      "C": "Distrik",
+      "D": "Mayoritas",
+      "E": "Campuran"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada masa Demokrasi Parlementer, terjadi pergantian kabinet sebanyak...",
+    "pilihan": {
+      "A": "7 kali",
+      "B": "10 kali",
+      "C": "17 kali",
+      "D": "20 kali",
+      "E": "25 kali"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada masa Orde Baru, GBHN merupakan singkatan dari...",
+    "pilihan": {
+      "A": "Garis Besar Haluan Nasional",
+      "B": "Garis Besar Haluan Pemerintah",
+      "C": "Garis Besar Haluan Pembangunan",
+      "D": "Garis Besar Haluan Negara",
+      "E": "Garis Besar Haluan Republik Indonesia"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada masa Reformasi, terjadi perubahan dalam sistem pemerintahan dengan diberlakukannya sistem...",
+    "pilihan": {
+      "A": "Monarki konstitusional",
+      "B": "Parlementer",
+      "C": "Presidensial dengan ciri-ciri parlementer",
+      "D": "Presidensial murni",
+      "E": "Federal"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada masa Demokrasi Terpimpin, Soekarno mengeluarkan kebijakan Nasakom yang bertujuan untuk...",
+    "pilihan": {
+      "A": "Menggabungkan tiga kekuatan politik utama",
+      "B": "Membentuk partai tunggal",
+      "C": "Menghancurkan partai politik",
+      "D": "Membentuk blok militer",
+      "E": "Mengisolasi Indonesia dari dunia luar"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada masa Orde Baru, pembangunan ekonomi difokuskan pada...",
+    "pilihan": {
+      "A": "Pertanian",
+      "B": "Jasa",
+      "C": "Pertambangan",
+      "D": "Perdagangan",
+      "E": "Perindustrian"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada masa Reformasi, Indonesia mengalami perubahan dalam sistem pemerintahan dengan diberlakukannya amandemen UUD 1945 yang mengatur tentang...",
+    "pilihan": {
+      "A": "Masa jabatan presiden",
+      "B": "Pembentukan Mahkamah Konstitusi",
+      "C": "Pembentukan Dewan Perwakilan Daerah",
+      "D": "Semua jawaban benar",
+      "E": "Pembubaran partai politik"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada masa Demokrasi Parlementer, terjadi pergantian kabinet yang sangat sering karena...",
+    "pilihan": {
+      "A": "Kepentingan partai politik yang berbeda",
+      "B": "Intervensi asing",
+      "C": "Kegagalan ekonomi",
+      "D": "Konflik militer",
+      "E": "Semua jawaban benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada masa Orde Baru, lembaga yang berperan dalam pengawasan dan penegakan hukum adalah...",
+    "pilihan": {
+      "A": "Mahkamah Agung",
+      "B": "Komisi Pemberantasan Korupsi",
+      "C": "Mahkamah Konstitusi",
+      "D": "Dewan Perwakilan Rakyat",
+      "E": "Dewan Pertimbangan Agung"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada masa Reformasi, lembaga baru yang dibentuk untuk mengawasi korupsi adalah...",
+    "pilihan": {
+      "A": "Mahkamah Agung",
+      "B": "Komnas HAM",
+      "C": "Mahkamah Konstitusi",
+      "D": "Ombudsman",
+      "E": "Komisi Pemberantasan Korupsi"
+    },
+    "jawaban": "e"
+  }
+]
