@@ -118,4 +118,4 @@ tgl = time.strftime("%d/%m/%y")
 simpan_riwayat(tgl, mapel.stem, wkt, wadah[0], benar, salah, nilai)
 
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.43.38")
+print(f"[{c}-{R}] FQuiz v1.43.39")

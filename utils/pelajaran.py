@@ -24,7 +24,10 @@ def pelajaran():
         while True:     # validasi input user
             pilih_kelas = input(f"\n[{g}↑{R}] Pilih kelas: ").strip()
             if pilih_kelas in["riwayat", "logs", "$"]:
-                buka_riwayat()
+                log = buka_riwayat()
+                for tg, pl, bw, sw, bn, sl, nl in log:
+                    print(f"{tg} | {pl} | {bw} | {sw} "
+                          f"| {bn} | {sl} | {nl}")
                 return
             if pilih_kelas.isdigit():
                 no_kls = int(pilih_kelas)
