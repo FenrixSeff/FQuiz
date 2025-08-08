@@ -5,7 +5,7 @@ from pathlib import Path
 
 lok = Path(__file__).resolve().parent.parent
 sys.path.append(str(lok))
-from utils import pelajaran, hapus_semua_riwayat
+from utils import pelajaran, RiwayatHandler
 
 def buka_file(target):
     with open(target, "r") as f:
@@ -67,7 +67,7 @@ while True:
         print(f"  [{no}] {i}")
     user = int(input("\n[↑] Pilih opsi: "))
     if user == 0:
-        print("\nDevTools v1.4.13")
+        print("\nDevTools v1.5.13")
         exit(0)
 
     elif user == 1:
@@ -91,6 +91,6 @@ while True:
             pass
     elif user == 3:
         os.system("clear")
-        hapus_semua_riwayat()
+        RiwayatHandler().hapus_semua_riwayat()
         print("\n")
         y = input("[?] Kembali? ")

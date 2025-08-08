@@ -7,9 +7,9 @@ from threading import Thread, Event
 from pathlib import Path
 from utils import pelajaran
 from utils import jumlah_waktu, sisa_waktu
-from utils import init_db, simpan_riwayat
+from utils import DatabaseHandler, RiwayatHandler
 
-init_db()
+DatabaseHandler().init_db()
 koreksi = []
 wadah = [0]
 stop = Event()
@@ -115,7 +115,8 @@ else:
     print(f"[{g}✔{R}] Mantap lu brooo..")
 
 tgl = time.strftime("%d/%m/%y")
-simpan_riwayat(tgl, mapel.stem, wkt, wadah[0], benar, salah, nilai)
+RiwayatHandler().simpan_riwayat(tgl, mapel.stem, wkt, wadah[0],
+                                benar, salah, nilai)
 
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.43.39")
+print(f"[{c}-{R}] FQuiz v1.45.40")

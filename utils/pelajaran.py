@@ -1,7 +1,7 @@
 import os
 import sys
 from pathlib import Path
-from .db_handler import buka_riwayat
+from .db_handler import RiwayatHandler
 
 g = "\033[92m"
 y = "\033[93m"
@@ -24,7 +24,7 @@ def pelajaran():
         while True:     # validasi input user
             pilih_kelas = input(f"\n[{g}↑{R}] Pilih kelas: ").strip()
             if pilih_kelas in["riwayat", "logs", "$"]:
-                log = buka_riwayat()
+                log = RiwayatHandler().buka_riwayat()
                 for tg, pl, bw, sw, bn, sl, nl in log:
                     print(f"{tg} | {pl} | {bw} | {sw} "
                           f"| {bn} | {sl} | {nl}")
