@@ -46,19 +46,22 @@ class RiwayatHandler(DatabaseHandler):
     def __init__(self,
                  lokasi_db=DEFAULT_LOC_DB["default"],
                  lokasi_qy=DEFAULT_QUERY["folder_qy"],
-                 lokasi_fqy_simpan_riwayat=DEFAULT_QUERY["simpan"],
-                 lokasi_fqy_buka_riwayat=DEFAULT_QUERY["buka"],
-                 lokasi_fqy_hapus_riwayat=DEFAULT_QUERY["hapus"]):
-        super().__init__(lokasi_db, lokasi_qy)
-        self.fqy_simpan = Path(lokasi_qy / lokasi_fqy_simpan_riwayat)
-        self.fqy_buka = Path(lokasi_qy / lokasi_fqy_buka_riwayat)
-        self.fqy_hapus = Path(lokasi_qy / lokasi_fqy_hapus_riwayat)
+                 fqy_simpan=DEFAULT_QUERY["simpan"],
+                 fqy_buka=DEFAULT_QUERY["buka"],
+                 fqy_hapus=DEFAULT_QUERY["hapus"]):
 
-    def simpan_riwayat(self, tgl, plj, bts_wkt,
-                       wkt_sisa, benar, salah, nilai):
+        super().__init__(lokasi_db, lokasi_qy)
+        self.fqy_simpan = Path(lokasi_qy / fqy_simpan)
+        self.fqy_buka = Path(lokasi_qy / fqy_buka)
+        self.fqy_hapus = Path(lokasi_qy / fqy_hapus)
+
+    def simpan_riwayat(self, tanggal, pelajaran, batas_waktu,
+                       waktu_tersisa, benar, salah, nilai):
+
         query = super().parse_sql(self.fqy_simpan)
         self.kursor.execute(query,(
-            tgl, plj, bts_wkt, wkt_sisa, benar, salah, nilai
+            tanggal, pelajaran, batas_waktu,
+            waktu_tersisa, benar, salah, nilai
         ))
         super().finalize()
 

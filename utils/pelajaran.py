@@ -8,27 +8,47 @@ y = "\033[93m"
 c = "\033[96m"
 R = "\033[0m"
 
+menu = {
+    "1": "Main",
+    "2": "History",
+    "0": "Keluar"
+    }
+
 def pelajaran():
     data_fld = Path(__file__).parent.parent / "data" # parsing folder
     kelas_fld = list(data_fld.glob("*/"))
 
     while True:
         os.system("cls" if os.name == "nt" else "clear")
+        print(f"\n\n[{c}≡{R}] Menu\n ")
+        for no, dft in menu.items():
+            print(f"  [{no}] {dft}")
+
+        while True:
+            plh_menu = input(f"\n[{g}↑{R}] Pilih menu: ").strip().lower()
+            match plh_menu:
+                case "2" | "history" | "riwayat":
+                    log = RiwayatHandler().buka_riwayat()
+                    for tg, pl, bw, sw, bn, sl, nl in log:
+                        print(f"{tg} | {pl} | {bw} | {sw} "
+                              f"| {bn} | {sl} | {nl}")
+                    input("\n[?] Kembali? ")
+                case "1" | "start" | "main":
+                    break
+                case "0" | "exit" | "keluar":
+                    return
+                case _:
+                    print(f"\n[{y}!{R}] Pilih menu yang tersedia!")
+
+        os.system("cls" if os.name == "nt" else "clear")
         dft_kls = [k for k in kelas_fld if k.is_dir()] # angkut fld
         print(f"\n\n[{c}≡{R}] Daftar Kelas\n ")
         for no, kelas in enumerate(dft_kls, 1):
             print(f"  [{no}] {kelas.name.title()}")
 
-        print("  [0] Keluar\n"
-              "  [$] Riwayat")
+        print("  [0] Keluar")
         while True:     # validasi input user
             pilih_kelas = input(f"\n[{g}↑{R}] Pilih kelas: ").strip()
-            if pilih_kelas in["riwayat", "logs", "$"]:
-                log = RiwayatHandler().buka_riwayat()
-                for tg, pl, bw, sw, bn, sl, nl in log:
-                    print(f"{tg} | {pl} | {bw} | {sw} "
-                          f"| {bn} | {sl} | {nl}")
-                return
             if pilih_kelas.isdigit():
                 no_kls = int(pilih_kelas)
                 if 0 < no_kls <= len(dft_kls):
@@ -48,7 +68,7 @@ def pelajaran():
         for no, mapel in enumerate(mapel_file, 1):
             print(f"  [{no}] {mapel.stem.title()}")
 
-        print(f"  [0] Kembali")
+        print(f"  [0] Main menu")
         while True:
             pilih_mapel = input(f"\n[{g}↑{R}] Pilih mapel: ").strip()
             if pilih_mapel.isdigit():
