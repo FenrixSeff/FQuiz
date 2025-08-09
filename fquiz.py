@@ -114,9 +114,10 @@ if koreksi:
 else:
     print(f"[{g}✔{R}] Mantap lu brooo..")
 
-tgl = time.strftime("%d/%m/%y")
+tgl = time.strftime("%A, %d %B %Y")
 RiwayatHandler().simpan_riwayat(tgl, mapel.stem, wkt, wadah[0],
-                                benar, salah, nilai)
+                                f"{mulai} - {selesai}", benar, salah,
+                                nilai)
 
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.47.41")
+print(f"[{c}-{R}] FQuiz v1.48.41")

@@ -1,5 +1,7 @@
 import os
 import sys
+import time
+import random
 from pathlib import Path
 from .db_handler import RiwayatHandler
 
@@ -35,21 +37,24 @@ def pelajaran():
                     print(f"\n\n[{c}≡{R}] History\n ")
                     log = RiwayatHandler().buka_riwayat()
                     sep = "+" + '—' * 16 + "+" + "—" * 35 + "+"
-                    for tg, pl, bw, sw, bn, sl, nl in log:
+                    for tg, pl, bw, sw, wm, bn, sl, nl in log:
                         dft = [
                             ("Tanggal", tg),
                             ("Mapel", pl.title()),
                             ("Batas Waktu", f"{bw} Menit"),
                             ("Waktu Tersisa", f"{sw} Menit"),
+                            ("Mulai", wm),
                             ("Benar", bn),
                             ("Salah", sl),
                             ("Nilai (%)", nl)
                         ]
                         for label, val in dft:
-                            print(sep)
+                            print(sep, flush=True)
                             print(f"| {label:<14} | "
-                                  f"{str(val)[:33]:<33} |")
-                        print(sep + "\n")
+                                  f"{str(val)[:33]:<33} |", flush=True)
+                            time.sleep(random.uniform(0.01, 0.100))
+                        print(sep + "\n", flush=True)
+                        time.sleep(random.uniform(0.01, 0.100))
                     input("[?] Kembali? ")
                     menu_utama(menu)
 

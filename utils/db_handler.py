@@ -56,12 +56,14 @@ class RiwayatHandler(DatabaseHandler):
         self.fqy_hapus = Path(lokasi_qy / fqy_hapus)
 
     def simpan_riwayat(self, tanggal, pelajaran, batas_waktu,
-                       waktu_tersisa, benar, salah, nilai):
+                       waktu_tersisa, mulai_mengerjakan,
+                       benar, salah, nilai):
 
         query = super().parse_sql(self.fqy_simpan)
         self.kursor.execute(query,(
             tanggal, pelajaran, batas_waktu,
-            waktu_tersisa, benar, salah, nilai
+            waktu_tersisa, mulai_mengerjakan,
+            benar, salah, nilai
         ))
         super().finalize()
 
