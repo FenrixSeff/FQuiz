@@ -119,4 +119,4 @@ RiwayatHandler().simpan_riwayat(tgl, mapel.stem, wkt, wadah[0],
                                 benar, salah, nilai)
 
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.46.41")
+print(f"[{c}-{R}] FQuiz v1.47.41")

@@ -14,25 +14,45 @@ menu = {
     "0": "Keluar"
     }
 
+def menu_utama(dict_target, msg="Menu"):
+    os.system("cls" if os.name == "nt" else "clear")
+    print(f"\n\n[{c}≡{R}] {msg}\n ")
+    for no, dft in dict_target.items():
+        print(f"  [{no}] {dft}")
+
 def pelajaran():
     data_fld = Path(__file__).parent.parent / "data" # parsing folder
     kelas_fld = list(data_fld.glob("*/"))
 
     while True:
-        os.system("cls" if os.name == "nt" else "clear")
-        print(f"\n\n[{c}≡{R}] Menu\n ")
-        for no, dft in menu.items():
-            print(f"  [{no}] {dft}")
+        menu_utama(menu)
 
         while True:
-            plh_menu = input(f"\n[{g}↑{R}] Pilih menu: ").strip().lower()
-            match plh_menu:
+            plh_mnu = input(f"\n[{g}↑{R}] Pilih menu: ").strip().lower()
+            match plh_mnu:
                 case "2" | "history" | "riwayat":
+                    os.system("cls" if os.name == "nt" else "clear")
+                    print(f"\n\n[{c}≡{R}] History\n ")
                     log = RiwayatHandler().buka_riwayat()
+                    sep = "+" + '—' * 16 + "+" + "—" * 35 + "+"
                     for tg, pl, bw, sw, bn, sl, nl in log:
-                        print(f"{tg} | {pl} | {bw} | {sw} "
-                              f"| {bn} | {sl} | {nl}")
-                    input("\n[?] Kembali? ")
+                        dft = [
+                            ("Tanggal", tg),
+                            ("Mapel", pl.title()),
+                            ("Batas Waktu", f"{bw} Menit"),
+                            ("Waktu Tersisa", f"{sw} Menit"),
+                            ("Benar", bn),
+                            ("Salah", sl),
+                            ("Nilai (%)", nl)
+                        ]
+                        for label, val in dft:
+                            print(sep)
+                            print(f"| {label:<14} | "
+                                  f"{str(val)[:33]:<33} |")
+                        print(sep + "\n")
+                    input("[?] Kembali? ")
+                    menu_utama(menu)
+
                 case "1" | "start" | "main":
                     break
                 case "0" | "exit" | "keluar":
