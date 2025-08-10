@@ -36,21 +36,21 @@ def pelajaran():
                     os.system("cls" if os.name == "nt" else "clear")
                     print(f"\n\n[{c}≡{R}] History\n ")
                     log = RiwayatHandler().buka_riwayat()
-                    sep = "+" + '—' * 16 + "+" + "—" * 35 + "+"
+                    sep = "+" + '—' * 19 + "+" + "—" * 35 + "+"
                     for tg, pl, bw, sw, wm, bn, sl, nl in log:
                         dft = [
                             ("Tanggal", tg),
-                            ("Mapel", pl.title()),
+                            ("Mata Pelajaran", pl.title()),
                             ("Batas Waktu", f"{bw} Menit"),
                             ("Waktu Tersisa", f"{sw} Menit"),
-                            ("Mulai", wm),
-                            ("Benar", bn),
-                            ("Salah", sl),
-                            ("Nilai (%)", nl)
+                            ("Mulai Mengerjakan", wm),
+                            ("Jumlah Benar", bn),
+                            ("Jumlah Salah", sl),
+                            ("Nilai Akhir (%)", nl)
                         ]
                         for label, val in dft:
                             print(sep, flush=True)
-                            print(f"| {label:<14} | "
+                            print(f"| {label[:17]:<17} | "
                                   f"{str(val)[:33]:<33} |", flush=True)
                             time.sleep(random.uniform(0.01, 0.100))
                         print(sep + "\n", flush=True)
