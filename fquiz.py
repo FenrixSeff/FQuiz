@@ -108,6 +108,9 @@ if koreksi:
                   f"{i['kunci_user'].upper()}. {i['isi_user']}     "
                   f"{r}<~{R} Jawabanmu\n")
 
+        with open(Path(__file__).parent / ".quote/quote.json", "r")as f:
+            quote = json.load(f)
+        print(f"\n[{g}φ{R}] Motivation: {c}{random.choice(quote)}{R}")
         print(f"\n[{c}≡{R}] Corrected By Fenrix")
     else:
         print(f"[{g}✔{R}] Makasih dah coba project gabut ini brooo")
@@ -120,4 +123,4 @@ RiwayatHandler().simpan_riwayat(tgl, mapel.stem, wkt, wadah[0],
                                 nilai)
 
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.48.41")
+print(f"[{c}-{R}] FQuiz v1.49.41")

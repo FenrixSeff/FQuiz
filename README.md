@@ -27,6 +27,7 @@ Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interakti
     - Nilai Akhir
 
 - **Fitur Lainnya**:
+  - Koreksi jawaban otomatis
   - Auto-stop saat melebihi batas waktu
   - Developer tools untuk mengolah soal (beta)
 
@@ -42,7 +43,7 @@ git clone https://github.com/FenrixSeff/FQuiz.git
 ```
 2. Masuk ke direktori
 ```bash
-cd Fquiz
+cd FQuiz
 ```
 ## Penggunaan
 Jalankan program dengan perintah:
@@ -64,7 +65,7 @@ Kontribusi dan saran sangat diterima. Silakan buat Issue atau Pull Request
 
 ## Pengembang
 
-- **GitHub**: "[@FenrixSeff](https://github.com/FenrixSeff)"
-- **Instagram**: "[@seff_hi7](https://instagram.com/seff_hi7)"
+- **GitHub**: [FenrixSeff](https://github.com/FenrixSeff)
+- **Instagram**: [seff_hi7](https://instagram.com/seff_hi7)
 
 **License**: Open-source
