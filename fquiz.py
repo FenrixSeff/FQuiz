@@ -1,6 +1,5 @@
 import os
 import sys
-import json
 import time
 import random
 from threading import Thread, Event
@@ -8,6 +7,7 @@ from pathlib import Path
 from utils import pelajaran
 from utils import jumlah_waktu, sisa_waktu
 from utils import DatabaseHandler, RiwayatHandler
+from utils import parse_json
 
 DatabaseHandler().init_db()
 koreksi = []
@@ -15,11 +15,7 @@ wadah = [0]
 stop = Event()
 
 mapel = pelajaran()
-if mapel:
-    with open(mapel, "r") as f:
-        isi = json.load(f)
-else:
-    sys.exit(0)
+isi = parse_json(mapel) if mapel else sys.exit(0)
 
 wkt = jumlah_waktu()
 s_w = Thread(
@@ -107,11 +103,6 @@ if koreksi:
             print(f"  [{r}✘{R}] Jawaban salah: "
                   f"{i['kunci_user'].upper()}. {i['isi_user']}     "
                   f"{r}<~{R} Jawabanmu\n")
-
-        with open(Path(__file__).parent / ".quote/quote.json", "r")as f:
-            quote = json.load(f)
-        print(f"\n[{g}φ{R}] Motivation: {c}{random.choice(quote)}{R}")
-        print(f"\n[{c}≡{R}] Corrected By Fenrix")
     else:
         print(f"[{g}✔{R}] Makasih dah coba project gabut ini brooo")
 else:
@@ -119,8 +110,11 @@ else:
 
 tgl = time.strftime("%A, %d %B %Y")
 RiwayatHandler().simpan_riwayat(tgl, mapel.stem, wkt, wadah[0],
-                                f"{mulai} - {selesai}", benar, salah,
-                                nilai)
+                                f"{mulai} - {selesai}", benar,
+                                salah, nilai)
 
+quote = parse_json(Path(__file__).parent / ".quote/quote.json")
+print(f"\n[{g}φ{R}] Motivation: {c}{random.choice(quote)}{R}")
+print(f"\n[{c}≡{R}] Corrected By Fenrix")
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.49.41")
+print(f"[{c}-{R}] FQuiz v1.49.42")
