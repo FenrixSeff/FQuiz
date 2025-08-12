@@ -32,7 +32,7 @@ def olah_menu():
         user = menu_utama()
         match user:
             case "1" | "start" | "main":
-                pelajaran()
+                return pelajaran()
             case "2" | "history" | "riwayat":
                 riwayat()
             case "0" | "exit" | "keluar":
