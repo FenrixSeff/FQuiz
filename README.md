@@ -52,8 +52,17 @@ Jalankan program dengan perintah:
 python fquiz.py
 ```
 ## Demo
+- Tampilan saat mengerjakan soal
 
-![Tampilan program saat dijalankan](assets/example.jpg)
+![Pengerjaan soal](assets/contoh_menjalankan_fquiz.jpg)
+
+- Koreksi otomatis
+
+![Koreksi otomatis](assets/contoh_hasil_koreksi.jpg)
+
+- Tabel riwayat
+
+![Riwayat](assets/contoh_riwayat.jpg)
 
 ## Status Pengembangan
 
