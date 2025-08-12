@@ -4,7 +4,7 @@ import time
 import random
 from threading import Thread, Event
 from pathlib import Path
-from utils import pelajaran
+from utils import olah_menu
 from utils import jumlah_waktu, sisa_waktu
 from utils import DatabaseHandler, RiwayatHandler
 from utils import parse_json
@@ -14,7 +14,7 @@ koreksi = []
 wadah = [0]
 stop = Event()
 
-mapel = pelajaran()
+mapel = olah_menu()
 isi = parse_json(mapel) if mapel else sys.exit(0)
 
 wkt = jumlah_waktu()
@@ -117,4 +117,4 @@ quote = parse_json(Path(__file__).parent / ".quote/quote.json")
 print(f"\n[{g}φ{R}] Motivation: {c}{random.choice(quote)}{R}")
 print(f"\n[{c}≡{R}] Corrected By Fenrix")
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.49.42")
+print(f"[{c}-{R}] FQuiz v1.49.43")

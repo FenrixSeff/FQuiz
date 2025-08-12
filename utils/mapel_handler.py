@@ -3,75 +3,24 @@ import sys
 import time
 import random
 from pathlib import Path
-from .db_handler import RiwayatHandler
 
 g = "\033[92m"
 y = "\033[93m"
 c = "\033[96m"
 R = "\033[0m"
 
-menu = {
-    "1": "Main",
-    "2": "History",
-    "0": "Keluar"
-    }
-
-def menu_utama(dict_target, msg="Menu"):
-    os.system("cls" if os.name == "nt" else "clear")
-    print(f"\n\n[{c}≡{R}] {msg}\n ")
-    for no, dft in dict_target.items():
-        print(f"  [{no}] {dft}")
-
 def pelajaran():
     data_fld = Path(__file__).parent.parent / "data" # parsing folder
     kelas_fld = list(data_fld.glob("*/"))
 
     while True:
-        menu_utama(menu)
-
-        while True:
-            plh_mnu = input(f"\n[{g}↑{R}] Pilih menu: ").strip().lower()
-            match plh_mnu:
-                case "2" | "history" | "riwayat":
-                    os.system("cls" if os.name == "nt" else "clear")
-                    print(f"\n\n[{c}≡{R}] History\n ")
-                    log = RiwayatHandler().buka_riwayat()
-                    sep = "+" + '—' * 19 + "+" + "—" * 35 + "+"
-                    for tg, pl, bw, sw, wm, bn, sl, nl in log:
-                        dft = [
-                            ("Tanggal", tg),
-                            ("Mata Pelajaran", pl.title()),
-                            ("Batas Waktu", f"{bw} Menit"),
-                            ("Waktu Tersisa", f"{sw} Menit"),
-                            ("Mulai Mengerjakan", wm),
-                            ("Jumlah Benar", bn),
-                            ("Jumlah Salah", sl),
-                            ("Nilai Akhir (%)", nl)
-                        ]
-                        for label, val in dft:
-                            print(sep, flush=True)
-                            print(f"| {label[:17]:<17} | "
-                                  f"{str(val)[:33]:<33} |", flush=True)
-                            time.sleep(random.uniform(0.01, 0.100))
-                        print(sep + "\n", flush=True)
-                        time.sleep(random.uniform(0.01, 0.100))
-                    input("[?] Kembali? ")
-                    menu_utama(menu)
-
-                case "1" | "start" | "main":
-                    break
-                case "0" | "exit" | "keluar":
-                    return
-                case _:
-                    print(f"\n[{y}!{R}] Pilih menu yang tersedia!")
-
         os.system("cls" if os.name == "nt" else "clear")
         dft_kls = [k for k in kelas_fld if k.is_dir()] # angkut fld
         print(f"\n\n[{c}≡{R}] Daftar Kelas\n ")
         for no, kelas in enumerate(dft_kls, 1):
             print(f"  [{no}] {kelas.name.title()}")
 
-        print("  [0] Keluar")
+        print("  [0] Kembali")
         while True:     # validasi input user
             pilih_kelas = input(f"\n[{g}↑{R}] Pilih kelas: ").strip()
             if pilih_kelas.isdigit():
@@ -93,7 +42,7 @@ def pelajaran():
         for no, mapel in enumerate(mapel_file, 1):
             print(f"  [{no}] {mapel.stem.title()}")
 
-        print(f"  [0] Main menu")
+        print(f"  [0] Kembali")
         while True:
             pilih_mapel = input(f"\n[{g}↑{R}] Pilih mapel: ").strip()
             if pilih_mapel.isdigit():
