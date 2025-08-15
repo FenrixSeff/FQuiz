@@ -77,7 +77,4 @@ class RiwayatHandler(DatabaseHandler):
         super().finalize()
 
 if __name__ == "__main__":
-    simpan_riwayat()
-    buka_riwayat()
-    hapus_semua_riwayat()
-    init_db()
+    print("jqq10qjsb")

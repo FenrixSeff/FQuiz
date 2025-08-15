@@ -32,5 +32,4 @@ def sisa_waktu(waktu, wadah, berhenti):
         time.sleep(60)
 
 if __name__ == "__main__":
-    jumlah_waktu()
-    sisa_waktu()
+    print("jsbsh1havs")

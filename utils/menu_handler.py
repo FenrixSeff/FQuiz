@@ -1,7 +1,7 @@
 import os
 import time
 import random
-from .mapel_handler import pelajaran
+from .path_explorer import Telusur
 from .riwayat_handler import riwayat
 
 g = "\033[92m"
@@ -32,7 +32,22 @@ def olah_menu():
         user = menu_utama()
         match user:
             case "1" | "start" | "main":
-                return pelajaran()
+                while True:
+                    src = Telusur()
+                    src.daftar("Daftar Kelas")
+                    kelas = src.angkut_user()
+                    if not kelas:
+                        break
+                    while True:
+                        src.set_target(kelas)
+                        src.set_exstensi("*.json")
+                        src.set_daftar("file")
+                        src.daftar("Daftar Pelajaran")
+                        mapel = src.angkut_user()
+                        if not mapel:
+                            break
+                        return mapel
+
             case "2" | "history" | "riwayat":
                 riwayat()
             case "0" | "exit" | "keluar":
