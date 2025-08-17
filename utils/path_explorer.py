@@ -1,7 +1,4 @@
 import os
-import sys
-import time
-import random
 from pathlib import Path
 
 g = "\033[92m"
@@ -14,43 +11,65 @@ DEFAULT = {
     }
 
 class Telusur:
-    def __init__(self, target=DEFAULT["data"], saring="*/"):
-        self.saring = saring
-        self.target = target
-        self.folder_target = list(self.target.glob(self.saring))
-        self.daftar_kelas = [k for k in self.folder_target if k.is_dir()]
+    def __init__(self, target=DEFAULT["data"]):
+        self.path_target = target
+        self._saring_pola = "*/"
+        self._saring_jenis = "dir"
 
-    def set_exstensi(self, ganti):
-        self.saring = ganti
-        self.folder_target = list(self.target.glob(self.saring))
+    @property
+    def hasil_pencarian(self):
+        if not self.path_target.is_dir():
+            return []
+        return self.path_target.glob(self._saring_pola)
 
-    def set_target(self, ganti):
-        self.target = ganti
-
-    def set_daftar(self, jenis="file"):
-        match jenis:
+    @property
+    def daftar_tersaring(self):
+        hasil = self.hasil_pencarian
+        match self._saring_jenis:
             case "file":
-                self.daftar_kelas = [
-                   k for k in self.folder_target if k.is_file()]
+                return [k for k in hasil if k.is_file()]
+            case "dir":
+                return [k for k in hasil if k.is_dir()]
+            case _:
+                return list(hasil)
 
-    def daftar(self, msg="Folder"):
+    def set_target(self, path_baru):
+        self.path_target = path_baru
+
+    def set_pola(self, pola_baru="*/"):
+        self._saring_pola = pola_baru
+
+    def set_jenis(self, jenis_baru="dir"):
+        parse_jenis = {
+            "dir": "dir", "direktori": "dir", "directory": "dir",
+            "folder": "dir", "file": "file", "files": "file",
+            "semua": "semua", "all": "semua"
+            }
+        self._saring_jenis = parse_jenis.get(jenis_baru.lower(), "semua")
+
+    def tampilkan_daftar(self, msg="Folder"):
         os.system("cls" if os.name == "nt" else "clear")
         print(f"\n\n[{c}≡{R}] {msg}\n ")
-        for no, opsi in enumerate(self.daftar_kelas, 1):
-            print(f"  [{no}] "
-                  f"{opsi.name if opsi.is_dir() else opsi.stem.title()}"
-                  )
+        dft_item = self.daftar_tersaring
+        for no, opsi in enumerate(dft_item, 1):
+            parse = opsi.name if opsi.is_dir() else opsi.stem.title()
+            print(f"  [{no}] {parse}")
         print("  [0] Kembali")
+        return dft_item
 
-    def angkut_user(self, msg="pilh salah satu"):
+    def input_user(self, msg="pilh salah satu"):
+        dft = self.tampilkan_daftar()
+        if not dft:
+            input("Tekan Enter untuk melanjutkan..")
+            return None
         while True:     # validasi input user
             pilih_target = input(f"\n[{g}↑{R}] {msg}: ").strip()
             if pilih_target.isdigit():
                 no_target = int(pilih_target)
-                if 0 < no_target <= len(self.daftar_kelas):
-                    return self.daftar_kelas[no_target -1]
+                if 0 < no_target <= len(dft):
+                    return dft[no_target -1]
                 elif no_target == 0:
-                    return
+                    return None
             print(f"\n[{y}!{R}] Pilih opsi yang tersedia!")
 
 
