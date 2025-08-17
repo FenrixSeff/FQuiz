@@ -1,15 +1,9 @@
 import sqlite3
 from pathlib import Path
 
-lokasi_db = Path(__file__).parent.parent / ".riwayat/riwayat.db"
-lokasi_qy = Path(__file__).parent / "query"
-
-DEFAULT_LOC_DB = {
-    "default": lokasi_db
-    }
-
-DEFAULT_QUERY = {
-    "folder_qy": lokasi_qy,
+DEFAULT = {
+    "folder_qy": Path(__file__).parent / "query",
+    "folder_db": Path(__file__).parent.parent / ".riwayat/riwayat.db",
     "init": "schema.sql",
     "simpan": "add_logs.sql",
     "buka": "open_logs.sql",
@@ -17,8 +11,10 @@ DEFAULT_QUERY = {
     }
 
 class DatabaseHandler:
-    def __init__(self, lokasi_db=DEFAULT_LOC_DB["default"],
-                 lokasi_qy=DEFAULT_QUERY["folder_qy"]):
+    def __init__(self,
+                 lokasi_db=DEFAULT["folder_db"],
+                 lokasi_qy=DEFAULT["folder_qy"]):
+
         self.db = Path(lokasi_db)
         self.qy = Path(lokasi_qy)
         self.konek = sqlite3.connect(self.db)
@@ -36,7 +32,7 @@ class DatabaseHandler:
         except FileNotFoundError:
             raise FileNotFoundError(f"file SQL {target} tidak ditemukan")
 
-    def init_db(self, fqy_init=DEFAULT_QUERY["init"]):
+    def init_db(self, fqy_init=DEFAULT["init"]):
         self.db.touch(exist_ok=True)
         query = self.parse_sql(self.qy / fqy_init)
         self.kursor.executescript(query)
@@ -44,11 +40,11 @@ class DatabaseHandler:
 
 class RiwayatHandler(DatabaseHandler):
     def __init__(self,
-                 lokasi_db=DEFAULT_LOC_DB["default"],
-                 lokasi_qy=DEFAULT_QUERY["folder_qy"],
-                 fqy_simpan=DEFAULT_QUERY["simpan"],
-                 fqy_buka=DEFAULT_QUERY["buka"],
-                 fqy_hapus=DEFAULT_QUERY["hapus"]):
+                 lokasi_db=DEFAULT["folder_db"],
+                 lokasi_qy=DEFAULT["folder_qy"],
+                 fqy_simpan=DEFAULT["simpan"],
+                 fqy_buka=DEFAULT["buka"],
+                 fqy_hapus=DEFAULT["hapus"]):
 
         super().__init__(lokasi_db, lokasi_qy)
         self.fqy_simpan = Path(lokasi_qy / fqy_simpan)
