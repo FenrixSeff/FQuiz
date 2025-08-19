@@ -5,6 +5,5 @@ def parse_json(target):
         isi = json.load(f)
     return isi
 
-
 if __name__ == "__main__":
     print("haii")

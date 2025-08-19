@@ -34,14 +34,20 @@ def olah_menu():
             case "1" | "start" | "main":
                 while True:
                     src = Telusur()
-                    kelas = src.input_user()
+                    kelas = src.input_user(
+                        msg_head="Daftar Kelas",
+                        msg_prompt="Pilih Kelas"
+                    )
                     if not kelas:
                         break
                     while True:
                         src.set_target(kelas)
                         src.set_pola("*.json")
                         src.set_jenis("file")
-                        mapel = src.input_user()
+                        mapel = src.input_user(
+                            msg_head="Daftar Pelajaran",
+                            msg_prompt="Pilih Pelajaran"
+                        )
                         if not mapel:
                             break
                         return mapel
