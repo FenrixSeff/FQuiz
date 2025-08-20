@@ -5,7 +5,7 @@ import random
 from threading import Thread, Event
 from pathlib import Path
 from utils import olah_menu
-from utils import jumlah_waktu, sisa_waktu
+from utils import pilih_durasi_waktu, hitung_mundur
 from utils import DatabaseHandler, RiwayatHandler
 from utils import parse_json
 
@@ -17,9 +17,9 @@ stop = Event()
 mapel = olah_menu()
 isi = parse_json(mapel) if mapel else sys.exit(0)
 
-wkt = jumlah_waktu()
+wkt = pilih_durasi_waktu()
 s_w = Thread(
-    target=sisa_waktu,
+    target=hitung_mundur,
     args=(wkt, wadah, stop),
     daemon=True
     ).start()

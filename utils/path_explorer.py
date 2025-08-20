@@ -23,7 +23,7 @@ class Telusur:
 
     Attributes:
         path_target (Path): Lokasi direktori yang menjadi
-        target penelusuran.
+            target penelusuran.
     """
     def __init__(self, target=DEFAULT["data"]):
         """
@@ -31,7 +31,7 @@ class Telusur:
 
         Args:
             target: Path awal untuk direktori target.
-            Default ke `DEFAULT["data"]`.
+                Default ke `DEFAULT["data"]`.
         """
         self.path_target = Path(target)
         self._saring_pola = "*/"
@@ -50,7 +50,7 @@ class Telusur:
 
         Returns:
             Generator[Path, None, None]: Generator yang Berisi objek
-            Path dari hasil pencarian.
+                Path dari hasil pencarian.
         """
         if not self.path_target.is_dir():
             return []
@@ -68,7 +68,7 @@ class Telusur:
 
         Returns:
             list[Path]: Daftar objek Path yang sudah final dan siap
-            ditampilkan.
+                ditampilkan.
         """
         hasil = self.hasil_pencarian
         match self._saring_jenis:
@@ -86,7 +86,7 @@ class Telusur:
 
         Args:
             path_baru: Path direktori baru yang akan
-            ditelusuri.
+                ditelusuri.
         """
         self.path_target = Path(path_baru)
 
@@ -115,16 +115,16 @@ class Telusur:
 
         Args:
             jenis_baru (str, optional): Jenis item yang diinginkan.
-            Contoh: "dir", "file", "semua". Default ke "dir".
+                Contoh: "dir", "file", "semua". Default ke "dir".
         """
-
         parse_jenis = {
             "dir": "dir", "direktori": "dir", "directory": "dir",
             "folder": "dir","katalog": "dir", "file": "file",
             "files": "file", "berkas": "file", "dokumen": "file",
             "semua": "semua", "all": "semua"
             }
-        self._saring_jenis = parse_jenis.get(jenis_baru.lower(), "semua")
+        self._saring_jenis = parse_jenis.get(jenis_baru.lower(),"semua")
+
 
     def tampilkan_daftar(self, msg_head="Folder") -> list[Path]:
         """
@@ -132,11 +132,11 @@ class Telusur:
 
         Args:
             msg_head (str, optional): Judul yang akan ditampilkan
-            di atas daftar. Default ke "Folder".
+                di atas daftar. Default ke "Folder".
 
         Returns:
             list[Path]: Daftar item yang ditampilkan, untuk digunakan
-            oleh metode lain.
+                oleh metode lain.
         """
         dft_item = self.daftar_tersaring
         os.system("cls" if os.name == "nt" else "clear")
@@ -165,8 +165,8 @@ class Telusur:
                 Default ke "Pilih salah satu".
 
         Returns:
-            Optional[Path]: Objek Path dari item yang dipilih,
-            atau None jika pengguna memilih kembali atau daftar kosong.
+            Optional[Path]: Objek Path dari item yang dipilih, atau None
+                jika pengguna memilih kembali atau daftar kosong.
         """
         daftar = self.tampilkan_daftar(msg_head)
         if not daftar:
