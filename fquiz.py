@@ -6,10 +6,10 @@ from threading import Thread, Event
 from pathlib import Path
 from utils import olah_menu
 from utils import pilih_durasi_waktu, hitung_mundur
-from utils import DatabaseHandler, RiwayatHandler
+from utils import RiwayatHandler
 from utils import parse_json
 
-DatabaseHandler().init_db()
+RiwayatHandler().init_db()
 koreksi = []
 wadah = [0]
 stop = Event()
@@ -117,4 +117,4 @@ quote = parse_json(Path(__file__).parent / ".quote/quote.json")
 print(f"\n[{g}φ{R}] Motivation: {c}{random.choice(quote)}{R}")
 print(f"\n[{c}≡{R}] Corrected By Fenrix")
 print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.50.45")
+print(f"[{c}-{R}] FQuiz v1.50.46")
