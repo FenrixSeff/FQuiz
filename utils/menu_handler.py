@@ -3,6 +3,7 @@ import time
 import random
 from .path_explorer import Telusur
 from .riwayat_handler import riwayat
+from .rowbot import VerticalTable
 
 g = "\033[92m"
 y = "\033[93m"
@@ -17,10 +18,12 @@ menu = {
 
 def menu_utama(dict_target=menu, msg="Menu"):
     while True:
+        table = VerticalTable()
         os.system("cls" if os.name == "nt" else "clear")
         print(f"\n\n[{c}≡{R}] {msg}\n ")
-        for no, dft in dict_target.items():
-            print(f"  [{no}] {dft}")
+        table.add_properties(menu)
+        table.lebar_manual(5, 25)
+        table.show(align="center")
         plh_mnu = input(f"\n[{g}↑{R}] Pilih menu: ").strip().lower()
         arg = ["start", "main", "history", "riwayat", "exit", "keluar"]
         opt = list(dict_target.keys())

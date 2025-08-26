@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+from .rowbot import VerticalTable
 
 def pilih_durasi_waktu() -> int:
     """
@@ -12,16 +13,21 @@ def pilih_durasi_waktu() -> int:
     Returns:
         int: Durasi waktu dalam satuan menit yang dipilih oleh pengguna.
     """
+    table = VerticalTable()
     os.system("cls" if os.name == "nt" else "clear")
     level = {
         "1": {"label": "Santai (50 menit)", "nilai": 50},
         "2": {"label": "Sedang (35 menit)", "nilai": 35},
-        "3": {"label": "Cepat (25 menit)", "nilai:": 25},
+        "3": {"label": "Cepat (25 menit)", "nilai": 25},
         "4": {"label": "Expert (15 menit)", "nilai": 15}
     }
     print("\n\n[≡] Difficulty\n")
-    for no, lv in level.items():
-        print(f"  [{no}] {lv['label']}")
+    opt = [(no, lv["label"]) for no, lv in level.items()]
+    convert = dict(opt)
+    # print(convert)
+    table.add_properties(convert)
+    table.lebar_manual(5, 25)
+    table.show(align="center")
     print()
     while True:
         try:

@@ -2,18 +2,23 @@ import os
 import time
 import random
 from .db_handler import RiwayatHandler
+from .rowbot import VerticalTable
 
 g = "\033[92m"
 y = "\033[93m"
 c = "\033[96m"
 R = "\033[0m"
 
-def riwayat():
+def riwayat(mode="all"):
     os.system("cls" if os.name == "nt" else "clear")
     print(f"\n\n[{c}≡{R}] History\n ")
     log = RiwayatHandler().buka_riwayat()
-    sep = "+" + '—' * 19 + "+" + "—" * 35 + "+"
-    for tg, pl, bw, sw, wm, bn, sl, nl in log:
+    if isinstance(log, tuple):
+        logs = [log]
+    else:
+        logs = log
+    table = VerticalTable()
+    for tg, pl, bw, sw, wm, bn, sl, nl in logs:
         dft = [
             ("Tanggal", tg),
             ("Mata Pelajaran", pl.title()),
@@ -24,11 +29,12 @@ def riwayat():
             ("Jumlah Salah", sl),
             ("Nilai Akhir (%)", nl)
                 ]
-        for label, val in dft:
-            print(sep, flush=True)
-            print(f"| {label[:17]:<17} | "
-                  f"{str(val)[:33]:<33} |", flush=True)
-            time.sleep(random.uniform(0.01, 0.100))
-        print(sep + "\n", flush=True)
-        time.sleep(random.uniform(0.01, 0.100))
+        convert = dict(dft)
+        table.add_properties(convert)
+        table.lebar_manual(19, 35)
+        table.show(align="left", delay=0.01)
+        print()
+        table.clear()
+        time.sleep(random.uniform(0.1, 0.10))
     input("[?] Kembali? ")
+

@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 from typing import Generator, Optional
+from .rowbot import VerticalTable
 
 g = "\033[92m"   # Hijau
 y = "\033[93m"   # Kuning
@@ -138,13 +139,23 @@ class Telusur:
             list[Path]: Daftar item yang ditampilkan, untuk digunakan
                 oleh metode lain.
         """
+        table = VerticalTable()
         dft_item = self.daftar_tersaring
         os.system("cls" if os.name == "nt" else "clear")
         print(f"\n\n[{c}≡{R}] {msg_head}\n ")
-        for no, opsi in enumerate(dft_item, 1):
-            parse = opsi.name if opsi.is_dir() else opsi.stem.title()
-            print(f"  [{no}] {parse}")
-        print("  [0] Kembali")
+        opsi = []
+        for no, folder in enumerate(dft_item, 1):
+            if folder.is_dir():
+                parse = folder.name.title()
+            else:
+                parse = folder.stem.title()
+            opsi.append((no, parse))
+        opsi.append(("0", "Kembali"))
+        convert = dict(opsi)
+        table.add_properties(convert)
+        table.lebar_manual(5, 37)
+        table.show(align="center")
+        table.clear()
         return dft_item
 
 

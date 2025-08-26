@@ -1,4 +1,4 @@
-
+import os
 
 def tabel(header=("Opsi", "Rincian"),
           data=None, kiri=11, kanan=35,
@@ -31,6 +31,8 @@ def tabel(header=("Opsi", "Rincian"),
 
 x = ["data1", "data2", "data3", "data4"]
 y = ["A", "B", "C", "D"]
-tabel(header=None, data=x, angka=False, manual=y)
+tabel(header=None, data=x, angka=False, manual=False)
 
+colum, _ = os.get_terminal_size()
+print("=" *colum)
 # 2 jam bikin kayak ginian doanggg, haaahhhhhhhhhh mending turu
