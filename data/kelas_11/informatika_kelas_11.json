@@ -33,7 +33,7 @@
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Bahasa pemrograman paling populer untuk pengajaran dqsar pemrogaman di sekolah dan perguruan tinggi masa kini adalah?",
+    "pertanyaan": "Bahasa pemrograman paling populer untuk pengajaran dasar pemrogaman di sekolah dan perguruan tinggi masa kini adalah?",
     "pilihan": {
       "A": "Python",
       "B": "Java",
@@ -41,7 +41,7 @@
       "D": "C++",
       "E": "JavaScript"
     },
-    "jawaban": "c"
+    "jawaban": "a"
   },
   {
     "pertanyaan": "Model OSI memiliki berapa lapisan (layer)?",

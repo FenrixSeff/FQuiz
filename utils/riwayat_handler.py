@@ -11,7 +11,6 @@ R = "\033[0m"
 
 def riwayat(mode="all"):
     os.system("cls" if os.name == "nt" else "clear")
-    print(f"\n\n[{c}≡{R}] History\n ")
     log = RiwayatHandler().buka_riwayat()
     if isinstance(log, tuple):
         logs = [log]
@@ -32,9 +31,7 @@ def riwayat(mode="all"):
         convert = dict(dft)
         table.add_properties(convert)
         table.lebar_manual(19, 35)
-        table.show(align="left", delay=0.01)
-        print()
-        table.clear()
-        time.sleep(random.uniform(0.1, 0.10))
+        table.show(header="History", align="left", delay=0.01); print()
+        table.clear(); time.sleep(random.uniform(0.1, 0.10))
     input("[?] Kembali? ")
 

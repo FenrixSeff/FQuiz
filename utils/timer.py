@@ -21,14 +21,10 @@ def pilih_durasi_waktu() -> int:
         "3": {"label": "Cepat (25 menit)", "nilai": 25},
         "4": {"label": "Expert (15 menit)", "nilai": 15}
     }
-    print("\n\n[≡] Difficulty\n")
-    opt = [(no, lv["label"]) for no, lv in level.items()]
-    convert = dict(opt)
-    # print(convert)
-    table.add_properties(convert)
+    opsi = {str(no): lv["label"] for no, lv in level.items()}
+    table.add_properties(opsi)
     table.lebar_manual(5, 25)
-    table.show(align="center")
-    print()
+    table.show(header="Difficulty", align="center"); print()
     while True:
         try:
             user = input("[!] Pilih tingkat kesulitan: ")

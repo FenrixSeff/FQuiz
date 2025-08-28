@@ -8,8 +8,10 @@ from utils import olah_menu
 from utils import pilih_durasi_waktu, hitung_mundur
 from utils import RiwayatHandler
 from utils import parse_json
+from utils import VerticalTable
 
-RiwayatHandler().init_db()
+save = RiwayatHandler()
+save.init_db()
 koreksi = []
 wadah = [0]
 stop = Event()
@@ -27,8 +29,6 @@ s_w = Thread(
 mulai = time.strftime("%H:%M")
 benar = 0
 salah = 0
-pg_bn = ""
-pg_sh = ""
 for i in range(random.randint(1, 100)):
     random.shuffle(isi)
 
@@ -38,16 +38,23 @@ y = "\033[93m"
 c = "\033[96m"
 R = "\033[0m"
 
+table = VerticalTable()
 for no, i in enumerate(isi, 1):
     if wadah[0] == 0:
         break
     os.system("cls" if os.name == "nt" else "clear")
-    print(f"\n[Waktu : {wadah[0]}]\n[Benar : {benar}] {pg_bn}"
-          f"\n[Salah : {salah}] {pg_sh}")
-    print(f"\n[{no}] {i['pertanyaan']}\n")
+    info = {"Waktu": wadah[0], "Benar": benar, "Salah": salah}
+    table.add_properties(info)
+    table.lebar_manual(10, 4)
+    table.show()
+    table.clear()
 
-    for opsi, nilai in i["pilihan"].items():
-        print(f"  {opsi}. {nilai}")
+    table.single_colum(f"{no}. {i['pertanyaan']}", align="left")
+    opsi = {p: j for p, j in i["pilihan"].items()}
+    table.add_properties(opsi)
+    table.lebar_hybrid(auto="kanan", manual=3)
+    table.show()
+    table.clear()
 
     while True:
         user = input(f"\n[{g}↑{R}] Pilih salah satu: ").strip().lower()
@@ -59,14 +66,8 @@ for no, i in enumerate(isi, 1):
 
     if user == i["jawaban"]:
         benar += 1
-        pg_bn = "+" * pg_bn.count("+")
-        pg_bn += f"{g}+{R}"
-        pg_sh = ""
     else:
         salah += 1
-        pg_sh = "+" * pg_sh.count("+")
-        pg_sh += f"{r}+{R}"
-        pg_bn = ""
         k = i["jawaban"]
         koreksi.append({
             "no": no,
@@ -81,40 +82,46 @@ stop.set()
 os.system("cls" if os.name == "nt" else "clear")
 selesai = time.strftime("%H:%M")
 nilai = 100 / len(isi) * benar
-print("\n")
-print(f"[{y}❒{R}] {'Selesai..' if wadah[0] != 0 else 'Waktu habis..'}")
-print(f"[{g}✔{R}] Total benar: {benar}")
-print(f"[{r}✘{R}] Total salah: {salah}")
-print(f"[{g}⇆{R}] Total nilai: {nilai}")
-print(f"[{y}Ω{R}] {mulai} - {selesai}")
+
+shio = {
+    "FQuiz": f"{'Selesai..' if wadah[0] != 0 else 'Waktu habis..'}",
+    "Total benar": f"{benar}",
+    "Total salah": f"{salah}",
+    "Total nilai": f"{nilai}",
+    "Waktu mulai": f"{mulai} - {selesai}"
+    }
+table.add_properties(shio)
+table.lebar_manual(13, 15)
+table.show(); print()
+table.clear()
 
 if koreksi:
     cek = input(f"[{c}?{R}] Koreksi jawaban? (y/n): ").strip().lower()
     if cek == "y":
-        print(f"\n\n[{c}≡{R}] Hasil koreksi "
-              f"{c}{mapel.stem.title()}{R}\n")
+        table.single_colum(f"Hasil Koreksi {mapel.stem.title()}",
+            align="center"); print("\n")
         for i in koreksi:
-            print(f"[{i['no']}] {i['soal']}\n")
-            time.sleep(random.uniform(0.01, 0.100))
-
-            print(f"  [{g}✔{R}] Jawaban benar: "
-                  f"{i['kunci_jawaban'].upper()}. {i['isi_jawaban']}")
-
-            print(f"  [{r}✘{R}] Jawaban salah: "
-                  f"{i['kunci_user'].upper()}. {i['isi_user']}     "
-                  f"{r}<~{R} Jawabanmu\n")
-    else:
-        print(f"[{g}✔{R}] Makasih dah coba project gabut ini brooo")
-else:
-    print(f"[{g}✔{R}] Mantap lu brooo..")
+            table.single_colum(f"{i['no']}. {i['soal']}")
+            kunci_benar = {f"✔": f"{i['kunci_jawaban'].upper()}. "
+                   f"{i['isi_jawaban']}"}
+            kunci_salah = {f"✘": f"{i['kunci_user'].upper()}. "
+                   f"{i['isi_user']}    << Jawaban anda"}
+            table.add_properties(kunci_benar)
+            table.add_properties(kunci_salah)
+            table.lebar_hybrid(auto="kanan", manual=3)
+            table.show(delay=random.uniform(0.01, 0.010)); print("\n")
+            table.clear()
 
 tgl = time.strftime("%A, %d %B %Y")
-RiwayatHandler().simpan_riwayat(tgl, mapel.stem, wkt, wadah[0],
-                                f"{mulai} - {selesai}", benar,
-                                salah, nilai)
+save.simpan_riwayat(tgl, mapel.stem, wkt, wadah[0],
+                    f"{mulai} - {selesai}", benar,
+                    salah, nilai)
 
 quote = parse_json(Path(__file__).parent / ".quote/quote.json")
-print(f"\n[{g}φ{R}] Motivation: {c}{random.choice(quote)}{R}")
-print(f"\n[{c}≡{R}] Corrected By Fenrix")
-print(f"[{c}={R}] Instagram: {g}@seff_hi7{R}")
-print(f"[{c}-{R}] FQuiz v1.50.46")
+table.single_colum(
+    f">> Motivation  : {random.choice(quote)}",
+    ">> Devloper    : Makasih dah coba project gabut ini brooo",
+    ">> Corrected   : Fenrix",
+    ">> Instagram   : @seff_hi7",
+    ">> Version     : FQuiz v1.56.47",
+    align="left")

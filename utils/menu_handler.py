@@ -20,10 +20,9 @@ def menu_utama(dict_target=menu, msg="Menu"):
     while True:
         table = VerticalTable()
         os.system("cls" if os.name == "nt" else "clear")
-        print(f"\n\n[{c}≡{R}] {msg}\n ")
-        table.add_properties(menu)
+        table.add_properties(dict_target)
         table.lebar_manual(5, 25)
-        table.show(align="center")
+        table.show(header=f"{msg}", align="center")
         plh_mnu = input(f"\n[{g}↑{R}] Pilih menu: ").strip().lower()
         arg = ["start", "main", "history", "riwayat", "exit", "keluar"]
         opt = list(dict_target.keys())

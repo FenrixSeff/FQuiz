@@ -18,3 +18,8 @@ for n, v in enumerate(yy, 1):
     ]
     gateng = dict(dft)
     print(gateng)
+
+def sh(*uu):
+    print(len(uu))
+
+sh("wuwhwg", "ihevwwh")

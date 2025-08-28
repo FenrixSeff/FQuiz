@@ -142,19 +142,12 @@ class Telusur:
         table = VerticalTable()
         dft_item = self.daftar_tersaring
         os.system("cls" if os.name == "nt" else "clear")
-        print(f"\n\n[{c}≡{R}] {msg_head}\n ")
-        opsi = []
-        for no, folder in enumerate(dft_item, 1):
-            if folder.is_dir():
-                parse = folder.name.title()
-            else:
-                parse = folder.stem.title()
-            opsi.append((no, parse))
-        opsi.append(("0", "Kembali"))
-        convert = dict(opsi)
-        table.add_properties(convert)
+        opsi = {str(no): fld.name.title() if fld.is_dir() else
+            fld.stem.title() for no, fld in enumerate(dft_item, 1)}
+        opsi["0"] = "Kembali"
+        table.add_properties(opsi)
         table.lebar_manual(5, 37)
-        table.show(align="center")
+        table.show(header=f"{msg_head}", align="center")
         table.clear()
         return dft_item
 
