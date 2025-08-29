@@ -22,18 +22,22 @@ def pilih_durasi_waktu() -> int:
         "4": {"label": "Expert (15 menit)", "nilai": 15}
     }
     opsi = {str(no): lv["label"] for no, lv in level.items()}
+    opsi["0"] = "Kembali"
     table.add_properties(opsi)
     table.lebar_manual(5, 25)
     table.show(header="Difficulty", align="center"); print()
+    msg, icon = "Tingkat Kesulitan", "normal"
     while True:
-        user = table.get_input("Tingkat Kesulitan", info="n")
+        user = table.get_input(msg_prompt=msg, info=icon)
         if user in level:
             return level[user]["nilai"]
+        elif user == "0":
+            return None
         else:
             if user.isdigit():
-                print("\n[!] Pilih tingkat kesulitan yang tersedia!")
+                msg, icon = "Pilih tingkat kesulitan yang tersedia", "w"
             else:
-                print("\n[!] Masukan pilihan yang valid!!")
+                msg, icon = "Masukan pilihan yang valid", "error"
 
 
 def hitung_mundur(durasi_waktu: int, wadah_output: list[int], berhenti):

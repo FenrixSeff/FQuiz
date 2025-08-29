@@ -4,6 +4,7 @@ import random
 from .path_explorer import Telusur
 from .riwayat_handler import riwayat
 from .rowbot import VerticalTable
+from .timer import pilih_durasi_waktu
 
 g = "\033[92m"
 y = "\033[93m"
@@ -17,17 +18,17 @@ menu = {
     }
 
 def menu_utama(dict_target=menu, msg="Menu"):
-    while True:
-        table = VerticalTable()
-        os.system("cls" if os.name == "nt" else "clear")
-        table.add_properties(dict_target)
-        table.lebar_manual(5, 25)
-        table.show(header=f"{msg}", align="center"); print()
-        plh_mnu = table.get_input("Apa yang ingin anda lakukan",info="n")
-        arg = ["start", "main", "history", "riwayat", "exit", "keluar"]
-        opt = list(dict_target.keys())
-        if plh_mnu in arg or opt:
-            return plh_mnu
+    table = VerticalTable()
+    os.system("cls" if os.name == "nt" else "clear")
+    table.add_properties(dict_target)
+    table.lebar_manual(5, 25)
+    table.show(header=f"{msg}", align="center"); print()
+    plh_mnu = table.get_input(msg_prompt="Apa yang ingin anda lakukan",
+                              info="normal")
+    arg = ["start", "main", "history", "riwayat", "exit", "keluar"]
+    opt = list(dict_target.keys())
+    if plh_mnu in arg or opt:
+        return plh_mnu
 
 def olah_menu():
     while True:
@@ -52,12 +53,17 @@ def olah_menu():
                         )
                         if not mapel:
                             break
-                        return mapel
+                        while True:
+                            batas_waktu = pilih_durasi_waktu()
+                            if not batas_waktu:
+                                break
+                            else:
+                                return mapel, batas_waktu
 
             case "2" | "history" | "riwayat":
                 riwayat()
             case "0" | "exit" | "keluar":
-                return
+                return None, None
             case _:
                 pass
 

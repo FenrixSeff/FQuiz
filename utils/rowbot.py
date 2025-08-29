@@ -109,25 +109,37 @@ class VerticalTable:
         print(sep_bawh, flush=True)
 
     def get_input(self, msg_prompt="Masukan pilihan", info="normal"):
+        r = "\033[91m"
+        g = "\033[92m"
+        y = "\033[93m"
+        R = "\033[0m"
+
         p_max = self.size_terminal
         parse = {
-            "normal": "✔", "n": "✔", "eror": "✘", "e": "✘",
+            "normal": "✔", "n": "✔", "error": "✘", "e": "✘",
             "peringatan": "!", "warning": "!", "w": "!"
         }
         icon = parse.get(info.strip().lower(), "normal")
         info_ki = f"╭─[{msg_prompt}]"
         info_ka = f"[{icon}]"
         p_garis = p_max - len(info_ki) - len(info_ka)
+        match icon:
+            case "✘":
+                info_ka = f"[{r}{icon}{R}]"
+            case "!":
+                info_ka = f"[{y}{icon}{R}]"
+            case _:
+                info_ka = f"[{g}{icon}{R}]"
         sep_atas = f"{info_ki}{'─' *p_garis}{info_ka}"
         sep_bawh = "╰─ "
         print(sep_atas, flush=True)
         try:
             user = input(sep_bawh).strip().lower()
         except (EOFError, KeyboardInterrupt):
-            print("\n[!] User memaksa keluar. Exiting...")
+            print("fquiz: User memaksa keluar. Exiting...")
             sys.exit(0)
         except Exception as e:
-            print(f"\n[!] Terjadi kesalahan tidak terduga:\n{e}")
+            print(f"fquiz: Terjadi kesalahan tidak terduga:\n{e}")
             sys.exit(0)
         return user
 

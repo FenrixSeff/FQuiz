@@ -5,46 +5,39 @@ import random
 from threading import Thread, Event
 from pathlib import Path
 from utils import olah_menu
-from utils import pilih_durasi_waktu, hitung_mundur
+from utils import hitung_mundur
 from utils import RiwayatHandler
 from utils import parse_json
 from utils import VerticalTable
 
 save = RiwayatHandler()
 save.init_db()
-koreksi = []
-wadah = [0]
+
+mapel, durasi_waktu = olah_menu()
+soal = parse_json(mapel) if mapel else sys.exit(0)
+
+waktu_tersisa = [0]
 stop = Event()
-
-mapel = olah_menu()
-isi = parse_json(mapel) if mapel else sys.exit(0)
-
-wkt = pilih_durasi_waktu()
-s_w = Thread(
+Thread(
     target=hitung_mundur,
-    args=(wkt, wadah, stop),
-    daemon=True
-    ).start()
+    args=(durasi_waktu, waktu_tersisa, stop),
+    daemon=True).start()
 
-mulai = time.strftime("%H:%M")
+for _ in range(random.randint(1, 100)):
+    random.shuffle(soal)
+
 benar = 0
 salah = 0
-for i in range(random.randint(1, 100)):
-    random.shuffle(isi)
-
-r = "\033[91m"
-g = "\033[92m"
-y = "\033[93m"
-c = "\033[96m"
-R = "\033[0m"
-
 table = VerticalTable()
-for no, i in enumerate(isi, 1):
-    if wadah[0] == 0:
+mulai = time.strftime("%H:%M")
+daftar_koreksi = []
+
+for no, i in enumerate(soal, 1):
+    if waktu_tersisa[0] == 0:
         break
     os.system("cls" if os.name == "nt" else "clear")
-    info = {"Waktu": wadah[0], "Benar": benar, "Salah": salah}
-    table.add_properties(info)
+    bars = {"Waktu": waktu_tersisa[0], "Benar": benar, "Salah": salah}
+    table.add_properties(bars)
     table.lebar_manual(10, 4)
     table.show()
     table.clear()
@@ -56,11 +49,12 @@ for no, i in enumerate(isi, 1):
     table.show(); print()
     table.clear()
 
+    msg, icon = "Kunci jawaban anda", "normal"
     while True:
-        user = table.get_input("Kunci jawaban anda", info="n")
+        user = table.get_input(msg_prompt=msg, info=icon)
         opsi = list(i["pilihan"].keys())
         if user not in[x.lower() for x in opsi]:
-            print(f"[{y}!{R}] Masukan pilihan yang tersedia!!")
+            msg, icon = "Masukan pilihan yang tersedia", "warning"
         else:
             break
 
@@ -69,7 +63,7 @@ for no, i in enumerate(isi, 1):
     else:
         salah += 1
         k = i["jawaban"]
-        koreksi.append({
+        daftar_koreksi.append({
             "no": no,
             "soal": i["pertanyaan"],
             "kunci_jawaban": i["jawaban"],
@@ -81,10 +75,11 @@ for no, i in enumerate(isi, 1):
 stop.set()
 os.system("cls" if os.name == "nt" else "clear")
 selesai = time.strftime("%H:%M")
-nilai = 100 / len(isi) * benar
+nilai = 100 / len(soal) * benar
 
 shio = {
-    "FQuiz": f"{'Selesai..' if wadah[0] != 0 else 'Waktu habis..'}",
+    "FQuiz":
+        f"{'Selesai..' if waktu_tersisa[0] != 0 else 'Waktu habis..'}",
     "Total benar": f"{benar}",
     "Total salah": f"{salah}",
     "Total nilai": f"{nilai}",
@@ -95,12 +90,13 @@ table.lebar_manual(13, 15)
 table.show(); print()
 table.clear()
 
-if koreksi:
-    cek = table.get_input("Koreksi Jawaban anda (y/n)", info="n")
+if daftar_koreksi:
+    cek = table.get_input(msg_prompt="Koreksi Jawaban anda (y/n)",
+                          info="normal")
     if cek == "y":
         table.single_colum(f"Hasil Koreksi {mapel.stem.title()}",
             align="center"); print("\n")
-        for i in koreksi:
+        for i in daftar_koreksi:
             table.single_colum(f"{i['no']}. {i['soal']}")
             kunci_benar = {f"✔": f"{i['kunci_jawaban'].upper()}. "
                    f"{i['isi_jawaban']}"}
@@ -113,9 +109,9 @@ if koreksi:
             table.clear()
 
 tgl = time.strftime("%A, %d %B %Y")
-save.simpan_riwayat(tgl, mapel.stem, wkt, wadah[0],
-                    f"{mulai} - {selesai}", benar,
-                    salah, nilai)
+save.simpan_riwayat(tgl, mapel.stem, durasi_waktu,
+                    waktu_tersisa[0], f"{mulai} - {selesai}",
+                    benar, salah, nilai)
 
 quote = parse_json(Path(__file__).parent / ".quote/quote.json")
 table.single_colum(
@@ -123,5 +119,5 @@ table.single_colum(
     ">> Devloper    : Makasih dah coba project gabut ini brooo",
     ">> Corrected   : Fenrix",
     ">> Instagram   : @seff_hi7",
-    ">> Version     : FQuiz v1.57.47",
+    ">> Version     : FQuiz v1.58.47",
     align="left")

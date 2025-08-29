@@ -175,17 +175,22 @@ class Telusur:
         table = VerticalTable()
         daftar = self.tampilkan_daftar(msg_head)
         if not daftar:
-            table.get_input("Tekan Enter untuk kembali", info="n")
+            table.get_input(msg_prompt="Tekan Enter untuk kembali",
+                            info="normal")
             return None
+        msg, icon = f"{msg_prompt}", "normal"
         while True:     # validasi input user
-            pilih_target = table.get_input(f"{msg_prompt}", info="n")
+            pilih_target = table.get_input(msg_prompt=msg, info=icon)
             if pilih_target.isdigit():
                 no_target = int(pilih_target)
                 if 0 < no_target <= len(daftar):
                     return daftar[no_target -1]
                 elif no_target == 0:
                     return None
-            print(f"\n[{y}!{R}] Pilih opsi yang tersedia!")
+                else:
+                  msg, icon = "Pilih opsi yang tersedia", "warning"
+            else:
+                msg, icon = "Masukan pilihan yang valid", "error"
 
 
 if __name__ == "__main__":

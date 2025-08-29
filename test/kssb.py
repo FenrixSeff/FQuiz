@@ -23,3 +23,7 @@ def sh(*uu):
     print(len(uu))
 
 sh("wuwhwg", "ihevwwh")
+
+def gen():
+    for i in range(1_000):
+        yield i

@@ -54,15 +54,15 @@ python fquiz.py
 ## Demo
 - Tampilan saat mengerjakan soal
 
-![Pengerjaan soal](assets/contoh_menjalankan_fquiz.jpg)
+![Pengerjaan soal](assets/old/contoh_menjalankan_fquiz.jpg)
 
 - Koreksi otomatis
 
-![Koreksi otomatis](assets/contoh_hasil_koreksi.jpg)
+![Koreksi otomatis](assets/old/contoh_hasil_koreksi.jpg)
 
 - Tabel riwayat
 
-![Riwayat](assets/contoh_riwayat.jpg)
+![Riwayat](assets/old/contoh_riwayat.jpg)
 
 ## Status Pengembangan
 

@@ -18,21 +18,20 @@ def riwayat(mode="all"):
     else:
         logs = log
     for tg, pl, bw, sw, wm, bn, sl, nl in logs:
-        dft = [
-            ("Tanggal", tg),
-            ("Mata Pelajaran", pl.title()),
-            ("Batas Waktu", f"{bw} Menit"),
-            ("Waktu Tersisa", f"{sw} Menit"),
-            ("Mulai Mengerjakan", wm),
-            ("Jumlah Benar", bn),
-            ("Jumlah Salah", sl),
-            ("Nilai Akhir (%)", nl)
-                ]
-        convert = dict(dft)
-        table.add_properties(convert)
+        dft = {
+            "Tanggal": tg,
+            "Mata Pelajaran": pl.title(),
+            "Batas Waktu": f"{bw} Menit",
+            "Waktu Tersisa": f"{sw} Menit",
+            "Mulai Mengerjakan": wm,
+            "Jumlah Benar": bn,
+            "Jumlah Salah": sl,
+            "Nilai Akhir (%)": nl
+        }
+        table.add_properties(dft)
         table.lebar_manual(19, 35)
         table.show(header="History", align="left", delay=0.01); print()
         table.clear(); time.sleep(random.uniform(0.1, 0.10))
     print()
-    table.get_input("Tekan Enter untuk kembali", info="n")
+    table.get_input("Tekan Enter untuk kembali", info="normal")
 
