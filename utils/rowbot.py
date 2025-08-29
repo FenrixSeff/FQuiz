@@ -1,5 +1,6 @@
 from textwrap import wrap
 import time
+import sys
 import os
 
 class VerticalTable:
@@ -7,6 +8,14 @@ class VerticalTable:
         self._items = []
         self.p_kiri = 11
         self.p_kanan = 35
+
+    @property
+    def size_terminal(self):
+        try:
+            p_max = os.get_terminal_size().columns
+        except OSError:
+            p_max = 70
+        return p_max
 
     def add_properties(self, data):
         for k, v in data.items():
@@ -16,7 +25,7 @@ class VerticalTable:
         self._items = []
 
     def lebar_auto(self):
-        p_max = os.get_terminal_size().columns
+        p_max = self.size_terminal
         self.p_kiri = (p_max // 3) - 2
         self.p_kanan = p_max - self.p_kiri - 3
 
@@ -32,11 +41,11 @@ class VerticalTable:
         kika = parse.get(auto.strip().lower(), "left")
         match kika:
             case "kiri":
-                p_max = os.get_terminal_size().columns
+                p_max = self.size_terminal
                 self.p_kanan = manual
                 self.p_kiri = p_max - self.p_kanan - 3
             case _:
-                p_max = os.get_terminal_size().columns
+                p_max = self.size_terminal
                 self.p_kiri = manual
                 self.p_kanan = p_max - self.p_kiri - 3
 
@@ -62,6 +71,7 @@ class VerticalTable:
             print(sep_atas)
 
         for i, (k, v) in enumerate(self._items):
+            time.sleep(delay)
             sl_v = wrap(str(v), width=l_ka)
             print(f"│ {str(k)[:l_ki -2]:{rata}{l_ki -2}} "
                   f"│ {str(sl_v[0])[:l_ka -2]:<{l_ka -2}} │",
@@ -73,7 +83,6 @@ class VerticalTable:
                     print(sep_tngh, flush=True)
                     print(f"│ {" ":^{l_ki -2}} "
                           f"│ {str(b):<{l_ka -2}} │", flush=True)
-            time.sleep(delay)
             if i < len(self._items) - 1:
                 print(sep_tngh, flush=True)
         print(sep_bawh, flush=True)
@@ -82,7 +91,7 @@ class VerticalTable:
         if manual:
             p_max = manual
         else:
-            p_max = os.get_terminal_size().columns
+            p_max = self.size_terminal
         parse = {
             "kiri": "<", "left": "<", "<": "<",
             "kanan": ">", "right": ">", ">": ">",
@@ -99,8 +108,32 @@ class VerticalTable:
                 print(f"│ {b:{rata}{p_txt}} │", flush=True)
         print(sep_bawh, flush=True)
 
+    def get_input(self, msg_prompt="Masukan pilihan", info="normal"):
+        p_max = self.size_terminal
+        parse = {
+            "normal": "✔", "n": "✔", "eror": "✘", "e": "✘",
+            "peringatan": "!", "warning": "!", "w": "!"
+        }
+        icon = parse.get(info.strip().lower(), "normal")
+        info_ki = f"╭─[{msg_prompt}]"
+        info_ka = f"[{icon}]"
+        p_garis = p_max - len(info_ki) - len(info_ka)
+        sep_atas = f"{info_ki}{'─' *p_garis}{info_ka}"
+        sep_bawh = "╰─ "
+        print(sep_atas, flush=True)
+        try:
+            user = input(sep_bawh).strip().lower()
+        except (EOFError, KeyboardInterrupt):
+            print("\n[!] User memaksa keluar. Exiting...")
+            sys.exit(0)
+        except Exception as e:
+            print(f"\n[!] Terjadi kesalahan tidak terduga:\n{e}")
+            sys.exit(0)
+        return user
+
 if __name__ == "__main__":
     print("Hoammmmmmm")
     yy = "oaahbsusis"
     table = VerticalTable()
     table.single_colum(yy)
+    table.get_input(msg_prompt="Jawaban anda", info="e")

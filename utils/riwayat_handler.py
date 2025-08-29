@@ -10,13 +10,13 @@ c = "\033[96m"
 R = "\033[0m"
 
 def riwayat(mode="all"):
+    table = VerticalTable()
     os.system("cls" if os.name == "nt" else "clear")
     log = RiwayatHandler().buka_riwayat()
     if isinstance(log, tuple):
         logs = [log]
     else:
         logs = log
-    table = VerticalTable()
     for tg, pl, bw, sw, wm, bn, sl, nl in logs:
         dft = [
             ("Tanggal", tg),
@@ -33,5 +33,6 @@ def riwayat(mode="all"):
         table.lebar_manual(19, 35)
         table.show(header="History", align="left", delay=0.01); print()
         table.clear(); time.sleep(random.uniform(0.1, 0.10))
-    input("[?] Kembali? ")
+    print()
+    table.get_input("Tekan Enter untuk kembali", info="n")
 

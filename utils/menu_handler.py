@@ -22,8 +22,8 @@ def menu_utama(dict_target=menu, msg="Menu"):
         os.system("cls" if os.name == "nt" else "clear")
         table.add_properties(dict_target)
         table.lebar_manual(5, 25)
-        table.show(header=f"{msg}", align="center")
-        plh_mnu = input(f"\n[{g}↑{R}] Pilih menu: ").strip().lower()
+        table.show(header=f"{msg}", align="center"); print()
+        plh_mnu = table.get_input("Apa yang ingin anda lakukan",info="n")
         arg = ["start", "main", "history", "riwayat", "exit", "keluar"]
         opt = list(dict_target.keys())
         if plh_mnu in arg or opt:
@@ -38,7 +38,7 @@ def olah_menu():
                     src = Telusur()
                     kelas = src.input_user(
                         msg_head="Daftar Kelas",
-                        msg_prompt="Pilih Kelas"
+                        msg_prompt="Pilih Jenjang Kelas"
                     )
                     if not kelas:
                         break
@@ -48,7 +48,7 @@ def olah_menu():
                         src.set_jenis("file")
                         mapel = src.input_user(
                             msg_head="Daftar Pelajaran",
-                            msg_prompt="Pilih Pelajaran"
+                            msg_prompt="Pilih Mata Pelajaran"
                         )
                         if not mapel:
                             break

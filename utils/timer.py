@@ -26,18 +26,14 @@ def pilih_durasi_waktu() -> int:
     table.lebar_manual(5, 25)
     table.show(header="Difficulty", align="center"); print()
     while True:
-        try:
-            user = input("[!] Pilih tingkat kesulitan: ")
-            if user in level:
-                return level[user]["nilai"]
+        user = table.get_input("Tingkat Kesulitan", info="n")
+        if user in level:
+            return level[user]["nilai"]
+        else:
+            if user.isdigit():
+                print("\n[!] Pilih tingkat kesulitan yang tersedia!")
             else:
-                if user.isdigit():
-                    print("\n[!] Pilih tingkat kesulitan yang tersedia!")
-                else:
-                    print("\n[!] Masukan pilihan yang valid!!")
-        except (EOFError, KeyboardInterrupt):
-            print("\n[!] User memaksa keluar. Exiting...")
-            sys.exit()
+                print("\n[!] Masukan pilihan yang valid!!")
 
 
 def hitung_mundur(durasi_waktu: int, wadah_output: list[int], berhenti):

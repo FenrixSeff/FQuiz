@@ -53,11 +53,11 @@ for no, i in enumerate(isi, 1):
     opsi = {p: j for p, j in i["pilihan"].items()}
     table.add_properties(opsi)
     table.lebar_hybrid(auto="kanan", manual=3)
-    table.show()
+    table.show(); print()
     table.clear()
 
     while True:
-        user = input(f"\n[{g}↑{R}] Pilih salah satu: ").strip().lower()
+        user = table.get_input("Kunci jawaban anda", info="n")
         opsi = list(i["pilihan"].keys())
         if user not in[x.lower() for x in opsi]:
             print(f"[{y}!{R}] Masukan pilihan yang tersedia!!")
@@ -96,7 +96,7 @@ table.show(); print()
 table.clear()
 
 if koreksi:
-    cek = input(f"[{c}?{R}] Koreksi jawaban? (y/n): ").strip().lower()
+    cek = table.get_input("Koreksi Jawaban anda (y/n)", info="n")
     if cek == "y":
         table.single_colum(f"Hasil Koreksi {mapel.stem.title()}",
             align="center"); print("\n")
@@ -123,5 +123,5 @@ table.single_colum(
     ">> Devloper    : Makasih dah coba project gabut ini brooo",
     ">> Corrected   : Fenrix",
     ">> Instagram   : @seff_hi7",
-    ">> Version     : FQuiz v1.56.47",
+    ">> Version     : FQuiz v1.57.47",
     align="left")

@@ -147,7 +147,7 @@ class Telusur:
         opsi["0"] = "Kembali"
         table.add_properties(opsi)
         table.lebar_manual(5, 37)
-        table.show(header=f"{msg_head}", align="center")
+        table.show(header=f"{msg_head}", align="center"); print()
         table.clear()
         return dft_item
 
@@ -172,12 +172,13 @@ class Telusur:
             Optional[Path]: Objek Path dari item yang dipilih, atau None
                 jika pengguna memilih kembali atau daftar kosong.
         """
+        table = VerticalTable()
         daftar = self.tampilkan_daftar(msg_head)
         if not daftar:
-            input(f"\n[{g}↑{R}] Tekan Enter untuk melanjutkan..")
+            table.get_input("Tekan Enter untuk kembali", info="n")
             return None
         while True:     # validasi input user
-            pilih_target = input(f"\n[{g}↑{R}] {msg_prompt}: ").strip()
+            pilih_target = table.get_input(f"{msg_prompt}", info="n")
             if pilih_target.isdigit():
                 no_target = int(pilih_target)
                 if 0 < no_target <= len(daftar):
