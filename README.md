@@ -4,7 +4,7 @@ Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interakti
 
 ## Fitur
 - **Pemilihan Kelas & Mapel**:
-  - Baru tersedia beberapa pelajaran saja
+  - Baru tersedia beberapa kelas dan pelajaran saja
 
 - **Monitoring**:
   - Batas waktu tersisa
@@ -52,17 +52,25 @@ Jalankan program dengan perintah:
 python fquiz.py
 ```
 ## Demo
+- Daftar Mata Pelajaran
+
+![Mapel](assets/new/contoh_daftar_pelajaran.jpg)
+
+- Tabel Batas Waktu
+
+![Batas Waktu](assets/new/contoh_daftar_batas_waktu.jpg)
+
 - Tampilan saat mengerjakan soal
 
-![Pengerjaan soal](assets/old/contoh_menjalankan_fquiz.jpg)
+![Pengerjaan soal](assets/new/contoh_saat_mengerjakan_soal.jpg)
 
 - Koreksi otomatis
 
-![Koreksi otomatis](assets/old/contoh_hasil_koreksi.jpg)
+![Koreksi otomatis](assets/new/contoh_hasil_koreksi.jpg)
 
 - Tabel riwayat
 
-![Riwayat](assets/old/contoh_riwayat.jpg)
+![Riwayat](assets/new/contoh_riwayat.jpg)
 
 ## Status Pengembangan
 

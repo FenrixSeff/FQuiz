@@ -10,7 +10,7 @@ class VerticalTable:
         self.p_kanan = 35
 
     @property
-    def size_terminal(self):
+    def _size_terminal(self):
         try:
             p_max = os.get_terminal_size().columns
         except OSError:
@@ -25,7 +25,7 @@ class VerticalTable:
         self._items = []
 
     def lebar_auto(self):
-        p_max = self.size_terminal
+        p_max = self._size_terminal
         self.p_kiri = (p_max // 3) - 2
         self.p_kanan = p_max - self.p_kiri - 3
 
@@ -41,11 +41,11 @@ class VerticalTable:
         kika = parse.get(auto.strip().lower(), "left")
         match kika:
             case "kiri":
-                p_max = self.size_terminal
+                p_max = self._size_terminal
                 self.p_kanan = manual
                 self.p_kiri = p_max - self.p_kanan - 3
             case _:
-                p_max = self.size_terminal
+                p_max = self._size_terminal
                 self.p_kiri = manual
                 self.p_kanan = p_max - self.p_kiri - 3
 
@@ -91,7 +91,7 @@ class VerticalTable:
         if manual:
             p_max = manual
         else:
-            p_max = self.size_terminal
+            p_max = self._size_terminal
         parse = {
             "kiri": "<", "left": "<", "<": "<",
             "kanan": ">", "right": ">", ">": ">",
@@ -114,9 +114,9 @@ class VerticalTable:
         y = "\033[93m"
         R = "\033[0m"
 
-        p_max = self.size_terminal
+        p_max = self._size_terminal
         parse = {
-            "normal": "✔", "n": "✔", "error": "✘", "e": "✘",
+            "normal": "✔", "n": "✔", "error": "✘","err": "✘", "e": "✘",
             "peringatan": "!", "warning": "!", "w": "!"
         }
         icon = parse.get(info.strip().lower(), "normal")
@@ -125,10 +125,13 @@ class VerticalTable:
         p_garis = p_max - len(info_ki) - len(info_ka)
         match icon:
             case "✘":
+                info_ki = f"╭─[{r}{msg_prompt}{R}]"
                 info_ka = f"[{r}{icon}{R}]"
             case "!":
+                info_ki = f"╭─[{y}{msg_prompt}{R}]"
                 info_ka = f"[{y}{icon}{R}]"
             case _:
+                info_ki = f"╭─[{g}{msg_prompt}{R}]"
                 info_ka = f"[{g}{icon}{R}]"
         sep_atas = f"{info_ki}{'─' *p_garis}{info_ka}"
         sep_bawh = "╰─ "
@@ -136,7 +139,7 @@ class VerticalTable:
         try:
             user = input(sep_bawh).strip().lower()
         except (EOFError, KeyboardInterrupt):
-            print("fquiz: User memaksa keluar. Exiting...")
+            print("fquiz: User memaksa keluar, Exiting...")
             sys.exit(0)
         except Exception as e:
             print(f"fquiz: Terjadi kesalahan tidak terduga:\n{e}")

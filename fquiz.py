@@ -4,7 +4,7 @@ import time
 import random
 from threading import Thread, Event
 from pathlib import Path
-from utils import olah_menu
+from utils import main
 from utils import hitung_mundur
 from utils import RiwayatHandler
 from utils import parse_json
@@ -13,8 +13,8 @@ from utils import VerticalTable
 save = RiwayatHandler()
 save.init_db()
 
-mapel, durasi_waktu = olah_menu()
-soal = parse_json(mapel) if mapel else sys.exit(0)
+mapel, durasi_waktu = main()
+soal = parse_json(mapel)
 
 waktu_tersisa = [0]
 stop = Event()
@@ -54,7 +54,7 @@ for no, i in enumerate(soal, 1):
         user = table.get_input(msg_prompt=msg, info=icon)
         opsi = list(i["pilihan"].keys())
         if user not in[x.lower() for x in opsi]:
-            msg, icon = "Masukan pilihan yang tersedia", "warning"
+            msg, icon = "Masukan pilihan yang tersedia", "error"
         else:
             break
 
@@ -108,8 +108,8 @@ if daftar_koreksi:
             table.show(delay=random.uniform(0.01, 0.010)); print("\n")
             table.clear()
 
-tgl = time.strftime("%A, %d %B %Y")
-save.simpan_riwayat(tgl, mapel.stem, durasi_waktu,
+tanggal = time.strftime("%A, %d %B %Y")
+save.simpan_riwayat(tanggal, mapel.stem, durasi_waktu,
                     waktu_tersisa[0], f"{mulai} - {selesai}",
                     benar, salah, nilai)
 
@@ -119,5 +119,5 @@ table.single_colum(
     ">> Devloper    : Makasih dah coba project gabut ini brooo",
     ">> Corrected   : Fenrix",
     ">> Instagram   : @seff_hi7",
-    ">> Version     : FQuiz v1.58.47",
+    ">> Version     : FQuiz v1.58.48",
     align="left")

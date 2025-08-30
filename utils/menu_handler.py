@@ -1,15 +1,11 @@
 import os
+import sys
 import time
 import random
 from .path_explorer import Telusur
 from .riwayat_handler import riwayat
 from .rowbot import VerticalTable
 from .timer import pilih_durasi_waktu
-
-g = "\033[92m"
-y = "\033[93m"
-c = "\033[96m"
-R = "\033[0m"
 
 menu = {
     "1": "Main",
@@ -63,9 +59,13 @@ def olah_menu():
             case "2" | "history" | "riwayat":
                 riwayat()
             case "0" | "exit" | "keluar":
-                return None, None
+                sys.exit(0)
             case _:
                 pass
+
+def main():
+    return olah_menu()
+
 
 if __name__ == "__main__":
     print("jnck")

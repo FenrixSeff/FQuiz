@@ -3,11 +3,6 @@ from pathlib import Path
 from typing import Generator, Optional
 from .rowbot import VerticalTable
 
-g = "\033[92m"   # Hijau
-y = "\033[93m"   # Kuning
-c = "\033[96m"   # Cyan
-R = "\033[0m"    # Reset Warna
-
 DEFAULT = {
     "data": Path(__file__).parent.parent / "data"   # Default target
     }

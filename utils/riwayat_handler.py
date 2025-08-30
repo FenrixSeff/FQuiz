@@ -4,11 +4,6 @@ import random
 from .db_handler import RiwayatHandler
 from .rowbot import VerticalTable
 
-g = "\033[92m"
-y = "\033[93m"
-c = "\033[96m"
-R = "\033[0m"
-
 def riwayat(mode="all"):
     table = VerticalTable()
     os.system("cls" if os.name == "nt" else "clear")
