@@ -51,7 +51,7 @@ def info_soal(target):
 def rapihkan(target, spasi=2):
     file = _buka_file(target)
     with open(target, "w") as lokasi:
-        json.dump(isi, lokasi, indent=spasi)
+        json.dump(file, lokasi, indent=spasi)
 
 dft = {"1": "Cek distribusi jawaban",
        "2": "Set indentasi format json",
