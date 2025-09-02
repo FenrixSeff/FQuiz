@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+import random
 from pathlib import Path
 
 lok = Path(__file__).resolve().parent.parent
@@ -24,7 +25,7 @@ def info_soal(target):
     d = 0
     e = 0
     for i in file:
-        match i["jawaban"]:
+        match i["jawaban"].lower():
             case "a":
                 a += 1
             case "b":
@@ -48,15 +49,35 @@ def info_soal(target):
     table.show(header="Daftar distribusi"); print()
     table.clear()
 
-def rapihkan(target, spasi=2):
-    file = _buka_file(target)
+def _simpan(target, change, spasi=2):
     with open(target, "w") as lokasi:
-        json.dump(file, lokasi, indent=spasi)
+        json.dump(change, lokasi, indent=spasi)
+
+def reset_kunci_jawaban(target, verbose=False):
+    file = _buka_file(target)
+    for n, soal in enumerate(file, 1):
+        k_bnr = soal.get("jawaban").upper()
+        v_bnr = soal["pilihan"].get(k_bnr)
+        d_key = list(soal["pilihan"].keys())
+        d_vle = list(soal["pilihan"].values())
+        random.shuffle(d_vle)
+        convert = {k: y for k, y in zip(d_key, d_vle)}
+        for k, v in convert.items():
+            if v == v_bnr:
+                soal["jawaban"] = k.lower()
+                break
+        soal["pilihan"] = convert
+    _simpan(target, file)
 
 dft = {"1": "Cek distribusi jawaban",
        "2": "Set indentasi format json",
        "3": "Hapus riwayat",
+       "4": "Reset kunci jawaban",
        "0": "Keluar"
+    }
+
+DEFAULT = {
+    "data": Path(__file__).parent.parent / "data"
     }
 
 while True:
@@ -69,43 +90,71 @@ while True:
     table.clear()
     user = int(table.get_input("Pilih opsi", "normal"))
     if user == 0:
-        print("\nDevTools v1.6.14")
+        print("\nDevTools v1.7.14")
         exit(0)
 
     elif user == 1:
-        os.system("clear")
-        k = src.input_user("Daftar Kelas", "Pilih kelas")
-        if k:
-            src.set_target(k)
-            src.set_pola("*.json")
-            src.set_jenis("file")
-            p = src.input_user("Daftar pelajaran", "Pilih mapel")
-            if p:
+        while True:
+            os.system("clear")
+            src.set_target(DEFAULT["data"])
+            src.set_pola("*/")
+            src.set_jenis("dir")
+            k = src.input_user("Distribusi Jawaban", "Pilih kelas")
+            if not k:
+                break
+            while True:
+                src.set_target(k)
+                src.set_pola("*.json")
+                src.set_jenis("file")
+                p = src.input_user("Distribusi Jawaban", "Pilih mapel")
+                if not p:
+                    break
                 info_soal(p)
                 table.get_input("Tekan Enter untuk melanjutkan")
-            else:
-                pass
-        else:
-            pass
 
     elif user == 2:
-        os.system("clear")
-        k = src.input_user("Daftar kelas", "Pilih kelas")
-        if k:
-            src.set_target(k)
-            src.set_pola("*.json")
-            src.set_jenis("file")
-            p = src.input_user("Daftar pelajaran", "Pilih Mapel")
-            if p:
-                rapihkan(p)
-                table.get_input("Succes, Enter untuk melanjutkan")
-            else:
-                pass
-        else:
-            pass
+        while True:
+            os.system("clear")
+            src.set_target(DEFAULT["data"])
+            src.set_pola("*/")
+            src.set_jenis("dir")
+            k = src.input_user("Set Indentasi", "Pilih kelas")
+            if not k:
+                break
+            while True:
+                src.set_target(k)
+                src.set_pola("*.json")
+                src.set_jenis("file")
+                p = src.input_user("Set Indentasi", "Pilih Mapel")
+                if not p:
+                    break
+                c = _buka_file(p)
+                _simpan(p, c)
+                table.get_input("Success, Enter untuk melanjutkan")
+                break
 
     elif user == 3:
         table = VerticalTable()
         os.system("clear")
         RiwayatHandler().hapus_semua_riwayat()
         table.get_input("Succes, Enter untuk melanjutkan")
+
+    elif user == 4:
+        while True:
+            os.system("clear")
+            src.set_target(DEFAULT["data"])
+            src.set_pola("*/")
+            src.set_jenis("dir")
+            k = src.input_user("Reset Kunci Jawaban", "Pilih kelas")
+            if not k:
+                break
+            while True:
+                src.set_target(k)
+                src.set_pola("*.json")
+                src.set_jenis("file")
+                p = src.input_user("Reset Kunci Jawaban", "Pilih Mapel")
+                if not p:
+                    break
+                reset_kunci_jawaban(p, verbose=True)
+                table.get_input("Success, Enter untuk melanjutkan")
+                break
