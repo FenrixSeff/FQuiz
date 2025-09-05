@@ -1,5 +1,4 @@
 import os
-import sys
 import time
 import random
 from threading import Thread, Event
@@ -43,7 +42,7 @@ for no, i in enumerate(soal, 1):
     table.clear()
 
     table.single_colum(f"{no}. {i['pertanyaan']}", align="left")
-    opsi = {p: j for p, j in i["pilihan"].items()}
+    opsi = {p.upper(): j for p, j in i["pilihan"].items()}
     table.add_properties(opsi)
     table.lebar_hybrid(auto="kanan", manual=3)
     table.show(); print()
@@ -62,14 +61,13 @@ for no, i in enumerate(soal, 1):
         benar += 1
     else:
         salah += 1
-        k = i["jawaban"]
         daftar_koreksi.append({
             "no": no,
-            "soal": i["pertanyaan"],
-            "kunci_jawaban": i["jawaban"],
-            "isi_jawaban": i["pilihan"][k.upper()],
+            "soal": i.get("pertanyaan"),
+            "kunci_jawaban": i.get("jawaban"),
+            "isi_jawaban": i["pilihan"].get(i.get("jawaban")),
             "kunci_user": user,
-            "isi_user": i["pilihan"][user.upper()]
+            "isi_user": i["pilihan"].get(user)
         })
 
 stop.set()
@@ -119,5 +117,5 @@ table.single_colum(
     ">> Devloper    : Makasih dah coba project gabut ini brooo",
     ">> Corrected   : Fenrix",
     ">> Instagram   : @seff_hi7",
-    ">> Version     : FQuiz v1.58.48",
+    ">> Version     : FQuiz v1.58.49",
     align="left")

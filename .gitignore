@@ -2,3 +2,4 @@
 /.riwayat/riwayat.db
 __pycache__/
 *.py[cod]
+/test/soal.json

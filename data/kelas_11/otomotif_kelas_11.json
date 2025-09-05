@@ -2,550 +2,550 @@
   {
     "pertanyaan": "Komponen rem yang berfungsi untuk mengembalikan kanvas rem ke posisi semula setelah pengereman adalah?",
     "pilihan": {
-      "A": "Silinder roda",
-      "B": "Kampas rem",
-      "C": "Pegas penekan",
-      "D": "Tromol rem",
-      "E": "Master silinder"
+      "a": "Silinder roda",
+      "b": "Kampas rem",
+      "c": "Pegas penekan",
+      "d": "Tromol rem",
+      "e": "Master silinder"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Sistem rem yang menggunakan cakram logam sebagai media pengereman disebut?",
     "pilihan": {
-      "A": "Rem tromol",
-      "B": "Rem hidrolik",
-      "C": "Rem cakram",
-      "D": "Rem mekanik",
-      "E": "Rem parkir"
+      "a": "Rem tromol",
+      "b": "Rem hidrolik",
+      "c": "Rem cakram",
+      "d": "Rem mekanik",
+      "e": "Rem parkir"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Komponen pada sistem rem cakram yang bertugas menjepit cakram saat pedal rem diinjak adalah?",
     "pilihan": {
-      "A": "Kaliper",
-      "B": "Master silinder",
-      "C": "Piringan cakram",
-      "D": "Selang rem",
-      "E": "Kanvas rem"
+      "a": "Kaliper",
+      "b": "Master silinder",
+      "c": "Piringan cakram",
+      "d": "Selang rem",
+      "e": "Kanvas rem"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Bagian dari master silinder yang berfungsi mendorong minyak rem ketika pedal rem diinjak adalah?",
     "pilihan": {
-      "A": "Reservoir",
-      "B": "Batang dorong",
-      "C": "Katup pembuangan",
-      "D": "Piston",
-      "E": "Silinder roda"
+      "a": "Reservoir",
+      "b": "Batang dorong",
+      "c": "Katup pembuangan",
+      "d": "Piston",
+      "e": "Silinder roda"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Jenis oli yang digunakan dalam sistem rem hidrolis adalah?",
     "pilihan": {
-      "A": "Oli mesin SAE 20W-50",
-      "B": "Oli transmisi ATF",
-      "C": "Oli gardan GL-5",
-      "D": "Minyak rem DOT 3 atau DOT 4",
-      "E": "Oli rem tromol khusus"
+      "a": "Oli mesin SAE 20W-50",
+      "b": "Oli transmisi ATF",
+      "c": "Oli gardan GL-5",
+      "d": "Minyak rem DOT 3 atau DOT 4",
+      "e": "Oli rem tromol khusus"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Sistem pendingin mesin yang menggunakan udara langsung untuk menurunkan suhu mesin disebut?",
     "pilihan": {
-      "A": "Water cooled system",
-      "B": "Oil cooled system",
-      "C": "Hybrid cooling system",
-      "D": "Liquid cooled system",
-      "E": "Air cooled system"
+      "a": "Water cooled system",
+      "b": "Oil cooled system",
+      "c": "Hybrid cooling system",
+      "d": "Liquid cooled system",
+      "e": "Air cooled system"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Komponen yang berfungsi sebagai tangki cadangan untuk menampung ekspansi cairan pendingin adalah?",
     "pilihan": {
-      "A": "Thermostat",
-      "B": "Radiator",
-      "C": "Kipas pendingin",
-      "D": "Water jacket",
-      "E": "Reservoir tank"
+      "a": "Thermostat",
+      "b": "Radiator",
+      "c": "Kipas pendingin",
+      "d": "Water jacket",
+      "e": "Reservoir tank"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Fungsi dari thermostat pada sistem pendingin air adalah?",
     "pilihan": {
-      "A": "Mengontrol aliran oli mesin",
-      "B": "Menstabilkan tekanan bahan bakar",
-      "C": "Mengatur aliran udara masuk",
-      "D": "Mengatur aliran cairan pendingin",
-      "E": "Mempercepat pendinginan mesin"
+      "a": "Mengontrol aliran oli mesin",
+      "b": "Menstabilkan tekanan bahan bakar",
+      "c": "Mengatur aliran udara masuk",
+      "d": "Mengatur aliran cairan pendingin",
+      "e": "Mempercepat pendinginan mesin"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Salah satu kelebihan sistem pendingin air dibandingkan pendingin udara adalah?",
     "pilihan": {
-      "A": "Lebih ringan",
-      "B": "Biaya perawatan lebih murah",
-      "C": "Tidak membutuhkan pompa air",
-      "D": "Lebih efektif pada suhu tinggi",
-      "E": "Lebih sederhana konstruksinya"
+      "a": "Lebih ringan",
+      "b": "Biaya perawatan lebih murah",
+      "c": "Tidak membutuhkan pompa air",
+      "d": "Lebih efektif pada suhu tinggi",
+      "e": "Lebih sederhana konstruksinya"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Komponen pelumasan mesin yang berfungsi menyaring kotoran dalam oli sebelum dialirkan ke komponen mesin adalah?",
     "pilihan": {
-      "A": "Oil cooler",
-      "B": "Valve relief",
-      "C": "Pompa oli",
-      "D": "Saluran oli",
-      "E": "Filter oli"
+      "a": "Oil cooler",
+      "b": "Valve relief",
+      "c": "Pompa oli",
+      "d": "Saluran oli",
+      "e": "Filter oli"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Fungsi utama pompa oli dalam sistem pelumasan mesin adalah?",
     "pilihan": {
-      "A": "Mensirkulasikan oli ke seluruh mesin",
-      "B": "Menghisap bahan bakar",
-      "C": "Mendinginkan mesin",
-      "D": "Mengatur tekanan bahan bakar",
-      "E": "Menyaring oli dari kotoran"
+      "a": "Mensirkulasikan oli ke seluruh mesin",
+      "b": "Menghisap bahan bakar",
+      "c": "Mendinginkan mesin",
+      "d": "Mengatur tekanan bahan bakar",
+      "e": "Menyaring oli dari kotoran"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Jenis pelumas yang digunakan pada sistem pelumasan transmisi manual adalah?",
     "pilihan": {
-      "A": "Minyak rem",
-      "B": "Oli mesin SAE 10W-30",
-      "C": "Minyak goreng",
-      "D": "Oli gardan GL-4/GL-5",
-      "E": "Oli rem tromol"
+      "a": "Minyak rem",
+      "b": "Oli mesin SAE 10W-30",
+      "c": "Minyak goreng",
+      "d": "Oli gardan GL-4/GL-5",
+      "e": "Oli rem tromol"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Komponen transmisi yang memastikan gigi-gigi tetap terlumasi secara optimal adalah?",
     "pilihan": {
-      "A": "Poros output",
-      "B": "Poros input",
-      "C": "Saluran pelumasan",
-      "D": "Kopling",
-      "E": "Shift fork"
+      "a": "Poros output",
+      "b": "Poros input",
+      "c": "Saluran pelumasan",
+      "d": "Kopling",
+      "e": "Shift fork"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Saluran oli pada mesin biasanya dilengkapi dengan?",
     "pilihan": {
-      "A": "Sensor ECU",
-      "B": "Valve clearance",
-      "C": "Relief valve",
-      "D": "Thermostat",
-      "E": "Fuel pump"
+      "a": "Sensor ECU",
+      "b": "Valve clearance",
+      "c": "Relief valve",
+      "d": "Thermostat",
+      "e": "Fuel pump"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Fungsi dari gardan pada kendaraan adalah?",
     "pilihan": {
-      "A": "Mengubah arah putaran poros propeller",
-      "B": "Mengurangi gesekan pada poros",
-      "C": "Meningkatkan tenaga mesin",
-      "D": "Menghubungkan transmisi dengan kopling",
-      "E": "Mengatur kecepatan kendaraan"
+      "a": "Mengubah arah putaran poros propeller",
+      "b": "Mengurangi gesekan pada poros",
+      "c": "Meningkatkan tenaga mesin",
+      "d": "Menghubungkan transmisi dengan kopling",
+      "e": "Mengatur kecepatan kendaraan"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Pelumas yang digunakan pada gardan umumnya memiliki kode?",
     "pilihan": {
-      "A": "SAE 80W-90 atau GL-4/GL-5",
-      "B": "DOT 4",
-      "C": "ATF Dexron III",
-      "D": "SAE 10W-30",
-      "E": "SAE 20W-50"
+      "a": "SAE 80W-90 atau GL-4/GL-5",
+      "b": "DOT 4",
+      "c": "ATF Dexron III",
+      "d": "SAE 10W-30",
+      "e": "SAE 20W-50"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Sistem pelumasan pada gardan menggunakan prinsip?",
     "pilihan": {
-      "A": "Pelumasan percikan",
-      "B": "Pelumasan tekanan",
-      "C": "Pelumasan sentrifugal",
-      "D": "Pelumasan celupan",
-      "E": "Pelumasan vakum"
+      "a": "Pelumasan percikan",
+      "b": "Pelumasan tekanan",
+      "c": "Pelumasan sentrifugal",
+      "d": "Pelumasan celupan",
+      "e": "Pelumasan vakum"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Yang bukan merupakan fungsi oli mesin adalah?",
     "pilihan": {
-      "A": "Melumasi komponen mesin",
-      "B": "Mendinginkan mesin",
-      "C": "Membersihkan mesin",
-      "D": "Mempercapat keausan komponen",
-      "E": "Mengurangi gesekan antar komponen"
+      "a": "Melumasi komponen mesin",
+      "b": "Mendinginkan mesin",
+      "c": "Membersihkan mesin",
+      "d": "Mempercapat keausan komponen",
+      "e": "Mengurangi gesekan antar komponen"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Tekanan oli mesin dipertahankan oleh komponen bernama?",
     "pilihan": {
-      "A": "Oil filter",
-      "B": "Relief valve",
-      "C": "Oil pan",
-      "D": "Oil cooler",
-      "E": "Oil pressure switch"
+      "a": "Oil filter",
+      "b": "Relief valve",
+      "c": "Oil pan",
+      "d": "Oil cooler",
+      "e": "Oil pressure switch"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Lampu indikator oli pada dashboard menyala saat?",
     "pilihan": {
-      "A": "Mesin terlalu dingin",
-      "B": "Oli habis atau tekanan rendah",
-      "C": "Oli terlalu encer",
-      "D": "Oli terlalu kental",
-      "E": "Oli baru saja diganti"
+      "a": "Mesin terlalu dingin",
+      "b": "Oli habis atau tekanan rendah",
+      "c": "Oli terlalu encer",
+      "d": "Oli terlalu kental",
+      "e": "Oli baru saja diganti"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Alat yang digunakan untuk memeriksa tekanan oli mesin adalah?",
     "pilihan": {
-      "A": "Multimeter",
-      "B": "Manometer",
-      "C": "Vacuum gauge",
-      "D": "Thermometer",
-      "E": "Pressure gauge"
+      "a": "Multimeter",
+      "b": "Manometer",
+      "c": "Vacuum gauge",
+      "d": "Thermometer",
+      "e": "Pressure gauge"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Jenis rem yang lebih cepat panas saat digunakan secara intensif adalah?",
     "pilihan": {
-      "A": "Rem cakram",
-      "B": "Rem hidrolik",
-      "C": "Rem tromol",
-      "D": "Rem parkir",
-      "E": "Rem disc brake"
+      "a": "Rem cakram",
+      "b": "Rem hidrolik",
+      "c": "Rem tromol",
+      "d": "Rem parkir",
+      "e": "Rem disc brake"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Pada sistem rem tromol, komponen yang bergerak maju mundur untuk menekan kanvas rem adalah?",
     "pilihan": {
-      "A": "Master silinder",
-      "B": "Silinder roda",
-      "C": "Pedal rem",
-      "D": "Batang dorong",
-      "E": "Kabel rem"
+      "a": "Master silinder",
+      "b": "Silinder roda",
+      "c": "Pedal rem",
+      "d": "Batang dorong",
+      "e": "Kabel rem"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Jika pedal rem terasa keras saat diinjak, kemungkinan penyebabnya adalah?",
     "pilihan": {
-      "A": "Minyak rem habis",
-      "B": "Ada udara dalam sistem",
-      "C": "Master silinder bocor",
-      "D": "Kanvas rem aus",
-      "E": "Booster rem rusak"
+      "a": "Minyak rem habis",
+      "b": "Ada udara dalam sistem",
+      "c": "Master silinder bocor",
+      "d": "Kanvas rem aus",
+      "e": "Booster rem rusak"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Komponen pada sistem pendingin air yang berfungsi meningkatkan efisiensi pendinginan dengan meniupkan udara adalah?",
     "pilihan": {
-      "A": "Radiator fan",
-      "B": "Thermostat",
-      "C": "Water pump",
-      "D": "Reservoir",
-      "E": "Temperature sensor"
+      "a": "Radiator fan",
+      "b": "Thermostat",
+      "c": "Water pump",
+      "d": "Reservoir",
+      "e": "Temperature sensor"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Jika mesin menjadi overheat, salah satu penyebabnya bisa karena?",
     "pilihan": {
-      "A": "Oli mesin kotor",
-      "B": "Thermostat tidak membuka",
-      "C": "Busi mati",
-      "D": "Filter bahan bakar tersumbat",
-      "E": "Rem terlalu sering digunakan"
+      "a": "Oli mesin kotor",
+      "b": "Thermostat tidak membuka",
+      "c": "Busi mati",
+      "d": "Filter bahan bakar tersumbat",
+      "e": "Rem terlalu sering digunakan"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Sistem pelumasan yang menggunakan oli yang bersirkulasi melalui saluran dan pompa disebut?",
     "pilihan": {
-      "A": "Pelumasan tekanan",
-      "B": "Pelumasan tetes",
-      "C": "Pelumasan percikan",
-      "D": "Pelumasan celupan",
-      "E": "Pelumasan manual"
+      "a": "Pelumasan tekanan",
+      "b": "Pelumasan tetes",
+      "c": "Pelumasan percikan",
+      "d": "Pelumasan celupan",
+      "e": "Pelumasan manual"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Keuntungan sistem pelumasan tekanan adalah?",
     "pilihan": {
-      "A": "Dapat melumasi bagian mesin yang sulit dijangkau",
-      "B": "Konstruksi lebih sederhana",
-      "C": "Biaya perawatan lebih murah",
-      "D": "Tidak memerlukan pompa oli",
-      "E": "Tidak mudah panas"
+      "a": "Dapat melumasi bagian mesin yang sulit dijangkau",
+      "b": "Konstruksi lebih sederhana",
+      "c": "Biaya perawatan lebih murah",
+      "d": "Tidak memerlukan pompa oli",
+      "e": "Tidak mudah panas"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Pada sistem pelumasan transmisi, oli yang digunakan harus memiliki karakteristik?",
     "pilihan": {
-      "A": "Cepat menguap",
-      "B": "Tahan panas dan tekanan tinggi",
-      "C": "Encer seperti bensin",
-      "D": "Murah dan mudah didapat",
-      "E": "Berwarna merah atau hijau"
+      "a": "Cepat menguap",
+      "b": "Tahan panas dan tekanan tinggi",
+      "c": "Encer seperti bensin",
+      "d": "Murah dan mudah didapat",
+      "e": "Berwarna merah atau hijau"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Saluran pelumasan pada transmisi dilengkapi dengan?",
     "pilihan": {
-      "A": "Injector",
-      "B": "Valve relief",
-      "C": "Sensor suhu",
-      "D": "Thermostat",
-      "E": "Pressure regulator"
+      "a": "Injector",
+      "b": "Valve relief",
+      "c": "Sensor suhu",
+      "d": "Thermostat",
+      "e": "Pressure regulator"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Yang bukan termasuk komponen sistem pelumasan transmisi adalah?",
     "pilihan": {
-      "A": "Pompa oli",
-      "B": "Filter oli",
-      "C": "Saluran oli",
-      "D": "Poros propeller",
-      "E": "Reservoir oli"
+      "a": "Pompa oli",
+      "b": "Filter oli",
+      "c": "Saluran oli",
+      "d": "Poros propeller",
+      "e": "Reservoir oli"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Pada sistem rem hidrolik, prinsip kerja yang digunakan adalah?",
     "pilihan": {
-      "A": "Hukum Newton",
-      "B": "Hukum Pascal",
-      "C": "Hukum Archimedes",
-      "D": "Hukum Boyle",
-      "E": "Hukum Bernoulli"
+      "a": "Hukum Newton",
+      "b": "Hukum Pascal",
+      "c": "Hukum Archimedes",
+      "d": "Hukum Boyle",
+      "e": "Hukum Bernoulli"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Jika rem cakram mengeluarkan suara mendecit, kemungkinan penyebabnya adalah?",
     "pilihan": {
-      "A": "Minyak rem habis",
-      "B": "Kaliper macet",
-      "C": "Ada udara dalam sistem",
-      "D": "Disc brake baret",
-      "E": "Kanvas rem sudah tipis"
+      "a": "Minyak rem habis",
+      "b": "Kaliper macet",
+      "c": "Ada udara dalam sistem",
+      "d": "Disc brake baret",
+      "e": "Kanvas rem sudah tipis"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Pemeriksaan rutin pada sistem pendingin air mencakup hal berikut, kecuali?",
     "pilihan": {
-      "A": "Volume cairan pendingin",
-      "B": "Kondisi selang radiator",
-      "C": "Warna cairan pendingin",
-      "D": "Kondisi kipas pendingin",
-      "E": "Tekanan ban"
+      "a": "Volume cairan pendingin",
+      "b": "Kondisi selang radiator",
+      "c": "Warna cairan pendingin",
+      "d": "Kondisi kipas pendingin",
+      "e": "Tekanan ban"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Komponen yang berfungsi menyedot oli dari oil pan dan mengirimkannya ke saluran oli adalah?",
     "pilihan": {
-      "A": "Oil cooler",
-      "B": "Valve relief",
-      "C": "Pompa oli",
-      "D": "Filter oli",
-      "E": "Oil gallery"
+      "a": "Oil cooler",
+      "b": "Valve relief",
+      "c": "Pompa oli",
+      "d": "Filter oli",
+      "e": "Oil gallery"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Pada sistem pelumasan mesin, oli akan dikumpulkan kembali di bagian?",
     "pilihan": {
-      "A": "Oil filter",
-      "B": "Oil cooler",
-      "C": "Oil pan",
-      "D": "Oil gallery",
-      "E": "Pompa oli"
+      "a": "Oil filter",
+      "b": "Oil cooler",
+      "c": "Oil pan",
+      "d": "Oil gallery",
+      "e": "Pompa oli"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Fungsi dari saluran oli (oil gallery) pada mesin adalah?",
     "pilihan": {
-      "A": "Menyaring kotoran dalam oli",
-      "B": "Mendinginkan oli",
-      "C": "Menyimpan oli cadangan",
-      "D": "Mengalirkan oli ke semua komponen mesin",
-      "E": "Mengontrol tekanan oli"
+      "a": "Menyaring kotoran dalam oli",
+      "b": "Mendinginkan oli",
+      "c": "Menyimpan oli cadangan",
+      "d": "Mengalirkan oli ke semua komponen mesin",
+      "e": "Mengontrol tekanan oli"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Jika lampu indikator oli menyala saat mesin hidup, tindakan pertama yang dilakukan adalah?",
     "pilihan": {
-      "A": "Ganti oli mesin",
-      "B": "Periksa level oli",
-      "C": "Ganti filter oli",
-      "D": "Periksa kondisi aki",
-      "E": "Lanjutkan berkendara"
+      "a": "Ganti oli mesin",
+      "b": "Periksa level oli",
+      "c": "Ganti filter oli",
+      "d": "Periksa kondisi aki",
+      "e": "Lanjutkan berkendara"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Salah satu ciri oli mesin yang masih layak digunakan adalah?",
     "pilihan": {
-      "A": "Berwarna hitam pekat",
-      "B": "Berbau terbakar",
-      "C": "Berwarna kuning jernih",
-      "D": "Terasa lengket",
-      "E": "Mengandung endapan"
+      "a": "Berwarna hitam pekat",
+      "b": "Berbau terbakar",
+      "c": "Berwarna kuning jernih",
+      "d": "Terasa lengket",
+      "e": "Mengandung endapan"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Salah satu contoh spesifikasi viskositas oli untuk motor 4 tak adalah?",
     "pilihan": {
-      "A": "Oli mesin SAE 20W-50",
-      "B": "Oli sintetis API SN",
-      "C": "Oli transmisi GL-4",
-      "D": "Oli rem DOT 4",
-      "E": "Oli campur 2 tak"
+      "a": "Oli mesin SAE 20W-50",
+      "b": "Oli sintetis API SN",
+      "c": "Oli transmisi GL-4",
+      "d": "Oli rem DOT 4",
+      "e": "Oli campur 2 tak"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Fungsi dari kaliper pada rem cakram adalah?",
     "pilihan": {
-      "A": "Mengalirkan minyak rem",
-      "B": "Menjepit cakram saat rem diinjak",
-      "C": "Menyimpan minyak rem",
-      "D": "Menghubungkan roda dengan poros",
-      "E": "Mengatur tekanan rem"
+      "a": "Mengalirkan minyak rem",
+      "b": "Menjepit cakram saat rem diinjak",
+      "c": "Menyimpan minyak rem",
+      "d": "Menghubungkan roda dengan poros",
+      "e": "Mengatur tekanan rem"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Jika pedal rem terasa lembek, kemungkinan penyebabnya adalah?",
     "pilihan": {
-      "A": "Kanvas rem aus",
-      "B": "Ada udara dalam sistem",
-      "C": "Master silinder rusak",
-      "D": "Silinder roda bocor",
-      "E": "Semua benar"
+      "a": "Kanvas rem aus",
+      "b": "Ada udara dalam sistem",
+      "c": "Master silinder rusak",
+      "d": "Silinder roda bocor",
+      "e": "Semua benar"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Komponen yang berfungsi menyalurkan gerakan putar dari transmisi ke gardan adalah?",
     "pilihan": {
-      "A": "Poros propeller",
-      "B": "Poros roda",
-      "C": "Poros input",
-      "D": "Poros output",
-      "E": "Poros engkol"
+      "a": "Poros propeller",
+      "b": "Poros roda",
+      "c": "Poros input",
+      "d": "Poros output",
+      "e": "Poros engkol"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Pada sistem pendingin air, jika thermostat tidak menutup, maka?",
     "pilihan": {
-      "A": "Mesin tidak dapat mencapai suhu kerja",
-      "B": "Mesin akan cepat panas",
-      "C": "Radiator akan pecah",
-      "D": "Oli mesin akan mengental",
-      "E": "Tekanan radiator meningkat"
+      "a": "Mesin tidak dapat mencapai suhu kerja",
+      "b": "Mesin akan cepat panas",
+      "c": "Radiator akan pecah",
+      "d": "Oli mesin akan mengental",
+      "e": "Tekanan radiator meningkat"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Fungsi dari oil cooler pada sistem pelumasan adalah?",
     "pilihan": {
-      "A": "Meningkatkan viskositas oli",
-      "B": "Mendinginkan oli",
-      "C": "Menggantikan filter oli",
-      "D": "Mengontrol aliran oli",
-      "E": "Membuang udara dalam oli"
+      "a": "Meningkatkan viskositas oli",
+      "b": "Mendinginkan oli",
+      "c": "Menggantikan filter oli",
+      "d": "Mengontrol aliran oli",
+      "e": "Membuang udara dalam oli"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Jenis sistem pelumasan yang banyak digunakan pada mobil modern adalah?",
     "pilihan": {
-      "A": "Pelumasan percikan",
-      "B": "Pelumasan celupan",
-      "C": "Pelumasan tekanan",
-      "D": "Pelumasan tetes",
-      "E": "Pelumasan manual"
+      "a": "Pelumasan percikan",
+      "b": "Pelumasan celupan",
+      "c": "Pelumasan tekanan",
+      "d": "Pelumasan tetes",
+      "e": "Pelumasan manual"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Jika pada sistem rem tromol kanvas terlalu aus, komponen yang perlu disetel ulang adalah?",
     "pilihan": {
-      "A": "Silinder roda",
-      "B": "Batang dorong",
-      "C": "Pegas penekan",
-      "D": "Adjuster rem",
-      "E": "Pedal rem"
+      "a": "Silinder roda",
+      "b": "Batang dorong",
+      "c": "Pegas penekan",
+      "d": "Adjuster rem",
+      "e": "Pedal rem"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Komponen pada sistem pendingin air yang berfungsi memompa cairan pendingin ke water jacket mesin adalah?",
     "pilihan": {
-      "A": "Thermostat",
-      "B": "Radiator fan",
-      "C": "Temperature sensor",
-      "D": "Reservoir tank",
-      "E": "Water pump"
+      "a": "Thermostat",
+      "b": "Radiator fan",
+      "c": "Temperature sensor",
+      "d": "Reservoir tank",
+      "e": "Water pump"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Oli transmisi yang memiliki kode GL-4 biasanya digunakan pada?",
     "pilihan": {
-      "A": "Transmisi otomatis",
-      "B": "Gardan mobil 4WD",
-      "C": "Transmisi manual kendaraan ringan",
-      "D": "Mesin diesel berat",
-      "E": "Kopling basah sepeda motor"
+      "a": "Transmisi otomatis",
+      "b": "Gardan mobil 4WD",
+      "c": "Transmisi manual kendaraan ringan",
+      "d": "Mesin diesel berat",
+      "e": "Kopling basah sepeda motor"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Salah satu gejala jika pompa oli mengalami kerusakan adalah?",
     "pilihan": {
-      "A": "Mesin lebih bertenaga",
-      "B": "Lampu indikator oli menyala",
-      "C": "Suara mesin lebih halus",
-      "D": "Konsumsi bahan bakar meningkat",
-      "E": "Tekanan ban tidak stabil"
+      "a": "Mesin lebih bertenaga",
+      "b": "Lampu indikator oli menyala",
+      "c": "Suara mesin lebih halus",
+      "d": "Konsumsi bahan bakar meningkat",
+      "e": "Tekanan ban tidak stabil"
     },
     "jawaban": "b"
   }

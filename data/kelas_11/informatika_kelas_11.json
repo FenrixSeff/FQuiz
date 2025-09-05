@@ -2,550 +2,550 @@
   {
     "pertanyaan": "Tipe data yang digunakan untuk menyimpan bilangan bulat dalam pemrograman adalah?",
     "pilihan": {
-      "A": "Float",
-      "B": "Integer",
-      "C": "String",
-      "D": "Boolean",
-      "E": "Double"
+      "a": "Float",
+      "b": "Integer",
+      "c": "String",
+      "d": "Boolean",
+      "e": "Double"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Struktur kontrol yang digunakan untuk pengambilan keputusan berdasarkan kondisi adalah?",
     "pilihan": {
-      "A": "Looping",
-      "B": "If-Else",
-      "C": "Array",
-      "D": "Function",
-      "E": "Variable"
+      "a": "Looping",
+      "b": "If-Else",
+      "c": "Array",
+      "d": "Function",
+      "e": "Variable"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Dalam berpikir komputasional, proses memecah masalah kompleks menjadi bagian-bagian kecil disebut?",
     "pilihan": {
-      "A": "Abstraksi",
-      "B": "Pengenalan Pola",
-      "C": "Debugging",
-      "D": "Algoritma",
-      "E": "Dekomposisi"
+      "a": "Abstraksi",
+      "b": "Pengenalan Pola",
+      "c": "Debugging",
+      "d": "Algoritma",
+      "e": "Dekomposisi"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Bahasa pemrograman paling populer untuk pengajaran dasar pemrogaman di sekolah dan perguruan tinggi masa kini adalah?",
     "pilihan": {
-      "A": "Python",
-      "B": "Java",
-      "C": "Pascal",
-      "D": "C++",
-      "E": "JavaScript"
+      "a": "Python",
+      "b": "Java",
+      "c": "Pascal",
+      "d": "C++",
+      "e": "JavaScript"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Model OSI memiliki berapa lapisan (layer)?",
     "pilihan": {
-      "A": "3",
-      "B": "5",
-      "C": "7",
-      "D": "9",
-      "E": "10"
+      "a": "3",
+      "b": "5",
+      "c": "7",
+      "d": "9",
+      "e": "10"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Platform yang digunakan untuk membuat aplikasi mobile tanpa coding adalah?",
     "pilihan": {
-      "A": "Visual Basic",
-      "B": "MIT App Inventor",
-      "C": "Dev C++",
-      "D": "MATLAB",
-      "E": "Notepad++"
+      "a": "Visual Basic",
+      "b": "MIT App Inventor",
+      "c": "Dev C++",
+      "d": "MATLAB",
+      "e": "Notepad++"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Pada analisis data, proses membersihkan data dari nilai yang tidak valid disebut?",
     "pilihan": {
-      "A": "Data Collection",
-      "B": "Data Interpretation",
-      "C": "Data Visualization",
-      "D": "Data Cleaning",
-      "E": "Data Processing"
+      "a": "Data Collection",
+      "b": "Data Interpretation",
+      "c": "Data Visualization",
+      "d": "Data Cleaning",
+      "e": "Data Processing"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Fungsi dalam pemrograman yang mengembalikan nilai disebut?",
     "pilihan": {
-      "A": "Procedure",
-      "B": "Array",
-      "C": "Loop",
-      "D": "Function",
-      "E": "Variable"
+      "a": "Procedure",
+      "b": "Array",
+      "c": "Loop",
+      "d": "Function",
+      "e": "Variable"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Topologi jaringan yang menggunakan satu kabel pusat disebut?",
     "pilihan": {
-      "A": "Star",
-      "B": "Ring",
-      "C": "Bus",
-      "D": "Mesh",
-      "E": "Hybrid"
+      "a": "Star",
+      "b": "Ring",
+      "c": "Bus",
+      "d": "Mesh",
+      "e": "Hybrid"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Dalam pemrograman lintas bidang, contoh aplikasi bioinformatika adalah?",
     "pilihan": {
-      "A": "Simulasi cuaca",
-      "B": "Analisis DNA",
-      "C": "Desain grafis",
-      "D": "Game 3D",
-      "E": "Pengolahan suara"
+      "a": "Simulasi cuaca",
+      "b": "Analisis DNA",
+      "c": "Desain grafis",
+      "d": "Game 3D",
+      "e": "Pengolahan suara"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Struktur data yang menyimpan elemen dalam urutan tertentu dan dapat diakses dengan indeks disebut?",
     "pilihan": {
-      "A": "Variabel",
-      "B": "Array",
-      "C": "Fungsi",
-      "D": "Objek",
-      "E": "String"
+      "a": "Variabel",
+      "b": "Array",
+      "c": "Fungsi",
+      "d": "Objek",
+      "e": "String"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Pada aplikasi mobile, perbedaan utama antara aplikasi web dan native adalah?",
     "pilihan": {
-      "A": "Platform",
-      "B": "Bahasa pemrograman",
-      "C": "Konektivitas internet",
-      "D": "Ukuran aplikasi",
-      "E": "Semua benar"
+      "a": "Platform",
+      "b": "Bahasa pemrograman",
+      "c": "Konektivitas internet",
+      "d": "Ukuran aplikasi",
+      "e": "Semua benar"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Algoritma yang digunakan untuk mencari data dalam array adalah?",
     "pilihan": {
-      "A": "Sorting",
-      "B": "Branching",
-      "C": "Looping",
-      "D": "Searching",
-      "E": "Recursion"
+      "a": "Sorting",
+      "b": "Branching",
+      "c": "Looping",
+      "d": "Searching",
+      "e": "Recursion"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Protokol yang digunakan untuk mengirim email adalah?",
     "pilihan": {
-      "A": "HTTP",
-      "B": "FTP",
-      "C": "SMTP",
-      "D": "TCP/IP",
-      "E": "DNS"
+      "a": "HTTP",
+      "b": "FTP",
+      "c": "SMTP",
+      "d": "TCP/IP",
+      "e": "DNS"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Pada analisis data, grafik yang digunakan untuk menampilkan distribusi data adalah?",
     "pilihan": {
-      "A": "Pie Chart",
-      "B": "Bar Chart",
-      "C": "Scatter Plot",
-      "D": "Line Chart",
-      "E": "Histogram"
+      "a": "Pie Chart",
+      "b": "Bar Chart",
+      "c": "Scatter Plot",
+      "d": "Line Chart",
+      "e": "Histogram"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Dalam pemrograman, perulangan yang menggunakan kondisi di akhir disebut?",
     "pilihan": {
-      "A": "For",
-      "B": "While",
-      "C": "Switch-Case",
-      "D": "If-Else",
-      "E": "Do-While"
+      "a": "For",
+      "b": "While",
+      "c": "Switch-Case",
+      "d": "If-Else",
+      "e": "Do-While"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Abstraksi dalam berpikir komputasional bertujuan untuk?",
     "pilihan": {
-      "A": "Mengabaikan detail tidak penting",
-      "B": "Memecah masalah",
-      "C": "Mengenali pola",
-      "D": "Membuat algoritma",
-      "E": "Menguji solusi"
+      "a": "Mengabaikan detail tidak penting",
+      "b": "Memecah masalah",
+      "c": "Mengenali pola",
+      "d": "Membuat algoritma",
+      "e": "Menguji solusi"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Bahasa pemrograman berbasis objek yang sering digunakan dalam pengembangan aplikasi mobile adalah?",
     "pilihan": {
-      "A": "Swift",
-      "B": "Python",
-      "C": "C#",
-      "D": "Java",
-      "E": "Semua benar"
+      "a": "Swift",
+      "b": "Python",
+      "c": "C#",
+      "d": "Java",
+      "e": "Semua benar"
     },
     "jawaban": "e"
   },
   {
-    "pertanyaan": "Jika sebuah algoritma memiliki kompleksitas O(n²), maka...",
+    "pertanyaan": "Jika sebuah algoritma memiliki kompleksitas O(n\u00b2), maka...",
     "pilihan": {
-      "A": "Waktu eksekusi meningkat linear",
-      "B": "Waktu eksekusi meningkat kuadratik",
-      "C": "Waktu eksekusi tetap",
-      "D": "Waktu eksekusi menurun",
-      "E": "Tidak terukur"
+      "a": "Waktu eksekusi meningkat linear",
+      "b": "Waktu eksekusi meningkat kuadratik",
+      "c": "Waktu eksekusi tetap",
+      "d": "Waktu eksekusi menurun",
+      "e": "Tidak terukur"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Dalam jaringan komputer, protokol yang digunakan untuk mengakses halaman web adalah?",
     "pilihan": {
-      "A": "HTTP",
-      "B": "FTP",
-      "C": "SMTP",
-      "D": "TCP/IP",
-      "E": "DNS"
+      "a": "HTTP",
+      "b": "FTP",
+      "c": "SMTP",
+      "d": "TCP/IP",
+      "e": "DNS"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Pada MIT App Inventor, komponen yang digunakan untuk menampilkan teks adalah?",
     "pilihan": {
-      "A": "Button",
-      "B": "TextBox",
-      "C": "Label",
-      "D": "Image",
-      "E": "Canvas"
+      "a": "Button",
+      "b": "TextBox",
+      "c": "Label",
+      "d": "Image",
+      "e": "Canvas"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Dalam analisis data, metode untuk mengidentifikasi tren dari data historis disebut?",
     "pilihan": {
-      "A": "Clustering",
-      "B": "Classification",
-      "C": "Anomaly Detection",
-      "D": "Association",
-      "E": "Regression"
+      "a": "Clustering",
+      "b": "Classification",
+      "c": "Anomaly Detection",
+      "d": "Association",
+      "e": "Regression"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Pada pemrograman, operator logika yang menghasilkan true jika salah satu kondisi benar adalah?",
     "pilihan": {
-      "A": "AND",
-      "B": "XOR",
-      "C": "NOT",
-      "D": "OR",
-      "E": "NAND"
+      "a": "AND",
+      "b": "XOR",
+      "c": "NOT",
+      "d": "OR",
+      "e": "NAND"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Dalam jaringan, perangkat yang digunakan untuk menghubungkan jaringan berbeda adalah?",
     "pilihan": {
-      "A": "Switch",
-      "B": "Hub",
-      "C": "Router",
-      "D": "Modem",
-      "E": "Access Point"
+      "a": "Switch",
+      "b": "Hub",
+      "c": "Router",
+      "d": "Modem",
+      "e": "Access Point"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Dalam pemrograman lintas bidang, contoh penerapan komputasi ilmiah adalah?",
     "pilihan": {
-      "A": "Pemrosesan citra",
-      "B": "Game 2D",
-      "C": "Aplikasi perbankan",
-      "D": "Simulasi fisika",
-      "E": "Sistem manajemen database"
+      "a": "Pemrosesan citra",
+      "b": "Game 2D",
+      "c": "Aplikasi perbankan",
+      "d": "Simulasi fisika",
+      "e": "Sistem manajemen database"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Representasi visual dari langkah-langkah algoritma disebut?",
     "pilihan": {
-      "A": "Flowchart",
-      "B": "Pseudocode",
-      "C": "Step-by-step",
-      "D": "Proses",
-      "E": "Input"
+      "a": "Flowchart",
+      "b": "Pseudocode",
+      "c": "Step-by-step",
+      "d": "Proses",
+      "e": "Input"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Dalam pengembangan aplikasi mobile, MIT App Inventor menggunakan pendekatan?",
     "pilihan": {
-      "A": "Koding tradisional",
-      "B": "Drag-and-drop",
-      "C": "Command line",
-      "D": "GUI desain",
-      "E": "Scripting"
+      "a": "Koding tradisional",
+      "b": "Drag-and-drop",
+      "c": "Command line",
+      "d": "GUI desain",
+      "e": "Scripting"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Dalam analisis data, data yang dikumpulkan dari sumber primer disebut?",
     "pilihan": {
-      "A": "Data sekunder",
-      "B": "Data kualitatif",
-      "C": "Data kuantitatif",
-      "D": "Data primer",
-      "E": "Data eksternal"
+      "a": "Data sekunder",
+      "b": "Data kualitatif",
+      "c": "Data kuantitatif",
+      "d": "Data primer",
+      "e": "Data eksternal"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Dalam pemrograman, fungsi yang memanggil dirinya sendiri disebut?",
     "pilihan": {
-      "A": "Recursive",
-      "B": "Iteratif",
-      "C": "Prosedural",
-      "D": "Objek",
-      "E": "Library"
+      "a": "Recursive",
+      "b": "Iteratif",
+      "c": "Prosedural",
+      "d": "Objek",
+      "e": "Library"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Protokol yang digunakan untuk menghubungkan perangkat dalam jaringan lokal adalah?",
     "pilihan": {
-      "A": "HTTP",
-      "B": "FTP",
-      "C": "TCP/IP",
-      "D": "SMTP",
-      "E": "DNS"
+      "a": "HTTP",
+      "b": "FTP",
+      "c": "TCP/IP",
+      "d": "SMTP",
+      "e": "DNS"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Dalam berpikir komputasional, pengenalan pola bertujuan untuk?",
     "pilihan": {
-      "A": "Mengelompokkan data",
-      "B": "Menemukan kesamaan",
-      "C": "Membuat model",
-      "D": "Menyederhanakan masalah",
-      "E": "Semua benar"
+      "a": "Mengelompokkan data",
+      "b": "Menemukan kesamaan",
+      "c": "Membuat model",
+      "d": "Menyederhanakan masalah",
+      "e": "Semua benar"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Dalam pemrograman, variabel yang menyimpan alamat memori disebut?",
     "pilihan": {
-      "A": "Pointer",
-      "B": "Array",
-      "C": "String",
-      "D": "Integer",
-      "E": "Boolean"
+      "a": "Pointer",
+      "b": "Array",
+      "c": "String",
+      "d": "Integer",
+      "e": "Boolean"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Dalam jaringan, alat yang digunakan untuk mengubah sinyal analog menjadi digital disebut?",
     "pilihan": {
-      "A": "Switch",
-      "B": "Router",
-      "C": "Hub",
-      "D": "Access Point",
-      "E": "Modem"
+      "a": "Switch",
+      "b": "Router",
+      "c": "Hub",
+      "d": "Access Point",
+      "e": "Modem"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Dalam analisis data, ukuran pemusatan data yang paling sering digunakan adalah?",
     "pilihan": {
-      "A": "Median",
-      "B": "Mean",
-      "C": "Modus",
-      "D": "Range",
-      "E": "Varians"
+      "a": "Median",
+      "b": "Mean",
+      "c": "Modus",
+      "d": "Range",
+      "e": "Varians"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Dalam pemrograman lintas bidang, contoh penerapan dalam bidang lingkungan adalah?",
     "pilihan": {
-      "A": "Aplikasi permainan",
-      "B": "Simulasi perubahan iklim",
-      "C": "Sistem manajemen hotel",
-      "D": "Aplikasi belanja",
-      "E": "Game edukasi"
+      "a": "Aplikasi permainan",
+      "b": "Simulasi perubahan iklim",
+      "c": "Sistem manajemen hotel",
+      "d": "Aplikasi belanja",
+      "e": "Game edukasi"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Dalam berpikir komputasional, abstraksi dilakukan setelah?",
     "pilihan": {
-      "A": "Dekomposisi",
-      "B": "Pengenalan pola",
-      "C": "Algoritma",
-      "D": "Debugging",
-      "E": "Testing"
+      "a": "Dekomposisi",
+      "b": "Pengenalan pola",
+      "c": "Algoritma",
+      "d": "Debugging",
+      "e": "Testing"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Dalam pemrograman, tipe data yang hanya memiliki dua nilai disebut?",
     "pilihan": {
-      "A": "Integer",
-      "B": "String",
-      "C": "Boolean",
-      "D": "Float",
-      "E": "Double"
+      "a": "Integer",
+      "b": "String",
+      "c": "Boolean",
+      "d": "Float",
+      "e": "Double"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Dalam jaringan, protokol yang digunakan untuk mengidentifikasi perangkat secara logis dan dapat berubah adalah?",
     "pilihan": {
-      "A": "IP Address",
-      "B": "MAC Address",
-      "C": "DNS",
-      "D": "HTTP",
-      "E": "FTP"
+      "a": "IP Address",
+      "b": "MAC Address",
+      "c": "DNS",
+      "d": "HTTP",
+      "e": "FTP"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Dalam analisis data, data yang tidak terstruktur contohnya adalah?",
     "pilihan": {
-      "A": "Database",
-      "B": "Spreadsheet",
-      "C": "Email",
-      "D": "Formulir",
-      "E": "Laporan"
+      "a": "Database",
+      "b": "Spreadsheet",
+      "c": "Email",
+      "d": "Formulir",
+      "e": "Laporan"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Dalam pemrograman, sintaks untuk menangani kesalahan adalah?",
     "pilihan": {
-      "A": "Try-Catch",
-      "B": "If-Else",
-      "C": "For",
-      "D": "Switch",
-      "E": "While"
+      "a": "Try-Catch",
+      "b": "If-Else",
+      "c": "For",
+      "d": "Switch",
+      "e": "While"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Dalam jaringan, protokol yang digunakan untuk transfer file adalah?",
     "pilihan": {
-      "A": "HTTP",
-      "B": "TCP/IP",
-      "C": "SMTP",
-      "D": "FTP",
-      "E": "DNS"
+      "a": "HTTP",
+      "b": "TCP/IP",
+      "c": "SMTP",
+      "d": "FTP",
+      "e": "DNS"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Dalam pemrograman lintas bidang, contoh penerapan dalam bidang kesehatan adalah?",
     "pilihan": {
-      "A": "Aplikasi belanja",
-      "B": "Sistem diagnosa penyakit",
-      "C": "Game 3D",
-      "D": "Aplikasi media sosial",
-      "E": "Editor video"
+      "a": "Aplikasi belanja",
+      "b": "Sistem diagnosa penyakit",
+      "c": "Game 3D",
+      "d": "Aplikasi media sosial",
+      "e": "Editor video"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Dalam analisis data, proses mengubah data mentah menjadi format yang dapat dianalisis disebut?",
     "pilihan": {
-      "A": "Data Collection",
-      "B": "Data Cleaning",
-      "C": "Data Interpretation",
-      "D": "Data Visualization",
-      "E": "Data Transformation"
+      "a": "Data Collection",
+      "b": "Data Cleaning",
+      "c": "Data Interpretation",
+      "d": "Data Visualization",
+      "e": "Data Transformation"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Dalam pemrograman, pernyataan yang digunakan untuk keluar dari perulangan adalah?",
     "pilihan": {
-      "A": "Break",
-      "B": "Continue",
-      "C": "Exit",
-      "D": "Return",
-      "E": "Stop"
+      "a": "Break",
+      "b": "Continue",
+      "c": "Exit",
+      "d": "Return",
+      "e": "Stop"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Dalam jaringan, perangkat yang digunakan untuk memperkuat sinyal adalah?",
     "pilihan": {
-      "A": "Router",
-      "B": "Switch",
-      "C": "Repeater",
-      "D": "Modem",
-      "E": "Hub"
+      "a": "Router",
+      "b": "Switch",
+      "c": "Repeater",
+      "d": "Modem",
+      "e": "Hub"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Dalam pemrograman, bahasa yang menggunakan sintaksis berbasis blok `{}` adalah?",
     "pilihan": {
-      "A": "Python",
-      "B": "BASIC",
-      "C": "Pascal",
-      "D": "Java",
-      "E": "MATLAB"
+      "a": "Python",
+      "b": "BASIC",
+      "c": "Pascal",
+      "d": "Java",
+      "e": "MATLAB"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Dalam analisis data, metode untuk mengelompokkan data berdasarkan kesamaan disebut?",
     "pilihan": {
-      "A": "Clustering",
-      "B": "Classification",
-      "C": "Regression",
-      "D": "Association",
-      "E": "Anomaly Detection"
+      "a": "Clustering",
+      "b": "Classification",
+      "c": "Regression",
+      "d": "Association",
+      "e": "Anomaly Detection"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Dalam pemrograman, tipe data string digunakan untuk menyimpan?",
     "pilihan": {
-      "A": "Angka",
-      "B": "Simbol",
-      "C": "Boolean",
-      "D": "Teks atau kumpulan Karakter",
-      "E": "Semua benar"
+      "a": "Angka",
+      "b": "Simbol",
+      "c": "Boolean",
+      "d": "Teks atau kumpulan Karakter",
+      "e": "Semua benar"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Dalam jaringan, protokol yang digunakan untuk mengubah nama domain menjadi alamat IP adalah?",
     "pilihan": {
-      "A": "HTTP",
-      "B": "FTP",
-      "C": "SMTP",
-      "D": "TCP/IP",
-      "E": "DNS"
+      "a": "HTTP",
+      "b": "FTP",
+      "c": "SMTP",
+      "d": "TCP/IP",
+      "e": "DNS"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Dalam pemrograman lintas bidang, contoh penerapan dalam bidang pendidikan adalah?",
     "pilihan": {
-      "A": "Aplikasi e-learning",
-      "B": "Sistem manajemen perpustakaan",
-      "C": "Aplikasi ujian online",
-      "D": "Semua benar",
-      "E": "Game edukasi"
+      "a": "Aplikasi e-learning",
+      "b": "Sistem manajemen perpustakaan",
+      "c": "Aplikasi ujian online",
+      "d": "Semua benar",
+      "e": "Game edukasi"
     },
     "jawaban": "d"
   }

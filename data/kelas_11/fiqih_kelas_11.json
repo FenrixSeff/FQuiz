@@ -2,550 +2,550 @@
   {
     "pertanyaan": "Pembunuhan yang dilakukan dengan sengaja dan direncanakan disebut pembunuhan?",
     "pilihan": {
-      "A": "Semi sengaja (Syibhul 'Amd)",
-      "B": "Tidak sengaja (Khatha')",
-      "C": "Seperti sengaja (Qatl Syibhul 'Amd)",
-      "D": "Sengaja ('Amd)",
-      "E": "Karena kelalaian (Qatl bi Sabab)"
+      "a": "Semi sengaja (Syibhul 'Amd)",
+      "b": "Tidak sengaja (Khatha')",
+      "c": "Seperti sengaja (Qatl Syibhul 'Amd)",
+      "d": "Sengaja ('Amd)",
+      "e": "Karena kelalaian (Qatl bi Sabab)"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Sanksi hukum untuk pembunuhan sengaja ('Amd) adalah?",
     "pilihan": {
-      "A": "Diyat ringan",
-      "B": "Kaffarat saja",
-      "C": "Qishash atau diyat berat",
-      "D": "Denda uang",
-      "E": "Hukuman penjara"
+      "a": "Diyat ringan",
+      "b": "Kaffarat saja",
+      "c": "Qishash atau diyat berat",
+      "d": "Denda uang",
+      "e": "Hukuman penjara"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Diyat untuk pembunuhan tidak sengaja (Khatha') dibayarkan dalam bentuk?",
     "pilihan": {
-      "A": "100 ekor unta",
-      "B": "30 ekor sapi",
-      "C": "100 kg emas",
-      "D": "50 ekor kambing",
-      "E": "Uang tunai senilai 1 miliar"
+      "a": "100 ekor unta",
+      "b": "30 ekor sapi",
+      "c": "100 kg emas",
+      "d": "50 ekor kambing",
+      "e": "Uang tunai senilai 1 miliar"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Hukuman untuk pencurian yang memenuhi syarat hudud adalah?",
     "pilihan": {
-      "A": "Denda uang",
-      "B": "Diyat",
-      "C": "Hukuman penjara",
-      "D": "Potong tangan",
-      "E": "Kaffarat"
+      "a": "Denda uang",
+      "b": "Diyat",
+      "c": "Hukuman penjara",
+      "d": "Potong tangan",
+      "e": "Kaffarat"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Sanksi untuk pelaku zina muhshan (sudah menikah) adalah?",
     "pilihan": {
-      "A": "Cambuk 100 kali",
-      "B": "Pengasingan",
-      "C": "Denda uang",
-      "D": "Hukuman penjara",
-      "E": "Rajam hingga meninggal"
+      "a": "Cambuk 100 kali",
+      "b": "Pengasingan",
+      "c": "Denda uang",
+      "d": "Hukuman penjara",
+      "e": "Rajam hingga meninggal"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Yang termasuk khiyar (hak pilih) dalam jual beli adalah KECUALI?",
     "pilihan": {
-      "A": "Khiyar Majlis",
-      "B": "Khiyar Syarat",
-      "C": "Khiyar 'Aibi",
-      "D": "Khiyar Ru'yah",
-      "E": "Khiyar Ta'ayun"
+      "a": "Khiyar Majlis",
+      "b": "Khiyar Syarat",
+      "c": "Khiyar 'Aibi",
+      "d": "Khiyar Ru'yah",
+      "e": "Khiyar Ta'ayun"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Akad jual beli dengan pembayaran di muka untuk barang yang akan diserahkan kemudian disebut?",
     "pilihan": {
-      "A": "Murabahah",
-      "B": "Salam",
-      "C": "Istishna'",
-      "D": "Ijarah",
-      "E": "Musaqah"
+      "a": "Murabahah",
+      "b": "Salam",
+      "c": "Istishna'",
+      "d": "Ijarah",
+      "e": "Musaqah"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Kerjasama pengelolaan kebun dimana pemilik lahan dan penggarap berbagi hasil disebut?",
     "pilihan": {
-      "A": "Muzara'ah",
-      "B": "Musaqah",
-      "C": "Mukhabarah",
-      "D": "Syirkah",
-      "E": "Qirad"
+      "a": "Muzara'ah",
+      "b": "Musaqah",
+      "c": "Mukhabarah",
+      "d": "Syirkah",
+      "e": "Qirad"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Syirkah yang dilakukan oleh dua pihak atau lebih dalam modal dan kerja disebut?",
     "pilihan": {
-      "A": "Syirkah 'Inan",
-      "B": "Syirkah Mufawadhah",
-      "C": "Syirkah Abdan",
-      "D": "Syirkah Wujuh",
-      "E": "Syirkah Mudharabah"
+      "a": "Syirkah 'Inan",
+      "b": "Syirkah Mufawadhah",
+      "c": "Syirkah Abdan",
+      "d": "Syirkah Wujuh",
+      "e": "Syirkah Mudharabah"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Wakalah (perwakilan) dalam fiqih berarti?",
     "pilihan": {
-      "A": "Pemindahan hak milik",
-      "B": "Jual beli cicilan",
-      "C": "Kerjasama bagi hasil",
-      "D": "Pemberian kuasa kepada orang lain",
-      "E": "Perdamaian antar pihak"
+      "a": "Pemindahan hak milik",
+      "b": "Jual beli cicilan",
+      "c": "Kerjasama bagi hasil",
+      "d": "Pemberian kuasa kepada orang lain",
+      "e": "Perdamaian antar pihak"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Hukum asal pernikahan dalam Islam adalah?",
     "pilihan": {
-      "A": "Wajib",
-      "B": "Haram",
-      "C": "Mubah",
-      "D": "Makruh",
-      "E": "Sunnah"
+      "a": "Wajib",
+      "b": "Haram",
+      "c": "Mubah",
+      "d": "Makruh",
+      "e": "Sunnah"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Syarat sah pernikahan yang paling utama adalah?",
     "pilihan": {
-      "A": "Mahar yang mahal",
-      "B": "Walimah besar-besaran",
-      "C": "Ijab qabul dengan saksi",
-      "D": "Undangan banyak tamu",
-      "E": "Pasangan harus kaya"
+      "a": "Mahar yang mahal",
+      "b": "Walimah besar-besaran",
+      "c": "Ijab qabul dengan saksi",
+      "d": "Undangan banyak tamu",
+      "e": "Pasangan harus kaya"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Bagian warisan untuk anak laki-laki dibanding anak perempuan adalah?",
     "pilihan": {
-      "A": "Sama besar",
-      "B": "Separuh bagian anak perempuan",
-      "C": "Dua kali bagian anak perempuan",
-      "D": "Tiga kali bagian anak perempuan",
-      "E": "Tidak mendapat bagian"
+      "a": "Sama besar",
+      "b": "Separuh bagian anak perempuan",
+      "c": "Dua kali bagian anak perempuan",
+      "d": "Tiga kali bagian anak perempuan",
+      "e": "Tidak mendapat bagian"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Hukum wasiat dalam Islam adalah?",
     "pilihan": {
-      "A": "Wajib bagi setiap muslim",
-      "B": "Sunnah sebagai bentuk keadilan",
-      "C": "Haram karena mengubah ketentuan waris",
-      "D": "Makruh jika kepada ahli waris",
-      "E": "Mubah hanya untuk non muslim"
+      "a": "Wajib bagi setiap muslim",
+      "b": "Sunnah sebagai bentuk keadilan",
+      "c": "Haram karena mengubah ketentuan waris",
+      "d": "Makruh jika kepada ahli waris",
+      "e": "Mubah hanya untuk non muslim"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Yang membatalkan wudhu adalah?",
     "pilihan": {
-      "A": "Berdoa sebelum wudhu",
-      "B": "Bersentuhan dengan mahram",
-      "C": "Keluar sesuatu dari qubul/dubur",
-      "D": "Makan sebelum shalat",
-      "E": "Berbicara saat wudhu"
+      "a": "Berdoa sebelum wudhu",
+      "b": "Bersentuhan dengan mahram",
+      "c": "Keluar sesuatu dari qubul/dubur",
+      "d": "Makan sebelum shalat",
+      "e": "Berbicara saat wudhu"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Rukun shalat yang paling utama setelah niat adalah?",
     "pilihan": {
-      "A": "Duduk di antara dua sujud",
-      "B": "Sujud sahwi",
-      "C": "Bacaan Al-Fatihah",
-      "D": "Salam penutup",
-      "E": "Takbiratul ihram"
+      "a": "Duduk di antara dua sujud",
+      "b": "Sujud sahwi",
+      "c": "Bacaan Al-Fatihah",
+      "d": "Salam penutup",
+      "e": "Takbiratul ihram"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Hukum qadzaf (menuduh zina tanpa bukti) adalah?",
     "pilihan": {
-      "A": "Diperbolehkan sebagai peringatan",
-      "B": "Kaffarat puasa 2 bulan",
-      "C": "Diyat ringan",
-      "D": "Hudud dengan hukuman cambuk 80 kali",
-      "E": "Tidak ada sanksi khusus"
+      "a": "Diperbolehkan sebagai peringatan",
+      "b": "Kaffarat puasa 2 bulan",
+      "c": "Diyat ringan",
+      "d": "Hudud dengan hukuman cambuk 80 kali",
+      "e": "Tidak ada sanksi khusus"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Bughat (pemberontak) dalam fiqih jinayah adalah?",
     "pilihan": {
-      "A": "Kelompok yang menentang pemerintah yang sah dengan alasan syar'i",
-      "B": "Pencuri kecil-kecilan",
-      "C": "Pemimpin yang zalim",
-      "D": "Kelompok yang taat pada pemerintah",
-      "E": "Masyarakat biasa yang protes damai"
+      "a": "Kelompok yang menentang pemerintah yang sah dengan alasan syar'i",
+      "b": "Pencuri kecil-kecilan",
+      "c": "Pemimpin yang zalim",
+      "d": "Kelompok yang taat pada pemerintah",
+      "e": "Masyarakat biasa yang protes damai"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Khiyar Majlis dalam jual beli berarti hak memilih?",
     "pilihan": {
-      "A": "Selama penjual dan pembeli masih di tempat transaksi",
-      "B": "Jika terdapat cacat pada barang",
-      "C": "Dalam jangka waktu tertentu",
-      "D": "Setelah melihat barang",
-      "E": "Saat barang sudah dibawa pulang"
+      "a": "Selama penjual dan pembeli masih di tempat transaksi",
+      "b": "Jika terdapat cacat pada barang",
+      "c": "Dalam jangka waktu tertentu",
+      "d": "Setelah melihat barang",
+      "e": "Saat barang sudah dibawa pulang"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Perbedaan Musaqah dan Muzara'ah terletak pada?",
     "pilihan": {
-      "A": "Musaqah untuk kebun buah, Muzara'ah untuk tanaman semusim",
-      "B": "Musaqah lebih menguntungkan pemilik lahan",
-      "C": "Muzara'ah hanya untuk padi",
-      "D": "Musaqah tidak ada bagi hasil",
-      "E": "Muzara'ah menggunakan sistem sewa"
+      "a": "Musaqah untuk kebun buah, Muzara'ah untuk tanaman semusim",
+      "b": "Musaqah lebih menguntungkan pemilik lahan",
+      "c": "Muzara'ah hanya untuk padi",
+      "d": "Musaqah tidak ada bagi hasil",
+      "e": "Muzara'ah menggunakan sistem sewa"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Wakaf menurut istilah fiqih adalah?",
     "pilihan": {
-      "A": "Jual beli tanah produktif",
-      "B": "Menahan harta dan mengalirkan manfaatnya",
-      "C": "Pemberian tanpa syarat",
-      "D": "Hibah untuk keluarga",
-      "E": "Warisan yang dibekukan"
+      "a": "Jual beli tanah produktif",
+      "b": "Menahan harta dan mengalirkan manfaatnya",
+      "c": "Pemberian tanpa syarat",
+      "d": "Hibah untuk keluarga",
+      "e": "Warisan yang dibekukan"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Riba yang diharamkan dalam QS. Al-Baqarah: 275 termasuk jenis?",
     "pilihan": {
-      "A": "Riba Jahiliyah dan Riba Hali",
-      "B": "Riba Yad dan Riba Qard",
-      "C": "Riba Duyun dan Riba Buyu'",
-      "D": "Riba Fadhl dan Riba Nasi'ah",
-      "E": "Riba Intern dan Riba Ekstern"
+      "a": "Riba Jahiliyah dan Riba Hali",
+      "b": "Riba Yad dan Riba Qard",
+      "c": "Riba Duyun dan Riba Buyu'",
+      "d": "Riba Fadhl dan Riba Nasi'ah",
+      "e": "Riba Intern dan Riba Ekstern"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Kewajiban suami terhadap istri menurut QS. An-Nisa': 34 adalah?",
     "pilihan": {
-      "A": "Memberi nafkah dan perlindungan",
-      "B": "Memaksa istri bekerja",
-      "C": "Melarang istri keluar rumah",
-      "D": "Mengawasi istri 24 jam",
-      "E": "Menghukum istri setiap hari"
+      "a": "Memberi nafkah dan perlindungan",
+      "b": "Memaksa istri bekerja",
+      "c": "Melarang istri keluar rumah",
+      "d": "Mengawasi istri 24 jam",
+      "e": "Menghukum istri setiap hari"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Berikut ini yang termasuk ahli waris 'Ashabah adalah?",
     "pilihan": {
-      "A": "Anak perempuan",
-      "B": "Ibu",
-      "C": "Suami",
-      "D": "Anak laki-laki",
-      "E": "Nenek"
+      "a": "Anak perempuan",
+      "b": "Ibu",
+      "c": "Suami",
+      "d": "Anak laki-laki",
+      "e": "Nenek"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Wasiat yang tidak sah menurut hukum waris Islam adalah?",
     "pilihan": {
-      "A": "Wasiat kepada fakir miskin",
-      "B": "Wasiat kepada tetangga",
-      "C": "Wasiat kepada anak yatim",
-      "D": "Wasiat untuk pembangunan masjid",
-      "E": "Wasiat melebihi 1/3 harta"
+      "a": "Wasiat kepada fakir miskin",
+      "b": "Wasiat kepada tetangga",
+      "c": "Wasiat kepada anak yatim",
+      "d": "Wasiat untuk pembangunan masjid",
+      "e": "Wasiat melebihi 1/3 harta"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Tayammum dilakukan sebagai pengganti wudhu ketika?",
     "pilihan": {
-      "A": "Air tersedia melimpah",
-      "B": "Ingin menghemat air",
-      "C": "Malas berwudhu",
-      "D": "Sakit yang membahayakan jika kena air",
-      "E": "Sedang dalam kendaraan"
+      "a": "Air tersedia melimpah",
+      "b": "Ingin menghemat air",
+      "c": "Malas berwudhu",
+      "d": "Sakit yang membahayakan jika kena air",
+      "e": "Sedang dalam kendaraan"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Shalat yang memiliki dua azan adalah?",
     "pilihan": {
-      "A": "Shalat Subuh",
-      "B": "Shalat Jumat",
-      "C": "Shalat Id",
-      "D": "Shalat Tarawih",
-      "E": "Shalat Witir"
+      "a": "Shalat Subuh",
+      "b": "Shalat Jumat",
+      "c": "Shalat Id",
+      "d": "Shalat Tarawih",
+      "e": "Shalat Witir"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Orang yang wajib membayar zakat mal adalah?",
     "pilihan": {
-      "A": "Setiap muslim tanpa syarat",
-      "B": "Muslim, baligh, berakal, memiliki nisab",
-      "C": "Hanya laki-laki dewasa",
-      "D": "Pengusaha besar saja",
-      "E": "Pegawai negeri"
+      "a": "Setiap muslim tanpa syarat",
+      "b": "Muslim, baligh, berakal, memiliki nisab",
+      "c": "Hanya laki-laki dewasa",
+      "d": "Pengusaha besar saja",
+      "e": "Pegawai negeri"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Rukun haji yang paling utama adalah?",
     "pilihan": {
-      "A": "Sa'i",
-      "B": "Wukuf di Arafah",
-      "C": "Tawaf Ifadhah",
-      "D": "Melempar jumrah",
-      "E": "Tahallul"
+      "a": "Sa'i",
+      "b": "Wukuf di Arafah",
+      "c": "Tawaf Ifadhah",
+      "d": "Melempar jumrah",
+      "e": "Tahallul"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Hikmah qishash dalam hukum pidana Islam adalah?",
     "pilihan": {
-      "A": "Balas dendam tanpa batas",
-      "B": "Menjadi pelampiasan amarah",
-      "C": "Pencegah kejahatan (zawajir)",
-      "D": "Memperbanyak jumlah tahanan",
-      "E": "Menghilangkan nyawa manusia"
+      "a": "Balas dendam tanpa batas",
+      "b": "Menjadi pelampiasan amarah",
+      "c": "Pencegah kejahatan (zawajir)",
+      "d": "Memperbanyak jumlah tahanan",
+      "e": "Menghilangkan nyawa manusia"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Minum khamr termasuk dalam kategori hudud dengan hukuman?",
     "pilihan": {
-      "A": "Rajam",
-      "B": "Potong tangan",
-      "C": "Cambuk 40-80 kali",
-      "D": "Diyat berat",
-      "E": "Penjara seumur hidup"
+      "a": "Rajam",
+      "b": "Potong tangan",
+      "c": "Cambuk 40-80 kali",
+      "d": "Diyat berat",
+      "e": "Penjara seumur hidup"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Penanganan terhadap bughat (pemberontak) yang benar adalah?",
     "pilihan": {
-      "A": "Diadili segera dengan qishash",
-      "B": "Diberi kesempatan bertaubat dan berdamai",
-      "C": "Dihukum mati tanpa proses",
-      "D": "Diabaikan saja",
-      "E": "Diberi hadiah"
+      "a": "Diadili segera dengan qishash",
+      "b": "Diberi kesempatan bertaubat dan berdamai",
+      "c": "Dihukum mati tanpa proses",
+      "d": "Diabaikan saja",
+      "e": "Diberi hadiah"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Jual beli yang dilarang dalam Islam adalah?",
     "pilihan": {
-      "A": "Jual beli salam",
-      "B": "Jual beli barang halal dengan jelas",
-      "C": "Jual beli barang ribawi sejenis tidak tunai",
-      "D": "Jual beli kebutuhan pokok",
-      "E": "Jual beli secara tunai"
+      "a": "Jual beli salam",
+      "b": "Jual beli barang halal dengan jelas",
+      "c": "Jual beli barang ribawi sejenis tidak tunai",
+      "d": "Jual beli kebutuhan pokok",
+      "e": "Jual beli secara tunai"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Perbedaan Musaqah dan Mukhabarah terletak pada?",
     "pilihan": {
-      "A": "Musaqah: pengelola kebun buah, Mukhabarah: bagi hasil pertanian dengan benih dari pemilik",
-      "B": "Musaqah lebih lama dari Mukhabarah",
-      "C": "Mukhabarah hanya untuk padi",
-      "D": "Musaqah menggunakan sistem sewa",
-      "E": "Tidak ada perbedaan"
+      "a": "Musaqah: pengelola kebun buah, Mukhabarah: bagi hasil pertanian dengan benih dari pemilik",
+      "b": "Musaqah lebih lama dari Mukhabarah",
+      "c": "Mukhabarah hanya untuk padi",
+      "d": "Musaqah menggunakan sistem sewa",
+      "e": "Tidak ada perbedaan"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Wakalah menjadi batal jika?",
     "pilihan": {
-      "A": "Pemberi kuasa meninggal dunia",
-      "B": "Pekerjaan selesai dengan baik",
-      "C": "Penerima kuasa menerima upah",
-      "D": "Ada persetujuan kedua belah pihak",
-      "E": "Pekerjaan sedang berlangsung"
+      "a": "Pemberi kuasa meninggal dunia",
+      "b": "Pekerjaan selesai dengan baik",
+      "c": "Penerima kuasa menerima upah",
+      "d": "Ada persetujuan kedua belah pihak",
+      "e": "Pekerjaan sedang berlangsung"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Shulhu (perdamaian) dalam sengketa dianjurkan karena?",
     "pilihan": {
-      "A": "Memperpanjang konflik",
-      "B": "Menguntungkan satu pihak",
-      "C": "Menghindari permusuhan",
-      "D": "Memperbanyak pengadilan",
-      "E": "Menguntungkan pengacara"
+      "a": "Memperpanjang konflik",
+      "b": "Menguntungkan satu pihak",
+      "c": "Menghindari permusuhan",
+      "d": "Memperbanyak pengadilan",
+      "e": "Menguntungkan pengacara"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Kafalah dalam fiqih muamalah berarti?",
     "pilihan": {
-      "A": "Pemindahan utang",
-      "B": "Penanggung jawab atas kewajiban orang lain",
-      "C": "Kerjasama dagang",
-      "D": "Perdamaian antar pihak",
-      "E": "Pemberian hadiah"
+      "a": "Pemindahan utang",
+      "b": "Penanggung jawab atas kewajiban orang lain",
+      "c": "Kerjasama dagang",
+      "d": "Perdamaian antar pihak",
+      "e": "Pemberian hadiah"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Hibah menjadi sah ketika?",
     "pilihan": {
-      "A": "Ada niat untuk menarik kembali",
-      "B": "Dilakukan di depan notaris",
-      "C": "Hanya diucapkan tanpa penyerahan",
-      "D": "Barang sudah diserahkan",
-      "E": "Ada paksaan dari penerima"
+      "a": "Ada niat untuk menarik kembali",
+      "b": "Dilakukan di depan notaris",
+      "c": "Hanya diucapkan tanpa penyerahan",
+      "d": "Barang sudah diserahkan",
+      "e": "Ada paksaan dari penerima"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Rukun wakaf yang paling utama adalah?",
     "pilihan": {
-      "A": "Wakif (orang yang berwakaf)",
-      "B": "Mauquf 'alaih (penerima wakaf)",
-      "C": "Mauquf (harta yang diwakafkan)",
-      "D": "Sighat (pernyataan wakaf)",
-      "E": "Saksi dan notaris"
+      "a": "Wakif (orang yang berwakaf)",
+      "b": "Mauquf 'alaih (penerima wakaf)",
+      "c": "Mauquf (harta yang diwakafkan)",
+      "d": "Sighat (pernyataan wakaf)",
+      "e": "Saksi dan notaris"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Shadaqah sunnah yang paling utama adalah?",
     "pilihan": {
-      "A": "Diberikan kepada kerabat yang memusuhi",
-      "B": "Diberikan dari harta haram",
-      "C": "Diumumkan di media sosial",
-      "D": "Diberikan dengan mengharap pujian",
-      "E": "Diberikan secara tersembunyi"
+      "a": "Diberikan kepada kerabat yang memusuhi",
+      "b": "Diberikan dari harta haram",
+      "c": "Diumumkan di media sosial",
+      "d": "Diberikan dengan mengharap pujian",
+      "e": "Diberikan secara tersembunyi"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Riba Nasi'ah terjadi karena?",
     "pilihan": {
-      "A": "Perbedaan kualitas barang sejenis",
-      "B": "Penundaan pembayaran dengan penambahan nilai",
-      "C": "Jual beli barang ribawi secara tunai",
-      "D": "Bagi hasil usaha",
-      "E": "Hibah keluarga"
+      "a": "Perbedaan kualitas barang sejenis",
+      "b": "Penundaan pembayaran dengan penambahan nilai",
+      "c": "Jual beli barang ribawi secara tunai",
+      "d": "Bagi hasil usaha",
+      "e": "Hibah keluarga"
     },
     "jawaban": "b"
   },
   {
     "pertanyaan": "Pernikahan menjadi wajib ketika?",
     "pilihan": {
-      "A": "Sudah memiliki pekerjaan tetap",
-      "B": "Memiliki rumah mewah",
-      "C": "Khawatir terjerumus zina",
-      "D": "Orang tua memaksa",
-      "E": "Usia di atas 30 tahun"
+      "a": "Sudah memiliki pekerjaan tetap",
+      "b": "Memiliki rumah mewah",
+      "c": "Khawatir terjerumus zina",
+      "d": "Orang tua memaksa",
+      "e": "Usia di atas 30 tahun"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Mahar dalam pernikahan hukumnya?",
     "pilihan": {
-      "A": "Wajib",
-      "B": "Sunah",
-      "C": "Makruh",
-      "D": "Haram",
-      "E": "Mubah"
+      "a": "Wajib",
+      "b": "Sunah",
+      "c": "Makruh",
+      "d": "Haram",
+      "e": "Mubah"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Bagian warisan untuk istri jika ada anak adalah?",
     "pilihan": {
-      "A": "1/8",
-      "B": "1/4",
-      "C": "1/2",
-      "D": "1/6",
-      "E": "1/3"
+      "a": "1/8",
+      "b": "1/4",
+      "c": "1/2",
+      "d": "1/6",
+      "e": "1/3"
     },
     "jawaban": "a"
   },
   {
     "pertanyaan": "Wasiat kepada ahli waris?",
     "pilihan": {
-      "A": "Diperbolehkan tanpa batas",
-      "B": "Sunnah muakkad",
-      "C": "Wajib dilakukan",
-      "D": "Dilarang kecuali diizinkan ahli waris lain",
-      "E": "Batal demi hukum"
+      "a": "Diperbolehkan tanpa batas",
+      "b": "Sunnah muakkad",
+      "c": "Wajib dilakukan",
+      "d": "Dilarang kecuali diizinkan ahli waris lain",
+      "e": "Batal demi hukum"
     },
     "jawaban": "d"
   },
   {
     "pertanyaan": "Yang membatalkan puasa adalah?",
     "pilihan": {
-      "A": "Makan karena lupa",
-      "B": "Bersuntik untuk pengobatan",
-      "C": "Muntah dengan sengaja",
-      "D": "Bermimpi basah",
-      "E": "Tidur seharian"
+      "a": "Makan karena lupa",
+      "b": "Bersuntik untuk pengobatan",
+      "c": "Muntah dengan sengaja",
+      "d": "Bermimpi basah",
+      "e": "Tidur seharian"
     },
     "jawaban": "c"
   },
   {
     "pertanyaan": "Zakat fitrah disyariatkan untuk?",
     "pilihan": {
-      "A": "Membersihkan harta",
-      "B": "Membiayai pembangunan masjid",
-      "C": "Membayar utang puasa",
-      "D": "Mengganti puasa yang batal",
-      "E": "Menyucikan jiwa orang yang berpuasa"
+      "a": "Membersihkan harta",
+      "b": "Membiayai pembangunan masjid",
+      "c": "Membayar utang puasa",
+      "d": "Mengganti puasa yang batal",
+      "e": "Menyucikan jiwa orang yang berpuasa"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Haji wajib dilakukan?",
     "pilihan": {
-      "A": "Setiap tahun",
-      "B": "Hanya untuk laki-laki",
-      "C": "Tiga kali dalam hidup",
-      "D": "Setiap lima tahun",
-      "E": "Sekali seumur hidup"
+      "a": "Setiap tahun",
+      "b": "Hanya untuk laki-laki",
+      "c": "Tiga kali dalam hidup",
+      "d": "Setiap lima tahun",
+      "e": "Sekali seumur hidup"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Hukum memakan harta anak yatim secara zalim menurut QS. An-Nisa': 10 adalah?",
     "pilihan": {
-      "A": "Halal jika untuk kepentingan pengelolaan",
-      "B": "Sunah jika untuk keperluan pendidikan",
-      "C": "Makruh jika dalam jumlah kecil",
-      "D": "Mubah dalam keadaan darurat",
-      "E": "Dosa besar dan masuk neraka"
+      "a": "Halal jika untuk kepentingan pengelolaan",
+      "b": "Sunah jika untuk keperluan pendidikan",
+      "c": "Makruh jika dalam jumlah kecil",
+      "d": "Mubah dalam keadaan darurat",
+      "e": "Dosa besar dan masuk neraka"
     },
     "jawaban": "e"
   },
   {
     "pertanyaan": "Dalam kasus penganiayaan yang tidak sampai membunuh, sanksi yang diterapkan adalah?",
     "pilihan": {
-      "A": "Qishash dengan membalas setimpal",
-      "B": "Tidak ada sanksi apapun",
-      "C": "Kaffarat berupa puasa 2 bulan",
-      "D": "Hukuman ta'zir yang ditetapkan hakim",
-      "E": "Diyat sesuai tingkat luka"
+      "a": "Qishash dengan membalas setimpal",
+      "b": "Tidak ada sanksi apapun",
+      "c": "Kaffarat berupa puasa 2 bulan",
+      "d": "Hukuman ta'zir yang ditetapkan hakim",
+      "e": "Diyat sesuai tingkat luka"
     },
     "jawaban": "e"
   }

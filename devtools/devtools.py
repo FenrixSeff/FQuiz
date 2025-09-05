@@ -56,12 +56,12 @@ def _simpan(target, change, spasi=2):
 def reset_kunci_jawaban(target, verbose=False):
     file = _buka_file(target)
     for n, soal in enumerate(file, 1):
-        k_bnr = soal.get("jawaban").upper()
+        k_bnr = soal.get("jawaban").lower()
         v_bnr = soal["pilihan"].get(k_bnr)
         d_key = list(soal["pilihan"].keys())
         d_vle = list(soal["pilihan"].values())
         random.shuffle(d_vle)
-        convert = {k: y for k, y in zip(d_key, d_vle)}
+        convert = {k.lower(): y for k, y in zip(d_key, d_vle)}
         for k, v in convert.items():
             if v == v_bnr:
                 soal["jawaban"] = k.lower()
@@ -90,7 +90,7 @@ while True:
     table.clear()
     user = int(table.get_input("Pilih opsi", "normal"))
     if user == 0:
-        print("\nDevTools v1.7.14")
+        print("\nDevTools v1.7.15")
         exit(0)
 
     elif user == 1:
