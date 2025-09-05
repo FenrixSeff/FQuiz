@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Apa tujuan utama dari prosedur tune-up pada mesin kendaraan?",
+    "pilihan": {
+      "a": "Mengubah desain mesin untuk performa racing",
+      "b": "Meningkatkan kapasitas mesin secara drastis",
+      "c": "Mengganti seluruh komponen mesin yang aus",
+      "d": "Mengembalikan kinerja mesin ke kondisi optimal dan efisien",
+      "e": "Memperbaiki kerusakan berat pada blok silinder"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Gejala mesin sulit hidup pada pagi hari dan menghasilkan asap putih tebal dari knalpot biasanya mengindikasikan masalah pada...",
+    "pilihan": {
+      "a": "Busi yang kotor",
+      "b": "Filter udara yang tersumbat",
+      "c": "Ring piston yang aus",
+      "d": "Radiator yang bocor",
+      "e": "Sistem pengapian"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam sistem injeksi bahan bakar elektronik (EFI), komponen yang berfungsi mengukur volume udara yang masuk ke intake manifold adalah...",
+    "pilihan": {
+      "a": "Fuel Injector",
+      "b": "Mass Air Flow (MAF) Sensor",
+      "c": "Engine Coolant Temperature (ECT) Sensor",
+      "d": "Fuel Pressure Regulator",
+      "e": "Throttle Position Sensor (TPS)"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi utama oli mesin dalam sistem pelumasan adalah, KECUALI...",
+    "pilihan": {
+      "a": "Membersihkan kotoran dari dalam mesin",
+      "b": "Mencegah karat dan korosi",
+      "o": "Mendinginkan komponen mesin",
+      "d": "Meningkatkan kompresi silinder",
+      "e": "Meredam gesekan antar komponen"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tekanan oli yang terbaca rendah pada semua putaran mesin dapat disebabkan oleh...",
+    "pilihan": {
+      "a": "Saringan oli (oil filter) yang tersumbat",
+      "b": "Radiator yang mengalami kebocoran",
+      "c": "Oil pump yang sudah aus",
+      "d": "Viskositas oli yang terlalu tinggi",
+      "e": "Termostat yang macet terbuka"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Komponen utama pada sistem pendingin yang berfungsi untuk menurunkan suhu cairan pendingin adalah...",
+    "pilihan": {
+      "a": "Kipas Pendingin",
+      "b": "Thermostat",
+      "c": "Water Pump",
+      "d": "Radiator",
+      "e": "Water Jacket"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan produksi massal?",
+    "pilihan": {
+      "a": "Proses perakitan manual oleh pengrajin ahli",
+      "b": "Proses produksi yang hanya fokus pada inovasi tanpa mempertimbangkan biaya",
+      "c": "Proses pembuatan produk dalam jumlah besar dengan desain dan spesifikasi standar",
+      "d": "Proses membuat satu produk custom dengan kualitas tertinggi",
+      "e": "Proses manufaktur yang menggunakan bahan baku langka"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pada transmisi otomatis, komponen yang berfungsi menggantikan peran kopling pada mobil manual adalah...",
+    "pilihan": {
+      "a": "Governor Valve",
+      "b": "Torque Converter",
+      "c": "Oil Pump",
+      "d": "Planetary Gear Set",
+      "e": "Shift Solenoid"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Jika power window pada semua pintu tidak dapat beroperasi, kemungkinan besar masalahnya terletak pada...",
+    "pilihan": {
+      "a": "Switch utama pada pintu driver",
+      "b": "Relay power window",
+      "c": "Kabel pada satu pintu tertentu yang putus",
+      "d": "Sekring (fuse) utama yang putus",
+      "e": "Motor power window masing-masing pintu"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Aki (Accumulator) pada kendaraan berfungsi sebagai, KECUALI...",
+    "pilihan": {
+      "a": "Sumber energi untuk menghidupkan motor starter",
+      "b": "Penyedia daya untuk sistem kelistrikan saat mesin mati",
+      "c": "Penyetabil voltage listrik dari alternator",
+      "d": "Mengubah energi kimia menjadi energi listrik",
+      "e": "Menggantikan fungsi alternator saat mesin hidup"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Jenis aki yang tidak memerlukan penambahan air aki (electrolyte) dan biasanya ditandai dengan casing yang tertutup rapat disebut aki...",
+    "pilihan": {
+      "a": "Aki Kering (Dry Charge Battery)",
+      "b": "Aki Hybrid",
+      "c": "Aki Calcium",
+      "d": "Aki Basah (Conventional Battery)",
+      "e": "Aki MF (Maintenance Free)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa yang harus dilakukan pertama kali sebelum melepas terminal aki?",
+    "pilihan": {
+      "a": "Menyalakan mesin untuk mengisi aki hingga penuh",
+      "b": "Membersihkan permukaan aki dengan air",
+      "c": "Melepas terminal negatif terlebih dahulu",
+      "d": "Memastikan semua beban listrik dalam keadaan aktif",
+      "e": "Melepas terminal positif terlebih dahulu"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tekanan kompresi yang rendah pada satu silinder tertentu dan menjadi normal setelah dituangkan oli ke dalam silinder, menunjukkan indikasi kerusakan pada...",
+    "pilihan": {
+      "a": "Head gasket yang bocor",
+      "b": "Celah klep yang terlalu longgar",
+      "c": "Ring piston atau dinding silinder",
+      "d": "Busi yang sudah aus",
+      "e": "Katup hisap atau buang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam manajemen bengkel, sistem 5S yang berasal dari Jepang bertujuan untuk...",
+    "pilihan": {
+      "a": "Menciptakan tempat kerja yang rapi, bersih, teratur, dan aman",
+      "b": "Mengurangi jumlah karyawan untuk efisiensi biaya",
+      "c": "Meningkatkan kecepatan produksi dengan mengorbankan kualitas",
+      "d": "Menggunakan peralatan berteknologi tinggi saja",
+      "e": "Meningkatkan harga jual semua jasa perbaikan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Proses 'spooring' pada sistem chasis bertujuan untuk...",
+    "pilihan": {
+      "a": "Menyetel sudut kemiringan roda dan kemudi",
+      "b": "Mengencangkan semua baut pada kaki-kaki",
+      "c": "Mengganti seluruh ban kendaraan",
+      "d": "Menyetel keseimbangan (balans) setiap roda",
+      "e": "Membersihkan bagian bawah chasis dari karat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Alat yang digunakan untuk mengukur kerataan (kebengkokan) permukaan kepala silinder adalah...",
+    "pilihan": {
+      "a": "Straight Edge dan Feeler Gauge",
+      "b": "Micrometer",
+      "c": "Torque Wrench",
+      "d": "Feeler Gauge",
+      "e": "Telescopic Gauge"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam tahapan perencanaan produksi massal, langkah setelah membuat rancangan produk adalah...",
+    "pilihan": {
+      "a": "Pembuatan prototipe",
+      "b": "Distribusi ke konsumen",
+      "c": "Penjualan dan Pemasaran",
+      "d": "Perhitungan biaya produksi",
+      "e": "Penentuan harga jual"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jika mesin mengalami overheat, langkah pertama yang paling tepat adalah...",
+    "pilihan": {
+      "a": "Segera membuka tutup radiator untuk melepaskan tekanan",
+      "b": "Mematikan mesin dan membiarkannya dingin sendiri",
+      "c": "Mematikan AC untuk mengurangi beban mesin",
+      "d": "Menuangkan air dingin langsung ke mesin",
+      "e": "Meningkatkan putaran mesin agar kipas berputar lebih kencang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Komponen pada sistem bahan bakar injeksi yang bertekanan tinggi dan menyemprotkan bahan bakar langsung ke ruang bakar adalah...",
+    "pilihan": {
+      "a": "Canister",
+      "b": "Fuel Pressure Regulator",
+      "c": "Throttle Body",
+      "d": "Fuel Injector",
+      "e": "Fuel Pump"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Service interval penggantian oli mesin primarily didasarkan pada...",
+    "pilihan": {
+      "a": "Performa mesin yang mulai menurun",
+      "b": "Jumlah bahan bakar yang telah digunakan",
+      "c": "Waktu saja (misal setiap 6 bulan)",
+      "d": "Warna oli yang berubah menjadi hitam",
+      "e": "Jarak tempuh kendaraan atau waktu, mana yang tercapai duluan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam konteks pelayanan pelanggan di bengkel, istilah 'waiting time' merujuk pada...",
+    "pilihan": {
+      "a": "Waktu tunggu pelanggan sebelum dilayani",
+      "b": "Waktu penyelesaian administrasi pembayaran",
+      "c": "Waktu yang dibutuhkan untuk memperbaiki kendaraan",
+      "d": "Waktu pengantaran kendaraan ke rumah pelanggan",
+      "e": "Waktu garansi untuk suku cadang"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Satuan yang digunakan untuk menyatakan kapasitas penyimpanan listrik pada aki adalah...",
+    "pilihan": {
+      "a": "Volt (V)",
+      "b": "Watt (W)",
+      "c": "Ampere Hour (Ah)",
+      "d": "Ampere (A)",
+      "e": "Ohm (\u03a9)"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Penyebab umum dari terjadinya knocking (ketukan) pada mesin adalah...",
+    "pilihan": {
+      "a": "Sistem EGR yang macet terbuka",
+      "b": "Pengapian yang terlalu maju atau angka oktan bahan bakar terlalu rendah",
+      "c": "Campuran bahan bakar yang terlalu gemuk (rich)",
+      "d": "Tekanan bahan bakar yang terlalu rendah",
+      "e": "Pengapian yang terlalu lambat"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Komponen suspensi yang berfungsi sebagai sumbu putar roda saat berbelok dan bergerak naik turun adalah...",
+    "pilihan": {
+      "a": "Ball Joint",
+      "b": "Pitman Arm",
+      "c": "Shock Absorber",
+      "d": "Rack End",
+      "e": "Stabilizer Link"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Untuk mengukur diameter dalam suatu lubang (seperti lubang silinder) dengan presisi, alat yang paling tepat digunakan adalah...",
+    "pilihan": {
+      "a": "Jangka Sorong",
+      "b": "Dial Indicator",
+      "c": "Feeler Gauge",
+      "d": "Cylinder Gauge",
+      "e": "Telescopic Gauge dan Micrometer"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ciri utama dari produksi massal adalah...",
+    "pilihan": {
+      "a": "Menggunakan tenaga kerja ahli yang sangat spesialis",
+      "b": "Waktu produksi untuk setiap unit sangat lama",
+      "c": "Produk yang dihasilkan sangat beragam dan custom",
+      "d": "Proses produksi berjalan secara kontinu dan berulang",
+      "e": "Biaya per unit produk relatif tinggi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Warna cairan pendingin (coolant) yang berbeda-beda (hijau, merah, biru) terutama menunjukkan perbedaan dalam...",
+    "pilihan": {
+      "a": "Suhu beku dan didih serta komposisi bahan kimia aditifnya",
+      "b": "Jenis mesin yang boleh menggunakannya",
+      "c": "Kandungan air murni di dalamnya",
+      "d": "Harga jual di pasaran",
+      "e": "Merek dagang saja"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada sistem rem, komponen yang termasuk dalam sistem chassis dan berfungsi mengubah tenaga hidrolik menjadi gaya mekanik untuk menjepit kampas rem adalah...",
+    "pilihan": {
+      "a": "Caliper",
+      "b": "Proportioning Valve",
+      "c": "Brake Booster",
+      "d": "Master Silinder",
+      "e": "Brake Drum"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu keuntungan utama dari transmisi otomatis CVT (Continuously Variable Transmission) dibanding transmisi konvensional adalah...",
+    "pilihan": {
+      "a": "Kemampuan torsi yang lebih tinggi untuk menanjak",
+      "b": "Konstruksi yang lebih sederhana dan ringan",
+      "c": "Akselerasi yang lebih cepat dan efisiensi bahan bakar yang lebih baik",
+      "d": "Perawatan yang lebih murah dan sederhana",
+      "e": "Suara karakteristik perpindahan gigi yang terasa"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Jika lampu indikator charging menyala saat mesin hidup, kemungkinan masalahnya adalah...",
+    "pilihan": {
+      "a": "Kabel massa aki longgar",
+      "b": "Alternator tidak mengisi arus listrik",
+      "c": "Motor starter mengalami gangguan",
+      "d": "Aki dalam kondisi lemah",
+      "e": "Sekring lampu dashboard putus"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Proses 'balancing' roda bertujuan untuk...",
+    "pilihan": {
+      "a": "Memastikan pola telapak ban sama",
+      "b": "Mengganti ban yang sudah aus",
+      "c": "Menghilangkan getaran pada kemudi pada kecepatan tertentu",
+      "d": "Menyamakan tekanan angin semua ban",
+      "e": "Menyetel sudut kemiringan roda"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Untuk memeriksa celah katup (klep) mesin, alat yang digunakan adalah...",
+    "pilihan": {
+      "a": "Feeler Gauge",
+      "b": "Dial Indicator",
+      "c": "Compression Tester",
+      "d": "Torque Wrench",
+      "e": "Micrometer"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam konsep kewirausahaan bengkel, 'customer relationship management' bertujuan untuk...",
+    "pilihan": {
+      "a": "Menaikkan harga jual suku cadang semahal mungkin",
+      "b": "Mengurangi biaya operasional bengkel",
+      "c": "Mempekerjakan lebih sedikit tenaga mekanik",
+      "d": "Membuat pelanggan hanya bergantung pada satu bengkel",
+      "e": "Membangun dan mempertahankan hubungan jangka panjang dengan pelanggan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Reaksi kimia yang terjadi pada aki saat discharging (pengosongan) adalah...",
+    "pilihan": {
+      "a": "Timbal Sulfat (PbSO4) berubah kembali menjadi Timbal (Pb) dan Timbal Dioksida (PbO2)",
+      "b": "Asam Sulfat (H2SO4) menguap menjadi gas",
+      "c": "Timbal (Pb) dan Timbal Dioksida (PbO2) berubah menjadi Timbal Sulfat (PbSO4)",
+      "d": "Listrik diubah menjadi energi kimia",
+      "e": "Air (H2O) diubah menjadi Hidrogen (H2) dan Oksigen (O2)"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Penyebab umum dari mesin yang berjalan tidak stabil (rough idle) pada mobil dengan sistem EFI bisa disebabkan oleh...",
+    "pilihan": {
+      "a": "Oli mesin yang sudah waktunya diganti",
+      "b": "Rem tangan yang masih mengikat",
+      "c": "Idle Air Control (IAC) Valve yang kotor atau macet",
+      "d": "Tekanan ban yang tidak sama",
+      "e": "Filter udara yang baru diganti"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Bagian dari kepala silinder yang sering mengalami keretakan akibat overheat adalah...",
+    "pilihan": {
+      "a": "Di antara katup masuk dan buang",
+      "b": "Tempat dudukan busi",
+      "c": "Permukaan yang bersentuhan dengan blok silinder",
+      "d": "Saluran oli",
+      "e": "Tempat dudukan rocker arm"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tahapan akhir dari sebuah proses perencanaan produksi massal adalah...",
+    "pilihan": {
+      "a": "Penelitian pasar",
+      "b": "Penentuan bahan baku",
+      "c": "Produksi dan evaluasi kualitas",
+      "d": "Pembuatan desain konsep",
+      "e": "Pembuatan prototipe"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Komponen pada sistem AC yang berfungsi untuk menurunkan tekanan dan suhu refrigerant adalah...",
+    "pilihan": {
+      "a": "Kondensor",
+      "b": "Evaporator",
+      "c": "Kompresor",
+      "d": "Receiver Dryer",
+      "e": "Expansion Valve"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Untuk mengencangkan baut kepala silinder (cylinder head bolt), urutan dan torsi yang tepat sangat critical untuk...",
+    "pilihan": {
+      "a": "Mencegah kebocoran kompresi dan distorsi pada kepala silinder",
+      "b": "Meningkatkan kompresi mesin",
+      "c": "Mempermudah pelepasan pada service berikutnya",
+      "d": "Mencegah kebocoran oli",
+      "e": "Mengurangi getaran mesin"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jenis cairan power steering yang digunakan untuk suatu kendaraan biasanya ditentukan oleh...",
+    "pilihan": {
+      "a": "Spesifikasi pabrikan kendaraan",
+      "b": "Harga termurah di pasaran",
+      "c": "Ketersediaan di bengkel",
+      "d": "Warna cairan yang disukai pemilik",
+      "e": "Viskositas yang paling tinggi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Alat yang digunakan untuk mendiagnosis kerusakan pada sistem EFI dengan membaca kode kesalahan (trouble code) adalah...",
+    "pilihan": {
+      "a": "Compression Tester",
+      "b": "Oscilloscope",
+      "c": "Scan Tool",
+      "d": "Test Light",
+      "e": "Multimeter"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Penyebab dari terjadinya oli mesin bercampur dengan air (berwarna seperti susu coklat) adalah...",
+    "pilihan": {
+      "a": "Turbocharger yang bermasalah",
+      "b": "Oil pump yang rusak",
+      "c": "Filter oli yang tersumbat",
+      "d": "Piston ring yang aus",
+      "e": "Head gasket yang bocor"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam manajemen inventory bengkel, sistem 'First In First Out' (FIFO) diterapkan untuk...",
+    "pilihan": {
+      "a": "Menaikkan harga jual suku cadang yang lama",
+      "b": "Mengurangi jumlah jenis suku cadang yang disimpan",
+      "c": "Menyimpan suku cadang yang paling mahal di belakang",
+      "d": "Memastikan suku cadang yang lebih dulu masuk akan lebih dulu digunakan",
+      "e": "Memprioritaskan penggunaan suku cadang dengan merek tertentu"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Saat melakukan pengelasan pada bodi kendaraan, langkah keselamatan yang VITAL adalah...",
+    "pilihan": {
+      "a": "Melepas terminal aki untuk memutus aliran listrik",
+      "b": "Bekerja di area yang lembab",
+      "c": "Tidak perlu menggunakan kaca mata las karena sudah ada helmet",
+      "d": "Menggunakan pakaian sintetis yang nyaman",
+      "e": "Memastikan mesin dalam kondisi hidup"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Komponen dalam torque converter yang dihubungkan langsung dengan input shaft transmisi adalah...",
+    "pilihan": {
+      "a": "Stator",
+      "b": "Turbine",
+      "c": "Clutch Pack",
+      "d": "Planetary Gear",
+      "e": "Impeller"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Untuk mengatasi masalah power window yang hanya tidak bekerja pada satu pintu tertentu, langkah diagnosis yang paling tepat pertama kali adalah...",
+    "pilihan": {
+      "a": "Memeriksa switch pada pintu yang bermasalah dan koneksi kabelnya",
+      "b": "Mengganti aki dengan yang baru",
+      "c": "Mengganti relay power window",
+      "d": "Memeriksa sekring utama",
+      "e": "Mengganti motor power window pintu tersebut"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Fungsi dari viscous fan clutch pada sistem pendinginan adalah...",
+    "pilihan": {
+      "a": "Menggerakkan water pump",
+      "b": "Mendinginkan cairan power steering",
+      "c": "Menyambungkan dan memutus putaran kipas dari mesin",
+      "d": "Mengatur putaran kipas pendingin berdasarkan suhu mesin",
+      "e": "Mengatur buka tutup thermostat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Faktor yang paling mempengaruhi harga jual sebuah jasa perbaikan di bengkel adalah...",
+    "pilihan": {
+      "a": "Lama waktu bengkel berdiri",
+      "b": "Biaya suku cadang, tenaga kerja, dan overhead bengkel",
+      "c": "Keinginan pemilik bengkel",
+      "d": "Jumlah mekanik yang sedang libur",
+      "e": "Harga yang ditetapkan oleh bengkel pesaing"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Jenis aki yang menggunakan larutan elektrolit berbentuk gel dan memiliki ketahanan terhadap vibration yang lebih baik adalah aki...",
+    "pilihan": {
+      "a": "Aki MF (Maintenance Free)",
+      "b": "Aki AGM (Absorbent Glass Mat)",
+      "c": "Aki Basah (Flooded)",
+      "d": "Aki Kering (Dry Cell)",
+      "e": "Aki Hybrid"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada sistem pengisian, komponen yang berfungsi sebagai penyearah arus listrik (AC menjadi DC) yang dihasilkan oleh alternator adalah...",
+    "pilihan": {
+      "a": "Rotor Coil",
+      "b": "Diode Rectifier",
+      "c": "Stator Coil",
+      "d": "Slip Ring",
+      "e": "Voltage Regulator"
+    },
+    "jawaban": "b"
+  }
+]
