@@ -173,7 +173,9 @@ class RiwayatHandler(DatabaseHandler):
         self.execute_query(query, param)
 
 
-    def baca_riwayat(self, urutkan: str="terlama") -> list[tuple]:
+    def baca_riwayat(self,
+                     urutkan: str="terlama",
+                     by="id") -> list[tuple]:
         """
         Mengambil semua data riwayat dari database.
 
@@ -181,13 +183,19 @@ class RiwayatHandler(DatabaseHandler):
             List[Tuple]: Sebuah list berisi tuple, di mana setiap tuple
                 merepresentasikan satu baris data riwayat.
         """
-        parse = {
+        parse_sh = {
             "terbaru": "DESC", "baru": "DESC", "new": "DESC",
-            "terlama": "ASC", "lama": "ASC", "old": "ASC"
-        }
-        urut = parse.get(urutkan.strip().lower(), "terlama")
+            "tertinggi": "DESC", "tinggi": "DESC", "atas": "DESC",
+            "terlama": "ASC", "lama": "ASC", "old": "ASC",
+            "terendah": "ASC", "rendah": "ASC", "bawah": "ASC"
+            }
+        parse_bs = {
+            "id": "id", "nilai": "nilai",
+            }
+        urut = parse_sh.get(urutkan.strip().lower(), "terlama")
+        dasar = parse_bs.get(by.strip().lower(), "id")
         q = self._parse_sql(self.fqy_buka)
-        query = q.format(sorting=urut)  # inject
+        query = q.format(sorting=urut, base=dasar)  # inject
         return self.execute_query(query, (20,)) # sementara max 20
 
 

@@ -16,26 +16,30 @@ menu_utama = {
 menu_riwayat = {
     "1": "Terbaru",
     "2": "Terlama",
+    "3": "Nilai Tertinggi",
+    "4": "Nilai Terendah",
     "0": "Kembali"
     }
 
-def menus(dict_target=menu_utama, head="Menu", msg="Pilih opsi"):
+def menus(dict_target=menu_utama, head="Menu",
+          msg="Pilih opsi", info="normal"):
     table = VerticalTable()
     os.system("cls" if os.name == "nt" else "clear")
     table.add_properties(dict_target)
     table.lebar_manual(5, 37)
     table.show(header=f"{head}", align="center"); print()
-    plh_mnu = table.get_input(msg_prompt=msg, info="normal")
+    plh_mnu = table.get_input(msg_prompt=msg, info=info)
     num, arg = list(dict_target.keys()), list(dict_target.values())
     if plh_mnu in num or arg:
         return plh_mnu
 
 def olah_menu():
+    msg, icon = "Apa yang ingin anda lakukan", "normal"
     while True:
         user = menus(menu_utama, head="Menu",
-                     msg="Apa yang ingin anda lakukan")
+                     msg=msg, info=icon)
         match user:
-            case "1":
+            case "1" | "main":
                 while True:
                     src = Telusur()
                     kelas = src.input_user(
@@ -61,21 +65,34 @@ def olah_menu():
                             else:
                                 return mapel, batas_waktu
 
-            case "2":
+            case "2" | "history":
+                msg, icon = "Urut berdasarkan", "normal"
                 while True:
                     user = menus(menu_riwayat, head="History",
-                                 msg="Urutkan berdasarkan")
+                                 msg=msg, info=icon)
                     match user:
-                        case "1":
-                            riwayat(mode="terbaru")
-                        case "2":
-                            riwayat(mode="terlama")
-                        case "0":
+                        case "1" | "terbaru":
+                            riwayat(mode="terbaru", dasar="id")
+                            msg, icon = "Urut berdasarkan", "normal"
+                        case "2" | "terlama":
+                            riwayat(mode="terlama", dasar="id")
+                            msg, icon = "Urut berdasarkan", "normal"
+                        case "3" | "nilai tertinggi":
+                            riwayat(mode="tertinggi", dasar="nilai")
+                            msg, icon = "Urut berdasarkan", "normal"
+                        case "4" | "nilai terendah":
+                            riwayat(mode="terendah", dasar="nilai")
+                            msg, icon = "Urut berdasarkan", "normal"
+                        case "0" | "kembali":
+                            msg, icon = ("Apa yang ingin anda lakukan",
+                                        "normal")
                             break
-            case "0":
+                        case _:
+                            msg, icon = "Masukan opsi yg tersedia", "e"
+            case "0" | "keluar":
                 sys.exit(0)
             case _:
-                pass
+                msg, icon = "Masukan opsi yg tersedia", "error"
 
 def main():
     return olah_menu()
