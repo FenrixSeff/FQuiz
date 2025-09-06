@@ -86,7 +86,7 @@ class DatabaseHandler:
             konek.executescript(query)
 
 
-    def execute_query(self, query: str, param: tuple=(), fetch=None):
+    def execute_query(self, query: str, param: tuple=()):
         """
         Mengeksekusi satu statement SQL, dengan dukungan parameter
             dan fetch.
@@ -98,21 +98,13 @@ class DatabaseHandler:
                 (mencegah SQL Injection).
                 Default ke tuple kosong.
 
-            fetch: Menentukan cara
-                mengambil data.
-                Pilihan: "one", "all", atau None.
-                Default ke None (tidak ada data yang diambil).
-
         Returns:
-            Hasil dari fetch (satu baris, semua baris, atau None).
+            Semua baris table.
         """
         with self._konek_db() as konek:
             kursor = konek.cursor()
             kursor.execute(query, param)
-            if fetch == "one":
-                return kursor.fetchone()
-            elif fetch == "all":
-                return kursor.fetchall()
+            return kursor.fetchall()
 
 
 class RiwayatHandler(DatabaseHandler):
@@ -181,7 +173,7 @@ class RiwayatHandler(DatabaseHandler):
         self.execute_query(query, param)
 
 
-    def buka_riwayat(self, tampilkan: str="all") -> list[tuple]:
+    def baca_riwayat(self, urutkan: str="terlama") -> list[tuple]:
         """
         Mengambil semua data riwayat dari database.
 
@@ -189,8 +181,14 @@ class RiwayatHandler(DatabaseHandler):
             List[Tuple]: Sebuah list berisi tuple, di mana setiap tuple
                 merepresentasikan satu baris data riwayat.
         """
-        query = self._parse_sql(self.fqy_buka)
-        return self.execute_query(query, fetch=tampilkan)
+        parse = {
+            "terbaru": "DESC", "baru": "DESC", "new": "DESC",
+            "terlama": "ASC", "lama": "ASC", "old": "ASC"
+        }
+        urut = parse.get(urutkan.strip().lower(), "terlama")
+        q = self._parse_sql(self.fqy_buka)
+        query = q.format(sorting=urut)  # inject
+        return self.execute_query(query, (20,)) # sementara max 20
 
 
     def hapus_semua_riwayat(self):

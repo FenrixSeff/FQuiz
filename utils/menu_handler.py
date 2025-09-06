@@ -7,30 +7,35 @@ from .riwayat_handler import riwayat
 from .rowbot import VerticalTable
 from .timer import pilih_durasi_waktu
 
-menu = {
+menu_utama = {
     "1": "Main",
     "2": "History",
     "0": "Keluar"
     }
 
-def menu_utama(dict_target=menu, msg="Menu"):
+menu_riwayat = {
+    "1": "Terbaru",
+    "2": "Terlama",
+    "0": "Kembali"
+    }
+
+def menus(dict_target=menu_utama, head="Menu", msg="Pilih opsi"):
     table = VerticalTable()
     os.system("cls" if os.name == "nt" else "clear")
     table.add_properties(dict_target)
-    table.lebar_manual(5, 25)
-    table.show(header=f"{msg}", align="center"); print()
-    plh_mnu = table.get_input(msg_prompt="Apa yang ingin anda lakukan",
-                              info="normal")
-    arg = ["start", "main", "history", "riwayat", "exit", "keluar"]
-    opt = list(dict_target.keys())
-    if plh_mnu in arg or opt:
+    table.lebar_manual(5, 37)
+    table.show(header=f"{head}", align="center"); print()
+    plh_mnu = table.get_input(msg_prompt=msg, info="normal")
+    num, arg = list(dict_target.keys()), list(dict_target.values())
+    if plh_mnu in num or arg:
         return plh_mnu
 
 def olah_menu():
     while True:
-        user = menu_utama()
+        user = menus(menu_utama, head="Menu",
+                     msg="Apa yang ingin anda lakukan")
         match user:
-            case "1" | "start" | "main":
+            case "1":
                 while True:
                     src = Telusur()
                     kelas = src.input_user(
@@ -56,9 +61,18 @@ def olah_menu():
                             else:
                                 return mapel, batas_waktu
 
-            case "2" | "history" | "riwayat":
-                riwayat()
-            case "0" | "exit" | "keluar":
+            case "2":
+                while True:
+                    user = menus(menu_riwayat, head="History",
+                                 msg="Urutkan berdasarkan")
+                    match user:
+                        case "1":
+                            riwayat(mode="terbaru")
+                        case "2":
+                            riwayat(mode="terlama")
+                        case "0":
+                            break
+            case "0":
                 sys.exit(0)
             case _:
                 pass

@@ -4,10 +4,10 @@ import random
 from .db_handler import RiwayatHandler
 from .rowbot import VerticalTable
 
-def riwayat(mode="all"):
+def riwayat(mode="old"):
     table = VerticalTable()
     os.system("cls" if os.name == "nt" else "clear")
-    log = RiwayatHandler().buka_riwayat()
+    log = RiwayatHandler().baca_riwayat(urutkan=mode)
     if isinstance(log, tuple):
         logs = [log]
     else:

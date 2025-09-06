@@ -41,8 +41,8 @@ for no, i in enumerate(soal, 1):
     table.show()
     table.clear()
 
-    table.single_colum(f"{no}. {i['pertanyaan']}", align="left")
-    opsi = {p.upper(): j for p, j in i["pilihan"].items()}
+    table.single_colum(f"{no}. {i.get('pertanyaan')}", align="left")
+    opsi = {p.upper(): j for p, j in i.get("pilihan").items()}
     table.add_properties(opsi)
     table.lebar_hybrid(auto="kanan", manual=3)
     table.show(); print()
@@ -51,13 +51,13 @@ for no, i in enumerate(soal, 1):
     msg, icon = "Kunci jawaban anda", "normal"
     while True:
         user = table.get_input(msg_prompt=msg, info=icon)
-        opsi = list(i["pilihan"].keys())
+        opsi = list(i.get("pilihan").keys())
         if user not in[x.lower() for x in opsi]:
             msg, icon = "Masukan pilihan yang tersedia", "error"
         else:
             break
 
-    if user == i["jawaban"]:
+    if user == i.get("jawaban"):
         benar += 1
     else:
         salah += 1
@@ -65,9 +65,9 @@ for no, i in enumerate(soal, 1):
             "no": no,
             "soal": i.get("pertanyaan"),
             "kunci_jawaban": i.get("jawaban"),
-            "isi_jawaban": i["pilihan"].get(i.get("jawaban")),
+            "isi_jawaban": i.get("pilihan").get(i.get("jawaban")),
             "kunci_user": user,
-            "isi_user": i["pilihan"].get(user)
+            "isi_user": i.get("pilihan").get(user)
         })
 
 stop.set()
@@ -92,14 +92,16 @@ if daftar_koreksi:
     cek = table.get_input(msg_prompt="Koreksi Jawaban anda (y/n)",
                           info="normal")
     if cek == "y":
-        table.single_colum(f"Hasil Koreksi {mapel.stem.title()}",
+        os.system("cls" if os.name == "nt" else "clear")
+        table.single_colum(
+            f"Hasil Koreksi Mata Pelajaran {mapel.stem.title()}",
             align="center"); print("\n")
         for i in daftar_koreksi:
-            table.single_colum(f"{i['no']}. {i['soal']}")
-            kunci_benar = {f"✔": f"{i['kunci_jawaban'].upper()}. "
-                   f"{i['isi_jawaban']}"}
-            kunci_salah = {f"✘": f"{i['kunci_user'].upper()}. "
-                   f"{i['isi_user']}    << Jawaban anda"}
+            table.single_colum(f"{i.get('no')}. {i.get('soal')}")
+            kunci_benar = {f"✔": f"{i.get('kunci_jawaban').upper()}. "
+                   f"{i.get('isi_jawaban')}"}
+            kunci_salah = {f"✘": f"{i.get('kunci_user').upper()}. "
+                   f"{i.get('isi_user')}    << Jawaban anda"}
             table.add_properties(kunci_benar)
             table.add_properties(kunci_salah)
             table.lebar_hybrid(auto="kanan", manual=3)
@@ -117,5 +119,5 @@ table.single_colum(
     ">> Devloper    : Makasih dah coba project gabut ini brooo",
     ">> Corrected   : Fenrix",
     ">> Instagram   : @seff_hi7",
-    ">> Version     : FQuiz v1.59.49",
+    ">> Version     : FQuiz v1.61.49",
     align="left")
