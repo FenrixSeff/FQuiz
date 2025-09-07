@@ -175,7 +175,7 @@ class RiwayatHandler(DatabaseHandler):
 
     def baca_riwayat(self,
                      urutkan: str="terlama",
-                     by="id") -> list[tuple]:
+                     by: str="id") -> list[tuple]:
         """
         Mengambil semua data riwayat dari database.
 

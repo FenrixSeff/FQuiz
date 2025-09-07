@@ -18,14 +18,14 @@ def _buka_file(target):
 def info_soal(target):
     file = _buka_file(target)
     table = VerticalTable()
-    os.system("clear")
+    os.system("cls" if os.name == "nt" else "clear")
     a = 0
     b = 0
     c = 0
     d = 0
     e = 0
     for i in file:
-        match i["jawaban"].lower():
+        match i.get("jawaban").lower():
             case "a":
                 a += 1
             case "b":
@@ -38,11 +38,11 @@ def info_soal(target):
                 e += 1
     dft = {
         "Jumlah soal": len(file),
-        "Jawaban A": a,
-        "Jawaban B": b,
-        "Jawaban C": c,
-        "Jawaban D": d,
-        "Jawaban E": e
+        "Jawaban (A)": a,
+        "Jawaban (B)": b,
+        "Jawaban (C)": c,
+        "Jawaban (D)": d,
+        "Jawaban (E)": e
     }
     table.add_properties(dft)
     table.lebar_manual(13, 13)
@@ -53,13 +53,13 @@ def _simpan(target, change, spasi=2):
     with open(target, "w") as lokasi:
         json.dump(change, lokasi, indent=spasi)
 
-def reset_kunci_jawaban(target, verbose=False):
+def reset_kunci_jawaban(target, veborse=False):
     file = _buka_file(target)
     for n, soal in enumerate(file, 1):
         k_bnr = soal.get("jawaban").lower()
-        v_bnr = soal["pilihan"].get(k_bnr)
-        d_key = list(soal["pilihan"].keys())
-        d_vle = list(soal["pilihan"].values())
+        v_bnr = soal.get("pilihan").get(k_bnr)
+        d_key = list(soal.get("pilihan").keys())
+        d_vle = list(soal.get("pilihan").values())
         random.shuffle(d_vle)
         convert = {k.lower(): y for k, y in zip(d_key, d_vle)}
         for k, v in convert.items():
@@ -90,12 +90,12 @@ while True:
     table.clear()
     user = int(table.get_input("Pilih opsi", "normal"))
     if user == 0:
-        print("\nDevTools v1.7.15")
+        print("\nDevTools v1.7.16")
         exit(0)
 
     elif user == 1:
         while True:
-            os.system("clear")
+            os.system("cls" if os.name == "nt" else "clear")
             src.set_target(DEFAULT["data"])
             src.set_pola("*/")
             src.set_jenis("dir")
@@ -114,7 +114,7 @@ while True:
 
     elif user == 2:
         while True:
-            os.system("clear")
+            os.system("cls" if os.name == "nt" else "clear")
             src.set_target(DEFAULT["data"])
             src.set_pola("*/")
             src.set_jenis("dir")
@@ -135,13 +135,13 @@ while True:
 
     elif user == 3:
         table = VerticalTable()
-        os.system("clear")
+        os.system("cls" if os.name == "nt" else "clear")
         RiwayatHandler().hapus_semua_riwayat()
         table.get_input("Succes, Enter untuk melanjutkan")
 
     elif user == 4:
         while True:
-            os.system("clear")
+            os.system("cls" if os.name == "nt" else "clear")
             src.set_target(DEFAULT["data"])
             src.set_pola("*/")
             src.set_jenis("dir")
@@ -155,6 +155,6 @@ while True:
                 p = src.input_user("Reset Kunci Jawaban", "Pilih Mapel")
                 if not p:
                     break
-                reset_kunci_jawaban(p, verbose=True)
+                reset_kunci_jawaban(p)
                 table.get_input("Success, Enter untuk melanjutkan")
                 break

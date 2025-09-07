@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Apa yang dimaksud dengan dekomposisi dalam berpikir komputasional?",
+    "pilihan": {
+      "a": "Menggunakan model untuk memprediksi",
+      "b": "Mengidentifikasi pola dalam data",
+      "c": "Mengurutkan langkah-langkah penyelesaian",
+      "d": "Menyembunyikan detail yang tidak perlu",
+      "e": "Memecah masalah besar menjadi bagian-bagian kecil"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam berpikir komputasional, pengenalan pola berguna untuk...",
+    "pilihan": {
+      "a": "Menyusun langkah-langkah secara berurutan",
+      "b": "Membuat algoritma yang kompleks",
+      "c": "Mengidentifikasi kesamaan atau tren dalam data",
+      "d": "Memecah masalah menjadi sub-masalah",
+      "e": "Menghilangkan informasi yang tidak relevan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Apa tujuan dari abstraksi dalam pemecahan masalah?",
+    "pilihan": {
+      "a": "Memfokuskan pada detail penting dan mengabaikan yang tidak perlu",
+      "b": "Mengimplementasikan solusi dalam kode",
+      "c": "Membuat urutan instruksi",
+      "d": "Mencari pola dalam data",
+      "e": "Membagi masalah menjadi bagian-bagian"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Manakah yang merupakan contoh dari algoritma?",
+    "pilihan": {
+      "a": "Sebuah model matematika",
+      "b": "Sebuah tabel data",
+      "c": "Langkah-langkah untuk memasak nasi",
+      "d": "Sebuah gambar diagram",
+      "e": "Sebuah pola dalam musik"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam konteks TIK, apa yang dimaksud dengan literasi digital?",
+    "pilihan": {
+      "a": "Kemampuan menginstal perangkat lunak",
+      "b": "Kemampuan untuk menemukan, mengevaluasi, dan menggunakan informasi melalui teknologi digital",
+      "c": "Kemampuan memperbaiki jaringan internet",
+      "d": "Kemampuan memprogram komputer",
+      "e": "Kemampuan menggunakan perangkat keras komputer"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perangkat lunak yang digunakan untuk mengolah data numerik dan melakukan perhitungan adalah...",
+    "pilihan": {
+      "a": "Spreadsheet",
+      "b": "Presenter",
+      "c": "Editor gambar",
+      "d": "Basis data",
+      "e": "Pengolah kata"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Apa manfaat penggunaan TIK dalam pendidikan?",
+    "pilihan": {
+      "a": "Menghilangkan kebutuhan buku fisik",
+      "b": "Meningkatkan akses dan kualitas pembelajaran",
+      "c": "Membuat ujian menjadi tidak perlu",
+      "d": "Menggantikan peran guru sepenuhnya",
+      "e": "Menurunkan biaya operasional sekolah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Komponen utama dari CPU yang melakukan perhitungan dan operasi logika adalah...",
+    "pilihan": {
+      "a": "Cache",
+      "b": "ROM",
+      "c": "ALU",
+      "d": "RAM",
+      "e": "Hard disk"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Perbedaan antara RAM dan ROM adalah...",
+    "pilihan": {
+      "a": "RAM lebih lambat dari ROM",
+      "b": "a dan d benar",
+      "c": "ROM digunakan untuk penyimpanan sementara, RAM untuk permanen",
+      "d": "RAM hanya dapat dibaca, ROM sama aja cuma beda nama",
+      "e": "RAM bersifat volatil, ROM non-volatil"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sistem operasi berfungsi sebagai...",
+    "pilihan": {
+      "a": "Alat untuk memprogram komputer",
+      "b": "Perangkat keras yang menjalankan komputer",
+      "c": "Jaringan yang menghubungkan komputer",
+      "d": "Program aplikasi untuk produktivitas",
+      "e": "Antarmuka antara pengguna dan perangkat keras"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan LAN?",
+    "pilihan": {
+      "a": "Jaringan yang menghubungkan komputer dalam area terbatas",
+      "b": "Jaringan yang mencakup area luas seperti kota",
+      "c": "Jaringan untuk internet global",
+      "d": "Jaringan nirkabel pribadi",
+      "e": "Jaringan yang menggunakan satelit"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Protokol yang digunakan untuk mengirimkan email adalah...",
+    "pilihan": {
+      "a": "FTP",
+      "b": "TCP",
+      "c": "HTTP",
+      "d": "IP",
+      "e": "SMTP"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari router dalam jaringan?",
+    "pilihan": {
+      "a": "Melindungi jaringan dari virus",
+      "b": "Meneruskan paket data antara jaringan yang berbeda",
+      "c": "Menyimpan data website",
+      "d": "Mengamplifikasi sinyal nirkabel",
+      "e": "Menghubungkan komputer dalam LAN"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam analisis data, langkah pertama yang biasanya dilakukan adalah...",
+    "pilihan": {
+      "a": "Pemodelan data",
+      "b": "Visualisasi data",
+      "c": "Pengumpulan data",
+      "d": "Pembersihan data",
+      "e": "Interpretasi data"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Apa tujuan dari visualisasi data?",
+    "pilihan": {
+      "a": "Menyimpan data dalam format grafik",
+      "b": "Membuat data lebih mudah dipahami dan dianalisis",
+      "c": "Mengurangi ukuran data",
+      "d": "Mengenkripsi data",
+      "e": "Mengirim data melalui jaringan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tools yang umum digunakan untuk analisis data adalah...",
+    "pilihan": {
+      "a": "Microsoft Word",
+      "b": "Microsoft Excel",
+      "c": "Windows Media Player",
+      "d": "Google Chrome",
+      "e": "Adobe Photoshop"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan algoritma dalam pemrograman?",
+    "pilihan": {
+      "a": "Urutan langkah-langkah untuk menyelesaikan masalah",
+      "b": "Perangkat lunak untuk mengedit kode",
+      "c": "Struktur data yang kompleks",
+      "d": "Error dalam kode",
+      "e": "Bahasa pemrograman tertentu"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Struktur kontrol yang digunakan untuk mengulang eksekusi blok kode adalah...",
+    "pilihan": {
+      "a": "Variable",
+      "b": "Loop",
+      "c": "Sequence",
+      "d": "Function",
+      "e": "Percabangan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Apa yang dilakukan oleh compiler?",
+    "pilihan": {
+      "a": "Menghubungkan program ke jaringan",
+      "b": "Menemukan error logika dalam kode",
+      "c": "Menerjemahkan seluruh kode sumber menjadi kode mesin sekaligus",
+      "d": "Mengedit kode program",
+      "e": "Menjalankan program baris per baris"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dampak positif dari informatika dalam sosial adalah...",
+    "pilihan": {
+      "a": "Meningkatkan pelanggaran privasi",
+      "b": "Meningkatkan isolasi sosial",
+      "c": "Menyebabkan pengangguran massal",
+      "d": "Memudahkan penyebaran informasi dan komunikasi",
+      "e": "Menurunkan kualitas interaksi langsung"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Aspek etika dalam informatika termasuk...",
+    "pilihan": {
+      "a": "Ukuran memori",
+      "b": "Jenis bahasa pemrograman",
+      "c": "Kecepatan prosesor",
+      "d": "Desain antarmuka",
+      "e": "Hak cipta dan privasi data"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan phishing dalam konteks keamanan cyber?",
+    "pilihan": {
+      "a": "Metode enkripsi data",
+      "b": "Perangkat keras perusak",
+      "c": "Serangan dengan mengirimkan email penipuan untuk mencuri informasi",
+      "d": "Teknik optimasi jaringan",
+      "e": "Jenis virus komputer"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam berpikir komputasional, setelah dekomposisi, langkah selanjutnya sering kali adalah...",
+    "pilihan": {
+      "a": "Implementasi",
+      "b": "Evaluasi",
+      "c": "Pengenalan pola",
+      "d": "Desain algoritma",
+      "e": "Abstraksi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Contoh penerapan TIK dalam kesehatan adalah...",
+    "pilihan": {
+      "a": "Pengolah kata untuk laporan",
+      "b": "Pembuatan film animasi",
+      "c": "Video streaming",
+      "d": "Game online",
+      "e": "Penggunaan robot dalam operasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Komputer yang bertugas menyediakan layanan kepada komputer lain dalam jaringan disebut...",
+    "pilihan": {
+      "a": "Client",
+      "b": "Modem",
+      "c": "Router",
+      "d": "Switch",
+      "e": "Server"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "IP address versi 4 terdiri dari...",
+    "pilihan": {
+      "a": "32 bit",
+      "b": "128 bit",
+      "c": "256 bit",
+      "d": "64 bit",
+      "e": "512 bit"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam analisis data, outliers adalah...",
+    "pilihan": {
+      "a": "Data yang dihasilkan dari survei",
+      "b": "Data yang tidak konsisten dengan keseluruhan dataset",
+      "c": "Data yang digunakan untuk pelatihan model",
+      "d": "Data yang paling sering muncul",
+      "e": "Data yang sudah dirapikan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Bahasa pemrograman yang sering digunakan untuk ilmu data adalah...",
+    "pilihan": {
+      "a": "JavaScript",
+      "b": "Python",
+      "c": "HTML",
+      "d": "PHP",
+      "e": "CSS"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Variabel dalam pemrograman digunakan untuk...",
+    "pilihan": {
+      "a": "Menangani error",
+      "b": "Menyimpan nilai yang dapat berubah",
+      "c": "Mengompilasi kode",
+      "d": "Mengulang eksekusi",
+      "e": "Menentukan alur program"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dampak negatif dari media sosial adalah...",
+    "pilihan": {
+      "a": "Memperluas jaringan pertemanan",
+      "b": "Meningkatkan produktivitas",
+      "c": "Memudahkan pembelajaran",
+      "d": "Menyebabkan kecanduan dan kecemasan",
+      "e": "Meningkatkan kesadaran sosial"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan cloud computing?",
+    "pilihan": {
+      "a": "Program yang berjalan pada satu komputer",
+      "b": "Layanan komputasi yang disediakan melalui internet",
+      "c": "Jaringan nirkabel",
+      "d": "Penggunaan komputer dalam awan",
+      "e": "Penyimpanan data pada hard disk lokal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi dari firewall adalah...",
+    "pilihan": {
+      "a": "Mengompilasi program",
+      "b": "Mempercepat koneksi internet",
+      "c": "Menyimpan data website",
+      "d": "Mengirim email",
+      "e": "Melindungi jaringan dari akses tidak sah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam pemrograman, error yang terjadi karena pelanggaran aturan sintaks bahasa pemrograman disebut...",
+    "pilihan": {
+      "a": "Syntax error",
+      "b": "Runtime error",
+      "c": "Compilation error",
+      "d": "Semantic error",
+      "e": "Logical error"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Apa itu big data?",
+    "pilihan": {
+      "a": "Data yang berukuran sangat besar dan kompleks",
+      "b": "Data yang disimpan dalam database kecil",
+      "c": "Data yang dihasilkan oleh perangkat lama",
+      "d": "Data yang hanya berupa teks",
+      "e": "Data yang tidak terstruktur"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Protocol HTTPS menjamin...",
+    "pilihan": {
+      "a": "Enkripsi dan keamanan data",
+      "b": "Koneksi yang stabil",
+      "c": "Kecepatan loading website",
+      "d": "Kompatibilitas dengan semua browser",
+      "e": "Tampilan website yang menarik"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Apa peran dari database management system (DBMS)?",
+    "pilihan": {
+      "a": "Mengelola dan mengorganisasi data",
+      "b": "Membuat perangkat lunak",
+      "c": "Memperbaiki perangkat keras",
+      "d": "Menjalankan program aplikasi",
+      "e": "Menghubungkan komputer ke internet"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Contoh dari perangkat lunak open source adalah...",
+    "pilihan": {
+      "a": "iOS",
+      "b": "Linux",
+      "c": "Microsoft Windows",
+      "d": "Adobe Photoshop",
+      "e": "Microsoft Office"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Apa yang dilakukan oleh fungsi dalam pemrograman?",
+    "pilihan": {
+      "a": "Mengelompokkan kode untuk melakukan tugas tertentu",
+      "b": "Mengulang kode",
+      "c": "Menyimpan data",
+      "d": "Mendeklarasikan variabel",
+      "e": "Menangani error"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam jaringan, apa kepanjangan dari DNS?",
+    "pilihan": {
+      "a": "Data Network Service",
+      "b": "Dynamic Network System",
+      "c": "Device Naming Service",
+      "d": "Digital Number System",
+      "e": "Domain Name System"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa itu machine learning?",
+    "pilihan": {
+      "a": "Jenis bahasa pemrograman",
+      "b": "Teknik mempercepat internet",
+      "c": "Metode perbaikan perangkat keras",
+      "d": "Proses mengajarkan pengguna menggunakan komputer",
+      "e": "Cara komputer belajar dari data tanpa diprogram eksplisit"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Prinsip KISS dalam pemrograman berarti...",
+    "pilihan": {
+      "a": "Keep It Secure and Safe",
+      "b": "Keep It Systematic and Structured",
+      "c": "Keep It Simple and Straightforward",
+      "d": "Keep It Small and Speedy",
+      "e": "Keep It Sophisticated and Smart"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan digital divide?",
+    "pilihan": {
+      "a": "Jenis jaringan digital",
+      "b": "Metode pembagian data digital",
+      "c": "Teknik enkripsi digital",
+      "d": "Perbedaan spesifikasi perangkat digital",
+      "e": "Kesenjangan akses terhadap teknologi digital antara kelompok masyarakat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam analisis data, apa itu data cleansing?",
+    "pilihan": {
+      "a": "Proses menghapus data yang tidak diperlukan",
+      "b": "Proses visualisasi data",
+      "c": "Proses memperbaiki atau menghapus data yang tidak akurat",
+      "d": "Proses interpretasi data",
+      "e": "Proses mengumpulkan data"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari sistem operasi mobile seperti Android atau iOS?",
+    "pilihan": {
+      "a": "Mengelola perangkat keras dan software pada perangkat mobile",
+      "b": "Menyimpan data secara permanen",
+      "c": "Mengontrol jaringan seluler",
+      "d": "Hanya untuk menjalankan aplikasi game",
+      "e": "Menghubungkan ke internet saja"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Apa keuntungan menggunakan virtual private network (VPN)?",
+    "pilihan": {
+      "a": "Menjalankan program berat",
+      "b": "Meningkatkan kapasitas penyimpanan",
+      "c": "Mempercepat download",
+      "d": "Menyembunyikan aktivitas online dan mengenkripsi data",
+      "e": "Mengubah tampilan website"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam pemrograman, apa itu array?",
+    "pilihan": {
+      "a": "Tipe data primitif",
+      "b": "Sebuah fungsi",
+      "c": "Jenis loop",
+      "d": "Struktur data yang menyimpan kumpulan nilai",
+      "e": "Error handling"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan Internet of Things (IoT)?",
+    "pilihan": {
+      "a": "Protokol internet baru",
+      "b": "Internet yang hanya untuk komputer",
+      "c": "Jaringan sosial online",
+      "d": "Koneksi perangkat fisik ke internet untuk bertukar data",
+      "e": "Layanan streaming"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Apa itu cyberbullying?",
+    "pilihan": {
+      "a": "Pencurian data pribadi",
+      "b": "Peretasan website",
+      "c": "Pengiriman email massal",
+      "d": "Jenis virus komputer",
+      "e": "Pelecehan atau intimidasi melalui media digital"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa perbedaan antara interpreter dan compiler?",
+    "pilihan": {
+      "a": "Compiler lebih cepat dari interpreter",
+      "b": "Interpreter digunakan untuk hardware, compiler untuk software",
+      "c": "Interpreter menerjemahkan kode baris per baris, compiler sekaligus",
+      "d": "Compiler hanya untuk bahasa tertentu, interpreter untuk semua",
+      "e": "Interpreter menghasilkan kode mesin, compiler tidak"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan pseudocode?",
+    "pilihan": {
+      "a": "Kode untuk quantum computing",
+      "b": "Kode yang dienkripsi",
+      "c": "Kode yang error",
+      "d": "Deskripsi informal algoritma menggunakan bahasa manusia",
+      "e": "Bahasa pemrograman resmi"
+    },
+    "jawaban": "d"
+  }
+]
