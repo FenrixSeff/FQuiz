@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Apa makna dari Asmaul Husna Al-Ghaffar?",
+    "pilihan": {
+      "a": "Maha Menguasai",
+      "b": "Maha Pencipta",
+      "c": "Maha Pengampun",
+      "d": "Maha Pemberi Rezeki",
+      "e": "Maha Bijaksana"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sifat Allah Al-Razzaq mengajarkan kita untuk selalu...",
+    "pilihan": {
+      "a": "Bersyukur dan yakin akan jaminan rezeki dari Allah",
+      "b": "Hidup boros karena Allah akan memberi rezeki",
+      "c": "Menghindari bekerja keras",
+      "d": "Mengumpulkan harta sebanyak-banyaknya",
+      "e": "Bersikap sombong atas harta yang dimiliki"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sebagai manifestasi dari sifat Al-Hasib (Maha Menghitung), kita seharusnya...",
+    "pilihan": {
+      "a": "Selalu menghitung-hitung pemberian orang lain",
+      "b": "Bersikap hati-hati karena semua perbuatan akan dihisab",
+      "c": "Mengabaikan perbuatan kecil karena tidak berarti",
+      "d": "Hidup seenaknya tanpa pertanggungjawaban",
+      "e": "Selalu menuntut balas atas kesalahan orang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan tasamuh dalam Islam?",
+    "pilihan": {
+      "a": "Sikap diskriminatif",
+      "b": "Sikap fanatik buta",
+      "c": "Sikap acuh tak acuh",
+      "d": "Sikap memaksakan kehendak",
+      "e": "Sikap toleransi dan menghargai perbedaan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Konsep musawah dalam Islam mengajarkan tentang...",
+    "pilihan": {
+      "a": "Persamaan derajat semua manusia di hadapan Allah",
+      "b": "Pengelompokan manusia berdasarkan status sosial",
+      "c": "Keutamaan bangsa Arab atas bangsa lain",
+      "d": "Perbedaan derajat berdasarkan kekayaan",
+      "e": "Diskriminasi berdasarkan jenis kelamin"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sikap tawassuth dalam beragama berarti...",
+    "pilihan": {
+      "a": "Bersikap acuh terhadap agama",
+      "b": "Bersikap moderat dan seimbang",
+      "c": "Menolak semua perkembangan zaman",
+      "d": "Mengikuti semua aliran tanpa filter",
+      "e": "Bersikap ekstrem dan keras"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ciri-ciri orang munafik menurut hadis Nabi Muhammad SAW adalah...",
+    "pilihan": {
+      "a": "Jujur dalam perkataan dan perbuatan",
+      "b": "Konsisten antara ucapan dan perbuatan",
+      "c": "Selalu menepati janji dan amanah",
+      "d": "Berkata dusta, ingkar janji, dan khianat",
+      "e": "Berbuat baik kepada semua orang"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Cara terbaik untuk mengendalikan emosi marah menurut ajaran Islam adalah...",
+    "pilihan": {
+      "a": "Memukul benda-benda di sekitar",
+      "b": "Berdiam diri, berwudhu, dan mengubah posisi",
+      "c": "Menyimpan kemarahan dalam hati",
+      "d": "Berteriak sekeras-kerasnya",
+      "e": "Membalas dendam secepatnya"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan ghibah?",
+    "pilihan": {
+      "a": "Membicarakan keburukan orang lain yang tidak disukainya",
+      "b": "Memberi nasihat secara langsung",
+      "c": "Memuji orang lain di belakangnya",
+      "d": "Berdialog secara konstruktif",
+      "e": "Menyebarkan kebaikan orang lain"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Menyebarkan berita hoaks termasuk perbuatan tercela karena...",
+    "pilihan": {
+      "a": "Menghasilkan uang dari iklan",
+      "b": "Mendapatkan popularitas",
+      "c": "Diperbolehkan dalam kondisi tertentu",
+      "d": "Menimbulkan kerusakan dan permusuhan",
+      "e": "Menghibur masyarakat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Perbuatan namimah (adu domba) dilarang dalam Islam karena...",
+    "pilihan": {
+      "a": "Memperkuat persatuan",
+      "b": "Mempererat persaudaraan",
+      "c": "Mendorong silaturahmi",
+      "d": "Meningkatkan kerjasama",
+      "e": "Menimbulkan permusuhan dan perpecahan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tajassus berarti...",
+    "pilihan": {
+      "a": "Memberi nasihat dengan bijak",
+      "b": "Memberi sedekah dengan ikhlas",
+      "c": "Menutupi aib saudaranya",
+      "d": "Memperbaiki hubungan yang retak",
+      "e": "Mencari-cari kesalahan orang lain"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Adab bergaul dengan orang yang lebih tua seharusnya...",
+    "pilihan": {
+      "a": "Menghindari komunikasi",
+      "b": "Menganggap setara tanpa penghormatan",
+      "c": "Menghormati dan berbicara dengan sopan",
+      "d": "Bersikap semena-mena",
+      "e": "Bercanda tanpa batas"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Ilmu kalam dalam Islam membahas tentang...",
+    "pilihan": {
+      "a": "Kesusastraan Arab",
+      "b": "Hukum-hukum fiqih",
+      "c": "Tata cara beribadah praktis",
+      "d": "Aqidah dan keyakinan Islam",
+      "e": "Sejarah peradaban Islam"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Aliran dalam ilmu kalam yang dikenal dengan rasionalis adalah...",
+    "pilihan": {
+      "a": "Mu'tazilah",
+      "b": "Salafi",
+      "c": "Asy'ariyah",
+      "d": "Maturidiyah",
+      "e": "Sufiyah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tasawuf merupakan ilmu yang mempelajari tentang...",
+    "pilihan": {
+      "a": "Pembersihan jiwa dan pendekatan kepada Allah",
+      "b": "Politik kenegaraan",
+      "c": "Peperangan dalam Islam",
+      "d": "Perekonomian Islam",
+      "e": "Tata bahasa Arab"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sifat Al-Hakim (Maha Bijaksana) mengajarkan kita untuk...",
+    "pilihan": {
+      "a": "Memaksakan pendapat tanpa alternatif",
+      "b": "Mengabaikan pertimbangan dalam bertindak",
+      "c": "Selalu bertindak dengan penuh hikmah dan kebijaksanaan",
+      "d": "Berkeputusan berdasarkan emosi semata",
+      "e": "Bersikap semena-mena dalam mengambil keputusan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sebagai cerminan dari sifat Al-Malik, kita harus...",
+    "pilihan": {
+      "a": "Menolak segala bentuk kepemimpinan",
+      "b": "Menyadari bahwa kekuasaan mutlak hanya milik Allah",
+      "c": "Menganggap diri sendiri sebagai penguasa",
+      "d": "Berlaku sewenang-wenang kepada bawahan",
+      "e": "Merendahkan orang yang tidak berkuasa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sifat Al-Hadi menginspirasi kita untuk...",
+    "pilihan": {
+      "a": "Mengabaikan kebutuhan bimbingan spiritual",
+      "b": "Meragukan segala bentuk petunjuk",
+      "c": "Memaksa orang lain mengikuti jalan kita",
+      "d": "Hanya meminta petunjuk untuk diri sendiri",
+      "e": "Selalu memohon petunjuk Allah dan memberi arahan yang benar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Batas-batas toleransi dalam Islam adalah...",
+    "pilihan": {
+      "a": "Tidak perlu memperhatikan aturan agama",
+      "b": "Tidak boleh melanggar prinsip akidah Islam",
+      "c": "Harus meninggalkan syariat untuk toleransi",
+      "d": "Boleh mengikuti semua keyakinan agama lain",
+      "e": "Wajib mengikuti semua tradisi lokal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Contoh penerapan musawah dalam kehidupan sehari-hari adalah...",
+    "pilihan": {
+      "a": "Mendiskriminasi berdasarkan gender",
+      "b": "Mengutamakan keluarga dalam segala hal",
+      "c": "Memberi kesempatan yang sama dalam pendidikan",
+      "d": "Membedakan perlakuan berdasarkan suku",
+      "e": "Memilih teman berdasarkan kekayaan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sikap tawassuth dapat diterapkan dalam hal...",
+    "pilihan": {
+      "a": "Mengabaikan ibadah untuk urusan dunia",
+      "b": "Hanya fokus pada urusan akhirat saja",
+      "c": "Ekstrem dalam beribadah sampai mengganggu kesehatan",
+      "d": "Seimbang antara urusan dunia dan akhirat",
+      "e": "Menolak semua modernitas"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kejujuran dalam Islam sangat ditekankan karena...",
+    "pilihan": {
+      "a": "Boleh dilanggar untuk kebaikan",
+      "b": "Merupakan fondasi dari iman",
+      "c": "Membuat hidup menjadi lebih sulit",
+      "d": "Hanya diperlukan dalam urusan bisnis",
+      "e": "Tidak penting dalam persahabatan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Cara mengendalikan diri dari ghibah adalah...",
+    "pilihan": {
+      "a": "Merekam pembicaraan untuk disebarkan",
+      "b": "Mengingat bahwa ghibah seperti memakan bangkai saudara",
+      "c": "Menganggapnya sebagai hal yang wajar",
+      "d": "Mencari topik gunjingan yang lebih seru",
+      "e": "Ikut serta dalam pembicaraan tersebut"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dampak menyebarkan fitnah adalah...",
+    "pilihan": {
+      "a": "Dianggap sebagai pahlawan",
+      "b": "Meningkatkan popularitas",
+      "c": "Mempererat persaudaraan",
+      "d": "Merusak hubungan dan kepercayaan",
+      "e": "Mendapatkan pujian dari orang"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Adab bergaul dengan lawan jenis dalam Islam adalah...",
+    "pilihan": {
+      "a": "Bebas tanpa batasan",
+      "b": "Bercampur baur tanpa aturan",
+      "c": "Hanya berkomunikasi melalui media sosial",
+      "d": "Menghindari komunikasi sama sekali",
+      "e": "Menjaga pandangan dan batasan syariat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Aliran Asy'ariyah dalam ilmu kalam dikenal dengan...",
+    "pilihan": {
+      "a": "Penolakan terhadap sunnah Nabi",
+      "b": "Sikap ekstrem dalam beragama",
+      "c": "Pembenaran terhadap semua aliran",
+      "d": "Pendekatan tengah-tengah antara akal dan naql",
+      "e": "Penolakan terhadap penggunaan akal"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari tasawuf adalah...",
+    "pilihan": {
+      "a": "Mencapai kedekatan dengan Allah melalui penyucian jiwa",
+      "b": "Menghindari kehidupan duniawi",
+      "c": "Mendapatkan kekuatan supernatural",
+      "d": "Menjadi terkenal di masyarakat",
+      "e": "Mengumpulkan harta sebanyak-banyaknya"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Keyakinan terhadap Al-Khaliq seharusnya membuat kita...",
+    "pilihan": {
+      "a": "Menyekutukan Allah dengan makhluk",
+      "b": "Meragukan kekuasaan Allah",
+      "c": "Menyadari keagungan Allah sebagai Pencipta",
+      "d": "Mengabaikan keindahan ciptaan-Nya",
+      "e": "Menganggap alam semesta terjadi dengan sendirinya"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Manifestasi sifat Al-Ghaffar dalam kehidupan adalah...",
+    "pilihan": {
+      "a": "Membalas kejahatan dengan kejahatan",
+      "b": "Mudah memaafkan kesalahan orang lain",
+      "c": "Mendendam atas kesalahan orang",
+      "d": "Mengingat-ingat kesalahan masa lalu",
+      "e": "Tidak peduli dengan kesalahan orang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Toleransi yang benar dalam Islam tidak berarti...",
+    "pilihan": {
+      "a": "Bersikap sopan kepada non-Muslim",
+      "b": "Mencampuradukkan keyakinan agama",
+      "c": "Memberi kebebasan beribadah",
+      "d": "Bekerjasama dalam hal kebaikan",
+      "e": "Menghormati hak beragama orang lain"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Persamaan derajat dalam Islam didasarkan pada...",
+    "pilihan": {
+      "a": "Ketakwaan kepada Allah",
+      "b": "Jabatan dan kekuasaan",
+      "c": "Kekayaan dan harta benda",
+      "d": "Pendidikan dan gelar",
+      "e": "Keturunan dan bangsa"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sikap moderat dalam beragama berarti...",
+    "pilihan": {
+      "a": "Menolak semua perkembangan zaman",
+      "b": "Tidak ekstrem kanan maupun kiri dalam beragama",
+      "c": "Mengikuti semua trend modern",
+      "d": "Mengambil jalan tengah antara benar dan salah",
+      "e": "Mengabaikan sebagian syariat"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Bahaya dari sifat munafik adalah...",
+    "pilihan": {
+      "a": "Mudah bergaul dengan semua orang",
+      "b": "Dianggap sebagai orang baik",
+      "c": "Mendapat kepercayaan dari orang",
+      "d": "Mendapatkan banyak keuntungan",
+      "e": "Merusak tatanan sosial dan kepercayaan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Cara Islam mengajarkan mengendalikan amarah adalah dengan...",
+    "pilihan": {
+      "a": "Memendamnya dalam hati",
+      "b": "Melampiaskan dengan berteriak",
+      "c": "Berdzikir dan mengambil posisi lebih rendah",
+      "d": "Memukul benda di sekitar",
+      "e": "Membalas dendam ketika ada kesempatan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Ghibah diperbolehkan dalam kondisi...",
+    "pilihan": {
+      "a": "Ketika sedang marah",
+      "b": "Dalam semua kondisi dilarang",
+      "c": "Untuk mendapatkan simpati",
+      "d": "Untuk melaporkan kezaliman",
+      "e": "Untuk menghibur teman"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Menyebarkan hoaks termasuk dalam dosa karena...",
+    "pilihan": {
+      "a": "Membuat orang menjadi terkenal",
+      "b": "Menghasilkan uang dari iklan",
+      "c": "Termasuk dalam katagori dusta yang dilarang",
+      "d": "Diperbolehkan untuk tujuan tertentu",
+      "e": "Tidak ada larangan dalam Islam"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Namimah dilarang karena dapat...",
+    "pilihan": {
+      "a": "Menimbulkan permusuhan dan perpecahan",
+      "b": "Meningkatkan kerjasama antar kelompok",
+      "c": "Memperkuat solidaritas",
+      "d": "Mempererat hubungan persaudaraan",
+      "e": "Menjadi media komunikasi yang efektif"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tajassus dilarang karena...",
+    "pilihan": {
+      "a": "Tidak ada dampak negatif",
+      "b": "Termasuk menghormati privasi orang lain",
+      "c": "Diperlukan untuk mengetahui kebenaran",
+      "d": "Membuat hubungan menjadi lebih dekat",
+      "e": "Melanggar hak privasi dan menimbulkan permusuhan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Adab bergaul dengan teman sebaya seharusnya...",
+    "pilihan": {
+      "a": "Saling menghina dan merendahkan",
+      "b": "Bersaing secara tidak sehat",
+      "c": "Membentuk kelompok eksklusif",
+      "d": "Saling menghormati dan membantu",
+      "e": "Mengisolasi diri dari pergaulan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Ilmu kalam penting dipelajari untuk...",
+    "pilihan": {
+      "a": "Membuat keraguan dalam beragama",
+      "b": "Memperkuat akidah dan memahami keyakinan",
+      "c": "Menolak penggunaan akal sama sekali",
+      "d": "Menjadi bahan perpecahan",
+      "e": "Memperdebatkan keyakinan agama"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara ilmu kalam dan tasawuf adalah...",
+    "pilihan": {
+      "a": "Ilmu kalam menggunakan hati, tasawuf menggunakan akal",
+      "b": "Ilmu kalam lebih penting dari tasawuf",
+      "c": "Tasawuf untuk elite, ilmu kalam untuk umum",
+      "d": "Tidak ada perbedaan yang signifikan",
+      "e": "Ilmu kalam fokus pada akidah, tasawuf pada penyucian jiwa"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sifat Al-Hakim mengajarkan bahwa segala ketetapan Allah...",
+    "pilihan": {
+      "a": "Penuh dengan hikmah dan kebijaksanaan",
+      "b": "Tidak ada maknanya",
+      "c": "Bisa salah dan keliru",
+      "d": "Harus dipertanyakan kebenarannya",
+      "e": "Bisa diubah oleh manusia"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sebagai makhluk yang diciptakan Al-Khaliq, kita harus...",
+    "pilihan": {
+      "a": "Menganggap diri sendiri sebagai pencipta",
+      "b": "Bersyukur dan memanfaatkan ciptaan dengan benar",
+      "c": "Menyombongkan diri atas penciptaan",
+      "d": "Merusak lingkungan sekitar",
+      "e": "Mengabaikan segala nikmat creation"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam menghadapi perbedaan pendapat, sikap tawassuth mengajarkan untuk...",
+    "pilihan": {
+      "a": "Memaksakan pendapat sendiri",
+      "b": "Menolak semua pendapat yang berbeda",
+      "c": "Mencari titik tengah yang tidak melanggar syariat",
+      "d": "Berdiam diri tanpa memberikan pendapat",
+      "e": "Mengikuti pendapat mayoritas saja"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Contoh penerapan kejujuran dalam akademik adalah...",
+    "pilihan": {
+      "a": "Menyontek karya orang lain",
+      "b": "Memanipulasi data penelitian",
+      "c": "Mencontek saat ujian",
+      "d": "Membuat alasan untuk tidak belajar",
+      "e": "Mengerjakan tugas sendiri tanpa menyalin"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Cara mencegah ghibah dalam pergaulan adalah...",
+    "pilihan": {
+      "a": "Merekam pembicaraan tersebut",
+      "b": "Ikut serta dalam pembicaraan",
+      "c": "Mendorong untuk terus melanjutkan",
+      "d": "Mengalihkan topik pembicaraan",
+      "e": "Mencatat untuk disebarkan later"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Adab menggunakan media sosial menurut Islam adalah...",
+    "pilihan": {
+      "a": "Share semua privasi orang lain",
+      "b": "Menjaga etika dan tidak menyebar hoaks",
+      "c": "Menggunjing orang lain melalui status",
+      "d": "Membuat akun palsu untuk fitnah",
+      "e": "Menyebarkan semua informasi tanpa filter"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan konsep tawadhu' dalam adab pergaulan Islam?",
+    "pilihan": {
+      "a": "Mengisolasi diri dari pergaulan sosial",
+      "b": "Rendah hati dan tidak merasa lebih baik dari orang lain",
+      "c": "Sikap sombong dan angkuh terhadap orang lain",
+      "d": "Selalu menonjolkan kelebihan diri",
+      "e": "Memilih-milih dalam berteman"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tasawuf mengajarkan pentingnya...",
+    "pilihan": {
+      "a": "Mengejar kekayaan duniawi",
+      "b": "Mengumpulkan pengikut sebanyak-banyaknya",
+      "c": "Penyucian hati dan zuhud terhadap dunia",
+      "d": "Menolak semua bentuk ibadah",
+      "e": "Menjadi terkenal di masyarakat"
+    },
+    "jawaban": "c"
+  }
+]
