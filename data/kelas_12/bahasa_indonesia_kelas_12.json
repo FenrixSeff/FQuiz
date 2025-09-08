@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Apa tujuan utama dari penulisan surat lamaran pekerjaan?",
+    "pilihan": {
+      "a": "Untuk memperkenalkan diri dan memohon dipertimbangkan sebagai calon karyawan",
+      "b": "Untuk mengeluhkan kondisi kerja",
+      "c": "Untuk mengundurkan diri dari pekerjaan",
+      "d": "Untuk mempromosikan produk perusahaan",
+      "e": "Untuk meminta kenaikan gaji"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Bagian pembuka surat lamaran pekerjaan biasanya berisi...",
+    "pilihan": {
+      "a": "Kalimat penutup dan hormat",
+      "b": "Daftar pengalaman kerja secara rinci",
+      "c": "Salam pembuka dan sumber informasi lowongan",
+      "d": "Permintaan gaji dan tunjangan",
+      "e": "Foto dan tanda tangan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Unsur yang tidak harus dicantumkan dalam surat lamaran pekerjaan adalah...",
+    "pilihan": {
+      "a": "Tempat dan tanggal pembuatan surat",
+      "b": "Nomor telepon yang dapat dihubungi",
+      "c": "Agama dan status perkawinan",
+      "d": "Alamat dan nama lengkap pelamar",
+      "e": "Pendidikan dan pengalaman kerja"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Ciri kebahasaan surat lamaran pekerjaan yang baik adalah...",
+    "pilihan": {
+      "a": "Menggunakan bahasa tidak formal dan santai",
+      "b": "Menggunakan kata-kata yang bersifat memaksa",
+      "c": "Menggunakan bahasa daerah",
+      "d": "Menggunakan singkatan yang tidak umum",
+      "e": "Menggunakan bahasa yang efektif dan sopan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teks cerita sejarah termasuk ke dalam jenis teks...",
+    "pilihan": {
+      "a": "Eksposisi",
+      "b": "Narasi",
+      "c": "Argumentasi",
+      "d": "Persuasi",
+      "e": "Deskripsi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Struktur teks cerita sejarah yang benar adalah...",
+    "pilihan": {
+      "a": "Orientasi - Komplikasi - Resolusi",
+      "b": "Abstraksi - Orientasi - Krisis - Reaksi - Koda",
+      "c": "Tesis - Argumentasi - Penegasan ulang",
+      "d": "Pernyataan umum - Deretan penjelas",
+      "e": "Orientasi - Urutan peristiwa - Reorientasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ciri kebahasaan teks cerita sejarah adalah...",
+    "pilihan": {
+      "a": "Banyak menggunakan kalimat perintah",
+      "b": "Menggunakan bahasa masa depan",
+      "c": "Didominasi kalimat persuasif",
+      "d": "Banyak menggunakan istilah teknis",
+      "e": "Menggunakan konjungsi temporal"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teks editorial/opini biasanya membahas...",
+    "pilihan": {
+      "a": "Isu aktual dan hangat di masyarakat",
+      "b": "Cerita fiksi tentang masa depan",
+      "c": "Biografi tokoh terkenal",
+      "d": "Laporan keuangan perusahaan",
+      "e": "Petunjuk penggunaan suatu produk"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Struktur teks editorial yang tepat adalah...",
+    "pilihan": {
+      "a": "Pernyataan umum - Deretan penjelas - Interpretasi",
+      "b": "Abstraksi - Orientasi - Krisis - Reaksi - Koda",
+      "c": "Orientasi - Komplikasi - Resolusi",
+      "d": "Abstraksi - Rangkaian argumen - Penegasan ulang",
+      "e": "Pernyataan pendapat - Argumentasi - Penegasan ulang"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara fakta dan opini dalam teks editorial adalah...",
+    "pilihan": {
+      "a": "Fakta dapat dibuktikan kebenarannya, opini merupakan pendapat pribadi",
+      "b": "Fakta bersifat persuasif, opini bersifat informatif",
+      "c": "Fakta menggunakan bahasa formal, opini menggunakan bahasa informal",
+      "d": "Fakta bersifat subjektif, opini bersifat objektif",
+      "e": "Fakta berisi data kuantitatif, opini berisi data kualitatif"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Unsur intrinsik novel tidak termasuk...",
+    "pilihan": {
+      "a": "Biografi pengarang",
+      "b": "Tema dan amanat",
+      "c": "Latar dan sudut pandang",
+      "d": "Gaya bahasa dan nilai",
+      "e": "Alur dan penokohan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara novel fiksi dan buku nonfiksi adalah...",
+    "pilihan": {
+      "a": "Novel menggunakan bahasa formal, nonfiksi menggunakan bahasa informal",
+      "b": "Novel untuk anak-anak, nonfiksi untuk dewasa",
+      "c": "Novel berdasarkan imajinasi, nonfiksi berdasarkan fakta",
+      "d": "Novet tebal, nonfiksi tipis",
+      "e": "Novel berisi gambar, nonfiksi berisi teks"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Struktur umum sebuah artikel informatif adalah...",
+    "pilihan": {
+      "a": "Tesis - Argumentasi - Penegasan ulang",
+      "b": "Pendahuluan - Isi - Penutup",
+      "c": "Orientasi - Komplikasi - Resolusi",
+      "d": "Abstraksi - Orientasi - Krisis - Reaksi - Koda",
+      "e": "Pernyataan umum - Deretan penjelas"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam artikel, fakta biasanya disajikan dengan...",
+    "pilihan": {
+      "a": "Kalimat persuasif",
+      "b": "Kata-kata yang ambigu",
+      "c": "Bahasa yang emosional",
+      "d": "Data dan bukti yang dapat dipertanggungjawabkan",
+      "e": "Gaya bahasa metafora"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kritik sastra bertujuan untuk...",
+    "pilihan": {
+      "a": "Meniru gaya penulisan karya lain",
+      "b": "Memberikan penilaian dan apresiasi terhadap karya sastra",
+      "c": "Menyembunyikan kelemahan suatu karya",
+      "d": "Memuji secara berlebihan",
+      "e": "Menjelek-jelekkan karya orang lain"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Esai berbeda dengan artikel karena...",
+    "pilihan": {
+      "a": "Esai selalu berisi fakta, artikel berisi opini",
+      "b": "Esai untuk media cetak, artikel untuk media online",
+      "c": "Esai menggunakan bahasa informal, artikel formal",
+      "d": "Esai berisi pendapat pribadi penulis yang mendalam",
+      "e": "Esai lebih pendek dari artikel"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Bagian surat lamaran yang berisi keterampilan dan kualifikasi pelamar disebut...",
+    "pilihan": {
+      "a": "Penutup",
+      "b": "Isi",
+      "c": "Pembuka",
+      "d": "Salam pembuka",
+      "e": "Salam penutup"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam teks cerita sejarah, orientasi berisi...",
+    "pilihan": {
+      "a": "Pengenalan latar dan tokoh",
+      "b": "Kesimpulan dari peristiwa",
+      "c": "Penyelesaian masalah",
+      "d": "Pesan moral cerita",
+      "e": "Urutan kejadian peristiwa"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Konjungsi yang sering digunakan dalam teks cerita sejarah adalah...",
+    "pilihan": {
+      "a": "Jangan, harus, sebaiknya",
+      "b": "Kemudian, setelah itu, pada akhirnya",
+      "c": "Dan, atau, tetapi",
+      "d": "Walaupun, meskipun, jika",
+      "e": "Oleh karena itu, sehingga, maka"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tujuan teks editorial adalah...",
+    "pilihan": {
+      "a": "Menghibur pembaca",
+      "b": "Menjual produk",
+      "c": "Menceritakan pengalaman pribadi",
+      "d": "Mempengaruhi pendapat pembaca",
+      "e": "Memberikan instruksi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kalimat yang termasuk opini adalah...",
+    "pilihan": {
+      "a": "Jakarta adalah ibu kota Indonesia",
+      "b": "Bali adalah salah satu pulau di Indonesia",
+      "c": "Pendidikan di Indonesia sudah sangat baik",
+      "d": "Presiden pertama Indonesia adalah Soekarno",
+      "e": "Indonesia merdeka pada 17 Agustus 1945"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Unsur ekstrinsik novel meliputi...",
+    "pilihan": {
+      "a": "Latar dan alur",
+      "b": "Nilai sosial dan budaya",
+      "c": "Tema dan amanat",
+      "d": "Gaya bahasa dan konflik",
+      "e": "Penokohan dan sudut pandang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ciri kebahasaan novel adalah...",
+    "pilihan": {
+      "a": "Menggunakan istilah teknis",
+      "b": "Banyak menggunakan kalimat perintah",
+      "c": "Menggunakan bahasa yang denotatif",
+      "d": "Didominasi kalimat persuasif",
+      "e": "Menggunakan majas dan bahasa konotatif"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Artikel yang baik harus memenuhi kriteria...",
+    "pilihan": {
+      "a": "Aktual, faktual, dan menarik",
+      "b": "Panjang dan bertele-tele",
+      "c": "Berisi rumor dan gosip",
+      "d": "Subjektif dan emosional",
+      "e": "Menggunakan bahasa daerah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perbedaan kritik dan esai adalah...",
+    "pilihan": {
+      "a": "Kritik berisi pujian, esai berisi celaan",
+      "b": "Kritik lebih panjang dari esai",
+      "c": "Kritik menggunakan bahasa informal, esai formal",
+      "d": "Kritik fokus pada satu karya, esai lebih umum",
+      "e": "Kritik untuk media cetak, esai untuk media online"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam menulis surat lamaran, hal yang harus dihindari adalah...",
+    "pilihan": {
+      "a": "Menggunakan bahasa yang sopan",
+      "b": "Menyesuaikan dengan kebutuhan perusahaan",
+      "c": "Menulis dengan jujur tentang kualifikasi",
+      "d": "Mencantumkan pengalaman yang relevan",
+      "e": "Membuat kesalahan penulisan dan typo"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Nilai yang dapat dipetik dari teks cerita sejarah adalah...",
+    "pilihan": {
+      "a": "Nilai mistik dan spiritual",
+      "b": "Nilai romantis dan percintaan",
+      "c": "Nilai pendidikan dan patriotisme",
+      "d": "Nilai hiburan dan kesenangan",
+      "e": "Nilai komersial dan ekonomi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam teks editorial, argumentasi berisi...",
+    "pilihan": {
+      "a": "Pendapat redaksi tentang suatu isu",
+      "b": "Informasi tentang profil redaksi",
+      "c": "Kesimpulan dan saran",
+      "d": "Data dan alasan yang mendukung pendapat",
+      "e": "Salam pembuka dan perkenalan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Amanat dalam novel adalah...",
+    "pilihan": {
+      "a": "Urutan peristiwa dalam cerita",
+      "b": "Cara pengarang menggambarkan tokoh",
+      "c": "Pesan moral yang ingin disampaikan pengarang",
+      "d": "Tempat dan waktu terjadinya cerita",
+      "e": "Konflik yang terjadi dalam cerita"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Jenis artikel yang berisi pendapat pribadi penulis disebut...",
+    "pilihan": {
+      "a": "Artikel opini",
+      "b": "Artikel berita",
+      "c": "Artikel tutorial",
+      "d": "Artikel feature",
+      "e": "Artikel ilmiah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Struktur esai yang baik terdiri dari...",
+    "pilihan": {
+      "a": "Tesis, argumentasi, penegasan ulang",
+      "b": "Orientasi, komplikasi, resolusi",
+      "c": "Abstraksi, orientasi, krisis, reaksi, koda",
+      "d": "Pernyataan umum, deretan penjelas",
+      "e": "Pendahuluan, tubuh esai, kesimpulan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam surat lamaran, kalimat yang tepat untuk penutup adalah...",
+    "pilihan": {
+      "a": "Saya minta gaji yang besar",
+      "b": "Saya harap Bapak/Ibu mempertimbangkan lamaran ini",
+      "c": "Saya adalah kandidat terbaik untuk posisi ini",
+      "d": "Saya tunggu balasan Anda secepatnya",
+      "e": "Saya akan datang besok untuk wawancara"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam teks cerita sejarah, reorientasi berisi...",
+    "pilihan": {
+      "a": "Pengenalan latar belakang",
+      "b": "Penyelesaian konflik",
+      "c": "Klimaks cerita",
+      "d": "Komentar tentang peristiwa sejarah",
+      "e": "Urutan kejadian peristiwa"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Ciri bahasa teks editorial adalah...",
+    "pilihan": {
+      "a": "Didominasi kalimat perintah",
+      "b": "Banyak menggunakan kalimat seru",
+      "c": "Menggunakan bahasa ilmiah yang kaku",
+      "d": "Banyak menggunakan istilah asing",
+      "e": "Menggunakan bahasa yang persuasif dan argumentatif"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Alur dalam novel dapat berupa...",
+    "pilihan": {
+      "a": "Alur primer dan sekunder",
+      "b": "Alur linear dan sirkular",
+      "c": "Alur maju, mundur, atau campuran",
+      "d": "Alur horizontal dan vertikal",
+      "e": "Alur internal dan eksternal"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Artikel feature biasanya berisi...",
+    "pilihan": {
+      "a": "Opini dan argumentasi",
+      "b": "Instruksi dan tutorial",
+      "c": "Cerita manusiawi yang mendalam",
+      "d": "Data statistik dan penelitian",
+      "e": "Berita hangat dan aktual"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kritik konstruktif adalah kritik yang...",
+    "pilihan": {
+      "a": "Menggunakan kata-kata kasar",
+      "b": "Menjatuhkan dan merendahkan",
+      "c": "Hanya berisi pujian",
+      "d": "Memberikan solusi dan saran perbaikan",
+      "e": "Bersifat subjektif tanpa alasan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Hal yang tidak perlu dicantumkan dalam surat lamaran adalah...",
+    "pilihan": {
+      "a": "Nomor telepon dan email",
+      "b": "Pendidikan dan pengalaman kerja",
+      "c": "Keterampilan yang relevan",
+      "d": "Nama lengkap dan alamat",
+      "e": "Hobi dan makanan favorit"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teks cerita sejarah bersifat...",
+    "pilihan": {
+      "a": "Instruktif dan direktif",
+      "b": "Subjektif dan persuasif",
+      "c": "Faktual dan informatif",
+      "d": "Persuasif dan argumentatif",
+      "e": "Fiktif dan imajinatif"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam teks editorial, penegasan ulang berisi...",
+    "pilihan": {
+      "a": "Kesimpulan dan saran",
+      "b": "Informasi tentang redaksi",
+      "c": "Salam pembuka dan perkenalan",
+      "d": "Pernyataan umum tentang isu",
+      "e": "Data pendukung argumentasi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sudut pandang dalam novel dapat berupa...",
+    "pilihan": {
+      "a": "Sudut pandang orang kelima",
+      "b": "Sudut pandang orang pertama dan ketiga",
+      "c": "Sudut pandang campuran",
+      "d": "Sudut pandang majemuk",
+      "e": "Sudut pandang orang kedua dan keempat"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Artikel ilmiah harus memenuhi syarat...",
+    "pilihan": {
+      "a": "Objektif dan sistematis",
+      "b": "Menggunakan bahasa sehari-hari",
+      "c": "Subjektif dan persuasif",
+      "d": "Panjang dan bertele-tele",
+      "e": "Singkat dan menghibur"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Esai reflektif biasanya berisi...",
+    "pilihan": {
+      "a": "Laporan penelitian",
+      "b": "Instruksi teknis",
+      "c": "Renungan dan pemikiran mendalam",
+      "d": "Profil tokoh",
+      "e": "Berita aktual"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Yang termasuk dalam kaidah kebahasaan surat lamaran adalah...",
+    "pilihan": {
+      "a": "Menggunakan bahasa tidak baku",
+      "b": "Menggunakan kalimat efektif dan sopan",
+      "c": "Menggunakan singkatan yang tidak umum",
+      "d": "Menggunakan bahasa daerah",
+      "e": "Menggunakan kata-kata yang emosional"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teks cerita sejarah biasanya disajikan secara...",
+    "pilihan": {
+      "a": "Persuasif dan argumentatif",
+      "b": "Naratif dan deskriptif",
+      "c": "Deskriptif dan eksplanatif",
+      "d": "Kronologis dan berurutan",
+      "e": "Acak dan tidak berurutan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Fungsi fakta dalam teks editorial adalah...",
+    "pilihan": {
+      "a": "Menghibur pembaca",
+      "b": "Menyembunyikan opini",
+      "c": "Memenuhi halaman koran",
+      "d": "Membingungkan pembaca",
+      "e": "Menguatkan argumentasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perbedaan novel dengan cerpen adalah...",
+    "pilihan": {
+      "a": "Cerpen memiliki lebih banyak tokoh",
+      "b": "Novel memiliki alur lebih kompleks",
+      "c": "Cerpen lebih banyak menggunakan dialog",
+      "d": "Novel lebih pendek dari cerpen",
+      "e": "Novel selalu berakhir bahagia"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Artikel yang baik harus memiliki...",
+    "pilihan": {
+      "a": "Isi yang aktual dan relevan",
+      "b": "Judul yang provokatif",
+      "c": "Opini tanpa fakta pendukung",
+      "d": "Bahasa yang sulit dipahami",
+      "e": "Banyak gambar dan sedikit teks"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Apa tujuan utama dari penulisan esai reflektif?",
+    "pilihan": {
+      "a": "Meyakinkan pembaca dengan argumentasi kuat",
+      "b": "Memberikan instruksi langkah demi langkah",
+      "c": "Menyajikan berita aktual dan faktual",
+      "d": "Menceritakan kisah fiksi dengan alur kompleks",
+      "e": "Mengekspresikan pemikiran dan perenungan mendalam"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kritik sastra yang baik harus...",
+    "pilihan": {
+      "a": "Memberikan penilaian secara objektif dan berdasar",
+      "b": "Bersifat subjektif tanpa dasar",
+      "c": "Menjelekkan karya lain sebagai perbandingan",
+      "d": "Menggunakan bahasa yang teknis dan sulit",
+      "e": "Hanya memuji karya tersebut"
+    },
+    "jawaban": "a"
+  }
+]
