@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Tahap awal dalam merancang sebuah produk kerajinan untuk pasar lokal adalah...",
+    "pilihan": {
+      "a": "Melakukan promosi besar-besaran",
+      "b": "Menentukan harga jual",
+      "c": "Membuat kemasan produk",
+      "d": "Menghitung biaya produksi",
+      "e": "Mencari ide, membuat sketsa, dan memilih bahan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam aspek rekayasa, fokus utama pada jasa profesi dan profesionalisme berarti produk atau jasa yang dihasilkan harus...",
+    "pilihan": {
+      "a": "Berdasarkan keahlian dan standar kompetensi tertentu",
+      "b": "Dijual dengan harga sangat mahal",
+      "c": "Dibuat dengan bahan semurah mungkin",
+      "d": "Hanya bisa digunakan oleh profesional",
+      "e": "Meniru produk yang sudah ada"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu faktor penting yang harus diperhatikan dalam memilih lokasi untuk budi daya unggas petelur adalah...",
+    "pilihan": {
+      "a": "Dekat dengan pusat perbelanjaan mewah",
+      "b": "Selalu berada di dataran tinggi",
+      "c": "Memiliki sirkulasi udara yang baik dan tidak bising",
+      "d": "Berada di tengah pemukiman padat penduduk",
+      "e": "Jauh dari sumber air bersih"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tujuan utama memodifikasi makanan khas daerah adalah untuk...",
+    "pilihan": {
+      "a": "Membuatnya menjadi makanan asing",
+      "b": "Hanya mengubah bentuknya saja",
+      "c": "Menghilangkan cita rasa aslinya",
+      "d": "Meningkatkan nilai jual, memperpanjang masa simpan, atau menambah varian rasa",
+      "e": "Mengurangi kandungan gizinya"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Analisis SWOT digunakan dalam perencanaan usaha untuk mengidentifikasi kekuatan (Strengths), kelemahan (Weaknesses), peluang (Opportunities), dan...",
+    "pilihan": {
+      "a": "Target (Targets)",
+      "b": "Teknik (Techniques)",
+      "c": "Pajak (Taxes)",
+      "d": "Ancaman (Threats)",
+      "e": "Waktu (Time)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Menggunakan media sosial seperti Instagram dan Facebook untuk memperkenalkan produk kepada calon konsumen merupakan contoh strategi...",
+    "pilihan": {
+      "a": "Promosi (pemasaran online)",
+      "b": "Pengemasan",
+      "c": "Evaluasi",
+      "d": "Produksi",
+      "e": "Manajemen"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kemasan yang bersentuhan langsung dengan produk makanan, seperti plastik pembungkus keripik, disebut kemasan...",
+    "pilihan": {
+      "a": "Transportasi",
+      "b": "Primer",
+      "c": "Promosi",
+      "d": "Sekunder",
+      "e": "Tersier"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kegiatan memeriksa kembali hasil produksi dan penjualan untuk mengetahui apakah sudah sesuai target dan mencari kekurangan untuk perbaikan disebut...",
+    "pilihan": {
+      "a": "Promosi",
+      "b": "Perancangan",
+      "c": "Finishing",
+      "d": "Distribusi",
+      "e": "Evaluasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam usaha kerajinan, teknik membentuk benda kerja dengan mengurangi bahan yang tidak diperlukan, seperti memahat atau mengukir, disebut teknik...",
+    "pilihan": {
+      "a": "Sambung",
+      "b": "Lipat",
+      "c": "Cetak",
+      "d": "Aditif",
+      "e": "Subtraktif"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Seorang fotografer profesional yang menawarkan jasa pemotretan untuk acara pernikahan merupakan contoh usaha di bidang rekayasa jasa...",
+    "pilihan": {
+      "a": "Profesi dan profesionalisme",
+      "b": "Budi daya",
+      "c": "Pengolahan",
+      "d": "Manufaktur",
+      "e": "Konstruksi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pemberian pakan, air minum, dan vaksinasi secara teratur pada unggas petelur termasuk dalam kegiatan...",
+    "pilihan": {
+      "a": "Pemasaran",
+      "b": "Pemeliharaan",
+      "c": "Pengemasan",
+      "d": "Panen",
+      "e": "Promosi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Mengubah getuk singkong biasa menjadi 'getuk lindri aneka rasa' atau 'bola-bola getuk keju' adalah contoh dari...",
+    "pilihan": {
+      "a": "Analisis SWOT",
+      "b": "Budi daya unggas",
+      "c": "Modifikasi makanan khas daerah",
+      "d": "Kerajinan tangan",
+      "e": "Jasa profesi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Biaya yang jumlahnya tetap dan tidak terpengaruh oleh jumlah produksi, seperti biaya sewa tempat, disebut...",
+    "pilihan": {
+      "a": "Biaya tetap (fixed cost)",
+      "b": "Biaya variabel",
+      "c": "Biaya total",
+      "d": "Harga jual",
+      "e": "Biaya promosi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Membuat brosur, pamflet, atau spanduk yang menarik untuk menyebarkan informasi tentang produk adalah contoh media promosi...",
+    "pilihan": {
+      "a": "Online",
+      "b": "Digital",
+      "c": "Viral",
+      "d": "Elektronik",
+      "e": "Cetak (offline)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Fungsi utama dari sebuah kemasan produk, selain untuk melindungi produk, adalah untuk...",
+    "pilihan": {
+      "a": "Menyembunyikan isi produk",
+      "b": "Menarik perhatian konsumen dan sebagai media informasi",
+      "c": "Menambah berat produk",
+      "d": "Menaikkan biaya produksi secara drastis",
+      "e": "Membuat produk cepat rusak"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam manajemen usaha, pembuatan jadwal kegiatan (timeline) bertujuan untuk...",
+    "pilihan": {
+      "a": "Membagi-bagikan tugas secara acak",
+      "b": "Menghitung keuntungan usaha",
+      "c": "Menentukan siapa yang bersalah jika ada kegagalan",
+      "d": "Membuat pekerjaan menjadi lebih rumit",
+      "e": "Memastikan semua kegiatan berjalan tepat waktu dan terorganisir"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tahap penyelesaian akhir (finishing) pada produk kerajinan kayu, seperti menghaluskan permukaan dan melapisinya dengan pernis, bertujuan untuk...",
+    "pilihan": {
+      "a": "Menambah nilai estetika dan keawetan produk",
+      "b": "Menyamarkan cacat produk",
+      "c": "Mengurangi harga jual produk",
+      "d": "Mempercepat proses produksi",
+      "e": "Membuat produk menjadi rapuh"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Seorang desainer grafis yang membuat logo untuk sebuah perusahaan sedang menjalankan usaha di bidang...",
+    "pilihan": {
+      "a": "Pengolahan makanan",
+      "b": "Pertanian",
+      "c": "Budi daya",
+      "d": "Rekayasa jasa profesi",
+      "e": "Kerajinan bahan keras"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kegiatan memisahkan telur yang berkualitas baik (normal, bersih, tidak retak) dari yang berkualitas buruk disebut...",
+    "pilihan": {
+      "a": "Sortasi dan grading",
+      "b": "Pemasaran",
+      "c": "Pemberian pakan",
+      "d": "Penetasan",
+      "e": "Vaksinasi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Menambahkan topping modern seperti green tea atau keju pada kue putu adalah contoh modifikasi pada aspek...",
+    "pilihan": {
+      "a": "Kemasan",
+      "b": "Bentuk",
+      "c": "Teknik pengolahan",
+      "d": "Bahan baku utama",
+      "e": "Rasa dan aroma"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Harga Pokok Produksi (HPP) dihitung dengan cara menjumlahkan biaya bahan baku, biaya tenaga kerja langsung, dan...",
+    "pilihan": {
+      "a": "Keuntungan yang diinginkan",
+      "b": "Pajak penjualan",
+      "c": "Biaya overhead pabrik",
+      "d": "Biaya promosi",
+      "e": "Biaya distribusi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kardus besar yang digunakan untuk mengemas beberapa kotak produk agar mudah diangkut dan didistribusikan disebut kemasan...",
+    "pilihan": {
+      "a": "Label",
+      "b": "Ikat",
+      "c": "Tersier",
+      "d": "Sekunder",
+      "e": "Primer"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Informasi mengenai tanggal kedaluwarsa, komposisi bahan, dan label halal pada kemasan produk makanan sangat penting untuk...",
+    "pilihan": {
+      "a": "Mengikuti tren desain",
+      "b": "Membuat kemasan terlihat ramai",
+      "c": "Menipu konsumen",
+      "d": "Memberikan jaminan keamanan dan informasi kepada konsumen",
+      "e": "Menambah biaya cetak"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jika hasil evaluasi menunjukkan bahwa biaya produksi terlalu tinggi, maka langkah perbaikan yang dapat dilakukan adalah...",
+    "pilihan": {
+      "a": "Menambah biaya promosi",
+      "b": "Menghentikan produksi selamanya",
+      "c": "Mencari cara untuk mengefisienkan penggunaan bahan atau proses produksi",
+      "d": "Menaikkan harga jual secara drastis",
+      "e": "Mengurangi kualitas produk"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam analisis SWOT, kondisi eksternal yang dapat memberikan keuntungan bagi usaha, seperti meningkatnya tren penggunaan produk ramah lingkungan, disebut...",
+    "pilihan": {
+      "a": "Threat (Ancaman)",
+      "b": "Strength (Kekuatan)",
+      "c": "Weakness (Kelemahan)",
+      "d": "Opportunity (Peluang)",
+      "e": "Objective (Tujuan)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pemberian merek atau brand pada produk kerajinan bertujuan untuk...",
+    "pilihan": {
+      "a": "Meniru produk lain",
+      "b": "Membuat produk tidak laku",
+      "c": "Menyembunyikan kualitas produk",
+      "d": "Menambah berat produk",
+      "e": "Menciptakan identitas dan pembeda dari produk pesaing"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sanitasi kandang dalam budi daya unggas petelur sangat penting untuk...",
+    "pilihan": {
+      "a": "Mencegah timbulnya penyakit",
+      "b": "Mempercepat pertumbuhan bulu",
+      "c": "Membuat unggas stres",
+      "d": "Menambah biaya pakan",
+      "e": "Mengurangi produksi telur"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dokumen tertulis yang berisi rincian tentang tujuan usaha, strategi, dan proyeksi keuangan sebuah bisnis disebut...",
+    "pilihan": {
+      "a": "Laporan evaluasi",
+      "b": "Daftar hadir",
+      "c": "Rencana bisnis (business plan)",
+      "d": "Jadwal kegiatan",
+      "e": "Struk belanja"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Strategi promosi dengan memberikan potongan harga atau bonus 'beli 1 gratis 1' disebut...",
+    "pilihan": {
+      "a": "Hubungan masyarakat (public relations)",
+      "b": "Periklanan (advertising)",
+      "c": "Promosi penjualan (sales promotion)",
+      "d": "Penjualan personal (personal selling)",
+      "e": "Pemasaran langsung (direct marketing)"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pembagian tugas yang jelas dalam sebuah organisasi usaha (misalnya, siapa yang bertanggung jawab atas produksi, pemasaran, dan keuangan) bertujuan untuk...",
+    "pilihan": {
+      "a": "Menciptakan konflik antar anggota",
+      "b": "Meningkatkan efektivitas dan efisiensi kerja",
+      "c": "Memperlambat proses kerja",
+      "d": "Menimbulkan kebingungan",
+      "e": "Menghabiskan anggaran"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Membuat kerajinan tangan dari bahan limbah seperti botol plastik atau kain perca merupakan contoh wirausaha yang memperhatikan aspek...",
+    "pilihan": {
+      "a": "Kemewahan",
+      "b": "Tradisi kuno",
+      "c": "Jasa profesi",
+      "d": "Teknologi tinggi",
+      "e": "Keberlanjutan dan ramah lingkungan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Seorang arsitek yang merancang sebuah bangunan sedang menerapkan keahlian di bidang...",
+    "pilihan": {
+      "a": "Budi daya",
+      "b": "Rekayasa",
+      "c": "Kerajinan",
+      "d": "Pengolahan",
+      "e": "Pemasaran"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Masa di mana unggas petelur mulai produktif menghasilkan telur disebut masa...",
+    "pilihan": {
+      "a": "Starter",
+      "b": "Layer",
+      "c": "Brooding",
+      "d": "Penetasan",
+      "e": "Afkir"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Membuat dodol durian menjadi permen dodol dalam kemasan kecil-kecil adalah contoh modifikasi makanan khas daerah pada aspek...",
+    "pilihan": {
+      "a": "Warna",
+      "b": "Bahan baku",
+      "c": "Aroma",
+      "d": "Rasa",
+      "e": "Bentuk dan ukuran"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Biaya yang jumlahnya berubah-ubah sesuai dengan jumlah produksi, seperti biaya bahan baku, disebut...",
+    "pilihan": {
+      "a": "Biaya penyusutan",
+      "b": "Biaya tetap (fixed cost)",
+      "c": "Biaya investasi",
+      "d": "Biaya sewa",
+      "e": "Biaya variabel (variable cost)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kotak karton yang berisi beberapa kemasan plastik keripik adalah contoh dari kemasan...",
+    "pilihan": {
+      "a": "Primer",
+      "b": "Sekunder",
+      "c": "Dasar",
+      "d": "Tersier",
+      "e": "Luar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Jika hasil evaluasi menunjukkan bahwa promosi kurang efektif, maka tindakan yang perlu dilakukan adalah...",
+    "pilihan": {
+      "a": "Mengkaji ulang strategi promosi, media yang digunakan, dan target pasar",
+      "b": "Menghentikan semua promosi",
+      "c": "Menambah jumlah produksi",
+      "d": "Menaikkan harga jual",
+      "e": "Menurunkan kualitas produk"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam analisis SWOT, munculnya pesaing baru dengan produk serupa di pasar lokal merupakan contoh dari...",
+    "pilihan": {
+      "a": "Weakness (Kelemahan)",
+      "b": "Strategy (Strategi)",
+      "c": "Opportunity (Peluang)",
+      "d": "Threat (Ancaman)",
+      "e": "Strength (Kekuatan)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Proses perakitan dalam pembuatan produk kerajinan adalah kegiatan...",
+    "pilihan": {
+      "a": "Menjual produk",
+      "b": "Menggabungkan bagian-bagian produk menjadi satu kesatuan",
+      "c": "Mengemas produk",
+      "d": "Menyiapkan bahan baku",
+      "e": "Mewarnai produk"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Unggas petelur yang sudah tidak produktif lagi dan biasanya dijual dagingnya disebut unggas...",
+    "pilihan": {
+      "a": "Layer",
+      "b": "Afkir",
+      "c": "Starter",
+      "d": "Bibit",
+      "e": "Pejantan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Titik di mana total pendapatan sama dengan total biaya, sehingga usaha tidak mengalami laba maupun rugi, disebut...",
+    "pilihan": {
+      "a": "Laba Maksimum",
+      "b": "Harga Pokok Produksi (HPP)",
+      "c": "Return on Investment (ROI)",
+      "d": "Break Even Point (BEP)",
+      "e": "Analisis SWOT"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pemasaran dari mulut ke mulut (word of mouth) masih dianggap efektif karena...",
+    "pilihan": {
+      "a": "Membutuhkan biaya yang sangat besar",
+      "b": "Rekomendasi dari orang yang dipercaya seringkali lebih meyakinkan",
+      "c": "Tidak memerlukan produk yang berkualitas",
+      "d": "Hanya bisa dilakukan secara online",
+      "e": "Sulit untuk dikontrol"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam simulasi wirausaha, pembentukan organisasi tim bertujuan untuk...",
+    "pilihan": {
+      "a": "Membuat semua anggota mengerjakan hal yang sama",
+      "b": "Melatih kerja sama, kepemimpinan, dan tanggung jawab",
+      "c": "Menghabiskan waktu diskusi",
+      "d": "Menentukan satu orang untuk bekerja dan yang lain mengawasi",
+      "e": "Menciptakan persaingan tidak sehat antar anggota"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Membuat kerajinan makrame (seni tali-temali) untuk hiasan dinding termasuk dalam aspek...",
+    "pilihan": {
+      "a": "Pemasaran",
+      "b": "Pengolahan",
+      "c": "Kerajinan",
+      "d": "Rekayasa",
+      "e": "Budi daya"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Seorang 'event organizer' yang merencanakan dan melaksanakan sebuah acara pameran adalah contoh usaha di bidang...",
+    "pilihan": {
+      "a": "Budi daya unggas",
+      "b": "Kerajinan bahan lunak",
+      "c": "Rekayasa jasa profesi",
+      "d": "Pengolahan makanan",
+      "e": "Manufaktur"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Membuat rendang dalam kemasan kaleng yang tahan lama adalah contoh modifikasi makanan khas daerah yang berfokus pada...",
+    "pilihan": {
+      "a": "Perubahan bentuk menjadi cair",
+      "b": "Pengurangan kandungan bumbu",
+      "c": "Penambahan bahan pengawet berbahaya",
+      "d": "Peningkatan masa simpan dan kemudahan distribusi",
+      "e": "Perubahan rasa menjadi manis"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Menetapkan harga jual produk harus mempertimbangkan biaya produksi, keuntungan yang diinginkan, dan...",
+    "pilihan": {
+      "a": "Harga produk pesaing di pasaran",
+      "b": "Cuaca saat produksi",
+      "c": "Warna favorit pemilik usaha",
+      "d": "Tanggal pembuatan produk",
+      "e": "Jumlah anggota keluarga pemilik"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Desain kemasan yang baik harus memenuhi fungsi proteksi (melindungi), fungsi promosi (menarik), dan fungsi...",
+    "pilihan": {
+      "a": "Ergonomis (kemudahan dalam penggunaan dan penyimpanan)",
+      "b": "Menipu konsumen",
+      "c": "Merusak produk",
+      "d": "Menyembunyikan informasi",
+      "e": "Membuat produk lebih berat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jika hasil evaluasi menunjukkan banyak keluhan pelanggan tentang kualitas produk, maka area yang harus segera diperbaiki adalah...",
+    "pilihan": {
+      "a": "Distribusi",
+      "b": "Promosi",
+      "c": "Desain kantor",
+      "d": "Proses produksi dan kontrol kualitas (quality control)",
+      "e": "Manajemen keuangan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam analisis SWOT, keterbatasan modal atau kurangnya keterampilan teknis tim merupakan contoh dari...",
+    "pilihan": {
+      "a": "Opportunity (Peluang)",
+      "b": "Vision (Visi)",
+      "c": "Strength (Kekuatan)",
+      "d": "Threat (Ancaman)",
+      "e": "Weakness (Kelemahan)"
+    },
+    "jawaban": "e"
+  }
+]

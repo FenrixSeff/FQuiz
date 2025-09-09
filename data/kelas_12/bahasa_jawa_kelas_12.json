@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Nalika matur kaliyan tiyang ingkang langkung sepuh, prayoginipun ngginakaken basa...",
+    "pilihan": {
+      "a": "Basa kasar",
+      "b": "Krama alus",
+      "c": "Ngoko alus",
+      "d": "Ngoko lugu",
+      "e": "Krama lugu"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ukara 'Bapak nembe mawon tindak dhateng kantor' ngginakaken ragam basa...",
+    "pilihan": {
+      "a": "Ngoko lugu",
+      "b": "Krama lugu",
+      "c": "Krama alus",
+      "d": "Basa padinan",
+      "e": "Ngoko alus"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Perangan wiwitan ing struktur cerkak kang nepangaken paraga, wekdal, lan papan panggenan crita dipunwastani...",
+    "pilihan": {
+      "a": "Orientasi (pambuka)",
+      "b": "Komplikasi",
+      "c": "Klimaks",
+      "d": "Resolusi",
+      "e": "Koda"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Crita lucu ingkang ngandhut piwulang utawi kritikan sosial kanthi cara ingkang alus dipunsebat...",
+    "pilihan": {
+      "a": "Parikan",
+      "b": "Wayang",
+      "c": "Geguritan",
+      "d": "Cerkak",
+      "e": "Anekdot"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Rantamane pacelathon utawi dhialog ingkang dipunucapaken dening para paraga ing pagelaran drama dipunsebat...",
+    "pilihan": {
+      "a": "Epilog",
+      "b": "Prolog",
+      "c": "Monolog",
+      "d": "Naskah (skenario)",
+      "e": "Antawacana"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tembang macapat ingkang gadhah watak seneng, tresna asih, lan cocok kangge paring pitutur dhumateng lare enem inggih menika...",
+    "pilihan": {
+      "a": "Kinanthi",
+      "b": "Pocung",
+      "c": "Maskumambang",
+      "d": "Gambuh",
+      "e": "Megatruh"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Puisi Jawa gagrag anyar ingkang boten kaiket dening paugeran kados guru gatra, guru wilangan, lan guru lagu dipunsebat...",
+    "pilihan": {
+      "a": "Wangsalan",
+      "b": "Cangkriman",
+      "c": "Parikan",
+      "d": "Tembang macapat",
+      "e": "Geguritan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Piranti musik tradhisional Jawa ingkang kadamel saking wilahan-wilahan logam lan dipuntabuh ngginakaken piranti khusus dipunsebat...",
+    "pilihan": {
+      "a": "Siter",
+      "b": "Suling",
+      "c": "Kendhang",
+      "d": "Rebab",
+      "e": "Gamelan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tembung 'dhahar' menika basa krama alus saking tembung ngoko...",
+    "pilihan": {
+      "a": "Mangan",
+      "b": "Turu",
+      "c": "Lunga",
+      "d": "Ngombe",
+      "e": "Mlaku"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Puncakipun masalah utawi konflik ingkang paling ndrawasi ing alur crita cerkak dipunsebat...",
+    "pilihan": {
+      "a": "Klimaks",
+      "b": "Resolusi",
+      "c": "Koda",
+      "d": "Komplikasi",
+      "e": "Orientasi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Unsur humor ing teks anekdot asring dipunginakaken kangge...",
+    "pilihan": {
+      "a": "Njlentrehaken sejarah",
+      "b": "Nyampekaken kritikan supados boten kraos nyerang langsung",
+      "c": "Nggawe pamaca nangis",
+      "d": "Mbingungaken pamaca",
+      "e": "Crita medeni"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Bab-bab ingkang kedah dipungatosaken dening paraga drama nalika mentas, kados polatan (ekspresi), solah bawa (gerak-gerik), lan pocapan (vokal) dipunsebat...",
+    "pilihan": {
+      "a": "Tata busana",
+      "b": "Naskah drama",
+      "c": "Olah swara, olah raga, olah rasa",
+      "d": "Tata lampu",
+      "e": "Tata panggung"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Paugeran tembang macapat ingkang ngatur cacahipun gatra (larik) saben sapada (bait) dipunsebat...",
+    "pilihan": {
+      "a": "Guru lagu",
+      "b": "Guru basa",
+      "c": "Guru gatra",
+      "d": "Guru wilangan",
+      "e": "Guru sastra"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Surjan lan blangkon menika kalebet conto busana adat Jawi kangge...",
+    "pilihan": {
+      "a": "Penganten",
+      "b": "Abdi dalem",
+      "c": "Bocah cilik",
+      "d": "Wanita",
+      "e": "Kakung (priya)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Piranti gamelan ingkang wujudipun kados gong alit-alit lan dipunpapanaken kanthi jejer dipunsebat...",
+    "pilihan": {
+      "a": "Saron",
+      "b": "Bonang",
+      "c": "Gender",
+      "d": "Gong",
+      "e": "Kendhang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ukara pitakenan ingkang leres ngginakaken krama alus kangge nyuwun pirsa asmanipun tiyang sepuh inggih menika...",
+    "pilihan": {
+      "a": "Asmane sampeyan sinten, Pak?",
+      "b": "Sapa jenenge sampeyan, Pak?",
+      "c": "Jenengmu sapa, Pak?",
+      "d": "Asma panjenengan sinten, Pak?",
+      "e": "Nami sampeyan sinten, Pak?"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Perangan pungkasan ing cerkak ingkang isinipun dudutan (kesimpulan) utawi piwulang saking crita dipunsebat...",
+    "pilihan": {
+      "a": "Komplikasi",
+      "b": "Resolusi",
+      "c": "Klimaks",
+      "d": "Orientasi",
+      "e": "Koda"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Struktur teks anekdot limrahipun kasusun saking abstraksi, orientasi, krisis, reaksi, lan...",
+    "pilihan": {
+      "a": "Monolog",
+      "b": "Komplikasi",
+      "c": "Koda",
+      "d": "Epilog",
+      "e": "Resolusi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pambuka ing teks drama ingkang isinipun nepangaken ringkesan crita utawi latar belakang crita dipunsebat...",
+    "pilihan": {
+      "a": "Dhialog",
+      "b": "Epilog",
+      "c": "Kramagung",
+      "d": "Monolog",
+      "e": "Prolog"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Paugeran tembang macapat ingkang ngatur cacahipun wanda (suku kata) saben sagatra dipunsebat...",
+    "pilihan": {
+      "a": "Guru gatra",
+      "b": "Guru wilangan",
+      "c": "Guru lagu",
+      "d": "Guru tembang",
+      "e": "Guru pada"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Nilai-nilai luhur kados budi pekerti, sopan santun, lan gotong royong ingkang saged dipunpendhet saking geguritan dipunsebat nilai...",
+    "pilihan": {
+      "a": "Estetika",
+      "b": "Politik",
+      "c": "Moral",
+      "d": "Ekonomi",
+      "e": "Sajarah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Busana adat Jawi kangge wanita ingkang arupi kain panjang ingkang dipunubedaken ing badan dipunsebat...",
+    "pilihan": {
+      "a": "Beskap",
+      "b": "Jarikan (sinjang)",
+      "c": "Blangkon",
+      "d": "Surjan",
+      "e": "Keris"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Piranti gamelan ingkang dados pamimpin irama, utaminipun kangge nemtokaken cepet-rendhetipun gendhing dipunsebat...",
+    "pilihan": {
+      "a": "Gambang",
+      "b": "Gong",
+      "c": "Rebab",
+      "d": "Kendhang",
+      "e": "Saron"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Basa krama alus saking tembung 'omah' inggih menika...",
+    "pilihan": {
+      "a": "Griya",
+      "b": "Omah",
+      "c": "Pondhok",
+      "d": "Dalem",
+      "e": "Wisma"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Unsur intrinsik cerkak ingkang gegayutan kaliyan urutanipun kedadosan ing salebeting crita dipunsebat...",
+    "pilihan": {
+      "a": "Amanat",
+      "b": "Latar",
+      "c": "Alur (plot)",
+      "d": "Paraga",
+      "e": "Tema"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Paraga ingkang dipuncritakaken ing teks anekdot limrahipun tiyang ingkang...",
+    "pilihan": {
+      "a": "Gadhah panguwaos utawi tokoh publik",
+      "b": "Sato kewan",
+      "c": "Boten wonten ing donya nyata",
+      "d": "Biasa-biasa kemawon",
+      "e": "Mboten jelas"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pitedah solah bawa utawi polatan paraga ingkang kaserat ing salebeting naskah drama, limrahipun mawi tandha kurung, dipunsebat...",
+    "pilihan": {
+      "a": "Monolog",
+      "b": "Kramagung (parentah laku)",
+      "c": "Prolog",
+      "d": "Epilog",
+      "e": "Dhialog"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Paugeran tembang macapat ingkang ngatur tibaning swara vokal ing pungkasaning gatra dipunsebat...",
+    "pilihan": {
+      "a": "Guru lagu",
+      "b": "Guru gatra",
+      "c": "Guru swara",
+      "d": "Guru pada",
+      "e": "Guru wilangan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Geguritan ingkang taksih kaiket dening paugeran tartamtu kados cacahipun gatra saben pada utawi purwakanthi dipunsebat geguritan gagrag...",
+    "pilihan": {
+      "a": "Bebas",
+      "b": "Anyar",
+      "c": "Lawas (tradisional)",
+      "d": "Kontemporer",
+      "e": "Modern"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Piranti gamelan ingkang dipundamel saking pring lan cara nabuhipun kanthi disebul inggih menika...",
+    "pilihan": {
+      "a": "Saron",
+      "b": "Kendhang",
+      "c": "Gong",
+      "d": "Bonang",
+      "e": "Suling"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Menawi badhe matur 'Saya mau makan', basa krama alusipun inggih menika...",
+    "pilihan": {
+      "a": "Kula badhe maem.",
+      "b": "Kula badhe nedha.",
+      "c": "Kula kersa dhahar.",
+      "d": "Kula ajeng nedha.",
+      "e": "Dalem badhe dhahar."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sudut pandang pangripta anggenipun nyariosaken crita ing cerkak, upaminipun ngginakaken tembung 'aku' utawi nyebat asmanipun paraga, dipunsebat...",
+    "pilihan": {
+      "a": "Alur",
+      "b": "Amanat",
+      "c": "Tema",
+      "d": "Point of view (pamawas)",
+      "e": "Latar"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Perangan pungkasan ing pagelaran drama ingkang isinipun dudutan utawi nasib pungkasan saking para paraga dipunsebat...",
+    "pilihan": {
+      "a": "Prolog",
+      "b": "Epilog",
+      "c": "Dhialog",
+      "d": "Monolog",
+      "e": "Adegan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tembang Kinanthi gadhah guru gatra, guru wilangan, lan guru lagu...",
+    "pilihan": {
+      "a": "8u, 8i, 8a, 8i, 8a, 8i",
+      "b": "8a, 8i, 8a, 8i, 8a, 8i",
+      "c": "7u, 10u, 12i, 8u, 8o",
+      "d": "7g, 8u, 7a, 8i, 8a, 8i",
+      "e": "6u, 8i, 8a, 8i, 8a, 8i"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satunggaling fungsi tembang macapat ing jaman rumiyin inggih menika kangge...",
+    "pilihan": {
+      "a": "Maca pawarta",
+      "b": "Nembangaken lagu pop",
+      "c": "Iklan produk",
+      "d": "Nulis buku crita lan paring pitutur",
+      "e": "Iringan joged modern"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Unsur kaendahan ing geguritan ingkang awujud runtuting swara utawi purwakanthi dipunsebat...",
+    "pilihan": {
+      "a": "Diksi (pilihan tembung)",
+      "b": "Lelewaning basa (gaya bahasa)",
+      "c": "Rima (persajakan)",
+      "d": "Amanat",
+      "e": "Tipografi (perwajahan)"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dhuwung utawi keris ing busana adat Jawi limrahipun dipunagem dening kakung ing perangan...",
+    "pilihan": {
+      "a": "Astha (tangan)",
+      "b": "Jangga (gulu)",
+      "c": "Mustaka (sirah)",
+      "d": "Punggung (wingking)",
+      "e": "Ampeyan (pinggang)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Piranti gamelan ingkang paling ageng lan limrahipun dipuntabuh ing pungkasaning saben ukara lagu (gongan) inggih menika...",
+    "pilihan": {
+      "a": "Kenong",
+      "b": "Kempul",
+      "c": "Gong Ageng",
+      "d": "Saron",
+      "e": "Bonang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Ukara 'Mangga, pinarak rumiyin!' menika kalebet tuladha unggah-ungguh basa kangge...",
+    "pilihan": {
+      "a": "Pamit",
+      "b": "Nawani lenggah (mempersilakan duduk)",
+      "c": "Ngasoran (merendahkan diri)",
+      "d": "Nglaporken kedadosan",
+      "e": "Nyuwun pirsa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Piwulang utawi pesen moral ingkang badhe dipunandharaken dening pangripta lumantar cerkakipun dipunsebat...",
+    "pilihan": {
+      "a": "Latar",
+      "b": "Paraga",
+      "c": "Amanat",
+      "d": "Tema",
+      "e": "Alur"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kritikan ingkang sinandi (tersirat) ing salebeting teks anekdot ndadosaken teks menika gadhah fungsi...",
+    "pilihan": {
+      "a": "Hiburan semata",
+      "b": "Historis",
+      "c": "Sosial lan edukatif",
+      "d": "Ekonomi",
+      "e": "Religius"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pacelathon ingkang dipunucapaken dening satunggal paraga piyambakan ing panggung drama dipunsebat...",
+    "pilihan": {
+      "a": "Monolog",
+      "b": "Epilog",
+      "c": "Antawacana",
+      "d": "Dhialog",
+      "e": "Prolog"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tembang macapat ingkang gadhah watak nelangsa, sedhih, utawi kelangan, asring dipunginakaken kangge nyariosaken perpisahan inggih menika...",
+    "pilihan": {
+      "a": "Dhandhanggula",
+      "b": "Pangkur",
+      "c": "Kinanthi",
+      "d": "Asmarandana",
+      "e": "Megatruh"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Analisis isi geguritan limrahipun ngrembag babagan tema, amanat, lan...",
+    "pilihan": {
+      "a": "Asmanipun pangripta",
+      "b": "Gegambaran utawi citraan (imaji)",
+      "c": "Taun terbitipun",
+      "d": "Regi kertasipun",
+      "e": "Penerbitipun"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kebaya menika busana adat Jawi ingkang dipunagem dening...",
+    "pilihan": {
+      "a": "Prajurit",
+      "b": "Bocah lanang",
+      "c": "Kakung",
+      "d": "Wanita",
+      "e": "Abdi dalem kakung"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Laras (tangga nada) ing gamelan Jawi ingkang umum wonten kalih, inggih menika...",
+    "pilihan": {
+      "a": "Gembira lan Sedhih",
+      "b": "Pelog lan Slendro",
+      "c": "Mayor lan Minor",
+      "d": "Diatonis lan Pentatonis",
+      "e": "Cepet lan Rendhet"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tembung 'sare' menika basa krama alus saking tembung ngoko...",
+    "pilihan": {
+      "a": "Turu",
+      "b": "Lara",
+      "c": "Teka",
+      "d": "Tanggi",
+      "e": "Lunga"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Konflik batin ingkang dipunraosaken dening paraga utama ing cerkak dipunsebat konflik...",
+    "pilihan": {
+      "a": "Sosial",
+      "b": "Internal",
+      "c": "Kelompok",
+      "d": "Fisik",
+      "e": "Eksternal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Unsur basa ingkang asring wonten ing teks drama Jawi, inggih menika ngginakaken...",
+    "pilihan": {
+      "a": "Basa isyarat",
+      "b": "Basa Inggris",
+      "c": "Unggah-ungguh basa Jawi (ngoko, krama)",
+      "d": "Basa Indonesia baku",
+      "e": "Basa gaul"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Serat Wedhatama ingkang misuwur menika kaanggit dening KGPAA Mangkunegara IV kanthi wujud...",
+    "pilihan": {
+      "a": "Naskah drama",
+      "b": "Cerkak",
+      "c": "Anekdot",
+      "d": "Geguritan",
+      "e": "Tembang macapat"
+    },
+    "jawaban": "e"
+  }
+]
