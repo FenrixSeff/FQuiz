@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Apa yang dimaksud dengan wilayah formal (uniform region)?",
+    "pilihan": {
+      "a": "Wilayah yang berkembang karena aktivitas ekonomi",
+      "b": "Wilayah yang didefinisikan oleh interaksi spasial dan fungsional",
+      "c": "Wilayah yang dibatasi oleh kenampakan fisik alam",
+      "d": "Wilayah administratif pemerintahan",
+      "e": "Wilayah yang ditentukan berdasarkan keseragaman karakteristik tertentu"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pembangunan wilayah bertujuan untuk...",
+    "pilihan": {
+      "a": "Mengurangi interaksi antar wilayah",
+      "b": "Mewujudkan pemerataan dan kesejahteraan masyarakat",
+      "c": "Meningkatkan kesenjangan antar daerah",
+      "d": "Memusatkan pembangunan di ibu kota",
+      "e": "Mempertahankan keterisolasian daerah tertinggal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Rencana Tata Ruang Wilayah Nasional (RTRWN) di Indonesia berfungsi sebagai...",
+    "pilihan": {
+      "a": "Kebijakan yang tidak mengikat pemerintah daerah",
+      "b": "Pedoman pembangunan untuk negara tetangga",
+      "c": "Pedoman untuk rencana tata ruang wilayah provinsi dan kabupaten/kota",
+      "d": "Aturan tentang penggunaan lahan perorangan",
+      "e": "Dokumen yang hanya mengatur tata ruang ibu kota"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Permasalahan utama dalam penerapan tata ruang di Indonesia adalah...",
+    "pilihan": {
+      "a": "Tidak adanya payung hukum",
+      "b": "Terlalu banyaknya peraturan yang berlaku",
+      "c": "Kurangnya minat investor",
+      "d": "Ketidaksesuaian antara rencana dan implementasi di lapangan",
+      "e": "Kurangnya tenaga ahli geografi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Peta tematik berbeda dengan peta umum karena...",
+    "pilihan": {
+      "a": "Tidak menggunakan simbol dan warna",
+      "b": "Hanya menampilkan informasi fisik",
+      "c": "Menyajikan tema atau informasi khusus tertentu",
+      "d": "Tidak memiliki skala",
+      "e": "Hanya digunakan untuk kepentingan militer"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Komponen peta yang menunjukkan hubungan antara jarak di peta dengan jarak sebenarnya di lapangan adalah...",
+    "pilihan": {
+      "a": "Sumber peta",
+      "b": "Legenda",
+      "c": "Orientasi",
+      "d": "Skala",
+      "e": "Inset"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Proyeksi peta Mercator cocok digunakan untuk...",
+    "pilihan": {
+      "a": "Menunjukkan luas wilayah yang akurat",
+      "b": "Memetakan daerah kutub",
+      "c": "Navigasi pelayaran karena mempertahankan sudut",
+      "d": "Memetakan seluruh permukaan bumi tanpa distorsi",
+      "e": "Pemetaan daerah ekuator"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Penginderaan jauh adalah...",
+    "pilihan": {
+      "a": "Seni dan ilmu memperoleh informasi tentang objek tanpa kontak langsung",
+      "b": "Teknik memetakan bumi dengan berjalan kaki",
+      "c": "Metode survei lapangan konvensional",
+      "d": "Cara mengukur jarak dengan menggunakan tali",
+      "e": "Teknik menggambar peta manual"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Citra satelit dapat dimanfaatkan untuk...",
+    "pilihan": {
+      "a": "Memperkirakan hasil panen",
+      "b": "Semua jawaban benar",
+      "c": "Memprediksi cuaca dengan akurat",
+      "d": "Memantau perubahan penggunaan lahan",
+      "e": "Mengukur kedalaman laut"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sistem Informasi Geografis (SIG) merupakan sistem yang berbasis komputer digunakan untuk...",
+    "pilihan": {
+      "a": "Hanya menampilkan peta digital",
+      "b": "Menggantikan semua survei lapangan",
+      "c": "Mengolah dan menganalisis data spasial",
+      "d": "Membuat gambar tiga dimensi",
+      "e": "Mengirimkan sinyal GPS"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Ciri utama negara maju adalah...",
+    "pilihan": {
+      "a": "Tingkat pengangguran yang tinggi",
+      "b": "Pendapatan per kapita yang tinggi",
+      "c": "Ketergantungan pada sektor pertanian",
+      "d": "Tingkat pertumbuhan penduduk yang tinggi",
+      "e": "Angka harapan hidup yang rendah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pola keruangan kota menurut model sektor Homer Hoyt menjelaskan bahwa...",
+    "pilihan": {
+      "a": "Kota berkembang dalam lingkaran konsentris",
+      "b": "Kota memiliki banyak inti pusat kegiatan",
+      "c": "Kota berkembang dalam bentuk sektor-sektor",
+      "d": "Kota berkembang secara linear mengikuti jalur transportasi",
+      "e": "Kota berkembang secara acak"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kerja sama internasional dalam menghadapi perubahan iklim contohnya melalui...",
+    "pilihan": {
+      "a": "Kerja sama bilateral perdagangan",
+      "b": "ASEAN Economic Community",
+      "c": "Organisasi OPEC",
+      "d": "Perjanjian Paris",
+      "e": "World Trade Organization"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tantangan dalam kerja sama antarnegara adalah...",
+    "pilihan": {
+      "a": "Kesamaan kepentingan semua negara",
+      "b": "Tidak adanya organisasi internasional",
+      "c": "Kurangnya teknologi komunikasi",
+      "d": "Keseragaman budaya global",
+      "e": "Perbedaan kepentingan nasional masing-masing negara"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pemanfaatan penginderaan jauh dalam tahap perencanaan jaringan transportasi adalah...",
+    "pilihan": {
+      "a": "Menggantikan semua rambu lalu lintas",
+      "b": "Memantau kondisi lalu lintas secara real-time",
+      "c": "Merencanakan rute transportasi yang efisien",
+      "d": "Mengukur kecepatan kendaraan",
+      "e": "Membuat rambu-rambu lalu lintas"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam analisis spasial, peta kontur digunakan untuk...",
+    "pilihan": {
+      "a": "Menampilkan kepadatan penduduk",
+      "b": "Mengidentifikasi jenis tanah",
+      "c": "Menganalisis persebaran flora dan fauna",
+      "d": "Menunjukkan batas administrasi",
+      "e": "Menggambarkan relief permukaan bumi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Fungsi inset pada peta adalah...",
+    "pilihan": {
+      "a": "Memperbesar bagian tertentu yang penting",
+      "b": "Menggantikan legenda",
+      "c": "Menunjukkan sumber peta",
+      "d": "Menampilkan skala grafis",
+      "e": "Menunjukkan arah utara"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perencanaan tata ruang kabupaten/kota harus memperhatikan...",
+    "pilihan": {
+      "a": "Hanya kepentingan pengembang properti",
+      "b": "Kebutuhan jangka pendek saja",
+      "c": "Trend pembangunan internasional",
+      "d": "Kepentingan pemerintah pusat saja",
+      "e": "Keseimbangan antara pembangunan dan kelestarian lingkungan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pengendalian tata ruang penting untuk...",
+    "pilihan": {
+      "a": "Memusatkan pembangunan di satu area",
+      "b": "Meningkatkan pajak bumi dan bangunan",
+      "c": "Membatasi mobilitas penduduk",
+      "d": "Mengurangi interaksi sosial",
+      "e": "Mencegah pembangunan yang tidak sesuai peruntukan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Keuntungan penggunaan SIG dalam perencanaan wilayah adalah...",
+    "pilihan": {
+      "a": "Hanya dapat digunakan oleh ahli komputer",
+      "b": "Hanya menampilkan data tekstual",
+      "c": "Menggantikan semua survei lapangan",
+      "d": "Dapat melakukan overlay berbagai data spasial",
+      "e": "Tidak membutuhkan data terbaru"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Interpretasi citra penginderaan jauh memerlukan unsur-unsur interpretasi seperti...",
+    "pilihan": {
+      "a": "Kecepatan dan arah angin",
+      "b": "Nama operator dan waktu penerbangan",
+      "c": "Warna, bentuk, ukuran, pola, dan tekstur",
+      "d": "Jenis kertas dan tinta cetak",
+      "e": "Harga, kualitas, dan merek sensor"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pola permukiman linear biasanya berkembang di sepanjang...",
+    "pilihan": {
+      "a": "Tengah hutan",
+      "b": "Pusat kota",
+      "c": "Daerah perbatasan",
+      "d": "Jalan raya atau sungai",
+      "e": "Puncak gunung"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Faktor yang mempengaruhi perkembangan wilayah adalah...",
+    "pilihan": {
+      "a": "Bantuan luar negeri saja",
+      "b": "Hanya kondisi fisik alam",
+      "c": "Hanya kebijakan pemerintah",
+      "d": "Interaksi antara faktor fisik dan non-fisik",
+      "e": "Ketersediaan tenaga kerja murah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam klasifikasi wilayah, wilayah nodal didefinisikan sebagai...",
+    "pilihan": {
+      "a": "Wilayah yang terorganisir sekitar titik inti",
+      "b": "Wilayah dengan batas alam yang jelas",
+      "c": "Wilayah dengan satu jenis tanaman",
+      "d": "Wilayah administratif pemerintahan",
+      "e": "Wilayah dengan keseragaman karakteristik"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Peran ASEAN dalam kerja sama regional adalah...",
+    "pilihan": {
+      "a": "Menciptakan mata uang bersama",
+      "b": "Meningkatkan perdagangan dan stabilitas kawasan",
+      "c": "Mengontrol sumber daya alam anggota",
+      "d": "Menghapus semua batas negara",
+      "e": "Mengatur politik domestik anggota"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Peluang Indonesia dalam kerja sama internasional adalah...",
+    "pilihan": {
+      "a": "Ketidakstabilan politik",
+      "b": "Keterbatasan tenaga terampil",
+      "c": "Pasar yang besar dan sumber daya alam melimpah",
+      "d": "Keterisolasian dari dunia internasional",
+      "e": "Ketergantungan pada impor"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pemanfaatan peta dalam analisis spasial untuk pembangunan jaringan transportasi adalah...",
+    "pilihan": {
+      "a": "Menghitung pajak kendaraan bermotor",
+      "b": "Mengatur jadwal penerbangan",
+      "c": "Menentukan lokasi yang strategis untuk infrastruktur",
+      "d": "Menetapkan harga tiket transportasi",
+      "e": "Membuat desain kendaraan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Permasalahan dalam pembangunan wilayah tertinggal biasanya adalah...",
+    "pilihan": {
+      "a": "Ketersediaan energi yang berlebihan",
+      "b": "Kepadatan penduduk yang sangat tinggi",
+      "c": "Keterbatasan aksesibilitas dan infrastruktur",
+      "d": "Terlalu banyak investor asing",
+      "e": "Kelebihan tenaga ahli"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Proyeksi peta yang cocok untuk memetakan Indonesia adalah...",
+    "pilihan": {
+      "a": "Proyeksi Kerucut",
+      "b": "Proyeksi Universal Transverse Mercator (UTM)",
+      "c": "Proyeksi Silinder",
+      "d": "Proyeksi Mercator",
+      "e": "Proyeksi Azimuthal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Komponen utama dalam SIG adalah...",
+    "pilihan": {
+      "a": "Hardware, software, data, dan manusia",
+      "b": "GPS dan drone",
+      "c": "Peta dan kompas",
+      "d": "Hanya komputer dan printer",
+      "e": "Sensor dan satelit"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Penerapan penginderaan jauh dalam bidang kelautan adalah...",
+    "pilihan": {
+      "a": "Membuat kapal laut",
+      "b": "Mengukur kedalaman laut dengan akurat",
+      "c": "Menangkap ikan secara tradisional",
+      "d": "Memantau suhu permukaan laut dan sebaran ikan",
+      "e": "Membangun mercusuar"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Ciri negara berkembang adalah...",
+    "pilihan": {
+      "a": "Angka harapan hidup tinggi",
+      "b": "Ketergantungan pada sektor primer",
+      "c": "Tingkat pengangguran rendah",
+      "d": "Pendapatan per kapita tinggi",
+      "e": "Tingkat melek huruf yang tinggi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Model struktur kota yang menyatakan bahwa kota memiliki beberapa inti pusat kegiatan adalah...",
+    "pilihan": {
+      "a": "Model Konsentris",
+      "b": "Model Sektor",
+      "c": "Model Inti Ganda",
+      "d": "Model Urban Sprawl",
+      "e": "Model Linear"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kerja sama ekonomi internasional seperti APEC bertujuan untuk...",
+    "pilihan": {
+      "a": "Mengontrol nilai tukar mata uang",
+      "b": "Menghapus semua bea masuk",
+      "c": "Mengatur politik dalam negeri anggota",
+      "d": "Membentuk pasar tunggal seperti Uni Eropa",
+      "e": "Meningkatkan liberalisasi perdagangan dan investasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Manfaat kerja sama internasional bagi Indonesia adalah...",
+    "pilihan": {
+      "a": "Transfer teknologi dan peningkatan investasi",
+      "b": "Kehilangan kedaulatan negara",
+      "c": "Penyeragaman budaya",
+      "d": "Pengurangan jumlah tenaga kerja",
+      "e": "Ketergantungan pada bantuan luar negeri"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam perencanaan tata ruang, zoning regulation bertujuan untuk...",
+    "pilihan": {
+      "a": "Mengurangi harga properti",
+      "b": "Mengatur penggunaan lahan berdasarkan peruntukan",
+      "c": "Memusatkan semua kegiatan di satu zona",
+      "d": "Menghapus semua batas kepemilikan lahan",
+      "e": "Meningkatkan kepadatan penduduk"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pemanfaatan SIG dalam mitigasi bencana adalah...",
+    "pilihan": {
+      "a": "Memetakan daerah rawan bencana",
+      "b": "Menghilangkan semua risiko bencana",
+      "c": "Mencegah terjadinya bencana",
+      "d": "Menghentikan aktivitas vulkanik",
+      "e": "Mengatur evakuasi secara otomatis"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Unsur interpretasi citra yang membantu mengidentifikasi objek berdasarkan kecerahan dan kegelapan adalah...",
+    "pilihan": {
+      "a": "Rona",
+      "b": "Situs",
+      "c": "Ukuran",
+      "d": "Bentuk",
+      "e": "Pola"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pembangunan berkelanjutan dalam perencanaan wilayah berarti...",
+    "pilihan": {
+      "a": "Pembangunan yang mengutamakan keuntungan ekonomi",
+      "b": "Pembangunan yang memenuhi kebutuhan sekarang tanpa mengorbankan masa depan",
+      "c": "Pembangunan secepat mungkin tanpa perencanaan",
+      "d": "Pembangunan hanya untuk generasi sekarang",
+      "e": "Pembangunan tanpa mempertimbangkan lingkungan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi utama dari Rencana Detail Tata Ruang (RDTR) kabupaten/kota adalah...",
+    "pilihan": {
+      "a": "Hanya mengatur tata ruang ibu kota provinsi",
+      "b": "Menjadi pedoman operasional pemanfaatan ruang",
+      "c": "Mengatur tata ruang negara tetangga",
+      "d": "Menggantikan RTRWN",
+      "e": "Menetapkan batas negara"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kelemahan proyeksi peta Mercator adalah...",
+    "pilihan": {
+      "a": "Tidak dapat digunakan untuk navigasi",
+      "b": "Tidak bisa menampilkan garis lintang dan bujur",
+      "c": "Tidak memiliki skala",
+      "d": "Hanya menunjukkan belahan bumi utara",
+      "e": "Distorsi luas semakin besar mendekati kutub"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam penginderaan jauh, resolusi spasial mengacu pada...",
+    "pilihan": {
+      "a": "Jumlah band spektral yang dimiliki sensor",
+      "b": "Kecepatan pengiriman data ke bumi",
+      "c": "Ukuran satelit yang digunakan",
+      "d": "Ketajaman warna pada citra",
+      "e": "Kemampuan membedakan objek kecil di permukaan bumi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara negara maju dan berkembang dalam pola keruangan kota adalah...",
+    "pilihan": {
+      "a": "Negara maju memiliki lebih sedikit zona industri",
+      "b": "Negara berkembang tidak memiliki pusat kota",
+      "c": "Negara berkembang memiliki transportasi umum yang lebih baik",
+      "d": "Negara maju memiliki suburbanisasi yang lebih jelas",
+      "e": "Negara maju tidak memiliki daerah kumuh"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Contoh kerja sama South-South Cooperation adalah...",
+    "pilihan": {
+      "a": "Kerja sama dalam olahraga internasional",
+      "b": "Kerja sama regional di Eropa",
+      "c": "Kerja sama antara negara maju dan berkembang",
+      "d": "Kerja sama dalam bidang militer saja",
+      "e": "Kerja sama antara negara-negara berkembang"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tantangan terbesar dalam implementasi tata ruang di Indonesia adalah...",
+    "pilihan": {
+      "a": "Kurangnya tenaga perencana",
+      "b": "Lemahnya penegakan hukum dan pengawasan",
+      "c": "Ketidakpedulian masyarakat",
+      "d": "Tidak adanya peraturan yang jelas",
+      "e": "Keterbatasan teknologi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pemanfaatan penginderaan jauh untuk pertanian adalah...",
+    "pilihan": {
+      "a": "Membuat irigasi tradisional",
+      "b": "Mengirimkan pupuk ke lahan pertanian",
+      "c": "Menggantikan semua tenaga kerja pertanian",
+      "d": "Memantau kesehatan tanaman dan prediksi panen",
+      "e": "Menentukan harga jual produk pertanian"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam analisis SIG, buffering adalah teknik untuk...",
+    "pilihan": {
+      "a": "Mengurangi resolusi data",
+      "b": "Menghapus data yang tidak diperlukan",
+      "c": "Membuat zona penyangga sekitar fitur tertentu",
+      "d": "Menggabungkan semua data menjadi satu",
+      "e": "Mengubah proyeksi peta"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Faktor penghambat kerja sama internasional adalah...",
+    "pilihan": {
+      "a": "Kesamaan bahasa dan budaya",
+      "b": "Perbedaan kepentingan nasional dan ideologi",
+      "c": "Kebutuhan akan perdamaian dunia",
+      "d": "Kemajuan teknologi komunikasi",
+      "e": "Ketersediaan sumber daya alam"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kawasan perkotaan yang terdiri dari kota inti dan kota-kota satelit di sekitarnya disebut...",
+    "pilihan": {
+      "a": "Kawasan Metropolitan",
+      "b": "Kawasan Perdesaan",
+      "c": "Kawasan Budidaya",
+      "d": "Kawasan Lindung",
+      "e": "Kawasan Strategis Nasional"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Peran pemerintah pusat dalam penataan ruang adalah...",
+    "pilihan": {
+      "a": "Menetapkan RTRWN dan pembinaan terhadap daerah",
+      "b": "Menghapus semua kewenangan pemerintah daerah",
+      "c": "Mengatur semua detail tata ruang kabupaten",
+      "d": "Tidak ikut campur dalam tata ruang daerah",
+      "e": "Hanya mengurus tata ruang ibu kota"
+    },
+    "jawaban": "a"
+  }
+]

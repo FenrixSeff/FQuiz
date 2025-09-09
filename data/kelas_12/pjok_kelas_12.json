@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Dalam permainan sepak bola, formasi 4-4-2 berarti menempatkan empat pemain di lini pertahanan, empat di lini tengah, dan dua di lini...",
+    "pilihan": {
+      "a": "Belakang",
+      "b": "Cadangan",
+      "c": "Depan (penyerang)",
+      "d": "Samping",
+      "e": "Sayap"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pola penyerangan dalam bola voli yang dilakukan oleh seorang pemain dengan cara memukul bola di atas net sekeras-kerasnya ke arah area lawan disebut...",
+    "pilihan": {
+      "a": "Smash (spike)",
+      "b": "Passing atas",
+      "c": "Blocking",
+      "d": "Service",
+      "e": "Passing bawah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam permainan bulu tangkis, pukulan yang bertujuan untuk menerbangkan shuttlecock setinggi mungkin dan mengarah ke garis belakang lapangan lawan disebut pukulan...",
+    "pilihan": {
+      "a": "Lob",
+      "b": "Drive",
+      "c": "Dropshot",
+      "d": "Netting",
+      "e": "Smash"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada nomor lari jarak pendek (sprint), fase di mana seorang pelari berusaha mencapai kecepatan maksimalnya setelah start adalah fase...",
+    "pilihan": {
+      "a": "Melayang",
+      "b": "Akselerasi",
+      "c": "Finish",
+      "d": "Reaksi",
+      "e": "Dorongan (drive)"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tindakan pertolongan pertama pada korban tenggelam yang tidak sadarkan diri dan tidak bernapas adalah dengan segera melakukan...",
+    "pilihan": {
+      "a": "Memeluk korban",
+      "b": "Mengangkat kaki korban lebih tinggi",
+      "c": "Menyelimuti korban",
+      "d": "Memberi minum air hangat",
+      "e": "Resusitasi Jantung Paru (RJP) atau CPR"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Gerakan berdiri dengan kedua tangan sebagai tumpuan dalam senam lantai disebut...",
+    "pilihan": {
+      "a": "Handstand",
+      "b": "Sikap lilin",
+      "c": "Kayang",
+      "d": "Roll depan",
+      "e": "Meroda"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kemampuan tubuh untuk melakukan aktivitas fisik dalam waktu lama tanpa mengalami kelelahan yang berarti dan masih memiliki cadangan energi disebut...",
+    "pilihan": {
+      "a": "Kecepatan (speed)",
+      "b": "Keseimbangan (balance)",
+      "c": "Kekuatan (strength)",
+      "d": "Daya tahan (endurance)",
+      "e": "Kelenturan (flexibility)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu cara paling efektif untuk melindungi diri dari Penyakit Menular Seksual (PMS) adalah...",
+    "pilihan": {
+      "a": "Mandi setelah berhubungan seksual",
+      "b": "Makan makanan bergizi",
+      "c": "Tidak melakukan hubungan seksual berisiko dan setia pada pasangan",
+      "d": "Minum antibiotik setiap hari",
+      "e": "Rutin berolahraga"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Berikut ini yang BUKAN merupakan komponen dari pola hidup sehat adalah...",
+    "pilihan": {
+      "a": "Bekerja terus menerus tanpa istirahat",
+      "b": "Menjaga kebersihan diri dan lingkungan",
+      "c": "Rutin berolahraga",
+      "d": "Istirahat yang cukup",
+      "e": "Makan makanan bergizi seimbang"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Gerakan peregangan yang dilakukan setelah latihan inti dalam aktivitas gerak berirama disebut...",
+    "pilihan": {
+      "a": "Pemanasan (warming up)",
+      "b": "Pendinginan (cooling down)",
+      "c": "Kalistenik",
+      "d": "Latihan inti",
+      "e": "Aerobik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Strategi pertahanan dalam bola basket di mana setiap pemain menjaga satu pemain lawan secara spesifik disebut pertahanan...",
+    "pilihan": {
+      "a": "Kombinasi",
+      "b": "Fast break",
+      "c": "Satu lawan satu (man-to-man defense)",
+      "d": "Pressing",
+      "e": "Zona (zone defense)"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam permainan softball, pemain yang bertugas melempar bola ke arah pemukul (batter) disebut...",
+    "pilihan": {
+      "a": "Fielder",
+      "b": "Catcher",
+      "c": "Pitcher",
+      "d": "Baseman",
+      "e": "Shortstop"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Perbedaan mendasar antara jalan cepat dan lari adalah pada jalan cepat...",
+    "pilihan": {
+      "a": "Tangan tidak boleh diayunkan",
+      "b": "Kedua kaki boleh melayang di udara",
+      "c": "Kecepatan harus maksimal",
+      "d": "Hanya boleh dilakukan di lintasan lurus",
+      "e": "Salah satu kaki harus selalu kontak dengan tanah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Gaya renang yang gerakannya menyerupai gerakan katak berenang disebut gaya...",
+    "pilihan": {
+      "a": "Punggung (backstroke)",
+      "b": "Anjing",
+      "c": "Kupu-kupu (butterfly)",
+      "d": "Bebas (freestyle)",
+      "e": "Dada (breaststroke)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Prinsip FITT (Frequency, Intensity, Time, Type) digunakan dalam merancang program latihan kebugaran jasmani. 'Intensity' merujuk pada...",
+    "pilihan": {
+      "a": "Seberapa berat atau sulitnya latihan",
+      "b": "Seberapa sering latihan dilakukan",
+      "c": "Berapa lama durasi setiap sesi latihan",
+      "d": "Jenis latihan yang dipilih",
+      "e": "Tempat latihan dilakukan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "HIV (Human Immunodeficiency Virus) adalah virus yang menyerang...",
+    "pilihan": {
+      "a": "Sistem pencernaan",
+      "b": "Sistem saraf",
+      "c": "Sistem pernapasan",
+      "d": "Sel-sel kulit",
+      "e": "Sistem kekebalan tubuh"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari pemanasan sebelum melakukan aktivitas gerak berirama adalah...",
+    "pilihan": {
+      "a": "Menguji daya tahan tubuh",
+      "b": "Mengembalikan kondisi tubuh seperti semula",
+      "c": "Meningkatkan kekuatan otot secara drastis",
+      "d": "Membakar kalori sebanyak-banyaknya",
+      "e": "Meningkatkan suhu tubuh dan mempersiapkan otot untuk bekerja"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Taktik penyerangan dalam sepak bola yang dilakukan dengan operan-operan pendek dan cepat dari kaki ke kaki disebut...",
+    "pilihan": {
+      "a": "Serangan balik (counter attack)",
+      "b": "Umpan lambung (long ball)",
+      "c": "Tiki-taka",
+      "d": "Kick and rush",
+      "e": "Total football"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam permainan tenis meja, pukulan yang dilakukan dengan cara memutar bola sehingga arahnya melengkung disebut pukulan...",
+    "pilihan": {
+      "a": "Spin",
+      "b": "Chop",
+      "c": "Push",
+      "d": "Block",
+      "e": "Smash"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada nomor lompat jauh, tolakan harus dilakukan dengan satu kaki pada...",
+    "pilihan": {
+      "a": "Balok tumpu",
+      "b": "Area awalan",
+      "c": "Garis start",
+      "d": "Bak pasir",
+      "e": "Matras"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Senam aerobik yang termasuk dalam kategori 'high impact' memiliki ciri gerakan...",
+    "pilihan": {
+      "a": "Selalu menyentuh lantai dengan satu kaki",
+      "b": "Dilakukan di dalam air",
+      "c": "Banyak melibatkan lompatan dan hentakan keras",
+      "d": "Lambat dan terkontrol",
+      "e": "Tanpa menggunakan musik"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kemampuan sendi untuk bergerak seluas-luasnya sesuai dengan rentang geraknya disebut...",
+    "pilihan": {
+      "a": "Kelincahan (agility)",
+      "b": "Kecepatan",
+      "c": "Kekuatan",
+      "d": "Kelenturan (flexibility)",
+      "e": "Daya tahan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Penyakit seperti Sifilis, Gonore, dan Herpes Genital termasuk dalam kelompok...",
+    "pilihan": {
+      "a": "Penyakit akibat virus influenza",
+      "b": "Penyakit tidak menular",
+      "c": "Penyakit Menular Seksual (PMS)",
+      "d": "Penyakit keturunan",
+      "e": "Penyakit degeneratif"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pola pertahanan daerah (zone defense) dalam permainan bola basket berarti setiap pemain bertanggung jawab menjaga...",
+    "pilihan": {
+      "a": "Pemain lawan yang paling tinggi",
+      "b": "Satu pemain lawan tertentu",
+      "c": "Garis tiga angka",
+      "d": "Area atau zona tertentu di lapangan",
+      "e": "Pemain lawan yang memegang bola saja"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Taktik 'hit and run' dalam permainan softball adalah strategi yang digunakan untuk...",
+    "pilihan": {
+      "a": "Mengganti pemukul",
+      "b": "Mengakhiri permainan lebih cepat",
+      "c": "Membuat lawan melakukan kesalahan",
+      "d": "Memajukan pelari (runner) ke base berikutnya saat bola dipukul",
+      "e": "Memukul bola sejauh mungkin"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Gaya renang yang posisi tubuhnya telentang menghadap ke atas adalah gaya...",
+    "pilihan": {
+      "a": "Kupu-kupu",
+      "b": "Punggung",
+      "c": "Samping",
+      "d": "Bebas",
+      "e": "Dada"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gerakan berguling ke depan dengan tumpuan pada tengkuk dan kedua tangan dalam senam lantai disebut...",
+    "pilihan": {
+      "a": "Handstand",
+      "b": "Roll belakang",
+      "c": "Kayang",
+      "d": "Meroda",
+      "e": "Roll depan (forward roll)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Latihan 'push-up' terutama bertujuan untuk meningkatkan komponen kebugaran jasmani yaitu...",
+    "pilihan": {
+      "a": "Kelenturan",
+      "b": "Kekuatan otot lengan dan dada",
+      "c": "Daya tahan kardiovaskular",
+      "d": "Keseimbangan",
+      "e": "Kecepatan lari"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tidur yang cukup dan berkualitas merupakan bagian penting dari pola hidup sehat karena berfungsi untuk...",
+    "pilihan": {
+      "a": "Meningkatkan nafsu makan",
+      "b": "Mengurangi massa otot",
+      "c": "Menghabiskan waktu luang",
+      "d": "Memulihkan kondisi fisik dan mental",
+      "e": "Menambah berat badan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam aktivitas gerak berirama, gerakan inti biasanya berfokus pada...",
+    "pilihan": {
+      "a": "Peregangan statis",
+      "b": "Relaksasi",
+      "c": "Latihan kardiovaskular dan penguatan otot",
+      "d": "Menurunkan detak jantung secara perlahan",
+      "e": "Latihan pernapasan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam permainan bola voli, pemain yang bertugas khusus sebagai pemain bertahan dan tidak boleh melakukan servis atau smash disebut...",
+    "pilihan": {
+      "a": "Blocker",
+      "b": "Spiker / Smasher",
+      "c": "Tosser / Set-upper",
+      "d": "Libero",
+      "e": "Server"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pukulan dalam bulu tangkis yang dilakukan di dekat net dengan sentuhan halus agar shuttlecock jatuh tipis di area lawan disebut...",
+    "pilihan": {
+      "a": "Lob",
+      "b": "Netting",
+      "c": "Smash",
+      "d": "Service",
+      "e": "Drive"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Start yang digunakan untuk lari jarak pendek (100m, 200m, 400m) adalah start...",
+    "pilihan": {
+      "a": "Melayang (flying start)",
+      "b": "Jongkok (crouching start)",
+      "c": "Mundur",
+      "d": "Menyamping",
+      "e": "Berdiri (standing start)"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teknik pengambilan napas pada renang gaya bebas dilakukan dengan cara...",
+    "pilihan": {
+      "a": "Menolehkan kepala ke samping",
+      "b": "Mengangkat seluruh kepala ke atas air",
+      "c": "Mengambil napas di dalam air",
+      "d": "Menyelam lebih dalam",
+      "e": "Tidak mengambil napas sama sekali"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kemampuan untuk mengubah arah gerak tubuh dengan cepat tanpa kehilangan keseimbangan disebut...",
+    "pilihan": {
+      "a": "Ketepatan (accuracy)",
+      "b": "Kekuatan (strength)",
+      "c": "Daya ledak (power)",
+      "d": "Kecepatan (speed)",
+      "e": "Kelincahan (agility)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Menghindari penggunaan jarum suntik secara bergantian adalah salah satu langkah untuk mencegah penularan PMS, terutama...",
+    "pilihan": {
+      "a": "HIV/AIDS dan Hepatitis B",
+      "b": "Herpes",
+      "c": "Kutu kelamin",
+      "d": "Sifilis",
+      "e": "Gonore"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tujuan dari pendinginan setelah berolahraga adalah...",
+    "pilihan": {
+      "a": "Meningkatkan detak jantung secara maksimal",
+      "b": "Menurunkan suhu tubuh dan detak jantung secara bertahap",
+      "c": "Mempersiapkan tubuh untuk latihan yang lebih berat",
+      "d": "Membuat otot menjadi tegang",
+      "e": "Menambah risiko cedera"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Taktik penyerangan yang mengandalkan kecepatan pemain untuk segera menyerang setelah berhasil merebut bola dari lawan dalam sepak bola disebut...",
+    "pilihan": {
+      "a": "Set piece",
+      "b": "Parking the bus",
+      "c": "Possession football",
+      "d": "Serangan balik (counter attack)",
+      "e": "Offside trap"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam tenis meja, pukulan bertahan yang dilakukan dengan cara mengembalikan pukulan keras lawan dengan posisi bet tertutup disebut...",
+    "pilihan": {
+      "a": "Smash",
+      "b": "Spin",
+      "c": "Service",
+      "d": "Loop",
+      "e": "Block"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Gaya renang yang dianggap paling cepat dan sering digunakan dalam kompetisi nomor bebas adalah gaya...",
+    "pilihan": {
+      "a": "Bebas (freestyle/crawl)",
+      "b": "Kupu-kupu",
+      "c": "Punggung",
+      "d": "Samping",
+      "e": "Dada"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Gerakan melentingkan badan ke belakang dengan tumpuan pada kedua tangan dan kaki dalam senam lantai disebut...",
+    "pilihan": {
+      "a": "Meroda",
+      "b": "Kayang",
+      "c": "Sikap lilin",
+      "d": "Roll depan",
+      "e": "Handstand"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Latihan 'shuttle run' (lari bolak-balik) sangat efektif untuk meningkatkan komponen kebugaran jasmani yaitu...",
+    "pilihan": {
+      "a": "Daya tahan otot",
+      "b": "Kekuatan",
+      "c": "Kelenturan",
+      "d": "Kelincahan",
+      "e": "Keseimbangan statis"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Konsep 'ABC' dalam pencegahan PMS adalah singkatan dari...",
+    "pilihan": {
+      "a": "Abstinence, Be faithful, Condom",
+      "b": "Antibiotic, Be clean, Careful",
+      "c": "Action, Be brave, Control",
+      "d": "Always Be Careful",
+      "e": "Avoid, Believe, Care"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Menjaga asupan gizi seimbang, istirahat cukup, dan rutin berolahraga merupakan inti dari...",
+    "pilihan": {
+      "a": "Diet ketat",
+      "b": "Program latihan atlet",
+      "c": "Peraturan pertandingan",
+      "d": "Pola hidup sehat",
+      "e": "Terapi medis"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam permainan bola basket, seorang pemain yang melakukan dribble, berhenti, lalu melakukan dribble lagi akan dikenai pelanggaran...",
+    "pilihan": {
+      "a": "Goaltending",
+      "b": "Foul",
+      "c": "Backcourt violation",
+      "d": "Traveling",
+      "e": "Double dribble"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pukulan pembuka untuk memulai suatu reli dalam permainan bulu tangkis disebut...",
+    "pilihan": {
+      "a": "Dropshot",
+      "b": "Netting",
+      "c": "Lob",
+      "d": "Servis (service)",
+      "e": "Smash"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Aba-aba 'Bersedia', 'Siap', 'Yak!' digunakan pada start...",
+    "pilihan": {
+      "a": "Lari jarak pendek",
+      "b": "Lompat jauh",
+      "c": "Lari jarak jauh",
+      "d": "Renang",
+      "e": "Jalan cepat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Saat memberikan pertolongan di air, prinsip utama yang harus dipegang oleh penolong adalah...",
+    "pilihan": {
+      "a": "Keselamatan diri penolong adalah yang utama",
+      "b": "Berteriak minta tolong saja",
+      "c": "Segera melompat ke air tanpa alat",
+      "d": "Menarik rambut korban",
+      "e": "Membiarkan korban tenang sendiri"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Gerakan dalam senam aerobik yang menggabungkan langkah kaki dan gerakan tangan secara ritmis dan terkoordinasi disebut...",
+    "pilihan": {
+      "a": "Kalistenik",
+      "b": "Pemanasan",
+      "c": "Pendinginan",
+      "d": "Koreografi",
+      "e": "Peregangan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kombinasi dari kekuatan dan kecepatan untuk menghasilkan gerakan yang eksplosif, seperti melompat atau melempar, disebut...",
+    "pilihan": {
+      "a": "Daya tahan",
+      "b": "Keseimbangan",
+      "c": "Daya ledak (power)",
+      "d": "Kelenturan",
+      "e": "Kelincahan"
+    },
+    "jawaban": "c"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Sebuah karya seni yang memiliki dimensi panjang, lebar, dan tinggi atau memiliki volume dan menempati ruang disebut karya seni rupa...",
+    "pilihan": {
+      "a": "Kontemporer",
+      "b": "Dua dimensi",
+      "c": "Tiga dimensi",
+      "d": "Murni",
+      "e": "Terapan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kegiatan mengamati, menilai, dan menghargai karya seni secara objektif berdasarkan kaidah estetika disebut...",
+    "pilihan": {
+      "a": "Pergelaran seni",
+      "b": "Evaluasi seni",
+      "c": "Kritik seni",
+      "d": "Apresiasi seni",
+      "e": "Kurasi seni"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Berikut ini yang merupakan perbedaan mendasar antara seni rupa tradisional dan modern adalah...",
+    "pilihan": {
+      "a": "Keterikatan pada aturan atau pakem",
+      "b": "Ukuran karya",
+      "c": "Penggunaan warna",
+      "d": "Media yang digunakan",
+      "e": "Teknik pembuatannya"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam analisis karya musik, unsur yang berkaitan dengan gabungan beberapa nada yang dibunyikan secara serentak sehingga menghasilkan suara yang harmonis adalah...",
+    "pilihan": {
+      "a": "Melodi",
+      "b": "Harmoni",
+      "c": "Dinamika",
+      "d": "Ritme",
+      "e": "Tempo"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tahapan dalam kritik seni yang berfokus pada penafsiran makna, tema, atau simbol yang ada dalam karya seni adalah...",
+    "pilihan": {
+      "a": "Interpretasi",
+      "b": "Evaluasi",
+      "c": "Deskripsi",
+      "d": "Observasi",
+      "e": "Analisis formal"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Fungsi utama dari sebuah pameran karya seni rupa di sekolah adalah sebagai sarana...",
+    "pilihan": {
+      "a": "Ajang kompetisi antar siswa",
+      "b": "Menyimpan karya agar tidak rusak",
+      "c": "Rekreasi dan hiburan semata",
+      "d": "Komersial untuk mencari keuntungan",
+      "e": "Edukasi, apresiasi, dan komunikasi antara seniman dengan publik"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teater kontemporer seringkali mendobrak aturan-aturan teater konvensional. Salah satu cirinya adalah...",
+    "pilihan": {
+      "a": "Setting panggung yang selalu megah",
+      "b": "Struktur cerita yang linear dan mudah ditebak",
+      "c": "Hanya menggunakan properti realistis",
+      "d": "Selalu menggunakan naskah yang baku",
+      "e": "Mengaburkan batas antara panggung dan penonton"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam pergelaran tari, tata rias dan busana berfungsi untuk...",
+    "pilihan": {
+      "a": "Menambah durasi pertunjukan",
+      "b": "Membuat penari merasa nyaman",
+      "c": "Memperindah penari saja",
+      "d": "Menyamarkan gerakan penari",
+      "e": "Memperjelas karakter dan tema tarian"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Upaya menjaga, melindungi, dan mengembangkan nilai-nilai seni budaya agar tetap hidup dan relevan di masyarakat disebut...",
+    "pilihan": {
+      "a": "Globalisasi seni",
+      "b": "Pelestarian seni",
+      "c": "Fragmentasi seni",
+      "d": "Modernisasi seni",
+      "e": "Komersialisasi seni"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Seorang kurator dalam sebuah pameran seni rupa memiliki tugas utama untuk...",
+    "pilihan": {
+      "a": "Menyeleksi dan menyajikan karya sesuai konsep pameran",
+      "b": "Menjaga keamanan karya selama pameran",
+      "c": "Mempromosikan pameran melalui media massa",
+      "d": "Menyediakan dana untuk penyelenggaraan pameran",
+      "e": "Menjual karya seni kepada kolektor"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Teknik dalam kreasi musik yang melibatkan pengubahan atau pengembangan melodi, harmoni, atau ritme yang sudah ada disebut...",
+    "pilihan": {
+      "a": "Komposisi",
+      "b": "Transkripsi",
+      "c": "Aransemen",
+      "d": "Orkestrasi",
+      "e": "Improvisasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Evaluasi dalam sebuah pergelaran tari dilakukan dengan tujuan untuk...",
+    "pilihan": {
+      "a": "Memberikan masukan untuk perbaikan pergelaran di masa depan",
+      "b": "Menjatuhkan mental para penampil",
+      "c": "Mencari kesalahan penari",
+      "d": "Menentukan pemenang pertunjukan",
+      "e": "Menghitung jumlah penonton yang hadir"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Patung, keramik, dan monumen adalah contoh dari karya seni rupa...",
+    "pilihan": {
+      "a": "Tiga dimensi",
+      "b": "Grafis",
+      "c": "Dua dimensi",
+      "d": "Sketsa",
+      "e": "Lukisan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Analisis pementasan teater yang mengkaji bagaimana aktor menggunakan vokal, gestur, dan ekspresi untuk menghidupkan karakter termasuk dalam analisis aspek...",
+    "pilihan": {
+      "a": "Naskah",
+      "b": "Tata cahaya",
+      "c": "Penyutradaraan",
+      "d": "Keaktoran",
+      "e": "Tata panggung"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Mempelajari seni budaya dari berbagai daerah di Indonesia dan dunia dapat meningkatkan...",
+    "pilihan": {
+      "a": "Keuntungan finansial secara langsung",
+      "b": "Kemampuan teknis semata",
+      "c": "Pemahaman lintas budaya dan toleransi",
+      "d": "Sikap individualistis",
+      "e": "Sikap etnosentrisme"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam seni rupa modern, penekanan utama seringkali diberikan pada...",
+    "pilihan": {
+      "a": "Kemiripan objek dengan dunia nyata (realisme)",
+      "b": "Aturan-aturan yang diwariskan turun-temurun",
+      "c": "Ekspresi pribadi seniman dan inovasi",
+      "d": "Penggunaan bahan-bahan dari alam saja",
+      "e": "Fungsi praktis dari karya"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kritik yang bertujuan untuk memberikan informasi mengenai suatu karya seni kepada publik awam agar dapat memahaminya dengan lebih baik disebut kritik...",
+    "pilihan": {
+      "a": "Kontekstual",
+      "b": "Jurnalistik",
+      "c": "Populer",
+      "d": "Ilmiah",
+      "e": "Pedagogik"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pola lantai dalam sebuah karya tari merujuk pada...",
+    "pilihan": {
+      "a": "Gerakan tangan penari",
+      "b": "Jenis lantai yang digunakan di panggung",
+      "c": "Garis-garis imajiner yang dilalui penari di atas panggung",
+      "d": "Irama musik yang mengiringi tarian",
+      "e": "Ekspresi wajah penari"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Salah satu bentuk pelestarian seni melalui jalur pendidikan formal adalah...",
+    "pilihan": {
+      "a": "Mendirikan sanggar tari di setiap desa",
+      "b": "Mengadakan festival musik setiap tahun",
+      "c": "Membangun banyak galeri seni komersial",
+      "d": "Memasukkan mata pelajaran seni budaya dalam kurikulum sekolah",
+      "e": "Menjual karya seni di pasar internasional"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam pelaksanaan teater kontemporer, sutradara memiliki peran sentral dalam...",
+    "pilihan": {
+      "a": "Menulis naskah dari awal hingga akhir",
+      "b": "Menafsirkan naskah dan mengarahkan seluruh elemen pementasan",
+      "c": "Mengurus pendanaan dan sponsor",
+      "d": "Menjual tiket pertunjukan",
+      "e": "Merancang kostum dan tata rias"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kemampuan untuk menghasilkan ide-ide baru dan orisinal dalam menciptakan karya seni disebut...",
+    "pilihan": {
+      "a": "Konservasi",
+      "b": "Apresiasi",
+      "c": "Kreativitas",
+      "d": "Evaluasi",
+      "e": "Kurasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Lukisan dan foto termasuk dalam kategori karya seni rupa...",
+    "pilihan": {
+      "a": "Terapan",
+      "b": "Tiga dimensi",
+      "c": "Instalasi",
+      "d": "Murni",
+      "e": "Dua dimensi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Analisis musik yang berfokus pada struktur atau bentuk lagu, seperti A-B-A atau verse-chorus, disebut analisis...",
+    "pilihan": {
+      "a": "Harmoni",
+      "b": "Dinamika",
+      "c": "Formal",
+      "d": "Melodi",
+      "e": "Timbre"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tahap pertama dalam merencanakan sebuah pameran seni adalah...",
+    "pilihan": {
+      "a": "Mengumpulkan karya",
+      "b": "Menata ruang pameran",
+      "c": "Mencetak katalog",
+      "d": "Publikasi acara",
+      "e": "Menentukan tema dan tujuan pameran"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Gerak maknawi dalam seni tari adalah gerak yang...",
+    "pilihan": {
+      "a": "Hanya menggunakan gerakan tangan",
+      "b": "Memiliki makna atau melambangkan sesuatu",
+      "c": "Meniru gerakan hewan",
+      "d": "Dilakukan secara spontan tanpa latihan",
+      "e": "Tidak memiliki arti khusus dan hanya mementingkan keindahan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Seni rupa terapan (applied art) lebih mengutamakan fungsi... dibandingkan fungsi ekspresi.",
+    "pilihan": {
+      "a": "Pakai atau praktis",
+      "b": "Simbolis",
+      "c": "Pendidikan",
+      "d": "Religius",
+      "e": "Estetis"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam pementasan teater, tata cahaya yang remang-remang dapat digunakan untuk membangun suasana...",
+    "pilihan": {
+      "a": "Megah dan agung",
+      "b": "Ceria dan bahagia",
+      "c": "Kacau dan ramai",
+      "d": "Komedial",
+      "e": "Misterius atau tegang"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kritik seni yang dilakukan oleh guru kepada siswanya untuk tujuan pembelajaran dan peningkatan kemampuan berkarya disebut kritik...",
+    "pilihan": {
+      "a": "Jurnalistik",
+      "b": "Populer",
+      "c": "Komersial",
+      "d": "Pedagogik",
+      "e": "Ilmiah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Penelitian mendalam tentang sejarah, konteks sosial, dan biografi seniman merupakan bagian dari upaya...",
+    "pilihan": {
+      "a": "Komersialisasi seni",
+      "b": "Kreasi seni baru",
+      "c": "Pelestarian seni",
+      "d": "Pementasan seni",
+      "e": "Apresiasi seni sesaat"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Unsur musik yang berkaitan dengan cepat atau lambatnya sebuah lagu dimainkan adalah...",
+    "pilihan": {
+      "a": "Ritme",
+      "b": "Nada",
+      "c": "Dinamika",
+      "d": "Harmoni",
+      "e": "Tempo"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara pergelaran dan pameran adalah...",
+    "pilihan": {
+      "a": "Pameran tidak memerlukan tiket, pergelaran selalu berbayar",
+      "b": "Pameran selalu di dalam ruangan, pergelaran selalu di luar ruangan",
+      "c": "Pameran untuk seniman profesional, pergelaran untuk amatir",
+      "d": "Pameran untuk seni rupa, pergelaran untuk seni pertunjukan",
+      "e": "Pameran bersifat statis, pergelaran bersifat dinamis"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Seni rupa tradisional seringkali bersifat komunal, artinya...",
+    "pilihan": {
+      "a": "Dibuat oleh satu orang seniman terkenal",
+      "b": "Dimiliki dan dikembangkan bersama oleh suatu komunitas adat",
+      "c": "Hanya bisa dinikmati oleh kalangan bangsawan",
+      "d": "Selalu dijual dengan harga yang sangat mahal",
+      "e": "Dibuat dengan teknologi modern"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam analisis pergelaran tari, aspek yang mengkaji kesesuaian antara gerak tari dengan musik pengiringnya disebut...",
+    "pilihan": {
+      "a": "Wirama",
+      "b": "Wirupa",
+      "c": "Wicara",
+      "d": "Wirasa",
+      "e": "Wiraga"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Naskah atau skenario dalam pementasan teater berfungsi sebagai...",
+    "pilihan": {
+      "a": "Rancangan alur cerita, dialog, dan karakter",
+      "b": "Catatan evaluasi setelah pementasan",
+      "c": "Musik pengiring adegan",
+      "d": "Panduan dekorasi panggung",
+      "e": "Daftar sponsor acara"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari pengembangan kreativitas dalam pembelajaran seni budaya adalah agar siswa mampu...",
+    "pilihan": {
+      "a": "Berpikir 'out of the box' dan menciptakan sesuatu yang baru",
+      "b": "Menjadi kritikus seni yang paling disegani",
+      "c": "Menghafal semua nama seniman dan karyanya",
+      "d": "Mengikuti semua aturan seni tanpa terkecuali",
+      "e": "Meniru karya seniman terkenal dengan sempurna"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sebuah panel yang berisi informasi singkat tentang karya (judul, seniman, media, tahun) yang dipajang di dekat karya dalam sebuah pameran disebut...",
+    "pilihan": {
+      "a": "Undangan",
+      "b": "Label karya",
+      "c": "Brosur",
+      "d": "Poster",
+      "e": "Katalog"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teknik menciptakan musik secara spontan tanpa persiapan atau naskah disebut...",
+    "pilihan": {
+      "a": "Komposisi",
+      "b": "Adaptasi",
+      "c": "Improvisasi",
+      "d": "Transkripsi",
+      "e": "Aransemen"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Evaluasi pergelaran teater yang membahas efektivitas penggunaan properti dalam mendukung adegan termasuk dalam evaluasi aspek...",
+    "pilihan": {
+      "a": "Keaktoran",
+      "b": "Tata panggung",
+      "c": "Naskah",
+      "d": "Manajemen produksi",
+      "e": "Penyutradaraan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu cara melestarikan seni tari tradisional adalah melalui...",
+    "pilihan": {
+      "a": "Mengubah semua gerakan aslinya",
+      "b": "Melarang pementasannya di depan umum",
+      "c": "Menggantinya dengan tarian modern",
+      "d": "Merekamnya sekali lalu menyimpannya di museum",
+      "e": "Regenerasi penari melalui sanggar-sanggar tari"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Seni rupa murni (fine art) lebih mengutamakan fungsi... dibandingkan fungsi praktis.",
+    "pilihan": {
+      "a": "Pakai",
+      "b": "Komersial",
+      "c": "Terapan",
+      "d": "Ekspresi dan keindahan (estetis)",
+      "e": "Sosial"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tahap terakhir dalam sebuah kritik seni menurut Feldman adalah...",
+    "pilihan": {
+      "a": "Interpretasi",
+      "b": "Analisis Formal",
+      "c": "Penilaian (Evaluation/Judgment)",
+      "d": "Deskripsi",
+      "e": "Observasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Panitia yang bertugas mengatur alur keluar masuknya dana dalam penyelenggaraan pergelaran adalah seksi...",
+    "pilihan": {
+      "a": "Dekorasi",
+      "b": "Publikasi",
+      "c": "Acara",
+      "d": "Bendahara",
+      "e": "Peralatan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Wirasa dalam unsur penilaian tari berkaitan dengan...",
+    "pilihan": {
+      "a": "Kesesuaian gerak dengan irama",
+      "b": "Penghayatan dan ekspresi penari dalam membawakan tarian",
+      "c": "Tampilan visual penari (kostum dan rias)",
+      "d": "Keterampilan teknis gerak",
+      "e": "Pola lantai dan komposisi kelompok"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teater yang ceritanya bersumber dari kehidupan sehari-hari masyarakat dan seringkali dipentaskan tanpa naskah baku disebut teater...",
+    "pilihan": {
+      "a": "Kontemporer",
+      "b": "Eksperimental",
+      "c": "Transisi",
+      "d": "Klasik",
+      "e": "Rakyat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Membandingkan karya seni lukis 'Penangkapan Pangeran Diponegoro' karya Raden Saleh dengan karya seni instalasi kontemporer merupakan kegiatan...",
+    "pilihan": {
+      "a": "Evaluasi pergelaran tari",
+      "b": "Apresiasi karya seni rupa dua dan tiga dimensi",
+      "c": "Kreasi musik digital",
+      "d": "Analisis pementasan teater",
+      "e": "Membandingkan seni rupa tradisional dan modern"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kualitas atau warna suara yang khas dari setiap instrumen musik atau vokal disebut...",
+    "pilihan": {
+      "a": "Pitch",
+      "b": "Dinamika",
+      "c": "Artikulasi",
+      "d": "Ritme",
+      "e": "Timbre"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pihak yang bertanggung jawab secara keseluruhan atas keberhasilan sebuah pementasan, mulai dari perencanaan hingga evaluasi, adalah...",
+    "pilihan": {
+      "a": "Aktor Utama",
+      "b": "Pimpinan Produksi",
+      "c": "Penata Artistik",
+      "d": "Penulis Naskah",
+      "e": "Sutradara"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Proses mengubah suatu bentuk karya seni ke bentuk lain, misalnya dari puisi menjadi lagu atau dari novel menjadi naskah teater, disebut...",
+    "pilihan": {
+      "a": "Konservasi",
+      "b": "Adaptasi",
+      "c": "Apresiasi",
+      "d": "Evaluasi",
+      "e": "Kurasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Memahami bahwa 'kuda lumping' bukan hanya tarian tetapi juga bagian dari ritual dan kepercayaan masyarakat setempat adalah contoh dari pengembangan...",
+    "pilihan": {
+      "a": "Keterampilan teknis menari",
+      "b": "Kreativitas murni",
+      "c": "Kemampuan bermusik",
+      "d": "Keterampilan membuat properti",
+      "e": "Pengetahuan budaya"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Berikut ini yang BUKAN merupakan tujuan dari kritik seni adalah...",
+    "pilihan": {
+      "a": "Meningkatkan kualitas karya seni di masa depan",
+      "b": "Menjembatani persepsi antara seniman dan penikmat seni",
+      "c": "Menjadi sarana evaluasi diri bagi seniman",
+      "d": "Menjatuhkan nama baik seorang seniman",
+      "e": "Memperluas wawasan seni masyarakat"
+    },
+    "jawaban": "d"
+  }
+]

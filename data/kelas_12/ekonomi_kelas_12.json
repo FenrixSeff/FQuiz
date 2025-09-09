@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Proses pengidentifikasian, pengukuran, dan pelaporan informasi ekonomi untuk memungkinkan adanya penilaian dan pengambilan keputusan yang jelas bagi mereka yang menggunakan informasi tersebut, merupakan pengertian dari...",
+    "pilihan": {
+      "a": "Manajemen",
+      "b": "Kewirausahaan",
+      "c": "Akuntansi",
+      "d": "Pemasaran",
+      "e": "Koperasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Rumusan dasar akuntansi yang menunjukkan keseimbangan antara harta dengan hak atas kekayaan tersebut adalah...",
+    "pilihan": {
+      "a": "Ekuitas = Aset + Liabilitas",
+      "b": "Aset = Liabilitas + Ekuitas",
+      "c": "Liabilitas = Aset + Ekuitas",
+      "d": "Aset = Liabilitas - Ekuitas",
+      "e": "Aset + Liabilitas = Ekuitas"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tahap pertama dalam siklus akuntansi perusahaan jasa setelah adanya bukti transaksi adalah...",
+    "pilihan": {
+      "a": "Membuat jurnal penutup",
+      "b": "Membuat laporan keuangan",
+      "c": "Mencatat ke dalam jurnal umum",
+      "d": "Membuat neraca saldo",
+      "e": "Membuat jurnal penyesuaian"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara siklus akuntansi perusahaan jasa dan perusahaan dagang terletak pada adanya akun...",
+    "pilihan": {
+      "a": "Pendapatan Jasa",
+      "b": "Kas dan Piutang Usaha",
+      "c": "Beban Gaji dan Beban Sewa",
+      "d": "Modal dan Prive",
+      "e": "Persediaan Barang Dagang, HPP, dan Potongan Penjualan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Fungsi manajemen yang berkaitan dengan proses pengelompokan orang, alat, tugas, dan wewenang menjadi satu kesatuan untuk mencapai tujuan disebut...",
+    "pilihan": {
+      "a": "Organizing (Pengorganisasian)",
+      "b": "Evaluating (Evaluasi)",
+      "c": "Actuating (Pelaksanaan)",
+      "d": "Planning (Perencanaan)",
+      "e": "Controlling (Pengawasan)"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Badan usaha yang anggotanya adalah siswa sekolah dan bertujuan untuk melatih keterampilan berkoperasi serta memenuhi kebutuhan siswa adalah...",
+    "pilihan": {
+      "a": "BUMS",
+      "b": "BUMN",
+      "c": "Perseroan Terbatas",
+      "d": "Firma",
+      "e": "Koperasi Sekolah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Badan Usaha Milik Negara (BUMN) memiliki peran penting dalam perekonomian Indonesia, salah satunya adalah...",
+    "pilihan": {
+      "a": "Hanya mencari keuntungan sebesar-besarnya untuk pemilik modal",
+      "b": "Menjadi perintis kegiatan usaha yang belum diminati swasta",
+      "c": "Menghindari pembayaran pajak kepada negara",
+      "d": "Fokus pada usaha skala kecil saja",
+      "e": "Mengurangi peran pemerintah dalam ekonomi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Prinsip akuntansi yang menyatakan bahwa aset harus dicatat pada harga perolehannya adalah prinsip...",
+    "pilihan": {
+      "a": "Biaya Historis (Historical Cost)",
+      "b": "Satuan Moneter (Monetary Unit)",
+      "c": "Entitas Ekonomi (Economic Entity)",
+      "d": "Pengungkapan Penuh (Full Disclosure)",
+      "e": "Periode Akuntansi (Accounting Period)"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jika sebuah perusahaan jasa membeli perlengkapan secara kredit, maka analisis transaksi yang benar dalam persamaan dasar akuntansi adalah...",
+    "pilihan": {
+      "a": "Aset (Perlengkapan) bertambah, Ekuitas bertambah",
+      "b": "Aset (Kas) berkurang, Aset (Perlengkapan) bertambah",
+      "c": "Aset (Perlengkapan) bertambah, Liabilitas bertambah",
+      "d": "Liabilitas berkurang, Ekuitas bertambah",
+      "e": "Aset (Kas) berkurang, Liabilitas bertambah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Buku besar pembantu (subsidiary ledger) dalam akuntansi perusahaan dagang digunakan untuk merinci akun...",
+    "pilihan": {
+      "a": "Pendapatan Bunga",
+      "b": "Beban Operasional",
+      "c": "Piutang Usaha dan Utang Usaha",
+      "d": "Kas dan Bank",
+      "e": "Modal Saham"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kesatuan yuridis dan ekonomis yang menggunakan faktor produksi untuk menghasilkan barang dan jasa dengan tujuan mencari laba disebut...",
+    "pilihan": {
+      "a": "Koperasi",
+      "b": "Manajemen",
+      "c": "Perusahaan",
+      "d": "Organisasi",
+      "e": "Badan Usaha"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Prinsip koperasi yang menyatakan bahwa keanggotaan bersifat terbuka bagi siapa saja yang mau menggunakan jasa koperasi dan mampu bertanggung jawab adalah prinsip...",
+    "pilihan": {
+      "a": "Keanggotaan bersifat sukarela dan terbuka",
+      "b": "Pemberian balas jasa yang terbatas terhadap modal",
+      "c": "Kemandirian",
+      "d": "Pengelolaan secara demokratis",
+      "e": "Pembagian SHU secara adil"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Badan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh negara melalui penyertaan secara langsung yang berasal dari kekayaan negara yang dipisahkan disebut...",
+    "pilihan": {
+      "a": "Yayasan",
+      "b": "Koperasi",
+      "c": "BUMS",
+      "d": "BUMN",
+      "e": "Firma"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Seorang wirausahawan harus memiliki sikap kreatif dan inovatif. Inovatif artinya...",
+    "pilihan": {
+      "a": "Mampu memperkenalkan sesuatu yang baru atau memperbaiki yang sudah ada",
+      "b": "Mampu bertahan dengan cara-cara lama",
+      "c": "Mampu menjual dengan harga murah",
+      "d": "Mampu menciptakan hal yang benar-benar baru",
+      "e": "Mampu meniru produk orang lain dengan persis"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jurnal yang dibuat pada akhir periode untuk menyesuaikan saldo akun-akun agar menunjukkan keadaan yang sebenarnya adalah...",
+    "pilihan": {
+      "a": "Jurnal Penutup",
+      "b": "Jurnal Umum",
+      "c": "Jurnal Pembalik",
+      "d": "Jurnal Khusus",
+      "e": "Jurnal Penyesuaian"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam perusahaan dagang, akun yang digunakan untuk mencatat harga pokok dari barang yang berhasil dijual adalah...",
+    "pilihan": {
+      "a": "Persediaan Barang Dagang",
+      "b": "Beban Angkut Pembelian",
+      "c": "Penjualan",
+      "d": "Harga Pokok Penjualan (HPP)",
+      "e": "Pembelian"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Badan usaha yang modalnya dimiliki oleh pihak swasta, baik perorangan maupun beberapa orang dalam bentuk kerja sama, disebut...",
+    "pilihan": {
+      "a": "Perusahaan Daerah",
+      "b": "BUMD",
+      "c": "Koperasi",
+      "d": "BUMN",
+      "e": "BUMS (Badan Usaha Milik Swasta)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Fungsi manajemen yang berkaitan dengan pemberian arahan, motivasi, dan bimbingan kepada bawahan agar bekerja sesuai rencana adalah...",
+    "pilihan": {
+      "a": "Staffing",
+      "b": "Planning",
+      "c": "Controlling",
+      "d": "Organizing",
+      "e": "Actuating"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kewajiban perusahaan kepada pihak lain yang harus dilunasi dalam jangka waktu tertentu disebut...",
+    "pilihan": {
+      "a": "Aset",
+      "b": "Beban",
+      "c": "Liabilitas",
+      "d": "Pendapatan",
+      "e": "Ekuitas"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tahap pemindahan catatan dari jurnal ke dalam akun-akun di buku besar disebut...",
+    "pilihan": {
+      "a": "Neraca Saldo",
+      "b": "Posting",
+      "c": "Jurnal",
+      "d": "Penyesuaian",
+      "e": "Analisis"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Syarat pembayaran 2/10, n/30 pada faktur penjualan perusahaan dagang berarti...",
+    "pilihan": {
+      "a": "Jatuh tempo pembayaran adalah 10 hari",
+      "b": "Dapat diskon 2% jika membayar dalam jangka waktu 10 hari, jatuh tempo 30 hari",
+      "c": "Dapat diskon 10% jika membayar dalam 2 hari",
+      "d": "Harus membayar 2 kali dalam 10 hari",
+      "e": "Dapat diskon 2% jika membayar dalam 30 hari"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Bentuk badan usaha persekutuan yang didirikan oleh dua orang atau lebih dengan nama bersama, di mana semua anggota bertanggung jawab penuh, adalah...",
+    "pilihan": {
+      "a": "Firma (Fa)",
+      "b": "CV (Persekutuan Komanditer)",
+      "c": "Koperasi",
+      "d": "PT (Perseroan Terbatas)",
+      "e": "Yayasan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kekuasaan tertinggi dalam sebuah koperasi berada di tangan...",
+    "pilihan": {
+      "a": "Ketua Koperasi",
+      "b": "Manajer",
+      "c": "Badan Pengawas",
+      "d": "Rapat Anggota",
+      "e": "Pengurus"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Peran BUMS dalam perekonomian Indonesia antara lain adalah...",
+    "pilihan": {
+      "a": "Menguasai cabang produksi yang vital bagi negara",
+      "b": "Menjadi perintis usaha di daerah terpencil",
+      "c": "Membuka lapangan kerja dan meningkatkan pendapatan negara melalui pajak",
+      "d": "Menyediakan barang dan jasa untuk hajat hidup orang banyak",
+      "e": "Menjadi stabilisator perekonomian negara"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Akun-akun yang saldonya harus dinolkan pada akhir periode melalui jurnal penutup adalah akun...",
+    "pilihan": {
+      "a": "Permanen",
+      "b": "Nominal (Pendapatan dan Beban)",
+      "c": "Riil (Aset, Liabilitas, Ekuitas)",
+      "d": "Kontra",
+      "e": "Campuran"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Hak kekayaan pemilik atas aset perusahaan setelah dikurangi liabilitas disebut...",
+    "pilihan": {
+      "a": "Beban",
+      "b": "Aset Lancar",
+      "c": "Ekuitas",
+      "d": "Utang Jangka Panjang",
+      "e": "Pendapatan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Daftar yang berisi saldo akhir dari semua akun buku besar pada akhir periode akuntansi disebut...",
+    "pilihan": {
+      "a": "Neraca Saldo",
+      "b": "Jurnal Umum",
+      "c": "Laporan Laba Rugi",
+      "d": "Buku Besar",
+      "e": "Bukti Transaksi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jurnal khusus yang digunakan untuk mencatat semua transaksi penjualan barang dagang secara kredit adalah...",
+    "pilihan": {
+      "a": "Jurnal Umum",
+      "b": "Jurnal Pembelian",
+      "c": "Jurnal Penerimaan Kas",
+      "d": "Jurnal Penjualan",
+      "e": "Jurnal Pengeluaran Kas"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Fungsi manajemen yang membandingkan kinerja aktual dengan standar yang telah ditetapkan dan mengambil tindakan korektif jika perlu adalah...",
+    "pilihan": {
+      "a": "Actuating",
+      "b": "Planning",
+      "c": "Organizing",
+      "d": "Directing",
+      "e": "Controlling"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sisa Hasil Usaha (SHU) dalam koperasi dibagikan kepada anggota berdasarkan...",
+    "pilihan": {
+      "a": "Jasa usaha anggota dan besarnya simpanan pokok",
+      "b": "Lama keanggotaan",
+      "c": "Besarnya modal yang disimpan saja",
+      "d": "Jabatan anggota dalam kepengurusan",
+      "e": "Dibagi rata untuk semua anggota"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Badan usaha yang modalnya terbagi atas saham-saham dan tanggung jawab pemegang saham terbatas pada modal yang disetor adalah...",
+    "pilihan": {
+      "a": "Koperasi",
+      "b": "CV",
+      "c": "Perseroan Terbatas (PT)",
+      "d": "Firma",
+      "e": "Perusahaan Perorangan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tujuan utama akuntansi adalah...",
+    "pilihan": {
+      "a": "Menghindari kerugian perusahaan",
+      "b": "Menyediakan informasi keuangan yang relevan untuk pengambilan keputusan",
+      "c": "Menghitung pajak yang harus dibayar",
+      "d": "Menentukan gaji karyawan",
+      "e": "Mencatat semua pengeluaran pimpinan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Jika pemilik perusahaan mengambil uang perusahaan untuk keperluan pribadi, transaksi ini akan dicatat dalam akun...",
+    "pilihan": {
+      "a": "Prive",
+      "b": "Beban Gaji",
+      "c": "Pendapatan Diterima di Muka",
+      "d": "Utang Usaha",
+      "e": "Investasi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Laporan keuangan yang menyajikan posisi aset, liabilitas, dan ekuitas perusahaan pada tanggal tertentu adalah...",
+    "pilihan": {
+      "a": "Laporan Laba Rugi",
+      "b": "Laporan Perubahan Modal",
+      "c": "Catatan atas Laporan Keuangan",
+      "d": "Neraca (Laporan Posisi Keuangan)",
+      "e": "Laporan Arus Kas"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam perusahaan dagang, retur pembelian terjadi ketika...",
+    "pilihan": {
+      "a": "Perusahaan menjual barang dagang secara kredit",
+      "b": "Perusahaan menerima pembayaran piutang",
+      "c": "Perusahaan mengembalikan barang yang telah dibeli karena rusak",
+      "d": "Perusahaan menerima kembali barang yang telah dijual",
+      "e": "Perusahaan membayar utang pembelian"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tingkatan manajemen yang bertanggung jawab menetapkan tujuan dan strategi perusahaan secara keseluruhan adalah...",
+    "pilihan": {
+      "a": "Manajemen Lini Pertama (First-Line Management)",
+      "b": "Manajemen Puncak (Top Management)",
+      "c": "Supervisor",
+      "d": "Manajemen Menengah (Middle Management)",
+      "e": "Manajemen Operasional"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Berikut ini yang BUKAN merupakan prinsip koperasi adalah...",
+    "pilihan": {
+      "a": "Pendidikan perkoperasian",
+      "b": "Mencari keuntungan sebesar-besarnya",
+      "c": "Kemandirian",
+      "d": "Pengelolaan secara demokratis",
+      "e": "Keanggotaan sukarela dan terbuka"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu kelemahan badan usaha perorangan adalah...",
+    "pilihan": {
+      "a": "Proses pendirian yang rumit",
+      "b": "Tanggung jawab pemilik tidak terbatas",
+      "c": "Pajak yang dikenakan sangat besar",
+      "d": "Keuntungan dibagi dengan banyak orang",
+      "e": "Sulit dalam mengambil keputusan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kemampuan seseorang untuk melihat peluang bisnis dan mengambil risiko untuk memulai usaha baru disebut...",
+    "pilihan": {
+      "a": "Akuntansi",
+      "b": "Spekulasi",
+      "c": "Manajemen",
+      "d": "Kewirausahaan",
+      "e": "Administrasi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jurnal penutup digunakan untuk menutup akun pendapatan ke akun...",
+    "pilihan": {
+      "a": "Kas",
+      "b": "Prive",
+      "c": "Ikhtisar Laba/Rugi",
+      "d": "Modal",
+      "e": "Utang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Harta atau sumber daya ekonomi yang dimiliki perusahaan dan diharapkan memberikan manfaat di masa depan disebut...",
+    "pilihan": {
+      "a": "Ekuitas",
+      "b": "Prive",
+      "c": "Beban",
+      "d": "Liabilitas",
+      "e": "Aset"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Laporan keuangan yang menunjukkan pendapatan dan beban perusahaan selama satu periode waktu adalah...",
+    "pilihan": {
+      "a": "Neraca Saldo",
+      "b": "Neraca",
+      "c": "Laporan Arus Kas",
+      "d": "Laporan Perubahan Modal",
+      "e": "Laporan Laba Rugi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam CV (Persekutuan Komanditer), sekutu yang hanya menyertakan modal dan tidak ikut mengelola perusahaan disebut...",
+    "pilihan": {
+      "a": "Manajer",
+      "b": "Pemegang Saham",
+      "c": "Direktur",
+      "d": "Sekutu Aktif",
+      "e": "Sekutu Pasif (Komanditer)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tujuan utama didirikannya koperasi sekolah adalah untuk...",
+    "pilihan": {
+      "a": "Mencari keuntungan sebesar-besarnya untuk sekolah",
+      "b": "Menyaingi toko-toko di luar sekolah",
+      "c": "Menjadi tempat siswa meminjam uang tanpa bunga",
+      "d": "Mendidik siswa dalam berkoperasi dan memenuhi kebutuhan siswa",
+      "e": "Menggantikan peran kantin sekolah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "BUMN yang berbentuk perusahaan umum (Perum) memiliki tujuan utama untuk...",
+    "pilihan": {
+      "a": "Menjual saham kepada masyarakat luas",
+      "b": "Mencari keuntungan maksimal",
+      "c": "Melayani kepentingan umum sambil tetap mencari keuntungan",
+      "d": "Hanya bersifat sosial tanpa mencari laba",
+      "e": "Menguasai pasar secara monopoli"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Prinsip akuntansi yang mengasumsikan bahwa umur perusahaan dapat dibagi menjadi periode-periode waktu (misalnya bulanan, tahunan) disebut prinsip...",
+    "pilihan": {
+      "a": "Entitas Ekonomi (Economic Entity)",
+      "b": "Kesinambungan Usaha (Going Concern)",
+      "c": "Pengungkapan Penuh (Full Disclosure)",
+      "d": "Periode Akuntansi (Accounting Period)",
+      "e": "Biaya Historis (Historical Cost)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pembelian peralatan kantor secara tunai akan mempengaruhi persamaan dasar akuntansi dengan cara...",
+    "pilihan": {
+      "a": "Aset (Peralatan) bertambah, Ekuitas bertambah",
+      "b": "Aset (Kas) berkurang, Aset (Peralatan) bertambah",
+      "c": "Aset (Kas) berkurang, Ekuitas berkurang",
+      "d": "Aset (Peralatan) bertambah, Liabilitas bertambah",
+      "e": "Aset (Kas) berkurang, Liabilitas berkurang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kertas kerja (worksheet) dalam siklus akuntansi berfungsi untuk...",
+    "pilihan": {
+      "a": "Menggantikan laporan keuangan",
+      "b": "Mempermudah penyusunan laporan keuangan",
+      "c": "Mencatat transaksi harian",
+      "d": "Menjadi bukti transaksi yang sah",
+      "e": "Menutup akun-akun nominal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Beban yang sudah terjadi tetapi belum dibayar, seperti gaji yang belum dibayar pada akhir periode, akan dicatat dalam jurnal penyesuaian sebagai...",
+    "pilihan": {
+      "a": "Beban dibayar di muka",
+      "b": "Beban penyusutan",
+      "c": "Pendapatan diterima di muka",
+      "d": "Utang beban (beban yang masih harus dibayar)",
+      "e": "Piutang pendapatan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Badan usaha yang paling dominan jumlahnya dalam perekonomian Indonesia dan menjadi tulang punggung ekonomi kerakyatan adalah...",
+    "pilihan": {
+      "a": "Koperasi Simpan Pinjam",
+      "b": "Usaha Mikro, Kecil, dan Menengah (UMKM)",
+      "c": "Perusahaan Asing",
+      "d": "BUMN",
+      "e": "Perseroan Terbatas (PT) besar"
+    },
+    "jawaban": "b"
+  }
+]

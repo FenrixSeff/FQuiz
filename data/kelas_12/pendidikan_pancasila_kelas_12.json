@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Salah satu kekuatan internal Indonesia dalam menerapkan nilai-nilai Pancasila di kancah global adalah...",
+    "pilihan": {
+      "a": "Pengaruh ideologi asing yang kuat",
+      "b": "Tingkat korupsi yang masih tinggi",
+      "c": "Jumlah penduduk yang besar dan keragaman budaya yang tinggi",
+      "d": "Ketergantungan pada teknologi asing",
+      "e": "Infrastruktur yang belum merata"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Masuknya ideologi asing seperti liberalisme dan radikalisme yang tidak sesuai dengan nilai-nilai Pancasila merupakan contoh dari...",
+    "pilihan": {
+      "a": "Peluang eksternal Indonesia",
+      "b": "Tantangan eksternal dalam penerapan Pancasila",
+      "c": "Kelemahan internal Indonesia",
+      "d": "Pengamalan Pancasila",
+      "e": "Kekuatan internal Indonesia"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam menghadapi tantangan global, Pancasila berfungsi sebagai filter atau penyaring budaya asing. Hal ini menunjukkan peran Pancasila sebagai...",
+    "pilihan": {
+      "a": "Penyebab masalah global",
+      "b": "Ideologi yang kaku dan tertutup",
+      "c": "Penyebab perpecahan bangsa",
+      "d": "Pemandu dan dasar negara yang fundamental",
+      "e": "Alat untuk menolak semua perubahan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Segala sesuatu yang harus didapatkan oleh setiap individu sejak dalam kandungan merupakan makna dari...",
+    "pilihan": {
+      "a": "Tanggung jawab",
+      "b": "Kewajiban asasi",
+      "c": "Hak asasi manusia",
+      "d": "Peran warga negara",
+      "e": "Status warga negara"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tindakan tidak membayar pajak sesuai dengan ketentuan yang berlaku merupakan contoh dari...",
+    "pilihan": {
+      "a": "Pengingkaran kewajiban warga negara",
+      "b": "Perlindungan hukum",
+      "c": "Pelanggaran hak warga negara",
+      "d": "Pengamalan hak warga negara",
+      "e": "Pemenuhan kewajiban warga negara"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Lembaga negara yang memiliki wewenang untuk mengadili pada tingkat kasasi dan menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang adalah...",
+    "pilihan": {
+      "a": "Kepolisian Negara Republik Indonesia",
+      "b": "Kejaksaan Agung",
+      "c": "Mahkamah Agung",
+      "d": "Komisi Yudisial",
+      "e": "Mahkamah Konstitusi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pengaruh positif dari kemajuan IPTEK bagi kehidupan berbangsa dan bernegara adalah...",
+    "pilihan": {
+      "a": "Memudarnya nilai-nilai gotong royong",
+      "b": "Munculnya gaya hidup konsumtif",
+      "c": "Mempermudah komunikasi dan akses informasi",
+      "d": "Meningkatnya kejahatan siber (cybercrime)",
+      "e": "Meningkatnya sifat individualisme"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Semangat persatuan dan kesatuan bangsa Indonesia yang beragam dalam bingkai Bhinneka Tunggal Ika merupakan inti dari konsep...",
+    "pilihan": {
+      "a": "Negara Kesatuan Republik Indonesia (NKRI)",
+      "b": "Otonomi daerah",
+      "c": "Demokrasi terpimpin",
+      "d": "Negara federal",
+      "e": "Politik luar negeri bebas aktif"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Semangat gotong royong dalam kerja bakti untuk menjaga kebersamaan di lingkungan masyarakat merupakan perwujudan utama dari sila...",
+    "pilihan": {
+      "a": "Kedua",
+      "b": "Kelima",
+      "c": "Pertama",
+      "d": "Ketiga",
+      "e": "Keempat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Hak setiap warga negara untuk mendapatkan pendidikan yang layak dijamin dalam UUD NRI Tahun 1945, yaitu pada pasal...",
+    "pilihan": {
+      "a": "30 ayat (1)",
+      "b": "29 ayat (2)",
+      "c": "28 ayat (3)",
+      "d": "27 ayat (1)",
+      "e": "31 ayat (1)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Korupsi yang dilakukan oleh pejabat publik merupakan bentuk pelanggaran hak warga negara, terutama hak untuk mendapatkan...",
+    "pilihan": {
+      "a": "Pendidikan gratis",
+      "b": "Pekerjaan yang layak",
+      "c": "Kebebasan berpendapat",
+      "d": "Kesejahteraan sosial",
+      "e": "Perlindungan hukum"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Upaya pemerintah untuk menangani kasus pelanggaran hak dan pengingkaran kewajiban dengan cara meningkatkan kesadaran hukum masyarakat disebut upaya...",
+    "pilihan": {
+      "a": "Represif",
+      "b": "Preventif",
+      "c": "Koersif",
+      "d": "Kuratif",
+      "e": "Persuasif"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sikap yang harus dikembangkan bangsa Indonesia dalam menghadapi kemajuan IPTEK agar sesuai dengan nilai Pancasila adalah...",
+    "pilihan": {
+      "a": "Mengisolasi diri dari perkembangan global",
+      "b": "Hanya menerima IPTEK di bidang militer",
+      "c": "Menerima semua kemajuan IPTEK tanpa filter",
+      "d": "Menolak semua kemajuan IPTEK dari luar",
+      "e": "Selektif, terbuka, dan adaptif dengan tetap berpegang pada nilai Pancasila"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu tantangan dalam menjaga dinamika persatuan dan kesatuan bangsa di era digital adalah...",
+    "pilihan": {
+      "a": "Meningkatnya promosi budaya daerah",
+      "b": "Cepatnya penyebaran berita bohong (hoax) dan ujaran kebencian",
+      "c": "Mudahnya komunikasi antar daerah",
+      "d": "Kemudahan dalam transaksi ekonomi",
+      "e": "Banyaknya forum diskusi online"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Posisi geografis Indonesia yang strategis di antara dua benua dan dua samudra merupakan salah satu...",
+    "pilihan": {
+      "a": "Peluang eksternal",
+      "b": "Kelemahan internal",
+      "c": "Ancaman militer",
+      "d": "Tantangan eksternal",
+      "e": "Masalah sosial"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kewajiban warga negara untuk ikut serta dalam usaha pertahanan dan keamanan negara tercantum dalam UUD NRI Tahun 1945 pasal...",
+    "pilihan": {
+      "a": "27 ayat (3)",
+      "b": "27 ayat (1)",
+      "c": "31 ayat (1)",
+      "d": "30 ayat (1)",
+      "e": "33 ayat (1)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Lembaga penegak hukum yang berperan sebagai penyidik utama dalam menangani tindak pidana umum adalah...",
+    "pilihan": {
+      "a": "Advokat",
+      "b": "Mahkamah Agung",
+      "c": "Kejaksaan",
+      "d": "Kepolisian Negara Republik Indonesia (Polri)",
+      "e": "Komisi Pemberantasan Korupsi (KPK)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sikap menghargai perbedaan pendapat dalam musyawarah merupakan pengamalan Pancasila sila ke-...",
+    "pilihan": {
+      "a": "Satu",
+      "b": "Tiga",
+      "c": "Dua",
+      "d": "Lima",
+      "e": "Empat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kesenjangan ekonomi dan ketidakmerataan pembangunan merupakan contoh dari... yang dapat menghambat penerapan nilai-nilai Pancasila.",
+    "pilihan": {
+      "a": "Tantangan global",
+      "b": "Kekuatan internal",
+      "c": "Peluang eksternal",
+      "d": "Ancaman non-militer",
+      "e": "Kelemahan internal"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Hak dan kewajiban warga negara harus dilaksanakan secara seimbang karena...",
+    "pilihan": {
+      "a": "Kewajiban hanya berlaku saat perang",
+      "b": "Kewajiban lebih penting daripada hak",
+      "c": "Hak lebih penting daripada kewajiban",
+      "d": "Hak hanya untuk pejabat, kewajiban untuk rakyat",
+      "e": "Seseorang tidak bisa menuntut haknya jika kewajibannya diabaikan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tindakan main hakim sendiri (eigenrichting) merupakan contoh perbuatan yang bertentangan dengan prinsip...",
+    "pilihan": {
+      "a": "Politik bebas aktif",
+      "b": "Bhinneka Tunggal Ika",
+      "c": "Kedaulatan rakyat",
+      "d": "Negara hukum",
+      "e": "Demokrasi ekonomi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Penyebaran budaya populer global (global pop culture) yang dapat mengikis budaya lokal merupakan salah satu pengaruh negatif IPTEK di bidang...",
+    "pilihan": {
+      "a": "Hukum",
+      "b": "Pertahanan dan keamanan",
+      "c": "Ekonomi",
+      "d": "Politik",
+      "e": "Sosial budaya"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Gerakan separatisme yang ingin memisahkan diri dari NKRI merupakan ancaman serius terhadap...",
+    "pilihan": {
+      "a": "Perekonomian nasional",
+      "b": "Persatuan dan kesatuan bangsa",
+      "c": "Sistem hukum",
+      "d": "Demokrasi Pancasila",
+      "e": "Kemajuan IPTEK"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Menyusun portofolio pengamalan Pancasila bertujuan untuk...",
+    "pilihan": {
+      "a": "Menjadi ajang pamer kebaikan",
+      "b": "Menghafal butir-butir Pancasila",
+      "c": "Mendapatkan nilai tinggi saja",
+      "d": "Melakukan evaluasi diri dan refleksi terhadap penerapan nilai-nilai Pancasila",
+      "e": "Mengkritik pengamalan Pancasila orang lain"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kasus perundungan (bullying) di sekolah merupakan pelanggaran hak asasi manusia, terutama hak untuk...",
+    "pilihan": {
+      "a": "Berpartisipasi dalam pemerintahan",
+      "b": "Memilih agama",
+      "c": "Mendapat pekerjaan",
+      "d": "Merasa aman dan bebas dari kekerasan",
+      "e": "Memiliki properti"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Lembaga penegak hukum yang bertugas melakukan penuntutan terhadap pelaku tindak pidana di pengadilan adalah...",
+    "pilihan": {
+      "a": "Polri",
+      "b": "Hakim",
+      "c": "Kejaksaan",
+      "d": "KPK",
+      "e": "Advokat"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai pemandu dalam kehidupan global berarti nilai-nilainya digunakan sebagai...",
+    "pilihan": {
+      "a": "Alasan untuk meniru semua budaya asing",
+      "b": "Landasan untuk menguasai negara lain",
+      "c": "Ideologi yang harus dipaksakan ke negara lain",
+      "d": "Penghalang untuk bekerja sama dengan negara lain",
+      "e": "Dasar dalam menjalin hubungan internasional dan menyikapi isu-isu global"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kewajiban untuk menghormati hak asasi manusia orang lain tercantum dalam UUD NRI Tahun 1945 pasal...",
+    "pilihan": {
+      "a": "28J ayat (1)",
+      "b": "29 ayat (1)",
+      "c": "28A",
+      "d": "30 ayat (1)",
+      "e": "31 ayat (2)"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Penangkapan dan penahanan seseorang oleh aparat penegak hukum untuk kepentingan penyidikan merupakan contoh dari upaya penanganan pelanggaran hukum yang bersifat...",
+    "pilihan": {
+      "a": "Persuasif",
+      "b": "Represif",
+      "c": "Preventif",
+      "d": "Edukatif",
+      "e": "Promotif"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Penggunaan e-commerce untuk memasarkan produk-produk UMKM ke pasar global adalah contoh pengaruh positif IPTEK di bidang...",
+    "pilihan": {
+      "a": "Ekonomi",
+      "b": "Pendidikan",
+      "c": "Politik",
+      "d": "Hukum",
+      "e": "Sosial Budaya"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sikap toleransi antarumat beragama merupakan salah satu kekuatan bangsa Indonesia yang bersumber dari nilai Pancasila sila ke-...",
+    "pilihan": {
+      "a": "Dua",
+      "b": "Satu",
+      "c": "Empat",
+      "d": "Lima",
+      "e": "Tiga"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Hak setiap warga negara untuk berserikat, berkumpul, dan mengeluarkan pendapat dijamin dalam pasal...",
+    "pilihan": {
+      "a": "31",
+      "b": "30",
+      "c": "29",
+      "d": "28",
+      "e": "27"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Lembaga yang berwenang mengawasi perilaku hakim agar tetap menjaga keluhuran martabat serta kehormatan profesinya adalah...",
+    "pilihan": {
+      "a": "Komnas HAM",
+      "b": "Mahkamah Konstitusi",
+      "c": "Kejaksaan Agung",
+      "d": "Komisi Yudisial",
+      "e": "Mahkamah Agung"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu cara menjaga persatuan dan kesatuan dalam konteks NKRI adalah dengan...",
+    "pilihan": {
+      "a": "Menolak penggunaan bahasa Indonesia",
+      "b": "Mengembangkan sikap nasionalisme dan patriotisme",
+      "c": "Menonjolkan kebudayaan daerah sendiri dan merendahkan budaya lain",
+      "d": "Mengutamakan kepentingan golongan di atas kepentingan nasional",
+      "e": "Membatasi pergaulan hanya dengan sesama suku"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sikap adil terhadap sesama dan menjaga keseimbangan antara hak dan kewajiban adalah pengamalan Pancasila sila ke-...",
+    "pilihan": {
+      "a": "Dua",
+      "b": "Tiga",
+      "c": "Satu",
+      "d": "Empat",
+      "e": "Lima"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Berikut ini yang merupakan kewajiban warga negara menurut UUD NRI Tahun 1945 adalah...",
+    "pilihan": {
+      "a": "Memilih agama dan kepercayaan",
+      "b": "Mendapat perlindungan hukum",
+      "c": "Mendapat pekerjaan yang layak",
+      "d": "Menjunjung tinggi hukum dan pemerintahan",
+      "e": "Mengembangkan diri melalui pendidikan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tindakan aparat yang melakukan kekerasan saat menangani demonstrasi merupakan contoh dari...",
+    "pilihan": {
+      "a": "Pelanggaran hak oleh negara/aparat",
+      "b": "Pengingkaran kewajiban warga negara",
+      "c": "Penegakan hukum yang benar",
+      "d": "Upaya preventif",
+      "e": "Pemenuhan hak warga negara"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pihak yang memberikan bantuan hukum dan mendampingi tersangka atau terdakwa di pengadilan adalah...",
+    "pilihan": {
+      "a": "Advokat/Pengacara",
+      "b": "Panitera",
+      "c": "Jaksa",
+      "d": "Hakim",
+      "e": "Polisi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pancasila disebut sebagai ideologi terbuka, artinya...",
+    "pilihan": {
+      "a": "Nilai dasarnya tetap, namun pengembangannya dapat disesuaikan dengan dinamika zaman",
+      "b": "Nilai-nilainya dapat diubah sesuai keinginan penguasa",
+      "c": "Tidak memiliki nilai-nilai yang jelas",
+      "d": "Hanya berlaku untuk generasi tua",
+      "e": "Dapat digantikan oleh ideologi lain dengan mudah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Rendahnya kesadaran hukum dan budaya sadar Pancasila di kalangan masyarakat merupakan contoh dari...",
+    "pilihan": {
+      "a": "Peluang eksternal",
+      "b": "Tantangan fisik",
+      "c": "Kekuatan eksternal",
+      "d": "Ancaman dari luar",
+      "e": "Kelemahan internal"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Hak untuk hidup serta mempertahankan hidup dan kehidupannya adalah hak asasi yang paling fundamental dan dijamin dalam pasal...",
+    "pilihan": {
+      "a": "28A",
+      "b": "28D",
+      "c": "28C",
+      "d": "28B",
+      "e": "28E"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Mahkamah Konstitusi memiliki kewenangan untuk mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final, salah satunya adalah...",
+    "pilihan": {
+      "a": "Mengadili kasus pembunuhan",
+      "b": "Mengangkat duta dan konsul",
+      "c": "Menyelesaikan sengketa waris",
+      "d": "Menguji undang-undang terhadap UUD NRI Tahun 1945",
+      "e": "Memberikan grasi dan amnesti"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sikap yang harus dihindari dalam menghadapi kemajuan IPTEK adalah...",
+    "pilihan": {
+      "a": "Adaptif",
+      "b": "Plagiarisme (menjiplak karya orang lain)",
+      "c": "Kritis",
+      "d": "Inovatif",
+      "e": "Kreatif"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Wawasan Nusantara adalah cara pandang bangsa Indonesia tentang diri dan lingkungannya yang mengutamakan...",
+    "pilihan": {
+      "a": "Kepentingan individu",
+      "b": "Persatuan dan kesatuan bangsa serta kesatuan wilayah",
+      "c": "Kekuatan militer",
+      "d": "Perbedaan antar suku",
+      "e": "Kepentingan golongan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Berpartisipasi aktif dalam pemilihan umum merupakan perwujudan dari... sebagai warga negara.",
+    "pilihan": {
+      "a": "Hak dan kewajiban dalam bidang politik",
+      "b": "Hak untuk mendapat pendidikan",
+      "c": "Kewajiban dalam bidang sosial",
+      "d": "Hak dalam bidang ekonomi",
+      "e": "Kewajiban dalam bidang pertahanan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perlindungan hukum pada hakikatnya adalah upaya yang dilakukan secara sadar oleh setiap orang maupun lembaga pemerintah dan swasta yang bertujuan...",
+    "pilihan": {
+      "a": "Menambah jumlah peraturan",
+      "b": "Memberi kebebasan tanpa batas",
+      "c": "Membatasi hak-hak warga negara",
+      "d": "Menghukum orang sebanyak-banyaknya",
+      "e": "Mengusahakan pengamanan, penguasaan, dan pemenuhan kesejahteraan hidup sesuai hak asasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai pemandu dalam menghadapi tantangan globalisasi ekonomi dapat diwujudkan dengan cara...",
+    "pilihan": {
+      "a": "Menerapkan sistem ekonomi liberal sepenuhnya",
+      "b": "Mengizinkan monopoli oleh pihak swasta",
+      "c": "Mengembangkan sistem ekonomi kerakyatan yang berkeadilan sosial",
+      "d": "Menghapus peran negara dalam perekonomian",
+      "e": "Menutup diri dari investasi asing"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Contoh pengingkaran kewajiban sebagai siswa di sekolah adalah...",
+    "pilihan": {
+      "a": "Tidak mengerjakan tugas dan melanggar tata tertib",
+      "b": "Bertanya saat pelajaran berlangsung",
+      "c": "Mendapatkan pengajaran dari guru",
+      "d": "Menggunakan fasilitas sekolah",
+      "e": "Mendapat nilai dari guru"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari penegakan hukum di Indonesia adalah...",
+    "pilihan": {
+      "a": "Menambah pendapatan negara dari denda",
+      "b": "Memenuhi penjara dengan narapidana",
+      "c": "Melindungi kepentingan penguasa",
+      "d": "Mewujudkan keadilan, kepastian hukum, dan kemanfaatan bagi masyarakat",
+      "e": "Menciptakan ketakutan di masyarakat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dinamika persatuan dan kesatuan bangsa Indonesia pernah mengalami pasang surut, salah satunya adalah munculnya pemberontakan DI/TII yang bertujuan untuk...",
+    "pilihan": {
+      "a": "Memperkuat otonomi daerah",
+      "b": "Menjalin kerja sama internasional",
+      "c": "Mengganti ideologi Pancasila dengan ideologi lain",
+      "d": "Mempertahankan Pancasila",
+      "e": "Meningkatkan kesejahteraan rakyat"
+    },
+    "jawaban": "c"
+  }
+]

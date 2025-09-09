@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Nahdlatul Ulama (NU) secara resmi didirikan pada tanggal 16 Rajab 1344 H yang bertepatan dengan tanggal...",
+    "pilihan": {
+      "a": "20 Mei 1908",
+      "b": "31 Januari 1926",
+      "c": "10 November 1945",
+      "d": "17 Agustus 1945",
+      "e": "28 Oktober 1928"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Garis landasan pemikiran, sikap, dan tindakan warga NU yang harus dicerminkan dalam tingkah laku perseorangan maupun organisasi disebut...",
+    "pilihan": {
+      "a": "Khittah Nahdliyah",
+      "b": "Qanun Asasi",
+      "c": "Ahlussunnah Wal Jamaah",
+      "d": "Fikrah Nahdliyah",
+      "e": "Mabadi Khaira Ummah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam pandangan Ahlussunnah Wal Jamaah (ASWAJA) an-Nahdliyah, perantara dalam berdoa kepada Allah SWT dengan menyebut orang-orang saleh disebut...",
+    "pilihan": {
+      "a": "Tabarruk",
+      "b": "Tawassul",
+      "c": "Karomah",
+      "d": "Tahayul",
+      "e": "Istighosah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Konsep persaudaraan dalam Islam yang diajarkan NU, yang mencakup persaudaraan sesama umat Islam, sesama bangsa, dan sesama manusia, dikenal dengan istilah...",
+    "pilihan": {
+      "a": "Ukhuwah Islamiyah, Wathaniyah, dan Basyariyah",
+      "b": "Ukhuwah Siyasiyah",
+      "c": "Ukhuwah Diniyah",
+      "d": "Ukhuwah Nahdliyah",
+      "e": "Ukhuwah Iqtishadiyah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tradisi membaca rangkaian dzikir dan doa yang pahalanya dihadiahkan untuk orang yang telah meninggal disebut...",
+    "pilihan": {
+      "a": "Tahlilan",
+      "b": "Istighosah",
+      "c": "Dibaiyah",
+      "d": "Manakiban",
+      "e": "Ziarah kubur"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sikap tengah-tengah, tidak ekstrim kanan ataupun kiri, yang menjadi ciri khas NU dalam menyikapi berbagai persoalan disebut...",
+    "pilihan": {
+      "a": "Amar ma'ruf nahi munkar",
+      "b": "Tawazun (seimbang)",
+      "c": "Tasamuh (toleran)",
+      "d": "I'tidal (adil)",
+      "e": "Tawassuth (moderat)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam bidang politik, NU menegaskan bahwa hubungan Islam dan negara bersifat simbiosis mutualisme, yang berarti...",
+    "pilihan": {
+      "a": "Negara lebih tinggi kedudukannya dari agama",
+      "b": "Islam dan negara saling membutuhkan dan menguatkan",
+      "c": "Agama harus tunduk pada aturan negara",
+      "d": "Islam dan negara harus dipisahkan secara total",
+      "e": "Negara harus menjadi negara Islam"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Strategi dakwah NU dalam menghadapi tantangan globalisasi lebih mengedepankan pendekatan...",
+    "pilihan": {
+      "a": "Menolak semua bentuk modernitas",
+      "b": "Politik praktis",
+      "c": "Kultural, persuasif, dan damai",
+      "d": "Kekerasan dan pemaksaan",
+      "e": "Isolasi diri dari dunia luar"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Gerakan dasar NU yang berisi prinsip-prinsip untuk membentuk umat terbaik, seperti As-Shidqu, Al-Amanah, dan At-Ta'awun, disebut...",
+    "pilihan": {
+      "a": "Qanun Asasi",
+      "b": "Mabadi Khaira Ummah",
+      "c": "Fikrah Nahdliyah",
+      "d": "Khittah 1926",
+      "e": "Aswaja An-Nahdliyah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kejadian luar biasa yang diberikan Allah kepada para wali-Nya sebagai bentuk kemuliaan disebut...",
+    "pilihan": {
+      "a": "Sihir",
+      "b": "Mukjizat",
+      "c": "Karomah",
+      "d": "Irhas",
+      "e": "Ma'unah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "As-Shidqu dalam Mabadi Khaira Ummah memiliki arti...",
+    "pilihan": {
+      "a": "Jujur dan benar",
+      "b": "Dapat dipercaya",
+      "c": "Menepati janji",
+      "d": "Saling menolong",
+      "e": "Adil"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam bidang syariat, NU mengikuti salah satu dari empat mazhab fikih. Yang tidak termasuk dalam empat mazhab tersebut adalah...",
+    "pilihan": {
+      "a": "Hanafi",
+      "b": "Maliki",
+      "c": "Hambali",
+      "d": "Ja'fari",
+      "e": "Syafi'i"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sikap NU yang menerima dan bahkan mengakomodasi budaya lokal selama tidak bertentangan dengan syariat Islam disebut...",
+    "pilihan": {
+      "a": "Purifikasi ajaran",
+      "b": "Akulturasi budaya",
+      "c": "Sinkretisme",
+      "d": "Westernisasi",
+      "e": "Pribumisasi Islam"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu tantangan terbesar yang dihadapi NU di era modern adalah penyebaran ideologi...",
+    "pilihan": {
+      "a": "Humanisme",
+      "b": "Nasionalisme",
+      "c": "Radikalisme dan transnasional",
+      "d": "Demokrasi",
+      "e": "Pancasila"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Organisasi otonom di bawah NU yang mewadahi para pelajar dan santri laki-laki adalah...",
+    "pilihan": {
+      "a": "PMII",
+      "b": "Fatayat NU",
+      "c": "Muslimat NU",
+      "d": "IPNU (Ikatan Pelajar Nahdlatul Ulama)",
+      "e": "GP Ansor"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Mencari keberkahan dengan perantara benda-benda peninggalan orang saleh atau tempat-tempat mulia dalam pandangan NU disebut...",
+    "pilihan": {
+      "a": "Ziarah",
+      "b": "Tabarruk",
+      "c": "Bid'ah",
+      "d": "Tawassul",
+      "e": "Tahayul"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Prinsip 'Al-Muhafadhotu 'ala qodimis sholih wal akhdzu bil jadidil ashlah' artinya...",
+    "pilihan": {
+      "a": "Menolak tradisi lama dan hal-hal baru",
+      "b": "Menolak semua yang baru dan mempertahankan yang lama",
+      "c": "Memelihara tradisi lama yang baik dan mengambil hal baru yang lebih baik",
+      "d": "Mengambil semua yang baru dan meninggalkan yang lama",
+      "e": "Hanya fokus pada hal-hal baru yang modern"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Konsep amar ma'ruf nahi munkar menurut NU harus dilakukan dengan cara...",
+    "pilihan": {
+      "a": "Melalui jalur perang",
+      "b": "Keras dan tanpa kompromi",
+      "c": "Secara sembunyi-sembunyi",
+      "d": "Dengan mengadili sendiri pelakunya",
+      "e": "Bil hikmah wal mauidhotil hasanah (bijaksana dan nasihat yang baik)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pandangan NU tentang pemberdayaan ekonomi umat adalah melalui...",
+    "pilihan": {
+      "a": "Sistem ekonomi sosialis",
+      "b": "Sistem ekonomi kapitalis murni",
+      "c": "Fokus pada kegiatan ritual saja",
+      "d": "Penguatan ekonomi kerakyatan, koperasi, dan zakat produktif",
+      "e": "Menunggu bantuan dari pemerintah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Resolusi Jihad yang dicetuskan pada 22 Oktober 1945 berisi seruan...",
+    "pilihan": {
+      "a": "Mendirikan partai politik Islam",
+      "b": "Mendirikan negara Islam",
+      "c": "Melakukan pembaruan ajaran Islam",
+      "d": "Wajib berperang mempertahankan kemerdekaan Indonesia",
+      "e": "Melawan pemerintah yang sah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam bidang akidah, NU mengikuti paham yang dirumuskan oleh...",
+    "pilihan": {
+      "a": "Muhammad bin Abdul Wahhab",
+      "b": "Ibnu Taimiyah",
+      "c": "Imam Syafi'i dan Imam Hambali",
+      "d": "Imam Abu al-Hasan al-Asy'ari dan Imam Abu Mansur al-Maturidi",
+      "e": "Imam Abu Hanifah dan Imam Malik"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sikap toleran terhadap perbedaan, baik perbedaan pendapat, budaya, maupun agama disebut...",
+    "pilihan": {
+      "a": "Tasamuh",
+      "b": "Tasyaddud",
+      "c": "Tawazun",
+      "d": "I'tidal",
+      "e": "Tawassuth"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Ukhuwah Wathaniyah adalah konsep persaudaraan yang didasarkan pada ikatan...",
+    "pilihan": {
+      "a": "Satu kebangsaan dan tanah air",
+      "b": "Kemanusiaan universal",
+      "c": "Satu keyakinan agama",
+      "d": "Satu organisasi",
+      "e": "Satu garis keturunan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Al-Amanah wal Wafa bil 'Ahdi dalam Mabadi Khaira Ummah berarti...",
+    "pilihan": {
+      "a": "Adil dan proporsional",
+      "b": "Dapat dipercaya dan menepati janji",
+      "c": "Saling menolong dan bekerja sama",
+      "d": "Disiplin dan taat aturan",
+      "e": "Jujur dan berkata benar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu strategi NU dalam melestarikan budaya lokal yang Islami adalah melalui...",
+    "pilihan": {
+      "a": "Mengharamkan penggunaan gamelan",
+      "b": "Mewajibkan pakaian ala timur tengah",
+      "c": "Mengadakan festival seni hadrah dan shalawat",
+      "d": "Mengganti semua nama lokal dengan nama Arab",
+      "e": "Melarang pertunjukan wayang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Lembaga di bawah NU yang bertugas mengurus masalah perzakatan, infak, dan sedekah adalah...",
+    "pilihan": {
+      "a": "RMI (Rabithah Ma'ahid Islamiyah)",
+      "b": "NU-Care LAZISNU",
+      "c": "LBM (Lembaga Bahtsul Masail)",
+      "d": "LP Ma'arif",
+      "e": "LDNU (Lembaga Dakwah NU)"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sikap NU yang menerima Pancasila sebagai dasar negara dan NKRI sebagai bentuk final negara merupakan wujud dari komitmen...",
+    "pilihan": {
+      "a": "Internasional",
+      "b": "Budaya",
+      "c": "Ekonomi",
+      "d": "Kebangsaan",
+      "e": "Keagamaan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dakwah yang menyasar dunia digital dan media sosial untuk menyebarkan paham Islam moderat merupakan strategi NU dalam menghadapi...",
+    "pilihan": {
+      "a": "Tantangan globalisasi dan teknologi informasi",
+      "b": "Kerusakan lingkungan",
+      "c": "Penjajahan fisik",
+      "d": "Krisis politik",
+      "e": "Kemiskinan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Organisasi otonom di bawah NU yang mewadahi para ibu dan perempuan dewasa adalah...",
+    "pilihan": {
+      "a": "Fatayat NU",
+      "b": "Kohati",
+      "c": "Muslimat NU",
+      "d": "Aisyiyah",
+      "e": "IPPNU"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Prinsip Tawazun dalam Fikrah Nahdliyah berarti...",
+    "pilihan": {
+      "a": "Bersikap adil dan lurus",
+      "b": "Mengajak kebaikan dan mencegah keburukan",
+      "c": "Bersikap moderat dan tidak berlebihan",
+      "d": "Bersikap seimbang dalam berbagai hal",
+      "e": "Bersikap toleran terhadap perbedaan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Ukhuwah Basyariyah (atau Insaniyah) adalah persaudaraan yang didasarkan pada ikatan...",
+    "pilihan": {
+      "a": "Satu suku",
+      "b": "Satu negara",
+      "c": "Satu partai politik",
+      "d": "Satu agama",
+      "e": "Sebagai sesama makhluk Tuhan (manusia)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "At-Ta'awun dalam Mabadi Khaira Ummah memiliki arti...",
+    "pilihan": {
+      "a": "Jujur",
+      "b": "Dapat dipercaya",
+      "c": "Saling menolong",
+      "d": "Menepati janji",
+      "e": "Adil"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pedoman berpolitik bagi warga NU adalah mengedepankan...",
+    "pilihan": {
+      "a": "Politik uang (money politics)",
+      "b": "Menjatuhkan lawan politik dengan segala cara",
+      "c": "Kepentingan pribadi dan golongan",
+      "d": "Mendirikan negara berdasarkan satu mazhab",
+      "e": "Akhlakul karimah dan kemaslahatan bangsa"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu alasan utama didirikannya NU adalah untuk membendung paham...",
+    "pilihan": {
+      "a": "Wahabisme yang puritan dan menolak tradisi",
+      "b": "Animisme dan dinamisme",
+      "c": "Kapitalisme dan liberalisme",
+      "d": "Sosialisme dan komunisme",
+      "e": "Nasionalisme dan demokrasi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam tasawuf, NU mengikuti ajaran dari...",
+    "pilihan": {
+      "a": "Ibnu Taimiyah",
+      "b": "Ibnu Arabi",
+      "c": "Imam Al-Ghazali dan Imam Junaid Al-Baghdadi",
+      "d": "Al-Hallaj",
+      "e": "Jalaluddin Rumi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sikap I'tidal dalam Fikrah Nahdliyah berarti...",
+    "pilihan": {
+      "a": "Bekerja sama dalam kebaikan",
+      "b": "Tegak lurus, tidak condong ke kanan atau kiri, dan adil",
+      "c": "Moderat dan mengambil jalan tengah",
+      "d": "Seimbang dalam menyikapi sesuatu",
+      "e": "Toleran terhadap perbedaan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Organisasi otonom di bawah NU yang mewadahi para pemudi adalah...",
+    "pilihan": {
+      "a": "Fatayat NU",
+      "b": "Muslimat NU",
+      "c": "PMII",
+      "d": "GP Ansor",
+      "e": "IPPNU"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pandangan NU yang menolak ideologi radikal yang mengatasnamakan agama didasarkan pada prinsip...",
+    "pilihan": {
+      "a": "Islam sebagai agama yang kaku dan tertutup",
+      "b": "Islam sebagai agama perang",
+      "c": "Islam harus dipisahkan dari kehidupan sosial",
+      "d": "Islam hanya untuk orang Arab",
+      "e": "Islam sebagai rahmatan lil 'alamin (rahmat bagi seluruh alam)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Al-Adalah dalam Mabadi Khaira Ummah berarti...",
+    "pilihan": {
+      "a": "Dapat dipercaya",
+      "b": "Bersikap adil dan proporsional",
+      "c": "Saling menolong",
+      "d": "Jujur",
+      "e": "Menepati janji"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Contoh penerapan sikap jujur dalam kehidupan sehari-hari sesuai ajaran NU adalah...",
+    "pilihan": {
+      "a": "Berbohong untuk menutupi kesalahan teman",
+      "b": "Mengembalikan barang yang ditemukan kepada pemiliknya",
+      "c": "Mencontek saat ujian agar mendapat nilai bagus",
+      "d": "Menerima suap untuk memperlancar urusan",
+      "e": "Mengurangi timbangan saat berdagang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Lembaga di dalam struktur NU yang memiliki wewenang membahas dan memutuskan masalah-masalah keagamaan (hukum Islam) adalah...",
+    "pilihan": {
+      "a": "Rabithah Ma'ahid Islamiyah (RMI)",
+      "b": "Lembaga Dakwah NU (LDNU)",
+      "c": "Lembaga Bahtsul Masail (LBM)",
+      "d": "Lembaga Pendidikan Ma'arif NU",
+      "e": "Lembaga Perekonomian NU (LPNU)"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Khittah NU 1926 menegaskan bahwa NU adalah jam'iyah diniyah (organisasi keagamaan) dan bukan...",
+    "pilihan": {
+      "a": "Partai politik",
+      "b": "Organisasi budaya",
+      "c": "Organisasi sosial",
+      "d": "Organisasi pendidikan",
+      "e": "Organisasi ekonomi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tradisi membaca riwayat hidup Nabi Muhammad SAW yang sering diadakan oleh warga NU disebut...",
+    "pilihan": {
+      "a": "Ziarah",
+      "b": "Istighosah",
+      "c": "Dibaiyah atau Barzanji",
+      "d": "Tahlilan",
+      "e": "Manakiban"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Salah satu tokoh utama pendiri Nahdlatul Ulama adalah...",
+    "pilihan": {
+      "a": "Ahmad Syafii Maarif",
+      "b": "KH. Ahmad Dahlan",
+      "c": "H.O.S. Cokroaminoto",
+      "d": "Mohammad Natsir",
+      "e": "KH. Hasyim Asy'ari"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sikap NU dalam berbangsa dan bernegara yang menerima keragaman suku, agama, dan budaya di Indonesia dilandasi oleh prinsip...",
+    "pilihan": {
+      "a": "Ukhuwah Islamiyah",
+      "b": "Tasyaddud (ekstrimisme)",
+      "c": "Ukhuwah Wathaniyah dan Basyariyah",
+      "d": "Eksklusivisme",
+      "e": "Fanatisme golongan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Organisasi otonom di bawah NU yang mewadahi para sarjana dan intelektual adalah...",
+    "pilihan": {
+      "a": "Fatayat NU",
+      "b": "IPNU",
+      "c": "GP Ansor",
+      "d": "PMII (Pergerakan Mahasiswa Islam Indonesia)",
+      "e": "ISNU (Ikatan Sarjana Nahdlatul Ulama)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Menolak paham takfiri (mudah mengkafirkan orang lain) adalah bagian dari sikap NU dalam menjaga...",
+    "pilihan": {
+      "a": "Kemurnian akidah versi mereka",
+      "b": "Tradisi nenek moyang",
+      "c": "Kepentingan politik sesaat",
+      "d": "Persatuan umat dan bangsa",
+      "e": "Keuntungan ekonomi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pandangan NU terhadap zakat tidak hanya bersifat konsumtif, tetapi juga didorong untuk bersifat...",
+    "pilihan": {
+      "a": "Opsional dan tidak terlalu penting",
+      "b": "Hanya berupa makanan pokok",
+      "c": "Individual, hanya untuk diri sendiri",
+      "d": "Wajib hanya bagi para kiai",
+      "e": "Produktif, untuk modal usaha kaum dhuafa"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Contoh nyata dari penerapan konsep ukhuwah basyariyah oleh warga NU adalah...",
+    "pilihan": {
+      "a": "Menutup diri dari pergaulan dengan orang yang berbeda suku",
+      "b": "Menolak bekerja sama dengan orang dari negara lain",
+      "c": "Hanya menolong tetangga yang seagama",
+      "d": "Ikut serta dalam kegiatan kemanusiaan untuk korban bencana tanpa memandang agamanya",
+      "e": "Mengadakan pengajian khusus untuk anggota NU saja"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dasar pemikiran keagamaan NU yang merujuk pada Al-Qur'an, Sunnah, Ijma', dan Qiyas disebut...",
+    "pilihan": {
+      "a": "Khittah Nahdliyah",
+      "b": "Mabadi Khaira Ummah",
+      "c": "Qanun Asasi",
+      "d": "Pancasila",
+      "e": "Ahlussunnah Wal Jamaah"
+    },
+    "jawaban": "e"
+  }
+]

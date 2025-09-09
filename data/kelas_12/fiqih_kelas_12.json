@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Lafaz yang menunjukkan makna umum dan mencakup semua satuan yang ada di dalamnya tanpa terkecuali disebut...",
+    "pilihan": {
+      "a": "Mubayyan",
+      "b": "Khas",
+      "c": "Mutlak",
+      "d": "Mujmal",
+      "e": "Am"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ayat 'Dan wanita-wanita yang ditalak hendaklah menahan diri (menunggu) tiga kali quru'.' (Q.S. Al-Baqarah: 228). Kata 'quru' yang bisa berarti suci atau haid adalah contoh lafaz...",
+    "pilihan": {
+      "a": "Muradif",
+      "b": "Khas",
+      "c": "Muqayyad",
+      "d": "Mubayyan",
+      "e": "Musytarak"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Prinsip dalam ushul fiqih yang berarti menutup atau menyumbat jalan yang dapat membawa kepada kerusakan atau kemaksiatan adalah...",
+    "pilihan": {
+      "a": "Urf",
+      "b": "Maslahah Mursalah",
+      "c": "Syar'u man qablana",
+      "d": "Istihsan",
+      "e": "Saddu Dzari'ah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kebiasaan masyarakat yang diakui dan dijadikan sebagai salah satu sumber dalam penetapan hukum Islam, selama tidak bertentangan dengan Al-Qur'an dan Hadits, disebut...",
+    "pilihan": {
+      "a": "Qiyas",
+      "b": "Urf",
+      "c": "Saddu Dzari'ah",
+      "d": "Istihsan",
+      "e": "Ijma'"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Lafaz yang maknanya masih global dan membutuhkan penjelasan lebih lanjut dari dalil lain agar dapat dipahami disebut...",
+    "pilihan": {
+      "a": "Mujmal",
+      "b": "Muradif",
+      "c": "Khas",
+      "d": "Mubayyan",
+      "e": "Mutlak"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perintah shalat dalam Al-Qur'an (contoh: 'Aqiimus shalah') adalah contoh lafaz mujmal. Penjelasan mengenai tata cara, waktu, dan jumlah rakaatnya yang terdapat dalam hadits Nabi SAW menjadikan perintah shalat tersebut menjadi...",
+    "pilihan": {
+      "a": "Mubayyan",
+      "b": "Mutlak",
+      "c": "Musytarak",
+      "d": "Am",
+      "e": "Muradif"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Lafaz yang tidak terikat oleh batasan atau syarat apa pun yang mempersempit cakupannya disebut...",
+    "pilihan": {
+      "a": "Khas",
+      "b": "Am",
+      "c": "Mutlak",
+      "d": "Mujmal",
+      "e": "Muqayyad"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam ayat tentang kafarat sumpah, perintah memerdekakan budak disebut dengan lafaz 'raqabah' (seorang budak) tanpa batasan. Ini adalah contoh lafaz...",
+    "pilihan": {
+      "a": "Mutlak",
+      "b": "Muqayyad",
+      "c": "Mujmal",
+      "d": "Khas",
+      "e": "Musytarak"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Hukum qishash yang berlaku pada zaman Nabi Musa AS dan diakui dalam syariat Islam merupakan contoh penerapan sumber hukum...",
+    "pilihan": {
+      "a": "Qiyas",
+      "b": "Syar'u man qablana",
+      "c": "Saddu Dzari'ah",
+      "d": "Urf",
+      "e": "Istihsan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Seorang mujtahid beralih dari qiyas yang jelas (qiyas jali) ke qiyas yang samar (qiyas khafi) karena ada kemaslahatan yang lebih kuat. Tindakan ini disebut...",
+    "pilihan": {
+      "a": "Ijma'",
+      "b": "Urf",
+      "c": "Istihsan",
+      "d": "Takhsis",
+      "e": "Saddu Dzari'ah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kata 'al-insan' dan 'al-basyar' yang keduanya berarti 'manusia' adalah contoh dari lafaz...",
+    "pilihan": {
+      "a": "Mubayyan",
+      "b": "Muradif",
+      "c": "Mutlak",
+      "d": "Mujmal",
+      "e": "Musytarak"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Lafaz yang menunjukkan satu satuan tertentu, baik perorangan, jenis, atau bilangan, disebut...",
+    "pilihan": {
+      "a": "Musytarak",
+      "b": "Mutlak",
+      "c": "Mujmal",
+      "d": "Am",
+      "e": "Khas"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ayat '...dan janganlah kamu mendekati zina...' (Q.S. Al-Isra': 32) adalah dasar dari kaidah Saddu Dzari'ah. Larangan ini tidak hanya pada zinanya, tetapi juga pada...",
+    "pilihan": {
+      "a": "Menikahi mantan pezina",
+      "b": "Membicarakan tentang zina",
+      "c": "Membaca ayat tentang zina",
+      "d": "Hal-hal yang dapat mengantarkan kepada perbuatan zina",
+      "e": "Pernikahan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Lafaz yang maknanya sudah jelas dan tidak memerlukan penjelasan lebih lanjut dari dalil lain disebut...",
+    "pilihan": {
+      "a": "Mujmal",
+      "b": "Muradif",
+      "c": "Mubayyan",
+      "d": "Musytarak",
+      "e": "Mutlak"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Lafaz yang terikat oleh suatu batasan atau syarat yang mempersempit cakupannya disebut...",
+    "pilihan": {
+      "a": "Muqayyad",
+      "b": "Khas",
+      "c": "Am",
+      "d": "Mujmal",
+      "e": "Mutlak"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam ayat tentang kafarat pembunuhan tidak sengaja, perintah memerdekakan budak disebut dengan lafaz 'raqabah mu'minah' (budak yang beriman). Frasa 'yang beriman' ini menjadikan lafaz tersebut...",
+    "pilihan": {
+      "a": "Am",
+      "b": "Mujmal",
+      "c": "Muqayyad",
+      "d": "Musytarak",
+      "e": "Mutlak"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Syariat puasa yang diwajibkan kepada umat Nabi Muhammad SAW sebagaimana diwajibkan kepada umat-umat sebelumnya (Q.S. Al-Baqarah: 183) adalah contoh dari...",
+    "pilihan": {
+      "a": "Urf",
+      "b": "Saddu Dzari'ah",
+      "c": "Syar'u man qablana",
+      "d": "Istihsan",
+      "e": "Maslahah Mursalah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Praktik jual beli dengan sistem 'salam' (pesan) yang awalnya tidak sesuai qiyas namun dibolehkan oleh Nabi karena sudah menjadi kebutuhan dan kebiasaan masyarakat Madinah adalah contoh penerapan...",
+    "pilihan": {
+      "a": "Istihsan",
+      "b": "Urf",
+      "c": "Ijma'",
+      "d": "Saddu Dzari'ah",
+      "e": "Syar'u man qablana"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kata 'yad' dalam Al-Qur'an bisa berarti 'tangan' atau 'kekuasaan'. Ini adalah contoh lafaz...",
+    "pilihan": {
+      "a": "Mutlak",
+      "b": "Muradif",
+      "c": "Mubayyan",
+      "d": "Musytarak",
+      "e": "Khas"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Proses mengkhususkan lafaz yang umum sehingga cakupannya menjadi lebih sempit disebut...",
+    "pilihan": {
+      "a": "Ijmali",
+      "b": "Bayan",
+      "c": "Taqyid",
+      "d": "Taraduf",
+      "e": "Takhsis"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ayat 'Semua yang ada di bumi itu akan binasa' (Q.S. Ar-Rahman: 26) adalah contoh lafaz 'am. Namun, ayat ini dikhususkan oleh dalil lain yang menyatakan kekekalan beberapa makhluk seperti surga dan neraka. Proses pengkhususan ini disebut...",
+    "pilihan": {
+      "a": "Istinbath",
+      "b": "Taqyid",
+      "c": "Takhsis",
+      "d": "Bayan",
+      "e": "Ijtihad"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Penentuan kadar zakat, seperti 2,5% untuk emas dan perak, merupakan penjelasan (bayan) terhadap perintah umum untuk menunaikan zakat. Penjelasan ini menjadikan perintah zakat yang awalnya mujmal menjadi...",
+    "pilihan": {
+      "a": "Am",
+      "b": "Mutlak",
+      "c": "Muradif",
+      "d": "Musytarak",
+      "e": "Mubayyan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Jika suatu lafaz yang mutlak dan muqayyad memiliki sebab dan hukum yang sama, maka lafaz yang mutlak harus dibawa ke makna yang muqayyad. Kaidah ini diterapkan pada ayat tentang...",
+    "pilihan": {
+      "a": "Wasiat",
+      "b": "Darah yang diharamkan",
+      "c": "Wudhu dan tayammum",
+      "d": "Saksi dalam utang piutang",
+      "e": "Puasa kafarat"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Larangan menjual anggur kepada produsen minuman keras, meskipun jual beli anggur pada dasarnya halal, adalah contoh penerapan kaidah...",
+    "pilihan": {
+      "a": "Syar'u man qablana",
+      "b": "Saddu Dzari'ah",
+      "c": "Urf",
+      "d": "Istihsan",
+      "e": "Qiyas"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Adat kebiasaan yang baik dan berlaku umum di kalangan masyarakat serta tidak bertentangan dengan syariat disebut...",
+    "pilihan": {
+      "a": "Urf amali",
+      "b": "Urf qauli",
+      "c": "Urf fasid",
+      "d": "Urf khas",
+      "e": "Urf shahih"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Syariat umat terdahulu (Syar'u man qablana) dapat menjadi syariat bagi kita dengan syarat...",
+    "pilihan": {
+      "a": "Hanya jika berasal dari syariat Nabi Isa AS",
+      "b": "Sesuai dengan adat istiadat modern",
+      "c": "Disebutkan dalam Al-Qur'an atau Hadits dan tidak ada dalil yang menasakh (menghapus)-nya",
+      "d": "Disetujui oleh semua ulama tanpa kecuali",
+      "e": "Jika membawa keuntungan materi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kata 'al-qamh' dan 'al-burr' yang keduanya berarti 'gandum' adalah contoh dari lafaz...",
+    "pilihan": {
+      "a": "Am",
+      "b": "Muradif",
+      "c": "Mujmal",
+      "d": "Musytarak",
+      "e": "Khas"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ayat 'Laki-laki yang mencuri dan perempuan yang mencuri, potonglah tangan keduanya...' (Q.S. Al-Maidah: 38). Lafaz 'laki-laki yang mencuri' (as-sariq) adalah contoh lafaz...",
+    "pilihan": {
+      "a": "Mutlak",
+      "b": "Mujmal",
+      "c": "Musytarak",
+      "d": "Khas",
+      "e": "Am"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Penjelasan (bayan) terhadap lafaz yang mujmal dapat bersumber dari...",
+    "pilihan": {
+      "a": "Hanya dari kitab-kitab ulama",
+      "b": "Hanya dari mimpi",
+      "c": "Hanya dari akal manusia",
+      "d": "Al-Qur'an, Hadits, atau Ijma'",
+      "e": "Hanya dari Al-Qur'an"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jika ada lafaz mutlak dalam satu nash dan lafaz muqayyad dalam nash lain, di mana hukum dan sebabnya berbeda, maka...",
+    "pilihan": {
+      "a": "Keduanya tidak bisa diamalkan",
+      "b": "Yang muqayyad harus mengikuti yang mutlak",
+      "c": "Yang mutlak harus mengikuti yang muqayyad",
+      "d": "Keduanya diamalkan sesuai dengan konteksnya masing-masing",
+      "e": "Harus dicari dalil ketiga"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Larangan khalwat (berduaan dengan lawan jenis yang bukan mahram) adalah contoh penerapan Saddu Dzari'ah untuk mencegah terjadinya...",
+    "pilihan": {
+      "a": "Perzinaan",
+      "b": "Pernikahan",
+      "c": "Perkelahian",
+      "d": "Perdagangan",
+      "e": "Perdebatan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Adat kebiasaan yang rusak dan bertentangan dengan prinsip-prinsip syariat, seperti tradisi minum khamr, disebut...",
+    "pilihan": {
+      "a": "Urf fasid",
+      "b": "Urf shahih",
+      "c": "Urf amali",
+      "d": "Urf khas",
+      "e": "Urf am"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Syariat Nabi Yusuf AS tentang menahan orang yang mencuri sebagai budak tidak berlaku lagi bagi umat Nabi Muhammad SAW karena telah dihapus (dinasakh). Ini menunjukkan bahwa tidak semua Syar'u man qablana bisa...",
+    "pilihan": {
+      "a": "Dipelajari",
+      "b": "Diterapkan",
+      "c": "Dikenang",
+      "d": "Dihormati",
+      "e": "Dipahami"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Imam Abu Hanifah membolehkan wakaf benda bergerak (manqul) berdasarkan istihsan, meskipun secara qiyas seharusnya tidak boleh. Alasan istihsan ini adalah...",
+    "pilihan": {
+      "a": "Karena mengikuti syariat sebelumnya",
+      "b": "Karena lebih menguntungkan",
+      "c": "Karena sudah menjadi kebutuhan dan kebiasaan ('urf) masyarakat",
+      "d": "Karena lebih mudah",
+      "e": "Karena ada ayat yang jelas"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Lafaz yang memiliki satu makna tetapi diungkapkan dengan beberapa kata yang berbeda disebut...",
+    "pilihan": {
+      "a": "Am",
+      "b": "Muradif",
+      "c": "Khas",
+      "d": "Mujmal",
+      "e": "Musytarak"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ayat '...dan bunuhlah orang-orang musyrik di mana saja kamu jumpai mereka...' (Q.S. At-Taubah: 5) adalah lafaz 'am. Namun, ia dikhususkan (takhsis) sehingga tidak berlaku untuk musyrikin yang...",
+    "pilihan": {
+      "a": "Bersembunyi",
+      "b": "Sudah tua",
+      "c": "Berjenis kelamin perempuan",
+      "d": "Kaya raya",
+      "e": "Memiliki perjanjian damai (mu'ahad)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perintah 'dirikanlah shalat' (aqimus shalah) adalah contoh lafaz...",
+    "pilihan": {
+      "a": "Muqayyad karena terikat waktu",
+      "b": "Mubayyan karena sudah jelas artinya",
+      "c": "Musytarak karena punya banyak arti",
+      "d": "Mujmal karena butuh penjelasan cara dan waktunya",
+      "e": "Muradif karena ada sinonimnya"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Perintah berpuasa dalam ayat tentang kafarat zhihar adalah 'dua bulan berturut-turut'. Lafaz 'berturut-turut' ini menjadikan perintah puasa tersebut menjadi...",
+    "pilihan": {
+      "a": "Mujmal",
+      "b": "Mutlak",
+      "c": "Am",
+      "d": "Musytarak",
+      "e": "Muqayyad"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Hukum kebolehan seorang dokter melihat aurat pasien wanita untuk keperluan pengobatan didasarkan pada prinsip...",
+    "pilihan": {
+      "a": "Syar'u man qablana",
+      "b": "Istihsan karena darurat dan ada maslahat yang lebih besar",
+      "c": "Qiyas",
+      "d": "Urf",
+      "e": "Saddu Dzari'ah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Penentuan mahar (maskawin) berdasarkan kebiasaan ('urf) setempat yang layak dan pantas, selama tidak bertentangan dengan syariat, adalah contoh penerapan...",
+    "pilihan": {
+      "a": "Urf shahih",
+      "b": "Saddu Dzari'ah",
+      "c": "Istihsan",
+      "d": "Ijma'",
+      "e": "Syar'u man qablana"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu tujuan utama dari penerapan kaidah Saddu Dzari'ah adalah...",
+    "pilihan": {
+      "a": "Mengikuti tradisi nenek moyang",
+      "b": "Bersifat preventif (pencegahan) terhadap keburukan",
+      "c": "Menambah beban syariat",
+      "d": "Menghukum pelaku kejahatan",
+      "e": "Mempermudah kehidupan manusia"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Lafaz 'kullu' (setiap), 'jami'' (semua), dan bentuk jamak yang menggunakan alif-lam adalah di antara tanda-tanda lafaz...",
+    "pilihan": {
+      "a": "Mutlak",
+      "b": "Khas",
+      "c": "Musytarak",
+      "d": "Mujmal",
+      "e": "Am"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kata 'shalat' dalam bahasa Arab bisa berarti 'doa' secara bahasa atau 'ibadah tertentu' secara istilah syar'i. Jika digunakan tanpa konteks yang jelas, ia berpotensi menjadi lafaz...",
+    "pilihan": {
+      "a": "Muqayyad",
+      "b": "Muradif",
+      "c": "Khas",
+      "d": "Musytarak",
+      "e": "Mubayyan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Penjelasan Nabi SAW bahwa 'tangan' pencuri yang dipotong adalah 'pergelangan tangan' merupakan... terhadap ayat Al-Qur'an.",
+    "pilihan": {
+      "a": "Bayan (penjelasan)",
+      "b": "Nasakh (penghapusan)",
+      "c": "Ijmali (generalisasi)",
+      "d": "Taqyid (pembatasan)",
+      "e": "Takhsis (pengkhususan)"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perintah bersaksi dalam Q.S. Al-Baqarah: 282 adalah 'dua orang laki-laki'. Ini adalah contoh lafaz...",
+    "pilihan": {
+      "a": "Muqayyad (dibatasi dengan jumlah dan jenis kelamin)",
+      "b": "Am",
+      "c": "Mutlak",
+      "d": "Musytarak",
+      "e": "Mujmal"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Syariat umat terdahulu yang secara tegas dinyatakan tidak berlaku lagi bagi umat Nabi Muhammad SAW, contohnya adalah...",
+    "pilihan": {
+      "a": "Keharaman bekerja pada hari Sabtu",
+      "b": "Cara bertaubat dengan bunuh diri (pada zaman Nabi Musa AS)",
+      "c": "Larangan memakan semua yang berkuku",
+      "d": "Kewajiban berpuasa",
+      "e": "Hukum qishash"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Meninggalkan qiyas dan mengamalkan hadits ahad yang shahih karena dianggap lebih kuat dalilnya merupakan salah satu bentuk dari...",
+    "pilihan": {
+      "a": "Qiyas Khafi",
+      "b": "Urf",
+      "c": "Ijma' Sukuti",
+      "d": "Istihsan",
+      "e": "Saddu Dzari'ah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kebiasaan memanggil seseorang dengan julukan tertentu yang tidak disukainya, meskipun sudah menjadi 'urf di lingkungannya, termasuk dalam kategori...",
+    "pilihan": {
+      "a": "Urf khas",
+      "b": "Urf amali",
+      "c": "Urf fasid",
+      "d": "Urf shahih",
+      "e": "Urf qauli"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Larangan bagi seorang laki-laki untuk meminang wanita yang masih dalam pinangan laki-laki lain adalah contoh penerapan Saddu Dzari'ah untuk mencegah...",
+    "pilihan": {
+      "a": "Perzinaan",
+      "b": "Perceraian",
+      "c": "Permusuhan dan konflik sosial",
+      "d": "Pernikahan dini",
+      "e": "Poligami"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Lafaz 'tsalatsah' (tiga) dalam ayat tentang iddah (Q.S. Al-Baqarah: 228) adalah contoh lafaz...",
+    "pilihan": {
+      "a": "Am",
+      "b": "Musytarak",
+      "c": "Mujmal",
+      "d": "Mutlak",
+      "e": "Khas (menunjukkan bilangan tertentu)"
+    },
+    "jawaban": "e"
+  }
+]
