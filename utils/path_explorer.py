@@ -1,4 +1,5 @@
 import os
+import re
 from pathlib import Path
 from typing import Generator, Optional
 from .rowbot import VerticalTable
@@ -32,6 +33,26 @@ class Telusur:
         self.path_target = Path(target)
         self._saring_pola = "*/"
         self._saring_jenis = "dir"
+
+
+    def __get_sort_key(self, data: str):
+        if isinstance(data, Path):
+            key = data.name
+        elif isinstance(data, str):
+            key = data
+        else:
+            key = float("inf")
+
+        parse = re.search(r"\d+$", key)
+        if parse:
+            return int(parse.group(0))
+        else:
+            return float("inf")
+
+
+    def __sort(self, data):
+        sorting = sorted(data, key=self.__get_sort_key)
+        return sorting
 
 
     @property
@@ -69,11 +90,14 @@ class Telusur:
         hasil = self.hasil_pencarian
         match self._saring_jenis:
             case "file":
-                return [k for k in hasil if k.is_file()]
+                dft = [k for k in hasil if k.is_file()]
+                return self.__sort(dft)
             case "dir":
-                return [k for k in hasil if k.is_dir()]
+                dft = [k for k in hasil if k.is_dir()]
+                return self.__sort(dft)
             case _:
-                return list(hasil)
+                dft = list(hasil)
+                return self.__sort(dft)
 
 
     def set_target(self, path_baru):
@@ -189,4 +213,7 @@ class Telusur:
 
 
 if __name__ == "__main__":
+    src = Telusur()
+    dft = ["iya_100", "iya_2", "yambuh_90", "hehe"]
+    print(src._Telusur__sort(dft))
     print("hancoooookwwh")
