@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Tahap paling awal dalam memulai sebuah wirausaha adalah...",
+    "pilihan": {
+      "a": "Mencari dan menganalisis ide serta peluang usaha",
+      "b": "Melakukan promosi besar-besaran",
+      "c": "Membuat laporan keuangan",
+      "d": "Menghitung keuntungan",
+      "e": "Merekrut banyak karyawan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sebuah peluang usaha dianggap baik dan layak jika bersifat orisinal, dapat mengantisipasi perubahan, dan...",
+    "pilihan": {
+      "a": "Hanya bisa dijalankan di kota besar",
+      "b": "Tidak memerlukan pemasaran",
+      "c": "Sulit untuk ditiru oleh pesaing",
+      "d": "Sesuai dengan keinginan wirausahawan serta memiliki kelayakan usaha yang teruji",
+      "e": "Membutuhkan modal yang sangat besar"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Proses mengubah bahan mentah menjadi produk jadi yang memiliki nilai tambah dalam wirausaha disebut...",
+    "pilihan": {
+      "a": "Pemasaran",
+      "b": "Distribusi",
+      "c": "Evaluasi",
+      "d": "Administrasi",
+      "e": "Sistem produksi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Titik di mana total pendapatan sebuah usaha sama dengan total biaya yang dikeluarkan, sehingga belum ada laba maupun rugi, disebut...",
+    "pilihan": {
+      "a": "Laba Maksimum",
+      "b": "Titik Impas (Break-Even Point/BEP)",
+      "c": "Harga Pokok Produksi",
+      "d": "Biaya Variabel",
+      "e": "Rugi Minimum"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Menggunakan media sosial untuk memperkenalkan produk dan berinteraksi dengan pelanggan merupakan contoh strategi pemasaran...",
+    "pilihan": {
+      "a": "Tidak langsung",
+      "b": "Langsung",
+      "c": "Tradisional",
+      "d": "Digital atau online",
+      "e": "Dari mulut ke mulut"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dokumen yang berisi catatan sistematis mengenai seluruh kegiatan usaha yang telah dilaksanakan, termasuk data produksi, penjualan, dan keuangan, disebut...",
+    "pilihan": {
+      "a": "Laporan kegiatan usaha",
+      "b": "Rencana bisnis",
+      "c": "Analisis SWOT",
+      "d": "Brosur promosi",
+      "e": "Daftar hadir karyawan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Membuat hiasan dinding dari potongan kain perca atau botol plastik bekas merupakan contoh wirausaha kerajinan dari...",
+    "pilihan": {
+      "a": "Bahan lunak buatan",
+      "b": "Logam mulia",
+      "c": "Bahan alam",
+      "d": "Bahan limbah berbentuk bangun datar/ruang",
+      "e": "Bahan keras"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kegiatan memelihara, membesarkan, serta memanen ikan lele untuk dijual di pasar termasuk dalam bidang wirausaha...",
+    "pilihan": {
+      "a": "Rekayasa",
+      "b": "Kerajinan",
+      "c": "Pengolahan",
+      "d": "Jasa",
+      "e": "Budidaya pembenihan ikan konsumsi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Mengolah singkong menjadi keripik dengan berbagai varian rasa (balado, keju, barbeku) adalah contoh wirausaha di bidang...",
+    "pilihan": {
+      "a": "Budidaya tanaman",
+      "b": "Rekayasa sistem teknik",
+      "c": "Pengolahan bahan hewani",
+      "d": "Pengolahan bahan nabati",
+      "e": "Kerajinan limbah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Membuat alat penjernih air sederhana atau kincir angin untuk pembangkit listrik skala kecil adalah contoh wirausaha produk...",
+    "pilihan": {
+      "a": "Jasa profesi",
+      "b": "Rekayasa sistem teknik",
+      "c": "Budidaya",
+      "d": "Kerajinan",
+      "e": "Pengolahan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Biaya yang jumlahnya berubah-ubah mengikuti jumlah produk yang dihasilkan, seperti biaya bahan baku, disebut...",
+    "pilihan": {
+      "a": "Biaya tetap (Fixed Cost)",
+      "b": "Biaya sewa",
+      "c": "Biaya penyusutan",
+      "d": "Biaya investasi",
+      "e": "Biaya variabel (Variable Cost)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari analisis laporan usaha adalah untuk...",
+    "pilihan": {
+      "a": "Menghias laporan agar terlihat bagus",
+      "b": "Membandingkan dengan usaha milik teman",
+      "c": "Mengetahui kekuatan, kelemahan, dan mengambil keputusan untuk perbaikan usaha ke depan",
+      "d": "Sekadar memenuhi tugas sekolah",
+      "e": "Menghitung jumlah karyawan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam perencanaan bisnis, menentukan siapa yang akan membeli produk kita (misalnya anak-anak, remaja, atau ibu rumah tangga) disebut...",
+    "pilihan": {
+      "a": "Struktur organisasi",
+      "b": "Analisis keuangan",
+      "c": "Pemilihan lokasi",
+      "d": "Analisis produksi",
+      "e": "Penentuan target pasar (market segmentation)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Strategi promosi dengan memberikan potongan harga atau hadiah langsung kepada pembeli disebut...",
+    "pilihan": {
+      "a": "Pemasaran langsung (Direct Marketing)",
+      "b": "Hubungan masyarakat (Public Relations)",
+      "c": "Periklanan (Advertising)",
+      "d": "Promosi penjualan (Sales Promotion)",
+      "e": "Penjualan personal (Personal Selling)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam budidaya ikan hias seperti ikan cupang, faktor yang sangat penting untuk menjaga kualitas warna dan kesehatan ikan adalah...",
+    "pilihan": {
+      "a": "Jumlah ikan yang sangat banyak dalam satu wadah",
+      "b": "Lokasi yang gelap",
+      "c": "Kualitas air dan jenis pakan",
+      "d": "Suara musik yang keras",
+      "e": "Ukuran akuarium yang sangat besar"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Membuat rendang daging sapi dalam kemasan kaleng yang siap saji merupakan contoh wirausaha di bidang...",
+    "pilihan": {
+      "a": "Budidaya ternak",
+      "b": "Kerajinan kulit",
+      "c": "Pengolahan bahan hewani",
+      "d": "Rekayasa pangan",
+      "e": "Pengolahan bahan nabati"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Biaya yang jumlahnya tetap dan tidak terpengaruh oleh banyak sedikitnya produksi, seperti biaya sewa gedung, disebut...",
+    "pilihan": {
+      "a": "Biaya tetap (Fixed Cost)",
+      "b": "Biaya bahan baku",
+      "c": "Biaya variabel",
+      "d": "Biaya total",
+      "e": "Biaya tenaga kerja langsung"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jika hasil evaluasi menunjukkan penjualan produk menurun, langkah yang mungkin perlu dilakukan adalah...",
+    "pilihan": {
+      "a": "Mengabaikan data penjualan",
+      "b": "Menghentikan produksi selamanya",
+      "c": "Menaikkan harga tanpa alasan",
+      "d": "Mengkaji ulang strategi pemasaran atau kualitas produk",
+      "e": "Memarahi tim penjualan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Membuat tas dari limbah bungkus kopi merupakan contoh kreativitas dalam wirausaha kerajinan yang memanfaatkan bahan limbah berbentuk...",
+    "pilihan": {
+      "a": "Limbah gas",
+      "b": "Bangun datar",
+      "c": "Limbah cair",
+      "d": "Bangun ruang",
+      "e": "Limbah organik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pengemasan produk hasil budidaya ikan hias untuk pengiriman jarak jauh harus memperhatikan...",
+    "pilihan": {
+      "a": "Warna kemasan yang cerah",
+      "b": "Estetika kemasan saja",
+      "c": "Berat kemasan yang maksimal",
+      "d": "Ketersediaan oksigen dan keamanan ikan selama transportasi",
+      "e": "Harga kemasan yang paling mahal"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Konsep bisnis yang menjelaskan secara rinci tentang produk, target pasar, strategi pemasaran, dan proyeksi keuangan disebut...",
+    "pilihan": {
+      "a": "Laporan laba rugi",
+      "b": "Perencanaan bisnis (Business Plan)",
+      "c": "Daftar inventaris",
+      "d": "Jadwal produksi",
+      "e": "Struktur organisasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Harga jual sebuah produk idealnya ditetapkan dengan cara...",
+    "pilihan": {
+      "a": "Selalu lebih mahal dari pesaing",
+      "b": "Mengikuti harga emas",
+      "c": "Selalu lebih murah dari biaya produksi",
+      "d": "Asal tebak",
+      "e": "Menghitung total biaya produksi ditambah margin keuntungan yang diinginkan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Memberikan sampel gratis atau 'tester' kepada calon pembeli adalah salah satu bentuk dari...",
+    "pilihan": {
+      "a": "Produksi massal",
+      "b": "Perhitungan BEP",
+      "c": "Evaluasi produk",
+      "d": "Manajemen stok",
+      "e": "Strategi promosi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Laporan arus kas (cash flow) dalam laporan kegiatan usaha berfungsi untuk...",
+    "pilihan": {
+      "a": "Menunjukkan aliran uang masuk dan uang keluar dalam periode tertentu",
+      "b": "Mencatat daftar pelanggan",
+      "c": "Mencatat absensi karyawan",
+      "d": "Merencanakan produk baru",
+      "e": "Menganalisis kekuatan pesaing"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Membuat miniatur rumah dari stik es krim merupakan contoh wirausaha kerajinan dari bahan limbah berbentuk...",
+    "pilihan": {
+      "a": "Bangun ruang",
+      "b": "Limbah lunak",
+      "c": "Limbah gas",
+      "d": "Bangun datar",
+      "e": "Limbah cair"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam budidaya pembenihan ikan, proses pemisahan antara induk jantan dan betina sebelum dipijahkan bertujuan untuk...",
+    "pilihan": {
+      "a": "Menghemat pakan",
+      "b": "Mengurangi kualitas benih",
+      "c": "Membuat ikan stres",
+      "d": "Mempercepat panen",
+      "e": "Mematangkan gonad (sel telur dan sperma)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Mengolah masakan khas Italia seperti spaghetti dengan bahan-bahan lokal adalah contoh wirausaha pengolahan...",
+    "pilihan": {
+      "a": "Produk rekayasa",
+      "b": "Bahan limbah",
+      "c": "Masakan internasional",
+      "d": "Hasil budidaya",
+      "e": "Makanan khas daerah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sebuah panel surya yang mengubah energi matahari menjadi energi listrik adalah contoh produk...",
+    "pilihan": {
+      "a": "Jasa",
+      "b": "Budidaya",
+      "c": "Kerajinan",
+      "d": "Pengolahan",
+      "e": "Rekayasa konversi energi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Untuk menghitung Titik Impas (BEP) dalam unit, rumus yang digunakan adalah...",
+    "pilihan": {
+      "a": "Total Pendapatan - Total Biaya",
+      "b": "Biaya Tetap + Biaya Variabel",
+      "c": "Biaya Tetap / (Harga Jual per Unit - Biaya Variabel per Unit)",
+      "d": "Biaya Variabel / (Harga Jual - Biaya Tetap)",
+      "e": "Harga Jual x Jumlah Unit"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Laporan laba rugi menunjukkan...",
+    "pilihan": {
+      "a": "Aliran kas masuk dan keluar",
+      "b": "Kinerja keuangan perusahaan (apakah laba atau rugi) dalam satu periode",
+      "c": "Jumlah stok barang di gudang",
+      "d": "Daftar nama pemasok",
+      "e": "Posisi aset dan utang perusahaan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sumber ide untuk memulai usaha bisa berasal dari mana saja, KECUALI...",
+    "pilihan": {
+      "a": "Menunggu ilham tanpa melakukan riset",
+      "b": "Masalah yang dihadapi dalam kehidupan sehari-hari",
+      "c": "Mengamati usaha orang lain yang sudah sukses",
+      "d": "Tren yang sedang berkembang di masyarakat",
+      "e": "Hobi dan keterampilan pribadi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam perencanaan produksi kerajinan, pemilihan bahan baku harus mempertimbangkan faktor...",
+    "pilihan": {
+      "a": "Hanya harga yang paling murah",
+      "b": "Asal negara bahan baku",
+      "c": "Ketersediaan, kualitas, dan kesesuaian dengan desain produk",
+      "d": "Warna yang sedang tren saja",
+      "e": "Merek bahan baku"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pemasaran 4P terdiri dari Product (Produk), Price (Harga), Place (Tempat), dan...",
+    "pilihan": {
+      "a": "Process (Proses)",
+      "b": "Production (Produksi)",
+      "c": "Planning (Perencanaan)",
+      "d": "Promotion (Promosi)",
+      "e": "People (Orang)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jika sebuah usaha kerajinan memiliki biaya tetap Rp 1.000.000, biaya variabel per unit Rp 5.000, dan harga jual per unit Rp 10.000, berapa BEP unitnya?",
+    "pilihan": {
+      "a": "250 unit",
+      "b": "150 unit",
+      "c": "300 unit",
+      "d": "100 unit",
+      "e": "200 unit"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam budidaya ikan, pendederan adalah kegiatan...",
+    "pilihan": {
+      "a": "Memberi pakan pada induk",
+      "b": "Memanen ikan yang sudah besar",
+      "c": "Menjual ikan ke pasar",
+      "d": "Pemeliharaan benih ikan hingga ukuran tertentu sebelum dibesarkan",
+      "e": "Membersihkan kolam"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Penggunaan kemasan yang menarik dan label yang informatif pada produk makanan olahan bertujuan untuk...",
+    "pilihan": {
+      "a": "Membuat produk lebih berat",
+      "b": "Menyembunyikan isi produk",
+      "c": "Menambah biaya tanpa ada manfaat",
+      "d": "Membuat produk cepat basi",
+      "e": "Melindungi produk dan menarik minat beli konsumen"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Analisis kelayakan usaha dari aspek keuangan meliputi...",
+    "pilihan": {
+      "a": "Lokasi usaha",
+      "b": "Jumlah pesaing di pasar",
+      "c": "Desain produk",
+      "d": "Perkiraan modal, biaya produksi, dan potensi keuntungan",
+      "e": "Keterampilan teknis yang dimiliki"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Menjual produk kerajinan melalui platform e-commerce seperti Tokopedia atau Shopee termasuk strategi pemasaran dengan saluran distribusi...",
+    "pilihan": {
+      "a": "Tidak langsung (online)",
+      "b": "Eksklusif",
+      "c": "Intensif",
+      "d": "Langsung",
+      "e": "Tradisional"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Laporan neraca (balance sheet) dalam laporan keuangan usaha menunjukkan...",
+    "pilihan": {
+      "a": "Data penjualan harian",
+      "b": "Strategi pemasaran",
+      "c": "Laba atau rugi usaha",
+      "d": "Posisi harta (aset), utang (liabilitas), dan modal (ekuitas) pada waktu tertentu",
+      "e": "Rincian biaya produksi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Membuat prototipe atau model awal dari produk rekayasa sangat penting dalam tahap perencanaan untuk...",
+    "pilihan": {
+      "a": "Membuat brosur",
+      "b": "Menentukan harga jual",
+      "c": "Menghabiskan bahan baku",
+      "d": "Langsung menjualnya ke pasar",
+      "e": "Menguji fungsi, desain, dan kelayakan produk sebelum diproduksi massal"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Analisis SWOT digunakan untuk memetakan kondisi internal dan eksternal usaha. Faktor internal yang dianalisis adalah...",
+    "pilihan": {
+      "a": "Kekuatan (Strengths) dan Kelemahan (Weaknesses)",
+      "b": "Hanya Peluang (Opportunities)",
+      "c": "Kekuatan (Strengths) dan Ancaman (Threats)",
+      "d": "Peluang (Opportunities) dan Kelemahan (Weaknesses)",
+      "e": "Peluang (Opportunities) dan Ancaman (Threats)"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam sistem produksi kerajinan, kegiatan pembentukan, perakitan, dan finishing merupakan bagian dari proses...",
+    "pilihan": {
+      "a": "Administrasi",
+      "b": "Pemasaran",
+      "c": "Produksi",
+      "d": "Perencanaan",
+      "e": "Evaluasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Jika sebuah usaha berhasil menjual produk di atas jumlah BEP (Titik Impas), maka usaha tersebut akan...",
+    "pilihan": {
+      "a": "Mengurangi produksi",
+      "b": "Mengalami kerugian",
+      "c": "Harus menutup usahanya",
+      "d": "Tidak untung dan tidak rugi",
+      "e": "Memperoleh keuntungan (laba)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Menjual produk langsung kepada konsumen tanpa melalui perantara seperti agen atau toko ritel disebut strategi pemasaran...",
+    "pilihan": {
+      "a": "Promosi penjualan",
+      "b": "Langsung (Direct Selling)",
+      "c": "Periklanan",
+      "d": "Tidak langsung",
+      "e": "Online"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam wirausaha budidaya, pemilihan induk ikan yang berkualitas bertujuan untuk...",
+    "pilihan": {
+      "a": "Memperindah tampilan kolam",
+      "b": "Menghasilkan benih yang sedikit",
+      "c": "Menghasilkan benih (keturunan) yang unggul dan berkualitas baik",
+      "d": "Membuat proses pemijahan lebih lama",
+      "e": "Mengurangi biaya pakan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Membuat 'nugget tempe' sebagai alternatif nugget ayam adalah contoh inovasi produk pengolahan bahan...",
+    "pilihan": {
+      "a": "Hewani",
+      "b": "Impor",
+      "c": "Nabati",
+      "d": "Kimia",
+      "e": "Limbah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sebuah lampu otomatis yang menyala saat gelap menggunakan sensor cahaya adalah contoh produk dari bidang wirausaha...",
+    "pilihan": {
+      "a": "Rekayasa sistem teknik",
+      "b": "Jasa boga",
+      "c": "Budidaya",
+      "d": "Pengolahan",
+      "e": "Kerajinan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Mencatatkan semua transaksi keuangan, baik pemasukan maupun pengeluaran, adalah fungsi utama dari...",
+    "pilihan": {
+      "a": "Pemasaran",
+      "b": "Pembukuan atau administrasi keuangan",
+      "c": "Promosi",
+      "d": "Manajemen sumber daya manusia",
+      "e": "Produksi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari evaluasi usaha secara berkala adalah untuk...",
+    "pilihan": {
+      "a": "Memenuhi formalitas saja",
+      "b": "Mengganti seluruh konsep bisnis tanpa data",
+      "c": "Mencari kesalahan karyawan",
+      "d": "Menghabiskan anggaran",
+      "e": "Mengetahui perkembangan usaha dan membuat keputusan strategis untuk masa depan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam wirausaha pengolahan makanan, menjaga kebersihan alat dan tempat kerja (higiene dan sanitasi) sangat penting untuk...",
+    "pilihan": {
+      "a": "Menambah biaya listrik",
+      "b": "Mengurangi jumlah pelanggan",
+      "c": "Membuat rasa makanan tidak enak",
+      "d": "Menghasilkan produk yang aman untuk dikonsumsi",
+      "e": "Memperlambat proses produksi"
+    },
+    "jawaban": "d"
+  }
+]

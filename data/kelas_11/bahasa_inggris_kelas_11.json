@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "A text that is written to persuade the reader that something is the case, by presenting arguments, is called a/an...",
+    "pilihan": {
+      "a": "Narrative text",
+      "b": "Analytical exposition text",
+      "c": "News item text",
+      "d": "Explanation text",
+      "e": "Procedure text"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "The main purpose of a news item text is to...",
+    "pilihan": {
+      "a": "Give instructions",
+      "b": "Explain how something works",
+      "c": "Tell a fictional story",
+      "d": "Review a movie",
+      "e": "Inform readers about events of the day which are considered newsworthy"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "A text that describes how or why a certain phenomenon happens, like 'How does rain happen?', is a/an...",
+    "pilihan": {
+      "a": "Narrative text",
+      "b": "Analytical exposition text",
+      "c": "News item text",
+      "d": "Procedure text",
+      "e": "Explanation text"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Complete the sentence with the correct tense: 'I ... my homework. Now I can go out.'",
+    "pilihan": {
+      "a": "will finish",
+      "b": "finish",
+      "c": "was finishing",
+      "d": "have finished",
+      "e": "had finished"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Which sentence uses a modal verb to show ability in the past?",
+    "pilihan": {
+      "a": "I can swim very well now.",
+      "b": "I must swim every day.",
+      "c": "I will swim tomorrow.",
+      "d": "I should swim more often.",
+      "e": "I could swim across the river when I was young."
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Complete the conditional sentence type 1: 'If you study hard, you ... the test.'",
+    "pilihan": {
+      "a": "would pass",
+      "b": "pass",
+      "c": "will pass",
+      "d": "passed",
+      "e": "would have passed"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "The passive form of 'The students write the essays' is...",
+    "pilihan": {
+      "a": "The essays are writing the students.",
+      "b": "The essays have been written by the students.",
+      "c": "The essays was written by the students.",
+      "d": "The essays were being written by the students.",
+      "e": "The essays are written by the students."
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Andi: 'What do you think about our new classroom?' Budi: '... it's much cleaner and brighter.'",
+    "pilihan": {
+      "a": "Are you sure?",
+      "b": "I'm not satisfied",
+      "c": "I think",
+      "d": "Can I help you?",
+      "e": "I don't know"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Your friend looks worried about the upcoming exam. What is a good suggestion to give?",
+    "pilihan": {
+      "a": "You must not study.",
+      "b": "Can you help me?",
+      "c": "Don't worry about it.",
+      "d": "That's a bad idea.",
+      "e": "Why don't you study with me?"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "You see your teacher carrying many books. What is a polite way to offer help?",
+    "pilihan": {
+      "a": "Give me the books.",
+      "b": "Let me do it.",
+      "c": "You look tired.",
+      "d": "Can I help you with those books, Ma'am?",
+      "e": "Do you need help?"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "The structure of an analytical exposition text is Thesis, Arguments, and...",
+    "pilihan": {
+      "a": "Reiteration/Conclusion",
+      "b": "Complication",
+      "c": "Resolution",
+      "d": "Newsworthy Event",
+      "e": "Steps"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "A news item text usually starts with a headline. The purpose of a headline is to...",
+    "pilihan": {
+      "a": "Tell the whole story",
+      "b": "Give the writer's opinion",
+      "c": "Confuse the reader",
+      "d": "Summarize the news in a catchy way to attract readers",
+      "e": "Provide background information"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "A procedure text usually begins with a 'goal' or 'aim', followed by 'materials/ingredients', and then...",
+    "pilihan": {
+      "a": "Complication",
+      "b": "Arguments",
+      "c": "Resolution",
+      "d": "Conclusion",
+      "e": "Steps/Methods"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Complete the sentence: 'While I ... my homework, my brother was playing games.'",
+    "pilihan": {
+      "a": "do",
+      "b": "am doing",
+      "c": "have done",
+      "d": "was doing",
+      "e": "did"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "The sentence 'The book ... I borrowed from the library is very interesting' needs a relative pronoun. The correct pronoun is...",
+    "pilihan": {
+      "a": "where",
+      "b": "whose",
+      "c": "whom",
+      "d": "which/that",
+      "e": "who"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Direct speech: He said, 'I am busy.' The indirect speech is: He said that...",
+    "pilihan": {
+      "a": "he was busy.",
+      "b": "he will be busy.",
+      "c": "I am busy.",
+      "d": "I was busy.",
+      "e": "he is busy."
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "After a long and difficult exam, you finally passed it. What would you say to express relief?",
+    "pilihan": {
+      "a": "Ouch! That hurts.",
+      "b": "You must not do that.",
+      "c": "This is not what I expected.",
+      "d": "What a relief! I'm so glad it's over.",
+      "e": "I'm so disappointed."
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "You ordered a steak, but it was served cold. What would you say to express dissatisfaction?",
+    "pilihan": {
+      "a": "Can I offer you some help?",
+      "b": "I'm very satisfied with the service.",
+      "c": "This is the best steak I've ever had!",
+      "d": "Everything is perfect, thank you.",
+      "e": "Excuse me, I'm not very happy with my steak. It's cold."
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "A sign in a library says 'You are prohibited from making noise here.' This sentence expresses a/an...",
+    "pilihan": {
+      "a": "Offer",
+      "b": "Suggestion",
+      "c": "Ability",
+      "d": "Prohibition (larangan)",
+      "e": "Opinion"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "The generic structure of a narrative text is Orientation, Complication, and...",
+    "pilihan": {
+      "a": "Materials",
+      "b": "Steps",
+      "c": "Arguments",
+      "d": "Reiteration",
+      "e": "Resolution"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Complete the sentence with the correct tense: 'By next year, I ... from this university.'",
+    "pilihan": {
+      "a": "was graduating",
+      "b": "graduated",
+      "c": "will have graduated",
+      "d": "am graduating",
+      "e": "graduate"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "The sentence 'Could I borrow your pen, please?' is an expression of...",
+    "pilihan": {
+      "a": "Expressing prohibition",
+      "b": "Offering help",
+      "c": "Asking for permission/making a request",
+      "d": "Giving ability",
+      "e": "Giving advice"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "The passive form of 'Someone has stolen my wallet' is...",
+    "pilihan": {
+      "a": "My wallet has been stolen.",
+      "b": "My wallet is being stolen.",
+      "c": "My wallet will be stolen.",
+      "d": "My wallet is stolen.",
+      "e": "My wallet was stolen."
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "The man ... is talking to the teacher is my father.",
+    "pilihan": {
+      "a": "when",
+      "b": "which",
+      "c": "whose",
+      "d": "where",
+      "e": "that/who"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ria: 'In my opinion, online learning is very effective.' This sentence is an example of...",
+    "pilihan": {
+      "a": "Giving a suggestion",
+      "b": "Asking for an opinion",
+      "c": "Expressing pain",
+      "d": "Giving an opinion",
+      "e": "Offering help"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "You accidentally bump into someone. What do you say to express pain?",
+    "pilihan": {
+      "a": "That's fantastic!",
+      "b": "Thank goodness.",
+      "c": "Ouch!",
+      "d": "What a relief!",
+      "e": "I'm so satisfied."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "The service at the restaurant was excellent and the food was delicious. You would say...",
+    "pilihan": {
+      "a": "I have a complaint.",
+      "b": "This is not good at all.",
+      "c": "This is terrible.",
+      "d": "I am completely satisfied with everything.",
+      "e": "I'm very dissatisfied."
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "The expression 'You must not cheat on the exam' is a form of...",
+    "pilihan": {
+      "a": "Offer",
+      "b": "Permission",
+      "c": "Prohibition",
+      "d": "Opinion",
+      "e": "Suggestion"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "The purpose of an explanation text is to...",
+    "pilihan": {
+      "a": "Persuade the reader",
+      "b": "Tell a story to entertain",
+      "c": "Explain the processes involved in the formation or working of natural or socio-cultural phenomena",
+      "d": "Give step-by-step instructions",
+      "e": "Report a newsworthy event"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Complete the sentence: 'She ... in this company for ten years.'",
+    "pilihan": {
+      "a": "is working",
+      "b": "will work",
+      "c": "has worked",
+      "d": "was working",
+      "e": "works"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "If it rains, the match ... postponed.",
+    "pilihan": {
+      "a": "was",
+      "b": "would be",
+      "c": "would have been",
+      "d": "is",
+      "e": "will be"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "The passive form of 'The mechanic is repairing my car' is...",
+    "pilihan": {
+      "a": "My car is being repaired by the mechanic.",
+      "b": "My car will be repaired by the mechanic.",
+      "c": "My car is repaired by the mechanic.",
+      "d": "My car has been repaired by the mechanic.",
+      "e": "My car was repaired by the mechanic."
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Direct speech: 'Don't be late!' the teacher told us. The indirect speech is: The teacher told us...",
+    "pilihan": {
+      "a": "that we are not late.",
+      "b": "not to be late.",
+      "c": "if we were late.",
+      "d": "to be late.",
+      "e": "don't be late."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Which of the following is an expression for asking for an opinion?",
+    "pilihan": {
+      "a": "What's your take on this matter?",
+      "b": "You should see a doctor.",
+      "c": "I'm so relieved.",
+      "d": "I think we should go now.",
+      "e": "Can I help you?"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "The expression 'You had better finish your homework now' is a way of...",
+    "pilihan": {
+      "a": "Expressing satisfaction",
+      "b": "Giving strong advice/suggestion",
+      "c": "Asking for an opinion",
+      "d": "Offering help",
+      "e": "Asking for permission"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "A: 'The bag looks heavy.' B: '...' This is a correct response to an offer of help.",
+    "pilihan": {
+      "a": "Ouch!",
+      "b": "Yes, please. That's very kind of you.",
+      "c": "You must not touch it.",
+      "d": "What is your opinion?",
+      "e": "I don't think so."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "The structure of a news item text is Newsworthy Event, Background Event(s), and...",
+    "pilihan": {
+      "a": "Source",
+      "b": "Steps",
+      "c": "Argument",
+      "d": "Resolution",
+      "e": "Reiteration"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "A recipe is a classic example of a ... text.",
+    "pilihan": {
+      "a": "Procedure",
+      "b": "Analytical Exposition",
+      "c": "News Item",
+      "d": "Narrative",
+      "e": "Explanation"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Complete the sentence: 'The students ... when the principal entered the classroom.'",
+    "pilihan": {
+      "a": "have studied",
+      "b": "study",
+      "c": "will study",
+      "d": "were studying",
+      "e": "are studying"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "The passive form of 'They will build a new bridge' is...",
+    "pilihan": {
+      "a": "A new bridge is built by them.",
+      "b": "A new bridge will be built by them.",
+      "c": "A new bridge has been built by them.",
+      "d": "A new bridge was built by them.",
+      "e": "A new bridge is being built by them."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Direct speech: She asked, 'Where do you live?' The indirect speech is: She asked me...",
+    "pilihan": {
+      "a": "where did I live.",
+      "b": "where I had lived.",
+      "c": "where I lived.",
+      "d": "where I live.",
+      "e": "where do I live."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "The expression 'I'm not happy about this at all' shows...",
+    "pilihan": {
+      "a": "Dissatisfaction",
+      "b": "Relief",
+      "c": "Pain",
+      "d": "Offer",
+      "e": "Satisfaction"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "The sign 'No Entry' expresses a/an...",
+    "pilihan": {
+      "a": "Opinion",
+      "b": "Prohibition",
+      "c": "Suggestion",
+      "d": "Offer",
+      "e": "Invitation"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fairy tales like 'Cinderella' or 'Snow White' are examples of ... text.",
+    "pilihan": {
+      "a": "Narrative",
+      "b": "Analytical Exposition",
+      "c": "Procedure",
+      "d": "News Item",
+      "e": "Explanation"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "If I ... the lottery, I will buy a new house.",
+    "pilihan": {
+      "a": "win",
+      "b": "had won",
+      "c": "won",
+      "d": "would win",
+      "e": "am winning"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "The thesis in an analytical exposition text serves to...",
+    "pilihan": {
+      "a": "Tell the conclusion of a story",
+      "b": "Provide a step-by-step guide",
+      "c": "Describe the background of a news event",
+      "d": "Introduce the main argument or the writer's point of view",
+      "e": "List the materials needed for a task"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Complete the sentence: 'The phone rang while I ... a shower.'",
+    "pilihan": {
+      "a": "take",
+      "b": "have taken",
+      "c": "was taking",
+      "d": "will take",
+      "e": "am taking"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Direct speech: 'I will call you tomorrow,' he said. The indirect speech is: He said that he ... me the next day.",
+    "pilihan": {
+      "a": "would call",
+      "b": "is calling",
+      "c": "has called",
+      "d": "will call",
+      "e": "calls"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "After searching for your lost keys for an hour, you finally find them. What is an appropriate expression of relief?",
+    "pilihan": {
+      "a": "Thank goodness! I've found them.",
+      "b": "In my opinion, this is great.",
+      "c": "You are not allowed to do that.",
+      "d": "Ouch! That's painful.",
+      "e": "I'm so dissatisfied."
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "This is the hospital ... my brother works.",
+    "pilihan": {
+      "a": "when",
+      "b": "who",
+      "c": "where",
+      "d": "whose",
+      "e": "which"
+    },
+    "jawaban": "c"
+  }
+]
