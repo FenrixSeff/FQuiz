@@ -70,9 +70,8 @@ def reset_kunci_jawaban(target, veborse=False):
     _simpan(target, file)
 
 dft = {"1": "Cek distribusi jawaban",
-       "2": "Set indentasi format json",
+       "2": "Reset kunci jawaban",
        "3": "Hapus riwayat",
-       "4": "Reset kunci jawaban",
        "0": "Keluar"
     }
 
@@ -90,7 +89,7 @@ while True:
     table.clear()
     user = int(table.get_input("Pilih opsi", "normal"))
     if user == 0:
-        print("\nDevTools v1.7.16")
+        print("\nDevTools v1.7.17")
         exit(0)
 
     elif user == 1:
@@ -118,7 +117,7 @@ while True:
             src.set_target(DEFAULT["data"])
             src.set_pola("*/")
             src.set_jenis("dir")
-            k = src.input_user("Set Indentasi", "Pilih kelas")
+            k = src.input_user("Reset Kunci Jawaban", "Pilih kelas")
             if not k:
                 break
             while True:
@@ -128,8 +127,7 @@ while True:
                 p = src.input_user("Set Indentasi", "Pilih Mapel")
                 if not p:
                     break
-                c = _buka_file(p)
-                _simpan(p, c)
+                reset_kunci_jawaban(p)
                 table.get_input("Success, Enter untuk melanjutkan")
                 break
 
@@ -138,23 +136,3 @@ while True:
         os.system("cls" if os.name == "nt" else "clear")
         RiwayatHandler().hapus_semua_riwayat()
         table.get_input("Succes, Enter untuk melanjutkan")
-
-    elif user == 4:
-        while True:
-            os.system("cls" if os.name == "nt" else "clear")
-            src.set_target(DEFAULT["data"])
-            src.set_pola("*/")
-            src.set_jenis("dir")
-            k = src.input_user("Reset Kunci Jawaban", "Pilih kelas")
-            if not k:
-                break
-            while True:
-                src.set_target(k)
-                src.set_pola("*.json")
-                src.set_jenis("file")
-                p = src.input_user("Reset Kunci Jawaban", "Pilih Mapel")
-                if not p:
-                    break
-                reset_kunci_jawaban(p)
-                table.get_input("Success, Enter untuk melanjutkan")
-                break
