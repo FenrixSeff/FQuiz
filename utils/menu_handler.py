@@ -6,10 +6,12 @@ from .path_explorer import Telusur
 from .riwayat_handler import riwayat
 from .rowbot import VerticalTable
 from .timer import pilih_durasi_waktu
+from .update import update_repo
 
 menu_utama = {
     "1": "Main",
     "2": "History",
+    "3": "Update",
     "0": "Keluar"
     }
 
@@ -89,6 +91,11 @@ def olah_menu():
                             break
                         case _:
                             msg, icon = "Masukan opsi yg tersedia", "e"
+            case "3" | "update":
+                msg, icon = "Tekan Enter untuk melanjutkan", "normal"
+                table = VerticalTable()
+                update_repo()
+                table.get_input(msg_prompt=msg, info=icon)
             case "0" | "keluar":
                 sys.exit(0)
             case _:
