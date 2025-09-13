@@ -6,7 +6,7 @@ from .path_explorer import Telusur
 from .riwayat_handler import riwayat
 from .rowbot import VerticalTable
 from .timer import pilih_durasi_waktu
-from .update import update_repo
+from .update import update_repo, logs
 
 menu_utama = {
     "1": "Main",
@@ -20,6 +20,12 @@ menu_riwayat = {
     "2": "Terlama",
     "3": "Nilai Tertinggi",
     "4": "Nilai Terendah",
+    "0": "Kembali"
+    }
+
+menu_update = {
+    "1": "Riwayat Update",
+    "2": "Update Repository",
     "0": "Kembali"
     }
 
@@ -92,10 +98,24 @@ def olah_menu():
                         case _:
                             msg, icon = "Masukan opsi yg tersedia", "e"
             case "3" | "update":
-                msg, icon = "Tekan Enter untuk melanjutkan", "normal"
                 table = VerticalTable()
-                update_repo()
-                table.get_input(msg_prompt=msg, info=icon)
+                msg, icon = "Apa yang ingin anda lakukan", "normal"
+                while True:
+                    user = menus(menu_update, head="Update",
+                        msg=msg, info=icon)
+                    match user:
+                        case "1" | "riwayat":
+                            logs()
+                            table.get_input(
+                                "Tekan Enter untuk melanjutkan")
+                        case "2" | "update":
+                            update_repo()
+                            table.get_input(
+                                "Tekan Enter untuk melanjutkan")
+                        case "0" | "kembali":
+                            break
+                        case _:
+                            msg, icon = "Masukan opsi yg tersedia", "e"
             case "0" | "keluar":
                 sys.exit(0)
             case _:
