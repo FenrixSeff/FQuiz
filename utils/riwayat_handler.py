@@ -12,9 +12,10 @@ def riwayat(mode="tertinggi", dasar="nilai"):
         logs = [log]
     else:
         logs = log
-    for tg, pl, bw, sw, wm, bn, sl, nl in logs:
+    for tg, kl, pl, bw, sw, wm, bn, sl, nl in logs:
         dft = {
             "Tanggal": tg,
+            "Kelas": kl.upper(),
             "Mata Pelajaran": pl.title(),
             "Batas Waktu": f"{bw} Menit",
             "Waktu Tersisa": f"{sw} Menit",

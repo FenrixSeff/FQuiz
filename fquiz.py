@@ -109,9 +109,9 @@ if daftar_koreksi:
             table.clear()
 
 tanggal = time.strftime("%A, %d %B %Y")
-save.simpan_riwayat(tanggal, mapel.stem, durasi_waktu,
-                    waktu_tersisa[0], f"{mulai} - {selesai}",
-                    benar, salah, nilai)
+save.simpan_riwayat(tanggal, mapel.parent.name, mapel.stem,
+                    durasi_waktu, waktu_tersisa[0],
+                    f"{mulai} - {selesai}", benar, salah, nilai)
 
 quote = parse_json(Path(__file__).parent / ".quote/quote.json")
 table.single_colum(
@@ -119,5 +119,5 @@ table.single_colum(
     ">> Devloper    : Makasih dah coba project gabut ini brooo",
     ">> Corrected   : Fenrix",
     ">> Instagram   : @seff_hi7",
-    ">> Version     : FQuiz v1.69.49",
+    ">> Version     : FQuiz v1.70.49",
     align="left")

@@ -1,6 +1,7 @@
 CREATE TABLE IF NOT EXISTS riwayat(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     tanggal TEXT,
+    kelas TEXT,
     pelajaran TEXT,
     batas_waktu INTEGER,
     waktu_tersisa INTEGER,

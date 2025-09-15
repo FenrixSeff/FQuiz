@@ -143,7 +143,8 @@ class RiwayatHandler(DatabaseHandler):
         self.execute_script(query)
 
 
-    def simpan_riwayat(self, tanggal: str, pelajaran: str,
+    def simpan_riwayat(self, tanggal: str,
+                       kelas: str, pelajaran: str,
                        batas_waktu: int, waktu_tersisa: int,
                        mulai_mengerjakan: str, benar: int,
                        salah: int, nilai: float):
@@ -168,8 +169,8 @@ class RiwayatHandler(DatabaseHandler):
             nilai (float): Skor akhir yang didapat.
         """
         query = self._parse_sql(self.fqy_simpan)
-        param = (tanggal, pelajaran, batas_waktu, waktu_tersisa,
-                 mulai_mengerjakan, benar, salah, nilai)
+        param = (tanggal, kelas, pelajaran, batas_waktu,
+                 waktu_tersisa, mulai_mengerjakan, benar, salah, nilai)
         self.execute_query(query, param)
 
 
