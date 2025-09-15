@@ -19,7 +19,10 @@ def update_repo():
         t.join()
         print(f"\nFQuiz {up.stdout}")
     except subprocess.CalledProcessError as e:
+        load.done()
+        t.join()
         print("\nUpdate gagal")
+
 
 def logs(limit=5):
     os.system("cls" if os.name == "nt" else "clear")
