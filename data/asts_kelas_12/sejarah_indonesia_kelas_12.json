@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Lembaga yang dibentuk pada 7 Agustus 1945 untuk menggantikan BPUPKI dan diketuai oleh Ir. Soekarno adalah...",
+    "pilihan": {
+      "a": "NICA",
+      "b": "Komite Nasional Indonesia Pusat (KNIP)",
+      "c": "Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan (BPUPKI)",
+      "d": "Panitia Persiapan Kemerdekaan Indonesia (PPKI)",
+      "e": "Tentara Keamanan Rakyat (TKR)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu hasil paling fundamental dari sidang PPKI pada 18 Agustus 1945 adalah...",
+    "pilihan": {
+      "a": "Mengesahkan UUD 1945 serta mengangkat Presiden dan Wakil Presiden",
+      "b": "Menyusun naskah proklamasi",
+      "c": "Membentuk partai-partai politik",
+      "d": "Menandatangani Perjanjian Linggajati",
+      "e": "Membubarkan tentara PETA"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Setelah proklamasi, para pemuda mengambil alih stasiun radio untuk tujuan utama...",
+    "pilihan": {
+      "a": "Memutar lagu-lagu perjuangan",
+      "b": "Mengontrol komunikasi antar pejuang",
+      "c": "Menghibur rakyat yang sedang tegang",
+      "d": "Menjadikannya markas pertahanan",
+      "e": "Menyiarkan berita proklamasi kemerdekaan ke seluruh Indonesia dan dunia"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tugas utama NICA yang datang bersama tentara Sekutu setelah kemerdekaan Indonesia adalah...",
+    "pilihan": {
+      "a": "Memberikan bantuan kemanusiaan",
+      "b": "Menjadi penengah antara Indonesia dan Jepang",
+      "c": "Membantu Indonesia membangun negara",
+      "d": "Melucuti tentara Jepang dan memulangkan mereka",
+      "e": "Mendirikan kembali pemerintahan kolonial Hindia Belanda"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pemicu utama pecahnya Pertempuran Ambarawa adalah tindakan Sekutu (NICA) yang...",
+    "pilihan": {
+      "a": "Membebaskan dan mempersenjatai tawanan Belanda",
+      "b": "Menawarkan perjanjian damai",
+      "c": "Membangun pangkalan militer baru",
+      "d": "Membagikan bahan makanan kepada rakyat",
+      "e": "Membantu TKR melucuti senjata Jepang"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Nilai utama yang dapat dipetik dari heroiknya perjuangan rakyat Surabaya pada 10 November 1945 adalah...",
+    "pilihan": {
+      "a": "Patriotisme, keberanian, dan semangat persatuan melawan penjajah",
+      "b": "Pentingnya persenjataan modern",
+      "c": "Keinginan untuk menyerah demi perdamaian",
+      "d": "Ketergantungan pada bantuan asing",
+      "e": "Keberhasilan strategi diplomasi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Alasan utama para pejuang dan rakyat Bandung menerapkan strategi 'bumi hangus' dalam peristiwa Bandung Lautan Api adalah...",
+    "pilihan": {
+      "a": "Karena tidak sengaja terjadi kebakaran besar",
+      "b": "Untuk membangun kota baru yang lebih modern",
+      "c": "Agar kota Bandung tidak dapat dimanfaatkan oleh Sekutu dan NICA",
+      "d": "Sebagai bentuk protes terhadap pemerintah RI",
+      "e": "Untuk menakut-nakuti tentara Jepang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Salah satu isi Perjanjian Linggajati adalah pengakuan Belanda secara de facto atas wilayah RI yang meliputi...",
+    "pilihan": {
+      "a": "Kalimantan dan Sulawesi",
+      "b": "Seluruh wilayah Hindia Belanda",
+      "c": "Hanya Yogyakarta",
+      "d": "Sumatra, Jawa, dan Madura",
+      "e": "Jawa dan Madura"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Perjanjian yang sangat merugikan RI karena wilayahnya menjadi sangat sempit dan harus mengakui garis demarkasi van Mook adalah Perjanjian...",
+    "pilihan": {
+      "a": "Roem-Royen",
+      "b": "Linggajati",
+      "c": "Kalijati",
+      "d": "KMB",
+      "e": "Renville"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu hasil penting dari Perjanjian Roem-Royen adalah...",
+    "pilihan": {
+      "a": "Persetujuan Belanda untuk mengembalikan Pemerintah RI ke Yogyakarta",
+      "b": "Indonesia harus membayar utang Hindia Belanda",
+      "c": "Pembentukan Negara Indonesia Serikat",
+      "d": "Penyerahan Irian Barat kepada Indonesia",
+      "e": "Belanda mengakui kedaulatan RI tanpa syarat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dampak negatif utama dari Konferensi Meja Bundar (KMB) bagi kondisi keuangan Indonesia adalah...",
+    "pilihan": {
+      "a": "Bank-bank Belanda ditutup",
+      "b": "Terjadinya inflasi besar-besaran",
+      "c": "Mata uang Belanda tidak berlaku lagi",
+      "d": "Indonesia mendapat bantuan ekonomi dari Belanda",
+      "e": "Indonesia harus menanggung seluruh utang warisan Hindia Belanda"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Arti penting KMB bagi Indonesia di mata dunia internasional adalah...",
+    "pilihan": {
+      "a": "Indonesia menjadi negara komunis",
+      "b": "Indonesia bergabung dengan Blok Barat",
+      "c": "Indonesia resmi diakui kedaulatannya sebagai negara merdeka",
+      "d": "Indonesia menjadi negara bawahan Belanda",
+      "e": "Indonesia harus mengembalikan kemerdekaannya"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Setelah KMB, Indonesia berbentuk Republik Indonesia Serikat (RIS). Berikut ini adalah faktor yang mendorong kembalinya Indonesia ke bentuk NKRI, KECUALI...",
+    "pilihan": {
+      "a": "Dukungan dari Tentara Nasional Indonesia (TNI)",
+      "b": "Ketidakpuasan terhadap bentuk negara federal yang dianggap warisan Belanda",
+      "c": "Adanya tuntutan rakyat yang menginginkan negara kesatuan",
+      "d": "Tekanan militer dari Belanda untuk mempertahankan RIS",
+      "e": "Peran BFO yang mendukung pembubaran RIS"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Maklumat Pemerintah tanggal 3 November 1945 yang dikeluarkan oleh Wapres Moh. Hatta menjadi dasar bagi...",
+    "pilihan": {
+      "a": "Sistem pemerintahan presidensial",
+      "b": "Politik luar negeri bebas-aktif",
+      "c": "Pelaksanaan pemilu pertama",
+      "d": "Pembentukan tentara nasional",
+      "e": "Sistem multi-partai di Indonesia"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ciri utama sistem pemerintahan pada masa Demokrasi Liberal (1950-1959) adalah...",
+    "pilihan": {
+      "a": "Hanya ada satu partai politik yang berkuasa",
+      "b": "UUD 1945 dilaksanakan secara murni dan konsekuen",
+      "c": "Militer memegang kendali pemerintahan",
+      "d": "Kekuasaan presiden sangat kuat dan absolut",
+      "e": "Kabinet bertanggung jawab kepada parlemen dan sering terjadi mosi tidak percaya"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu penyebab utama kegagalan Program Benteng pada masa Kabinet Natsir adalah...",
+    "pilihan": {
+      "a": "Banyak pengusaha pribumi yang menyalahgunakan lisensi impornya (sistem ali baba)",
+      "b": "Penolakan dari pengusaha non-pribumi",
+      "c": "Kurangnya dukungan dari pemerintah",
+      "d": "Terjadinya krisis ekonomi global",
+      "e": "Pengusaha pribumi sangat kompetitif dan mandiri"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kabinet Sukiman jatuh karena menandatangani perjanjian bantuan dari Amerika Serikat yang dianggap melanggar politik luar negeri bebas-aktif, yaitu...",
+    "pilihan": {
+      "a": "Konferensi Meja Bundar (KMB)",
+      "b": "Deklarasi Djuanda",
+      "c": "Mutual Security Act (MSA)",
+      "d": "Perjanjian Linggajati",
+      "e": "Perjanjian Renville"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Empat partai politik pemenang Pemilu 1955 untuk memilih anggota DPR secara berurutan adalah...",
+    "pilihan": {
+      "a": "PKI, NU, PNI, Masyumi",
+      "b": "PNI, Golkar, PPP, PDI",
+      "c": "NU, PKI, Masyumi, PNI",
+      "d": "PNI, Masyumi, NU, PKI",
+      "e": "Masyumi, PNI, PKI, NU"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Prestasi terbesar Kabinet Ali Sastroamidjojo I di bidang politik luar negeri adalah...",
+    "pilihan": {
+      "a": "Membubarkan Uni Indonesia-Belanda",
+      "b": "Menasionalisasi perusahaan-perusahaan asing",
+      "c": "Menyelenggarakan Pemilu 1955",
+      "d": "Menyelenggarakan Konferensi Asia-Afrika (KAA) di Bandung",
+      "e": "Berhasil merebut Irian Barat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Berikut ini yang BUKAN merupakan ciri dari Demokrasi Terpimpin adalah...",
+    "pilihan": {
+      "a": "Ideologi NASAKOM menjadi asas politik",
+      "b": "Pembentukan lembaga MPRS dan DPAS",
+      "c": "Kekuasaan terpusat di tangan Presiden Soekarno",
+      "d": "Berlakunya sistem multi-partai yang sangat bebas",
+      "e": "Penyederhanaan partai politik"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Peristiwa yang menjadi penanda awal berlakunya sistem Demokrasi Terpimpin secara resmi adalah...",
+    "pilihan": {
+      "a": "Dikeluarkannya Supersemar",
+      "b": "Peristiwa G30S/PKI",
+      "c": "Dikeluarkannya Dekrit Presiden 5 Juli 1959",
+      "d": "Pemilu 1955",
+      "e": "Konferensi Asia-Afrika"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kebijakan ekonomi Program Benteng yang bertujuan membangun pengusaha pribumi merupakan kebijakan pada masa...",
+    "pilihan": {
+      "a": "Orde Baru",
+      "b": "Pendudukan Jepang",
+      "c": "Demokrasi Terpimpin",
+      "d": "Reformasi",
+      "e": "Demokrasi Liberal"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Peristiwa yang dianggap sebagai penanda akhir dari era Demokrasi Terpimpin adalah...",
+    "pilihan": {
+      "a": "Gerakan 30 September 1965 (G30S/PKI)",
+      "b": "Dekrit Presiden 5 Juli 1959",
+      "c": "Proklamasi Kemerdekaan",
+      "d": "Pemilu 1955",
+      "e": "Konferensi Meja Bundar"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Proses pecahnya suatu kesatuan bangsa menjadi bagian-bagian yang terpisah sehingga keutuhannya hilang disebut...",
+    "pilihan": {
+      "a": "Disintegrasi",
+      "b": "Nasionalisme",
+      "c": "Akulturasi",
+      "d": "Asimilasi",
+      "e": "Integrasi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pemberontakan PRRI/Permesta pada masa Demokrasi Liberal dilatarbelakangi oleh...",
+    "pilihan": {
+      "a": "Dukungan terhadap sistem Demokrasi Terpimpin",
+      "b": "Kekecewaan daerah terhadap pemerintah pusat terkait otonomi dan alokasi keuangan",
+      "c": "Keinginan untuk kembali dijajah Belanda",
+      "d": "Keinginan mendirikan negara komunis",
+      "e": "Penolakan terhadap hasil Pemilu 1955"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Alasan utama paham komunisme dianggap tidak sesuai dengan Pancasila adalah karena komunisme...",
+    "pilihan": {
+      "a": "Menjunjung tinggi hak asasi manusia",
+      "b": "Menganut paham tidak ber-Tuhan (ateis) yang bertentangan dengan Sila Pertama",
+      "c": "Mengutamakan kepentingan nasional",
+      "d": "Menghargai kepemilikan pribadi",
+      "e": "Mendukung sistem demokrasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pemberontakan DI/TII yang dipimpin oleh Kartosuwiryo memiliki cita-cita ideologis untuk...",
+    "pilihan": {
+      "a": "Membentuk negara serikat",
+      "b": "Mendirikan Negara Islam Indonesia (NII)",
+      "c": "Mempertahankan ideologi Pancasila",
+      "d": "Mengembalikan kekuasaan Belanda",
+      "e": "Mendirikan negara komunis"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pembentukan dewan-dewan daerah seperti Dewan Banteng dan Dewan Gajah merupakan bentuk disintegrasi karena...",
+    "pilihan": {
+      "a": "Merupakan pemerintahan tandingan yang menentang pemerintah pusat",
+      "b": "Merupakan lembaga kebudayaan daerah",
+      "c": "Bertujuan untuk menyelenggarakan pemilu",
+      "d": "Mendukung penuh kebijakan pemerintah pusat",
+      "e": "Dibentuk atas perintah Presiden Soekarno"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Berikut ini yang merupakan sikap kebersamaan dalam menjaga keutuhan bangsa adalah...",
+    "pilihan": {
+      "a": "Menyelesaikan perbedaan dengan kekerasan",
+      "b": "Mendukung gerakan separatisme",
+      "c": "Setia kepada Pancasila dan UUD 1945",
+      "d": "Menolak keberagaman suku dan agama",
+      "e": "Mengutamakan kepentingan daerah sendiri di atas kepentingan nasional"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sidang PPKI pada 19 Agustus 1945 menghasilkan keputusan penting, yaitu...",
+    "pilihan": {
+      "a": "Mengangkat presiden dan wakil presiden",
+      "b": "Menyusun teks proklamasi",
+      "c": "Membentuk 12 kementerian dan menetapkan 8 provinsi pertama RI",
+      "d": "Membubarkan PPKI",
+      "e": "Mengesahkan UUD 1945"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tindakan para pemuda mengambil alih gudang senjata milik Jepang pasca proklamasi bertujuan untuk...",
+    "pilihan": {
+      "a": "Mengembalikannya kepada tentara Sekutu",
+      "b": "Menjadikannya koleksi museum",
+      "c": "Memusnahkan semua senjata agar tidak ada perang",
+      "d": "Menjual senjata tersebut untuk keuntungan pribadi",
+      "e": "Memperkuat persenjataan TKR dan laskar perjuangan untuk mempertahankan kemerdekaan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tanggal 10 November diperingati sebagai Hari Pahlawan untuk mengenang peristiwa...",
+    "pilihan": {
+      "a": "Bandung Lautan Api",
+      "b": "Proklamasi Kemerdekaan",
+      "c": "Agresi Militer Belanda I",
+      "d": "Pertempuran Surabaya",
+      "e": "Pertempuran Ambarawa"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dampak dari Perjanjian Linggajati yang memicu pro dan kontra di dalam negeri adalah...",
+    "pilihan": {
+      "a": "Irian Barat diserahkan kepada Indonesia",
+      "b": "Wilayah RI menjadi sangat luas",
+      "c": "Wilayah RI menyempit hanya meliputi Sumatra, Jawa, dan Madura",
+      "d": "Indonesia menjadi negara kesatuan yang kuat",
+      "e": "Belanda mengakui kedaulatan RI sepenuhnya"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Perjanjian Renville dilakukan di atas kapal perang milik negara...",
+    "pilihan": {
+      "a": "Amerika Serikat",
+      "b": "Australia",
+      "c": "Belanda",
+      "d": "Jepang",
+      "e": "Inggris"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Bentuk negara Indonesia sebagai hasil dari Konferensi Meja Bundar (KMB) adalah...",
+    "pilihan": {
+      "a": "Negara Kesatuan Republik Indonesia (NKRI)",
+      "b": "Republik Demokrasi Indonesia",
+      "c": "Republik Indonesia Serikat (RIS)",
+      "d": "Negara Islam Indonesia",
+      "e": "Kerajaan Indonesia"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Instabilitas politik pada masa Demokrasi Liberal ditandai dengan...",
+    "pilihan": {
+      "a": "Pemerintahan yang stabil dan berjalan lama",
+      "b": "Seringnya jatuh bangun kabinet pemerintahan",
+      "c": "Kekuasaan presiden yang tidak terbatas",
+      "d": "Perekonomian yang sangat maju",
+      "e": "Tidak adanya partai politik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tujuan utama diselenggarakannya Pemilu 1955 tahap kedua adalah untuk memilih anggota...",
+    "pilihan": {
+      "a": "Konstituante",
+      "b": "MPR",
+      "c": "DPR",
+      "d": "Presiden dan Wakil Presiden",
+      "e": "DPD"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu isi dari Dekrit Presiden 5 Juli 1959 adalah...",
+    "pilihan": {
+      "a": "Penyelenggaraan pemilu secepatnya",
+      "b": "Penyerahan kekuasaan kepada Soeharto",
+      "c": "Pembentukan kabinet baru",
+      "d": "Berlakunya kembali UUD 1945 dan tidak berlakunya UUDS 1950",
+      "e": "Pembubaran DPR hasil pemilu"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Ideologi NASAKOM yang menjadi landasan politik pada masa Demokrasi Terpimpin merupakan singkatan dari...",
+    "pilihan": {
+      "a": "Nasional, Sosialis, Komunis",
+      "b": "Nasionalis, Adat, Komunis",
+      "c": "Nasional, Serikat, Komando",
+      "d": "Nasionalis, Agama, Komunis",
+      "e": "Nasional, Agama, Sosial"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pemberontakan Angkatan Perang Ratu Adil (APRA) yang dipimpin oleh Kapten Westerling adalah contoh disintegrasi yang bertujuan...",
+    "pilihan": {
+      "a": "Menuntut otonomi daerah yang lebih luas",
+      "b": "Mempertahankan bentuk negara federal (RIS) dan negara Pasundan",
+      "c": "Mendirikan negara Islam",
+      "d": "Mengembalikan kekuasaan Jepang",
+      "e": "Mendirikan negara komunis"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dominasi PKI yang semakin kuat pada masa Demokrasi Terpimpin memicu konflik dengan kelompok...",
+    "pilihan": {
+      "a": "Pelajar dan mahasiswa",
+      "b": "Agama dan militer (TNI Angkatan Darat)",
+      "c": "Hanya dengan kelompok nasionalis",
+      "d": "Hanya dengan kelompok buruh",
+      "e": "Pengusaha non-pribumi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Latar belakang pemberontakan PRRI/Permesta adalah ketidakpuasan terhadap...",
+    "pilihan": {
+      "a": "Pengaruh komunisme yang terlalu lemah",
+      "b": "Hasil KMB",
+      "c": "Sistem Demokrasi Terpimpin",
+      "d": "Hasil Pemilu 1955",
+      "e": "Ketimpangan pembangunan dan alokasi dana antara pusat dan daerah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Penyelesaian masalah Irian Barat yang ditunda selama satu tahun adalah salah satu kesepakatan dalam...",
+    "pilihan": {
+      "a": "Perjanjian Roem-Royen",
+      "b": "Dekrit Presiden",
+      "c": "Perjanjian Linggajati",
+      "d": "Konferensi Meja Bundar (KMB)",
+      "e": "Perjanjian Renville"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sikap mengutamakan musyawarah mufakat untuk menyelesaikan perbedaan pendapat adalah cerminan dari sikap kebersamaan yang sesuai dengan Pancasila sila ke-...",
+    "pilihan": {
+      "a": "Dua",
+      "b": "Empat",
+      "c": "Lima",
+      "d": "Tiga",
+      "e": "Satu"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pemberontakan DI/TII di Jawa Barat dilatarbelakangi oleh kekecewaan terhadap pemerintah RI yang menyetujui...",
+    "pilihan": {
+      "a": "Konferensi Meja Bundar",
+      "b": "Pemilu 1955",
+      "c": "Pembentukan RIS",
+      "d": "Perjanjian Renville",
+      "e": "Perjanjian Linggajati"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tindakan membubarkan Konstituante hasil pemilu merupakan salah satu isi dari...",
+    "pilihan": {
+      "a": "Dekrit Presiden 5 Juli 1959",
+      "b": "Hasil sidang PPKI",
+      "c": "Perjanjian Roem-Royen",
+      "d": "Maklumat 3 November 1945",
+      "e": "Supersemar"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Penyebab utama instabilitas politik pada masa Demokrasi Liberal adalah...",
+    "pilihan": {
+      "a": "Intervensi militer yang kuat",
+      "b": "Sistem presidensial yang kokoh",
+      "c": "Pertentangan ideologi antar partai dan sistem parlementer yang rapuh",
+      "d": "Perekonomian yang sangat stabil",
+      "e": "Tidak adanya kebebasan pers"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Perjuangan diplomasi yang berhasil membawa Indonesia mendapat pengakuan kedaulatan penuh dari Belanda adalah...",
+    "pilihan": {
+      "a": "Bandung Lautan Api",
+      "b": "Konferensi Meja Bundar (KMB)",
+      "c": "Serangan Umum 1 Maret",
+      "d": "Pertempuran Surabaya",
+      "e": "Perang Gerilya"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gerakan separatis Republik Maluku Selatan (RMS) adalah contoh disintegrasi yang didukung oleh...",
+    "pilihan": {
+      "a": "Negara-negara Asia-Afrika",
+      "b": "Sisa-sisa tentara KNIL dan Belanda",
+      "c": "Pemerintah pusat RI",
+      "d": "Partai Komunis Indonesia",
+      "e": "Laskar-laskar perjuangan rakyat"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sikap rela berkorban demi keutuhan bangsa dan negara merupakan salah satu nilai yang dapat diteladani dari para pahlawan dalam...",
+    "pilihan": {
+      "a": "Perjuangan mempertahankan kemerdekaan",
+      "b": "Perebutan kekuasaan antar partai",
+      "c": "Praktik korupsi",
+      "d": "Pemberontakan daerah",
+      "e": "Penyalahgunaan wewenang"
+    },
+    "jawaban": "a"
+  }
+]
