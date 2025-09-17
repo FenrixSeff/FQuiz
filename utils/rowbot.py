@@ -72,7 +72,7 @@ class VerticalTable:
 
         for i, (k, v) in enumerate(self._items):
             time.sleep(delay)
-            sl_v = wrap(str(v), width=l_ka)
+            sl_v = wrap(str(v), width=l_ka -2)
             print(f"│ {str(k)[:l_ki -2]:{rata}{l_ki -2}} "
                   f"│ {str(sl_v[0])[:l_ka -2]:<{l_ka -2}} │",
                   flush=True)
