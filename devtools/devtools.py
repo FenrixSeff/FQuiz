@@ -1,73 +1,8 @@
 import os
-import sys
-import json
-import random
 from pathlib import Path
 
-lok = Path(__file__).resolve().parent.parent
-sys.path.append(str(lok))
-from utils import RiwayatHandler
-from utils import Telusur
-from utils import VerticalTable
+import handlers
 
-def _buka_file(target):
-    with open(target, "r") as f:
-        isi = json.load(f)
-    return isi
-
-def info_soal(target):
-    file = _buka_file(target)
-    table = VerticalTable()
-    os.system("cls" if os.name == "nt" else "clear")
-    a = 0
-    b = 0
-    c = 0
-    d = 0
-    e = 0
-    for i in file:
-        match i.get("jawaban").lower():
-            case "a":
-                a += 1
-            case "b":
-                b += 1
-            case "c":
-                c += 1
-            case "d":
-                d += 1
-            case _:
-                e += 1
-    dft = {
-        "Jumlah soal": len(file),
-        "Jawaban (A)": a,
-        "Jawaban (B)": b,
-        "Jawaban (C)": c,
-        "Jawaban (D)": d,
-        "Jawaban (E)": e
-    }
-    table.add_properties(dft)
-    table.lebar_manual(13, 13)
-    table.show(header="Daftar distribusi"); print()
-    table.clear()
-
-def _simpan(target, change, spasi=2):
-    with open(target, "w") as lokasi:
-        json.dump(change, lokasi, indent=spasi)
-
-def reset_kunci_jawaban(target, veborse=False):
-    file = _buka_file(target)
-    for n, soal in enumerate(file, 1):
-        k_bnr = soal.get("jawaban").lower()
-        v_bnr = soal.get("pilihan").get(k_bnr)
-        d_key = list(soal.get("pilihan").keys())
-        d_vle = list(soal.get("pilihan").values())
-        random.shuffle(d_vle)
-        convert = {k.lower(): y for k, y in zip(d_key, d_vle)}
-        for k, v in convert.items():
-            if v == v_bnr:
-                soal["jawaban"] = k.lower()
-                break
-        soal["pilihan"] = convert
-    _simpan(target, file)
 
 dft = {"1": "Cek distribusi jawaban",
        "2": "Reset kunci jawaban",
@@ -80,16 +15,16 @@ DEFAULT = {
     }
 
 while True:
-    table = VerticalTable()
-    src = Telusur()
-    os.system("clear")
+    table = handlers.VerticalTable()
+    src = handlers.Telusur()
+    os.system("cls" if os.name == "nt" else "clear")
     table.add_properties(dft)
     table.lebar_manual(5, 37)
     table.show(header="DevTools", align="center"); print()
     table.clear()
     user = int(table.get_input("Pilih opsi", "normal"))
     if user == 0:
-        print("\nDevTools v1.7.17")
+        print("\nDevTools v1.8.17")
         exit(0)
 
     elif user == 1:
@@ -108,7 +43,7 @@ while True:
                 p = src.input_user("Distribusi Jawaban", "Pilih mapel")
                 if not p:
                     break
-                info_soal(p)
+                handlers.info_soal(p)
                 table.get_input("Tekan Enter untuk melanjutkan")
 
     elif user == 2:
@@ -127,12 +62,12 @@ while True:
                 p = src.input_user("Set Indentasi", "Pilih Mapel")
                 if not p:
                     break
-                reset_kunci_jawaban(p)
+                handlers.reset_kunci_jawaban(p)
                 table.get_input("Success, Enter untuk melanjutkan")
                 break
 
     elif user == 3:
-        table = VerticalTable()
+        table = handlers.VerticalTable()
         os.system("cls" if os.name == "nt" else "clear")
         RiwayatHandler().hapus_semua_riwayat()
         table.get_input("Succes, Enter untuk melanjutkan")
