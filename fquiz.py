@@ -35,12 +35,6 @@ for no, i in enumerate(soal, 1):
     if waktu_tersisa[0] == 0:
         break
     os.system("cls" if os.name == "nt" else "clear")
-    bars = {"Waktu": waktu_tersisa[0], "Benar": benar, "Salah": salah}
-    table.add_properties(bars)
-    table.lebar_manual(10, 4)
-    table.show()
-    table.clear()
-
     table.single_colum(f"{no}. {i.get('pertanyaan')}", align="left")
     opsi = {p.upper(): j for p, j in i.get("pilihan").items()}
     table.add_properties(opsi)
@@ -48,7 +42,8 @@ for no, i in enumerate(soal, 1):
     table.show(); print()
     table.clear()
 
-    msg, icon = "Kunci jawaban anda", "normal"
+    msg, icon = (f"Time: {waktu_tersisa[0]}m | "
+                f"Correct: {benar} | Incorrect: {salah} ", "normal")
     while True:
         user = table.get_input(msg_prompt=msg, info=icon)
         opsi = list(i.get("pilihan").keys())

@@ -18,6 +18,7 @@ Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interakti
   - Database Lokal (SQLite3)
   - Data yang disimpan:
     - Tanggal
+    - Kelas
     - Mata Pelajaran
     - Batas Waktu
     - Waktu Tersisa
@@ -74,7 +75,7 @@ python fquiz.py
 
 ## Status Pengembangan
 
-Project ini masih dalam tahap awal pengembangan. Fitur dan fungsionalitas dapat berubah sewaktu-waktu.
+Project ini masih dalam tahap pengembangan. Fitur dan fungsionalitas dapat berubah sewaktu-waktu.
 
 ## Kontribusi
 
