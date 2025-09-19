@@ -176,7 +176,9 @@ class RiwayatHandler(DatabaseHandler):
 
     def baca_riwayat(self,
                      urutkan: str="terlama",
-                     by: str="id") -> list[tuple]:
+                     by: str="id",
+                     limit: int=20
+                     ) -> list[tuple]:
         """
         Mengambil semua data riwayat dari database.
 
@@ -197,7 +199,7 @@ class RiwayatHandler(DatabaseHandler):
         dasar = parse_bs.get(by.strip().lower(), "id")
         q = self._parse_sql(self.fqy_buka)
         query = q.format(sorting=urut, base=dasar)  # inject
-        return self.execute_query(query, (20,)) # sementara max 20
+        return self.execute_query(query, (limit,)) # sementara max 20
 
 
     def hapus_semua_riwayat(self):

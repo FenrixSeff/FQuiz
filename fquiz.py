@@ -114,5 +114,5 @@ table.single_colum(
     ">> Devloper    : Makasih dah coba project gabut ini brooo",
     ">> Corrected   : Fenrix",
     ">> Instagram   : @seff_hi7",
-    ">> Version     : FQuiz v1.70.49",
+    ">> Version     : FQuiz v1.71.49",
     align="left")

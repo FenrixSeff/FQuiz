@@ -7,6 +7,7 @@ from .riwayat_handler import riwayat
 from .rowbot import VerticalTable
 from .timer import pilih_durasi_waktu
 from .update import update_repo, logs
+from .settings_loader import setting
 
 menu_utama = {
     "1": "Main",
@@ -78,19 +79,29 @@ def olah_menu():
                 while True:
                     user = menus(menu_riwayat, head="History",
                                  msg=msg, info=icon)
+                    limit = setting.get("riwayat_main", {}).get(
+                        "limit", 20)
                     match user:
                         case "1" | "terbaru":
-                            riwayat(mode="terbaru", dasar="id")
+                            riwayat(mode="terbaru", dasar="id",
+                            limit=limit)
                             msg, icon = "Urut berdasarkan", "normal"
+
                         case "2" | "terlama":
-                            riwayat(mode="terlama", dasar="id")
+                            riwayat(mode="terlama", dasar="id",
+                            limit=limit)
                             msg, icon = "Urut berdasarkan", "normal"
+
                         case "3" | "nilai tertinggi":
-                            riwayat(mode="tertinggi", dasar="nilai")
+                            riwayat(mode="tertinggi", dasar="nilai",
+                            limit=limit)
                             msg, icon = "Urut berdasarkan", "normal"
+
                         case "4" | "nilai terendah":
-                            riwayat(mode="terendah", dasar="nilai")
+                            riwayat(mode="terendah", dasar="nilai",
+                            limit=limit)
                             msg, icon = "Urut berdasarkan", "normal"
+
                         case "0" | "kembali":
                             msg, icon = ("Apa yang ingin anda lakukan",
                                         "normal")
@@ -103,15 +114,19 @@ def olah_menu():
                 while True:
                     user = menus(menu_update, head="Update",
                         msg=msg, info=icon)
+                    limit = setting.get("riwayat_update", {}).get(
+                        "limit", 5)
                     match user:
                         case "1" | "riwayat":
-                            logs()
+                            logs(limit=limit)
                             table.get_input(
                                 "Tekan Enter untuk melanjutkan")
+
                         case "2" | "update":
                             update_repo()
                             table.get_input(
                                 "Tekan Enter untuk melanjutkan")
+
                         case "0" | "kembali":
                             break
                         case _:

@@ -19,9 +19,18 @@ def update_repo():
         t.join()
         print(f"\nFQuiz {up.stdout}")
     except subprocess.CalledProcessError as e:
-        load.done()
-        t.join()
-        print("\nUpdate gagal")
+        try:
+            up = subprocess.run(
+                ["git", "fetch"],
+                capture_output=True, text=True, check=True)
+            pu = subprocess.run(
+                ["git", "merge"],
+                capture_output=True, text=True, check=True)
+            print(f"\nFQuiz {up.stdout}")
+            load.done()
+            t.join()
+        except subprocess.CalledProcessError as e:
+            print(f"\nUpdate gagal\n{e}")
 
 
 def logs(limit=5):

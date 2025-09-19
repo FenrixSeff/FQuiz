@@ -1,0 +1,5 @@
+[riwayat_main]
+limit = 10      # Setting jumlah maksimal riwayat yang ditampilkan
+
+[riwayat_update]
+limit = 5       # Setting jumlah maksimal riwayat yang ditampilkan

@@ -36,18 +36,31 @@ Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interakti
 - Python 3.x+
 - Git (untuk clone repository)
 
-## Instalasi
+## Instalasi dan Konfigurasi
 
 1. Clone repository
+
 ```bash
 git clone https://github.com/FenrixSeff/FQuiz.git
 ```
 2. Masuk ke direktori
+
 ```bash
 cd FQuiz
 ```
-## Penggunaan
-Jalankan program dengan perintah:
+3. Edit settingan default
+  - Copy file example
+
+```bash
+cp settings.toml.example settings.toml
+```
+  - Edit file dan ikuti instruksi didalamnya
+
+```bash
+micro settings.toml
+```
+Jika ingin melakukan konfigurasi edit file `settings.toml` bukan `settings.toml.example`
+4. Jalankan program dengan perintah
 
 ```bash
 python fquiz.py
