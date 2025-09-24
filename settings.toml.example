@@ -3,3 +3,7 @@ limit = 10      # Setting jumlah maksimal riwayat yang ditampilkan
 
 [riwayat_update]
 limit = 5       # Setting jumlah maksimal riwayat yang ditampilkan
+
+[fquiz]
+kocok_quiz = true   # Acak urutan soal
+kocok_keys = false  # Acak kunci jawaban

@@ -8,6 +8,7 @@ from utils import hitung_mundur
 from utils import RiwayatHandler
 from utils import parse_json
 from utils import VerticalTable
+from utils import kocok_urutan_soal, kocok_kunci_jawaban
 
 save = RiwayatHandler()
 save.init_db()
@@ -15,15 +16,15 @@ save.init_db()
 mapel, durasi_waktu = main()
 soal = parse_json(mapel)
 
+kocok_urutan_soal(soal)
+kocok_kunci_jawaban(soal)
+
 waktu_tersisa = [0]
 stop = Event()
 Thread(
     target=hitung_mundur,
     args=(durasi_waktu, waktu_tersisa, stop),
     daemon=True).start()
-
-for _ in range(random.randint(1, 100)):
-    random.shuffle(soal)
 
 benar = 0
 salah = 0
@@ -42,7 +43,7 @@ for no, i in enumerate(soal, 1):
     table.show(); print()
     table.clear()
 
-    msg, icon = (f"Time: {waktu_tersisa[0]}m | "
+    msg, icon = (f" Time: {waktu_tersisa[0]}m | "
                 f"Correct: {benar} | Incorrect: {salah} ", "normal")
     while True:
         user = table.get_input(msg_prompt=msg, info=icon)
@@ -114,5 +115,5 @@ table.single_colum(
     ">> Devloper    : Makasih dah coba project gabut ini brooo",
     ">> Corrected   : Fenrix",
     ">> Instagram   : @seff_hi7",
-    ">> Version     : FQuiz v1.71.49",
+    ">> Version     : FQuiz v1.72.49",
     align="left")

@@ -26,7 +26,7 @@ def update_repo():
             pu = subprocess.run(
                 ["git", "merge"],
                 capture_output=True, text=True, check=True)
-            print(f"\nFQuiz {up.stdout}")
+            print(f"\nFQuiz {up.stdout}{pu.stdout}")
             load.done()
             t.join()
         except subprocess.CalledProcessError as e:

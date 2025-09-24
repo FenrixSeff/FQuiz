@@ -1,7 +1,6 @@
 import os
 import sys
 import json
-import random
 from pathlib import Path
 
 lok = Path(__file__).resolve().parent.parent.parent
@@ -9,11 +8,11 @@ sys.path.append(str(lok))
 from utils import RiwayatHandler
 from utils import Telusur
 from utils import VerticalTable
+from utils import parse_json
+from utils import kocok_kunci_jawaban
 
 def _buka_file(target):
-    with open(target, "r") as f:
-        isi = json.load(f)
-    return isi
+    return parse_json(target)
 
 def info_soal(target):
     file = _buka_file(target)
@@ -53,20 +52,9 @@ def _simpan(target, change, spasi=2):
     with open(target, "w") as lokasi:
         json.dump(change, lokasi, indent=spasi)
 
-def reset_kunci_jawaban(target, veborse=False):
+def reset_kunci_jawaban(target):
     file = _buka_file(target)
-    for n, soal in enumerate(file, 1):
-        k_bnr = soal.get("jawaban").lower()
-        v_bnr = soal.get("pilihan").get(k_bnr)
-        d_key = list(soal.get("pilihan").keys())
-        d_vle = list(soal.get("pilihan").values())
-        random.shuffle(d_vle)
-        convert = {k.lower(): y for k, y in zip(d_key, d_vle)}
-        for k, v in convert.items():
-            if v == v_bnr:
-                soal["jawaban"] = k.lower()
-                break
-        soal["pilihan"] = convert
+    kocok_kunci_jawaban(file, y=True)
     _simpan(target, file)
 
 

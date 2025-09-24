@@ -57,9 +57,10 @@ cp settings.toml.example settings.toml
   - Edit file dan ikuti instruksi didalamnya
 
 ```bash
-micro settings.toml
+  micro settings.toml
 ```
 Jika ingin melakukan konfigurasi edit file `settings.toml` bukan `settings.toml.example`
+```
 4. Jalankan program dengan perintah
 
 ```bash
