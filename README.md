@@ -57,10 +57,10 @@ cp settings.toml.example settings.toml
   - Edit file dan ikuti instruksi didalamnya
 
 ```bash
-  micro settings.toml
+micro settings.toml
 ```
 Jika ingin melakukan konfigurasi edit file `settings.toml` bukan `settings.toml.example`
-```
+
 4. Jalankan program dengan perintah
 
 ```bash
@@ -86,10 +86,6 @@ python fquiz.py
 - Tabel riwayat
 
 ![Riwayat](assets/new/contoh_riwayat.jpg)
-
-## Status Pengembangan
-
-Project ini masih dalam tahap pengembangan. Fitur dan fungsionalitas dapat berubah sewaktu-waktu.
 
 ## Kontribusi
 
