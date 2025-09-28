@@ -2,71 +2,70 @@
 
 Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interaktif. Pengguna dapat memilih kelas dan mata pelajaran.
 
+
 ## Fitur
-- **Pemilihan Kelas & Mapel**:
-  - Baru tersedia beberapa kelas dan pelajaran saja
 
-- **Monitoring**:
-  - Batas waktu tersisa
-  - Jumlah benar dan salah saat dijalankan
+- **Pemilihan Kelas & Mata Pelajaran**
+  Tersedia berbagai pilihan kelas dan mata pelajaran
 
-- **Sistem Penilaian Otomatis**:
-  - Hitung nilai akhir (persentase)
-  - Durasi pengerjaan
+- **Monitoring Real-time**
+  - Penghitungan waktu pengerjaan
+  - Statistik benar/salah selama mengerjakan
 
-- **Riwayat**:
-  - Database Lokal (SQLite3)
-  - Data yang disimpan:
-    - Tanggal
-    - Kelas
-    - Mata Pelajaran
-    - Batas Waktu
-    - Waktu Tersisa
-    - Waktu Mulai - Selesai Mengerjakan
-    - Jumlah Benar
-    - Jumlah Salah
-    - Nilai Akhir
+- **Sistem Penilaian Otomatis**
+  - Perhitungan nilai akhir (persentase)
+  - Durasi pengerjaan otomatis
+
+- **Riwayat Terintegrasi**
+  - Database SQLite3 lokal
+  - Menyimpan data lengkap:
+    - Tanggal pengerjaan
+    - Kelas & mata pelajaran
+    - Batas waktu & waktu tersisa
+    - Waktu mulai & selesai
+    - Jumlah benar & salah
+    - Nilai akhir
 
 - **Fitur Lainnya**:
   - Koreksi jawaban otomatis
   - Auto-stop saat melebihi batas waktu
   - Developer tools untuk mengolah soal (beta)
 
+
 ## Prasyarat
+
 - Python 3.x+
 - Git (untuk clone repository)
 
-## Instalasi dan Konfigurasi
+## Instalasi & Konfigurasi
 
-1. Clone repository
-
-```bash
-git clone https://github.com/FenrixSeff/FQuiz.git
+1. **Clone repository**
+   ```bash
+   git clone https://github.com/FenrixSeff/FQuiz.git
 ```
-2. Masuk ke direktori
 
-```bash
-cd FQuiz
-```
-3. Edit settingan default
-  - Copy file example
+1. Masuk ke direktori project
+   ```bash
+   cd FQuiz
+   ```
+2. Konfigurasi settings
+   · Salin file contoh:
+     ```bash
+     cp settings.toml.example settings.toml
+     ```
+   - Edit file settings.toml dengan editor teks yang ada punya:
+     ```bash
+     nano settings.toml
+     # atau
+     micro settings.toml
+     ```
+3. Jalankan aplikasi
+   ```bash
+   python fquiz.py
+   ```
 
-```bash
-cp settings.toml.example settings.toml
-```
-  - Edit file dan ikuti instruksi didalamnya
-
-```bash
-micro settings.toml
-```
-Jika ingin melakukan konfigurasi edit file `settings.toml` bukan `settings.toml.example`
-
-4. Jalankan program dengan perintah
-
-```bash
-python fquiz.py
-```
 ## Demo
+
 - Daftar Mata Pelajaran
 
 ![Mapel](assets/new/contoh_daftar_pelajaran.jpg)

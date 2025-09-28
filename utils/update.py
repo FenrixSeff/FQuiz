@@ -47,7 +47,7 @@ def update_repo():
             return
 
         _run_command(["git", "pull", "origin", "main"])
-        print("fquiz: Update berhasil")
+        print("fquiz: Update berhasil\n")
         stop.set()
         t.join()
 
