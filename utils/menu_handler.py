@@ -8,6 +8,7 @@ from .rowbot import VerticalTable
 from .timer import pilih_durasi_waktu
 from .update import update_repo, logs
 from .settings_loader import setting
+from .loading import Loading
 
 menu_utama = {
     "1": "Main",
@@ -39,7 +40,7 @@ def menus(dict_target=menu_utama, head="Menu",
     table.show(header=f"{head}", align="center"); print()
     plh_mnu = table.get_input(msg_prompt=msg, info=info)
     num, arg = list(dict_target.keys()), list(dict_target.values())
-    if plh_mnu in num or arg:
+    if plh_mnu in num or arg or ["fquiz", "fenrix"]:
         return plh_mnu
 
 def olah_menu():
@@ -131,6 +132,12 @@ def olah_menu():
                             break
                         case _:
                             msg, icon = "Masukan opsi yg tersedia", "e"
+            case "fquiz" | "fenrix":
+                os.system("cls" if os.name == "nt" else "clear")
+                table = VerticalTable()
+                load = Loading()
+                load.fquiz(delay=0); print("\n")
+                table.get_input("Tekan Enter untuk melanjutkan")
             case "0" | "keluar":
                 sys.exit(0)
             case _:

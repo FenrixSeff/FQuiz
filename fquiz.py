@@ -9,28 +9,34 @@ from utils import RiwayatHandler
 from utils import parse_json
 from utils import VerticalTable
 from utils import kocok_urutan_soal, kocok_kunci_jawaban
+from utils import Loading
 
+stop = Event()
 save = RiwayatHandler()
+load = Loading()
+table = VerticalTable()
+benar = 0
+salah = 0
+waktu_tersisa = [0]
+daftar_koreksi = []
+
 save.init_db()
-
 mapel, durasi_waktu = main()
-soal = parse_json(mapel)
 
+soal = parse_json(mapel)
 kocok_urutan_soal(soal)
 kocok_kunci_jawaban(soal)
 
-waktu_tersisa = [0]
-stop = Event()
+os.system("cls" if os.name == "nt" else "clear")
+load.fquiz(delay=0); print("\n")
+table.get_input("Tekan Enter untuk melanjutkan")
+
 Thread(
     target=hitung_mundur,
     args=(durasi_waktu, waktu_tersisa, stop),
     daemon=True).start()
 
-benar = 0
-salah = 0
-table = VerticalTable()
 mulai = time.strftime("%H:%M")
-daftar_koreksi = []
 
 for no, i in enumerate(soal, 1):
     if waktu_tersisa[0] == 0:
@@ -115,5 +121,5 @@ table.single_colum(
     ">> Devloper    : Makasih dah coba project gabut ini brooo",
     ">> Corrected   : Fenrix",
     ">> Instagram   : @seff_hi7",
-    ">> Version     : FQuiz v1.72.50",
+    ">> Version     : FQuiz v1.73.50",
     align="left")

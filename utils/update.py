@@ -15,9 +15,12 @@ def _run_command(cmd):
         )
 
 def update_repo():
+    os.system("cls" if os.name == "nt" else "clear")
     stop = Event()
     load = Loading(stop)
     try:
+        load.fquiz(delay=0)
+        print("\n")
         t = Thread(
             target=load.bars,
             kwargs={"msg": "Checking update..", "delay": 0.5},
@@ -29,29 +32,29 @@ def update_repo():
             time.sleep(1)
             stop.set()
             t.join()
-            print("\nFQuiz: Anda memiliki perubahan lokal yang belum "
-                  "di-commit")
+            print("\nfquiz: Anda memiliki perubahan lokal yang belum "
+                  "di-commit\n")
             return
 
         _run_command(["git", "fetch"])
-        lokal = _run_command(["git", "rev-parse", "HEAD"]).strip()
-        remot = _run_command(["git", "rev-parse", "origin/main"]).strip()
+        lokal = _run_command(["git", "rev-parse", "HEAD"])
+        remot = _run_command(["git", "rev-parse", "origin/main"])
         if lokal == remot:
             time.sleep(1)
             stop.set()
             t.join()
-            print("\nFQuiz: Anda sudah di versi terbaru")
+            print("\nfquiz: Anda sudah di versi terbaru\n")
             return
 
         _run_command(["git", "pull", "origin", "main"])
-        print("FQuiz: Update berhasil")
+        print("fquiz: Update berhasil")
         stop.set()
         t.join()
 
     except subprocess.CalledProcessError as e:
-        print(f"\nFQuiz: Update gagal\n {e}")
+        print(f"\nfquiz: Update gagal\n {e}\n")
     except FileNotFoundError:
-        print("\nFQuiz: Trjadi kesalah pada git")
+        print("\nfquiz: Trjadi kesalah pada git\n")
     finally:
         stop.set()
         t.join()
@@ -72,7 +75,7 @@ def logs(limit=5):
             align="center"); print()
 
     except (subprocess.CalledProcessError, FileNotFoundError) as e:
-        print(f"\nFQuiz: Gagal mengambil riwayat update: {e}")
+        print(f"\nfquiz: Gagal mengambil riwayat update: {e}\n")
 
 if __name__ == "__main__":
     update_repo()
