@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Ilmu yang mempelajari peristiwa-peristiwa masa lampau dalam kehidupan manusia disebut...",
+    "pilihan": {
+      "a": "Sosiologi",
+      "b": "Sejarah",
+      "c": "Arkeologi",
+      "d": "Antropologi",
+      "e": "Geografi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam ilmu sejarah, pelaku utama yang menjadi pusat kajian dalam setiap peristiwa adalah...",
+    "pilihan": {
+      "a": "Alam",
+      "b": "Benda peninggalan",
+      "c": "Waktu",
+      "d": "Ruang",
+      "e": "Manusia"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Cara berpikir sejarah yang memanjang dalam waktu tetapi terbatas dalam ruang, serta mementingkan proses dan urutan kejadian disebut...",
+    "pilihan": {
+      "a": "Kronologi",
+      "b": "Periodisasi",
+      "c": "Sinkronik",
+      "d": "Diakronik",
+      "e": "Anakronisme"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Masa kehidupan manusia sebelum mengenal tulisan disebut masa...",
+    "pilihan": {
+      "a": "Pra-aksara",
+      "b": "Kolonial",
+      "c": "Sejarah",
+      "d": "Modern",
+      "e": "Aksara"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Agama Hindu-Buddha masuk ke Indonesia dibawa oleh para pedagang dan pendeta dari negara...",
+    "pilihan": {
+      "a": "Arab",
+      "b": "Jepang",
+      "c": "Eropa",
+      "d": "India",
+      "e": "Cina"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kerajaan maritim Hindu-Buddha terbesar di Indonesia yang menguasai jalur perdagangan di Selat Malaka adalah...",
+    "pilihan": {
+      "a": "Majapahit",
+      "b": "Kutai",
+      "c": "Mataram Kuno",
+      "d": "Sriwijaya",
+      "e": "Tarumanegara"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kerajaan Islam pertama di Indonesia yang menjadi pusat penyebaran Islam di Nusantara adalah...",
+    "pilihan": {
+      "a": "Kerajaan Samudera Pasai",
+      "b": "Kerajaan Demak",
+      "c": "Kerajaan Aceh",
+      "d": "Kerajaan Ternate",
+      "e": "Kerajaan Mataram Islam"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Penulisan sejarah yang berpusat pada kehidupan istana, raja, dan hal-hal yang bersifat magis-religius disebut historiografi...",
+    "pilihan": {
+      "a": "Nasional",
+      "b": "Modern",
+      "c": "Tradisional",
+      "d": "Kolonial",
+      "e": "Lokal"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tiga unsur penting yang tidak dapat dipisahkan dalam setiap peristiwa sejarah adalah...",
+    "pilihan": {
+      "a": "Manusia, ruang, dan waktu",
+      "b": "Raja, rakyat, dan istana",
+      "c": "Heuristik, kritik, dan interpretasi",
+      "d": "Masa lalu, masa kini, dan masa depan",
+      "e": "Sebab, akibat, dan proses"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tahap awal dalam penelitian sejarah yang berupa kegiatan mencari dan mengumpulkan sumber-sumber sejarah disebut...",
+    "pilihan": {
+      "a": "Kritik",
+      "b": "Interpretasi",
+      "c": "Verifikasi",
+      "d": "Heuristik",
+      "e": "Historiografi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pengelompokan peristiwa sejarah ke dalam babak-babak atau periode waktu tertentu disebut...",
+    "pilihan": {
+      "a": "Diakronik",
+      "b": "Periodisasi",
+      "c": "Anakronisme",
+      "d": "Kronologi",
+      "e": "Sinkronik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Cara berpikir sejarah yang melebar dalam ruang tetapi terbatas dalam waktu, dengan mengkaji suatu peristiwa secara mendalam pada satu waktu tertentu, disebut...",
+    "pilihan": {
+      "a": "Sinkronik",
+      "b": "Evolusi",
+      "c": "Kronologis",
+      "d": "Periodisasi",
+      "e": "Diakronik"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kepercayaan masyarakat pra-aksara terhadap roh nenek moyang yang mendiami benda-benda pusaka disebut...",
+    "pilihan": {
+      "a": "Monoteisme",
+      "b": "Totemisme",
+      "c": "Politeisme",
+      "d": "Dinamisme",
+      "e": "Animisme"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Peninggalan budaya Hindu-Buddha yang berupa candi megah dan menjadi salah satu keajaiban dunia adalah...",
+    "pilihan": {
+      "a": "Candi Muara Takus",
+      "b": "Candi Penataran",
+      "c": "Candi Dieng",
+      "d": "Candi Prambanan",
+      "e": "Candi Borobudur"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Wali Songo menyebarkan agama Islam di Pulau Jawa dengan menggunakan media kesenian tradisional seperti...",
+    "pilihan": {
+      "a": "Lukisan dan patung",
+      "b": "Wayang dan gamelan",
+      "c": "Tari modern",
+      "d": "Film dan televisi",
+      "e": "Buku dan majalah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Historiografi kolonial memiliki ciri khas, yaitu sudut pandangnya yang bersifat...",
+    "pilihan": {
+      "a": "Istana-sentris",
+      "b": "Rakyat-sentris",
+      "c": "Indonesia-sentris",
+      "d": "Neerlando-sentris (Eropa-sentris)",
+      "e": "Objektif total"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Peristiwa Proklamasi Kemerdekaan Indonesia terjadi di Jakarta. Dalam konsep sejarah, 'Jakarta' merujuk pada unsur...",
+    "pilihan": {
+      "a": "Ruang",
+      "b": "Akibat",
+      "c": "Sebab",
+      "d": "Manusia",
+      "e": "Waktu"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tahap penelitian sejarah di mana seorang sejarawan melakukan penafsiran terhadap fakta-fakta yang telah diverifikasi disebut...",
+    "pilihan": {
+      "a": "Historiografi",
+      "b": "Heuristik",
+      "c": "Kritik sumber",
+      "d": "Pemilihan topik",
+      "e": "Interpretasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Urutan peristiwa sejarah berdasarkan waktu terjadinya secara runtut disebut...",
+    "pilihan": {
+      "a": "Historiografi",
+      "b": "Periodisasi",
+      "c": "Kronologi",
+      "d": "Sinkronik",
+      "e": "Interpretasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pola kehidupan manusia purba yang berpindah-pindah tempat untuk mencari sumber makanan disebut...",
+    "pilihan": {
+      "a": "Sedenter",
+      "b": "Agraris",
+      "c": "Modern",
+      "d": "Nomaden",
+      "e": "Maritim"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Teori yang menyatakan bahwa agama Hindu-Buddha dibawa ke Indonesia oleh para prajurit atau ksatria disebut teori...",
+    "pilihan": {
+      "a": "Ksatria",
+      "b": "Brahmana",
+      "c": "Sudra",
+      "d": "Waisya",
+      "e": "Arus Balik"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kerajaan Majapahit mencapai puncak kejayaannya pada masa pemerintahan...",
+    "pilihan": {
+      "a": "Raden Wijaya",
+      "b": "Hayam Wuruk",
+      "c": "Tribhuwanatunggadewi",
+      "d": "Jayanegara",
+      "e": "Gajah Mada"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Masjid Agung Demak yang memiliki atap berbentuk tumpang merupakan contoh akulturasi budaya Islam dengan budaya...",
+    "pilihan": {
+      "a": "Cina",
+      "b": "Prasejarah",
+      "c": "Hindu-Buddha",
+      "d": "Eropa",
+      "e": "Timur Tengah"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Penulisan sejarah yang mulai menggunakan metode ilmiah dan berfokus pada peran bangsa Indonesia sebagai subjek utama sejarah disebut historiografi...",
+    "pilihan": {
+      "a": "Modern (Nasional)",
+      "b": "Lokal",
+      "c": "Tradisional",
+      "d": "Kolonial",
+      "e": "Populer"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Konsep waktu dalam sejarah bersifat...",
+    "pilihan": {
+      "a": "Statis dan tidak berubah",
+      "b": "Terus bergerak dari masa lalu, kini, dan menuju masa depan",
+      "c": "Tidak memiliki kaitan dengan kehidupan manusia",
+      "d": "Selalu berulang persis sama",
+      "e": "Hanya fokus pada masa depan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kritik eksternal dalam penelitian sejarah bertujuan untuk menguji...",
+    "pilihan": {
+      "a": "Latar belakang sejarawan",
+      "b": "Cara penulisan sejarah",
+      "c": "Keaslian (otentisitas) sumber sejarah",
+      "d": "Kebenaran isi sumber",
+      "e": "Tafsiran sejarawan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Contoh penerapan konsep berpikir sinkronik dalam sejarah adalah...",
+    "pilihan": {
+      "a": "Menjelaskan proses masuknya Islam ke Nusantara",
+      "b": "Mengkaji perkembangan Sarekat Islam dari tahun 1911 hingga 1929",
+      "c": "Menceritakan riwayat hidup Pangeran Diponegoro dari lahir sampai wafat",
+      "d": "Mengkaji keadaan ekonomi, sosial, dan politik Indonesia pada tahun 1945 saja",
+      "e": "Menyusun urutan pertempuran dalam Perang Diponegoro"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kepercayaan masyarakat pra-aksara terhadap benda-benda yang dianggap memiliki kekuatan gaib (sakti) disebut...",
+    "pilihan": {
+      "a": "Animisme",
+      "b": "Ateisme",
+      "c": "Totemisme",
+      "d": "Paganisme",
+      "e": "Dinamisme"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Prasasti Yupa yang menjadi bukti awal adanya kerajaan Hindu di Indonesia ditemukan di kerajaan...",
+    "pilihan": {
+      "a": "Tarumanegara",
+      "b": "Majapahit",
+      "c": "Mataram Kuno",
+      "d": "Kutai Martadipura",
+      "e": "Sriwijaya"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sultan Agung dari Mataram Islam dikenal karena usahanya yang gigih untuk...",
+    "pilihan": {
+      "a": "Mengusir VOC dari Batavia (Jakarta)",
+      "b": "Bekerja sama dengan VOC",
+      "c": "Menaklukkan Kerajaan Sriwijaya",
+      "d": "Membangun Candi Borobudur",
+      "e": "Menyebarkan agama Kristen"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Karya sastra seperti Babad Tanah Jawi atau Hikayat Raja-Raja Pasai merupakan contoh dari historiografi...",
+    "pilihan": {
+      "a": "Tradisional",
+      "b": "Kritis",
+      "c": "Kolonial",
+      "d": "Nasional",
+      "e": "Modern"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Keterkaitan antara peristiwa G30S/PKI pada tahun 1965 dengan lahirnya Orde Baru pada tahun 1966 menunjukkan adanya konsep...",
+    "pilihan": {
+      "a": "Anakronisme",
+      "b": "Pengulangan",
+      "c": "Perubahan dan keberlanjutan",
+      "d": "Sinkronik",
+      "e": "Ruang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sumber sejarah yang berasal langsung dari pelaku atau saksi mata peristiwa, seperti catatan harian atau wawancara, disebut sumber...",
+    "pilihan": {
+      "a": "Tulisan",
+      "b": "Lisan",
+      "c": "Tersier",
+      "d": "Primer",
+      "e": "Sekunder"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Contoh penerapan konsep berpikir diakronik dalam sejarah adalah...",
+    "pilihan": {
+      "a": "Menjelaskan proses terjadinya Perang Dunia I dari tahun 1914-1918",
+      "b": "Menganalisis dampak ekonomi krisis 1998",
+      "c": "Menggambarkan kehidupan sosial Jakarta pada masa Orde Baru",
+      "d": "Mengkaji struktur pemerintahan Kerajaan Majapahit",
+      "e": "Menganalisis suasana Sidang BPUPKI pada 1 Juni 1945"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Peninggalan zaman Megalitikum yang berupa meja batu besar untuk tempat sesaji adalah...",
+    "pilihan": {
+      "a": "Menhir",
+      "b": "Sarkofagus",
+      "c": "Dolmen",
+      "d": "Waruga",
+      "e": "Punden berundak"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sumpah Palapa yang diucapkan oleh Mahapatih Gajah Mada memiliki tujuan untuk...",
+    "pilihan": {
+      "a": "Bekerja sama dengan kerajaan-kerajaan lain",
+      "b": "Menjadi raja Majapahit",
+      "c": "Menyatukan wilayah Nusantara di bawah kekuasaan Majapahit",
+      "d": "Menyerang Kerajaan Sriwijaya",
+      "e": "Membangun armada laut yang kuat"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kerajaan Gowa-Tallo di Sulawesi Selatan mencapai puncak kejayaan sebagai pusat perdagangan maritim pada masa pemerintahan...",
+    "pilihan": {
+      "a": "Sultan Baabullah",
+      "b": "Sultan Agung",
+      "c": "Sultan Iskandar Muda",
+      "d": "Raden Patah",
+      "e": "Sultan Hasanuddin"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu kelemahan historiografi tradisional adalah...",
+    "pilihan": {
+      "a": "Terlalu fokus pada peran rakyat kecil",
+      "b": "Banyak mengandung unsur mitos dan subjektivitas",
+      "c": "Menggunakan metode penelitian yang ketat",
+      "d": "Ditulis oleh sejarawan asing",
+      "e": "Bersifat objektif dan tidak memihak"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Peristiwa sejarah adalah unik dan hanya terjadi satu kali (einmalig). Hal ini menunjukkan bahwa sejarah memiliki sifat...",
+    "pilihan": {
+      "a": "Subjektif",
+      "b": "Unik",
+      "c": "Abadi",
+      "d": "Penting",
+      "e": "Objektif"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tahap akhir dalam penelitian sejarah di mana hasil penelitian disajikan dalam bentuk tulisan (misalnya buku atau artikel) disebut...",
+    "pilihan": {
+      "a": "Heuristik",
+      "b": "Interpretasi",
+      "c": "Verifikasi",
+      "d": "Kritik",
+      "e": "Historiografi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pembabakan zaman sejarah Indonesia menjadi zaman Pra-aksara, Hindu-Buddha, Islam, Kolonial, dan Kemerdekaan adalah contoh dari...",
+    "pilihan": {
+      "a": "Heuristik",
+      "b": "Kronologi",
+      "c": "Periodisasi",
+      "d": "Interpretasi",
+      "e": "Kritik sumber"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Manusia purba jenis Pithecanthropus erectus yang fosilnya ditemukan oleh Eugene Dubois di Trinil, Ngawi, berarti...",
+    "pilihan": {
+      "a": "Manusia raksasa dari Jawa",
+      "b": "Manusia kera yang kuat",
+      "c": "Manusia modern pertama",
+      "d": "Manusia cerdas dari Wajak",
+      "e": "Manusia kera yang berjalan tegak"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teori Arus Balik menjelaskan bahwa penyebaran Hindu-Buddha di Indonesia dilakukan oleh...",
+    "pilihan": {
+      "a": "Orang Indonesia yang belajar agama di India lalu kembali untuk menyebarkannya",
+      "b": "Para prajurit India",
+      "c": "Kaum Brahmana dari India",
+      "d": "Para pedagang India",
+      "e": "Para budak dari India"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kerajaan Demak sebagai kerajaan Islam pertama di Jawa didirikan oleh...",
+    "pilihan": {
+      "a": "Raden Patah",
+      "b": "Sultan Trenggono",
+      "c": "Pati Unus",
+      "d": "Sunan Kalijaga",
+      "e": "Sultan Hadiwijaya"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Ciri utama historiografi modern adalah...",
+    "pilihan": {
+      "a": "Mengandung unsur mitologi yang kuat",
+      "b": "Bersifat istana-sentris",
+      "c": "Hanya menceritakan kisah para dewa",
+      "d": "Sudut pandangnya Eropa-sentris",
+      "e": "Menggunakan metodologi penelitian ilmiah dan bersifat kritis"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kritik internal dalam penelitian sejarah bertujuan untuk menguji...",
+    "pilihan": {
+      "a": "Kredibilitas dan kebenaran isi informasi dari sumber",
+      "b": "Tempat ditemukannya sumber",
+      "c": "Waktu pembuatan sumber",
+      "d": "Bahasa yang digunakan dalam sumber",
+      "e": "Keaslian bahan sumber (kertas, tinta)"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tradisi lisan seperti cerita rakyat, legenda, dan mitos merupakan bagian penting dalam mengkaji kehidupan masyarakat...",
+    "pilihan": {
+      "a": "Kolonial",
+      "b": "Pra-aksara dan aksara awal",
+      "c": "Digital",
+      "d": "Industri",
+      "e": "Modern"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kerajaan Sriwijaya dikenal sebagai pusat pendidikan agama Buddha. Hal ini dibuktikan oleh catatan seorang pendeta dari Cina bernama...",
+    "pilihan": {
+      "a": "Hsuan Tsang",
+      "b": "Laksamana Cheng Ho",
+      "c": "Fa Hien",
+      "d": "Marco Polo",
+      "e": "I-Tsing"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Proses masuk dan berkembangnya Islam di Nusantara berlangsung secara damai melalui beberapa cara, KECUALI...",
+    "pilihan": {
+      "a": "Pendidikan (pesantren)",
+      "b": "Peperangan dan penaklukan besar-besaran",
+      "c": "Kesenian (akulturasi budaya)",
+      "d": "Perdagangan",
+      "e": "Pernikahan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Buku 'History of Java' yang ditulis oleh Thomas Stamford Raffles adalah contoh dari historiografi...",
+    "pilihan": {
+      "a": "Nasional",
+      "b": "Modern",
+      "c": "Lokal",
+      "d": "Tradisional",
+      "e": "Kolonial"
+    },
+    "jawaban": "e"
+  }
+]

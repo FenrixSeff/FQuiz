@@ -42,14 +42,14 @@ Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interakti
 1. **Clone repository**
    ```bash
    git clone https://github.com/FenrixSeff/FQuiz.git
-```
+   ```
 
-1. Masuk ke direktori project
+2. **Masuk ke direktori project**
    ```bash
    cd FQuiz
    ```
-2. Konfigurasi settings
-   · Salin file contoh:
+3. **Konfigurasi settings**
+   - Salin file contoh:
      ```bash
      cp settings.toml.example settings.toml
      ```
@@ -59,7 +59,7 @@ Aplikasi kuis berbasis CLI (Command Line Interface) untuk pembelajaran interakti
      # atau
      micro settings.toml
      ```
-3. Jalankan aplikasi
+4. **Jalankan aplikasi**
    ```bash
    python fquiz.py
    ```
