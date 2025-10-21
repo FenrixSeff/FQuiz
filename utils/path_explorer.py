@@ -161,7 +161,7 @@ class Telusur:
         table = VerticalTable()
         dft_item = self.daftar_tersaring
         os.system("cls" if os.name == "nt" else "clear")
-        opsi = {str(no): fld.name.title() if fld.is_dir() else
+        opsi = {str(no): fld.name.upper() if fld.is_dir() else
             fld.stem.title() for no, fld in enumerate(dft_item, 1)}
         opsi["0"] = "Kembali"
         table.add_properties(opsi)

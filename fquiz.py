@@ -77,26 +77,25 @@ os.system("cls" if os.name == "nt" else "clear")
 selesai = time.strftime("%H:%M")
 nilai = 100 / len(soal) * benar
 
-shio = {
-    "FQuiz":
+load.fquiz(delay=0); print("\n")
+table.get_input("Tekan Enter untuk melanjutkan")
+os.system("cls" if os.name == "nt" else "clear")
+table.single_colum(
+    ">> FQuiz       : "
         f"{'Selesai..' if waktu_tersisa[0] != 0 else 'Waktu habis..'}",
-    "Total benar": f"{benar}",
-    "Total salah": f"{salah}",
-    "Total nilai": f"{nilai}",
-    "Waktu mulai": f"{mulai} - {selesai}"
-    }
-table.add_properties(shio)
-table.lebar_manual(13, 15)
-table.show(); print()
-table.clear()
+    f">> Total benar : {benar}",
+    f">> Total salah : {salah}",
+    f">> Total nilai : {nilai}",
+    f">> Waktu mulai : {mulai} - {selesai}"
+    ); print()
 
 if daftar_koreksi:
     cek = table.get_input(msg_prompt="Koreksi Jawaban anda (y/n)",
                           info="normal")
+    os.system("cls" if os.name == "nt" else "clear")
     if cek == "y":
-        os.system("cls" if os.name == "nt" else "clear")
         table.single_colum(
-            f"Hasil Koreksi Mata Pelajaran {mapel.stem.title()}",
+            f"Hasil Koreksi Mata Pelajaran {mapel.stem.upper()}",
             align="center"); print("\n")
         for i in daftar_koreksi:
             table.single_colum(f"{i.get('no')}. {i.get('soal')}")
@@ -121,5 +120,5 @@ table.single_colum(
     ">> Devloper    : Makasih dah coba project gabut ini brooo",
     ">> Corrected   : Fenrix",
     ">> Instagram   : @seff_hi7",
-    ">> Version     : FQuiz v1.73.50",
+    ">> Version     : FQuiz v1.74.50",
     align="left")
