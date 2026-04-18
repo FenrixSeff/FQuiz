@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Mesin 4 tak adalah jenis mesin pembakaran dalam yang menyelesaikan satu siklus kerja dalam berapa langkah gerakan piston?",
+    "pilihan": {
+      "a": "Dua langkah",
+      "b": "Tiga langkah",
+      "c": "Lima langkah",
+      "d": "Enam langkah",
+      "e": "Empat langkah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Berapa jumlah putaran penuh poros engkol (crankshaft) dalam satu siklus kerja mesin 4 tak?",
+    "pilihan": {
+      "a": "3 putaran",
+      "b": "1 putaran",
+      "c": "1,5 putaran",
+      "d": "2 putaran",
+      "e": "4 putaran"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada langkah hisap mesin 4 tak, piston bergerak dari ... ke ...",
+    "pilihan": {
+      "a": "TMA ke TMB",
+      "b": "TMA ke TMA",
+      "c": "Tengah silinder ke TMA",
+      "d": "TMB ke TMB",
+      "e": "TMB ke TMA"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada langkah hisap mesin 4 tak, katup yang terbuka adalah ...",
+    "pilihan": {
+      "a": "Katup buang",
+      "b": "Tidak ada katup yang terbuka",
+      "c": "Kedua katup terbuka",
+      "d": "Katup hisap",
+      "e": "Katup buang dan hisap tertutup rapat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada langkah kompresi mesin 4 tak, kedua katup berada dalam keadaan ...",
+    "pilihan": {
+      "a": "Katup hisap tertutup, katup buang terbuka",
+      "b": "Katup buang terbuka",
+      "c": "Terbuka lebar",
+      "d": "Tertutup rapat",
+      "e": "Katup hisap terbuka"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Langkah di mana energi panas diubah menjadi energi mekanik pada mesin 4 tak disebut ...",
+    "pilihan": {
+      "a": "Langkah kompresi",
+      "b": "Langkah kompresi dan tenaga",
+      "c": "Langkah tenaga",
+      "d": "Langkah hisap",
+      "e": "Langkah buang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pada mesin bensin 4 tak, percikan api untuk pembakaran dihasilkan oleh ...",
+    "pilihan": {
+      "a": "Katup buang",
+      "b": "Pompa bahan bakar",
+      "c": "Poros engkol",
+      "d": "Busi",
+      "e": "Injektor"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada langkah buang mesin 4 tak, komponen yang terbuka adalah ...",
+    "pilihan": {
+      "a": "Katup buang",
+      "b": "Kedua katup",
+      "c": "Katup hisap",
+      "d": "Katup hisap dan buang tertutup",
+      "e": "Tidak ada katup"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Keunggulan mesin 4 tak dibandingkan mesin 2 tak adalah ...",
+    "pilihan": {
+      "a": "Pelumasan campur dengan bahan bakar",
+      "b": "Efisiensi bahan bakar lebih baik",
+      "c": "Emisi gas buang lebih kotor",
+      "d": "Tenaga per cc lebih tinggi",
+      "e": "Suara mesin lebih kasar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sistem pelumasan pada mesin 4 tak umumnya menggunakan oli yang ...",
+    "pilihan": {
+      "a": "Disimpan di karter dan tidak bercampur dengan bahan bakar",
+      "b": "Diganti setiap kali mesin dinyalakan",
+      "c": "Hanya digunakan pada langkah tenaga",
+      "d": "Tidak diperlukan pelumasan",
+      "e": "Campur dengan bahan bakar"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Mesin 4 tak banyak digunakan pada ...",
+    "pilihan": {
+      "a": "Mobil penumpang, sepeda motor modern, dan generator",
+      "b": "Mesin diesel saja",
+      "c": "Kendaraan berat tanpa generator",
+      "d": "Perahu kecil saja",
+      "e": "Motor lama dan gergaji mesin"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pembakaran pada mesin 4 tak lebih sempurna sehingga menghasilkan ...",
+    "pilihan": {
+      "a": "Suara lebih bising",
+      "b": "Emisi gas buang lebih bersih",
+      "c": "Konsumsi bahan bakar lebih boros",
+      "d": "Emisi lebih kotor",
+      "e": "Umur mesin lebih pendek"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kopling mekanik berfungsi untuk ...",
+    "pilihan": {
+      "a": "Mendinginkan mesin",
+      "b": "Mengubah rasio gigi secara otomatis",
+      "c": "Menyimpan energi listrik",
+      "d": "Mengatur tekanan oli",
+      "e": "Menghubungkan dan memutuskan putaran mesin ke transmisi secara manual"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Komponen yang berfungsi sebagai media gesek antara flywheel dan pressure plate pada kopling mekanik adalah ...",
+    "pilihan": {
+      "a": "Pedal kopling",
+      "b": "Release fork",
+      "c": "Clutch disc (kampas kopling)",
+      "d": "Kabel baja",
+      "e": "Release bearing"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Fungsi flywheel pada sistem kopling mekanik adalah ...",
+    "pilihan": {
+      "a": "Menekan pedal kopling",
+      "b": "Mendorong release bearing",
+      "c": "Menghubungkan ke roda belakang",
+      "d": "Mengubah rasio transmisi",
+      "e": "Menyimpan energi putar dan sebagai permukaan gesek"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Saat pedal kopling dilepas, kondisi kopling adalah ...",
+    "pilihan": {
+      "a": "Terputus (mesin lepas dari transmisi)",
+      "b": "Bebas putar",
+      "c": "Terhubung (mesin terhubung ke transmisi)",
+      "d": "Hanya kampas ganda bekerja",
+      "e": "Netral"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Fungsi release bearing adalah ...",
+    "pilihan": {
+      "a": "Menekan pedal kopling",
+      "b": "Mengubah rasio gigi",
+      "c": "Menyimpan energi putar",
+      "d": "Menghubungkan V-belt",
+      "e": "Meneruskan dorongan dari release fork ke pressure plate"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kelebihan kopling mekanik dibandingkan kopling hidrolik adalah ...",
+    "pilihan": {
+      "a": "Respons lebih lambat",
+      "b": "Rentan terhadap kebocoran cairan",
+      "c": "Konstruksi sederhana dan biaya lebih murah",
+      "d": "Perawatan lebih sulit",
+      "e": "Rasa pedal lebih ringan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pada kopling mekanik, fungsi pedal kopling adalah ...",
+    "pilihan": {
+      "a": "Menghubungkan V-belt",
+      "b": "Input dari pengemudi untuk mengaktifkan atau menonaktifkan kopling",
+      "c": "Mengubah diameter puli",
+      "d": "Mendorong roller weight",
+      "e": "Menyemprotkan bahan bakar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "CVT adalah singkatan dari ...",
+    "pilihan": {
+      "a": "Control Variable Torque",
+      "b": "Chain Variable Transmission",
+      "c": "Continuously Variable Transmission",
+      "d": "Clutch Variable Transmission",
+      "e": "Constant Velocity Transmission"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Komponen utama yang menghubungkan drive pulley dan driven pulley pada sistem CVT adalah ...",
+    "pilihan": {
+      "a": "Flywheel",
+      "b": "V-belt",
+      "c": "Kampas ganda",
+      "d": "Release bearing",
+      "e": "Pressure plate"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi roller weight pada CVT adalah ...",
+    "pilihan": {
+      "a": "Mengatur perubahan diameter drive pulley melalui gaya sentrifugal",
+      "b": "Mendorong release fork",
+      "c": "Menghubungkan pedal kopling",
+      "d": "Menyimpan energi putar",
+      "e": "Menekan kampas kopling"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kampas ganda (centrifugal clutch) pada CVT berfungsi untuk ...",
+    "pilihan": {
+      "a": "Menekan V-belt",
+      "b": "Memutuskan putaran mesin ke transmisi",
+      "c": "Menghubungkan driven pulley ke roda belakang saat RPM tertentu",
+      "d": "Mengubah rasio secara manual",
+      "e": "Meredam getaran mesin"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Fungsi per CVT (torsion spring) adalah ...",
+    "pilihan": {
+      "a": "Memberikan tekanan balik pada driven pulley",
+      "b": "Menekan pressure plate",
+      "c": "Menyimpan oli pelumas",
+      "d": "Mendorong release bearing",
+      "e": "Mengatur langkah hisap"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tanda CVT bermasalah yang sering muncul adalah ...",
+    "pilihan": {
+      "a": "Busi sering mati",
+      "b": "Flywheel rusak",
+      "c": "Katup hisap tidak berfungsi",
+      "d": "Suara berdecit atau berisik dari area CVT",
+      "e": "Poros engkol berputar lambat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Penyebab tarikan motor matic terasa berat yang berhubungan dengan CVT adalah ...",
+    "pilihan": {
+      "a": "Flywheel tidak berputar",
+      "b": "Pressure plate terlalu tebal",
+      "c": "Katup buang tertutup rapat",
+      "d": "Roller peang atau aus",
+      "e": "Busi tidak memercikkan api"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jarak servis CVT yang direkomendasikan pabrikan umumnya adalah ...",
+    "pilihan": {
+      "a": "Setiap 8.000 - 10.000 km",
+      "b": "Setiap 30.000 km",
+      "c": "Hanya saat motor mogok",
+      "d": "Setiap 2.000 - 4.000 km",
+      "e": "Setiap 20.000 km"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Usia pakai V-belt pada sistem CVT umumnya berkisar antara ...",
+    "pilihan": {
+      "a": "50.000 km ke atas",
+      "b": "30.000 - 40.000 km",
+      "c": "20.000 - 25.000 km",
+      "d": "5.000 - 10.000 km",
+      "e": "Hanya 1.000 km"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Akibat jika V-belt pada CVT putus adalah ...",
+    "pilihan": {
+      "a": "Poros engkol berhenti",
+      "b": "Motor tidak bisa jalan sama sekali",
+      "c": "Katup hisap terbuka lebar",
+      "d": "Kopling mekanik otomatis aktif",
+      "e": "Mesin menjadi 2 tak"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gaya sentrifugal pada roller CVT berfungsi untuk ...",
+    "pilihan": {
+      "a": "Mengompresi campuran udara-bahan bakar",
+      "b": "Membuka katup buang",
+      "c": "Memutuskan transmisi",
+      "d": "Menekan kampas kopling ke flywheel",
+      "e": "Mendorong roller keluar sehingga diameter drive pulley membesar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Saat RPM naik, kampas ganda pada CVT akan ...",
+    "pilihan": {
+      "a": "Menutup rapat",
+      "b": "Memutuskan V-belt",
+      "c": "Mendorong release fork",
+      "d": "Mengaktifkan langkah kompresi",
+      "e": "Mengembang dan mencengkeram mangkok kopling"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tips perawatan CVT yang penting adalah ...",
+    "pilihan": {
+      "a": "Hindari akselerasi kasar",
+      "b": "Tidak perlu servis rutin",
+      "c": "Gunakan oli campur bahan bakar",
+      "d": "Ganti V-belt setiap 1.000 km",
+      "e": "Biarkan kotoran menumpuk"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dampak akselerasi kasar pada sistem CVT adalah ...",
+    "pilihan": {
+      "a": "Membuat suara mesin lebih halus",
+      "b": "Mengurangi emisi gas buang",
+      "c": "Mempercepat keausan V-belt, roller, dan kampas ganda",
+      "d": "Meningkatkan efisiensi bahan bakar",
+      "e": "Memperpanjang umur kopling mekanik"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Manfaat servis CVT rutin adalah ...",
+    "pilihan": {
+      "a": "Menambah tenaga per cc secara signifikan",
+      "b": "Mencegah kerusakan fatal dan menghemat biaya perbaikan jangka panjang",
+      "c": "Menghilangkan kebutuhan kopling mekanik",
+      "d": "Menghilangkan busi",
+      "e": "Mengubah mesin menjadi 2 tak"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada mesin 4 tak, langkah di mana piston bergerak dari TMB ke TMA dengan kedua katup tertutup adalah ...",
+    "pilihan": {
+      "a": "Langkah kompresi",
+      "b": "Langkah netral",
+      "c": "Langkah buang",
+      "d": "Langkah tenaga",
+      "e": "Langkah hisap"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perbedaan utama mesin 4 tak dan 2 tak terletak pada ...",
+    "pilihan": {
+      "a": "Jumlah busi",
+      "b": "Fungsi pedal kopling",
+      "c": "Jenis V-belt",
+      "d": "Siklus kerja dan sistem pelumasan",
+      "e": "Ukuran flywheel"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Fungsi pressure plate pada kopling mekanik adalah ...",
+    "pilihan": {
+      "a": "Mendorong roller weight",
+      "b": "Menekan kampas kopling ke flywheel saat kopling terhubung",
+      "c": "Menghisap udara-bahan bakar",
+      "d": "Memercikkan api",
+      "e": "Mengatur diameter pulley"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada sistem CVT, drive pulley terhubung langsung dengan ...",
+    "pilihan": {
+      "a": "Katup buang",
+      "b": "Pedal kopling",
+      "c": "Busi",
+      "d": "Roda belakang",
+      "e": "Poros engkol mesin"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Suara berdecit pada area CVT biasanya disebabkan oleh ...",
+    "pilihan": {
+      "a": "Pressure plate rusak",
+      "b": "Busi mati",
+      "c": "V-belt aus atau retak",
+      "d": "Katup hisap terbuka",
+      "e": "Flywheel berat berlebih"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Mesin 4 tak memiliki sistem pelumasan yang ...",
+    "pilihan": {
+      "a": "Tidak memerlukan oli",
+      "b": "Terpisah (oli di karter)",
+      "c": "Campur dengan bahan bakar",
+      "d": "Hanya pada langkah buang",
+      "e": "Menggunakan air"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi kopling saat perpindahan gigi adalah ...",
+    "pilihan": {
+      "a": "Menghisap campuran udara",
+      "b": "Mengubah rasio pulley secara kontinu",
+      "c": "Memercikkan api busi",
+      "d": "Mendorong piston ke TMA",
+      "e": "Memutus sementara hubungan antara mesin dan transmisi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Driven pulley pada CVT terhubung ke ...",
+    "pilihan": {
+      "a": "Poros engkol",
+      "b": "Release fork",
+      "c": "Pedal kopling",
+      "d": "Katup hisap",
+      "e": "Roda belakang"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Keunggulan mesin 4 tak salah satunya adalah ...",
+    "pilihan": {
+      "a": "Tenaga per cc lebih tinggi",
+      "b": "Pelumasan campur",
+      "c": "Emisi lebih kotor",
+      "d": "Suara lebih bising",
+      "e": "Torsi lebih baik pada putaran rendah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kabel baja pada kopling mekanik berfungsi untuk ...",
+    "pilihan": {
+      "a": "Memercikkan api",
+      "b": "Menekan roller weight",
+      "c": "Mengubah diameter pulley",
+      "d": "Menghubungkan V-belt",
+      "e": "Mentransfer gaya injakan dari pedal ke release fork"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tanda CVT perlu servis adalah ...",
+    "pilihan": {
+      "a": "Katup buang selalu terbuka",
+      "b": "Poros engkol bergetar",
+      "c": "Flywheel bocor oli",
+      "d": "Busi sering aus",
+      "e": "Akselerasi awal terasa gredek atau tarikan berat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada langkah tenaga mesin 4 tak, piston didorong oleh ...",
+    "pilihan": {
+      "a": "Ledakan hasil pembakaran",
+      "b": "Putaran V-belt",
+      "c": "Tekanan kompresi saja",
+      "d": "Gerakan katup buang",
+      "e": "Gaya hisap vakum"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kopling hidrolik berbeda dengan kopling mekanik karena menggunakan ...",
+    "pilihan": {
+      "a": "Kabel baja",
+      "b": "Busi",
+      "c": "Cairan hidrolik",
+      "d": "V-belt",
+      "e": "Roller weight"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Per CVT membantu ...",
+    "pilihan": {
+      "a": "Memercikkan api pembakaran",
+      "b": "Menekan kampas kopling",
+      "c": "Memutuskan hubungan mesin-transmisi",
+      "d": "Menghisap udara ke silinder",
+      "e": "Menjaga V-belt tetap tegang dan mengatur pergerakan puli"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Efisiensi mesin 4 tak memberikan manfaat ...",
+    "pilihan": {
+      "a": "Tenaga per cc lebih tinggi",
+      "b": "Servis lebih jarang",
+      "c": "Pelumasan campur bahan bakar",
+      "d": "Suara mesin lebih kasar",
+      "e": "Konsumsi bahan bakar lebih hemat dan emisi lebih rendah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Fungsi utama CVT adalah ...",
+    "pilihan": {
+      "a": "Menekan oli ke komponen mesin",
+      "b": "Memercikkan api pada langkah tenaga",
+      "c": "Memutuskan putaran mesin secara manual",
+      "d": "Mengompresi campuran udara-bahan bakar",
+      "e": "Mengubah rasio gigi secara berkelanjutan dan mulus"
+    },
+    "jawaban": "e"
+  }
+]

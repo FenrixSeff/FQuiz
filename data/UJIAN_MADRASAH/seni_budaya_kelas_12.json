@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Perkembangan seni dari masa prasejarah hingga sekarang menunjukkan bahwa seni selalu memiliki sifat dasar sebagai bentuk ekspresi manusia yang dipengaruhi oleh konteks zaman. Sifat dasar tersebut paling tepat diidentifikasi sebagai",
+    "pilihan": {
+      "a": "Hanya hiburan semata",
+      "b": "Ekspresi gagasan, emosi, dan nilai budaya",
+      "c": "Produk industri massal",
+      "d": "Kegiatan ritual yang kaku",
+      "e": "Hanya lukisan dinding gua"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Karya seni yang hanya memiliki dimensi panjang dan lebar serta dilihat dari satu arah pandang saja disebut seni rupa",
+    "pilihan": {
+      "a": "Tiga dimensi",
+      "b": "Dua dimensi",
+      "c": "Empat dimensi",
+      "d": "Relief",
+      "e": "Instalasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dari daftar berikut, karya yang bukan termasuk kategori seni rupa dua dimensi adalah",
+    "pilihan": {
+      "a": "Lukisan",
+      "b": "Motif batik datar",
+      "c": "Patung",
+      "d": "Gambar cetak",
+      "e": "Ilustrasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Unsur seni rupa yang berfungsi sebagai batas antar bidang adalah",
+    "pilihan": {
+      "a": "Titik",
+      "b": "Warna",
+      "c": "Garis",
+      "d": "Tekstur",
+      "e": "Bentuk"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Elemen seni rupa yang merupakan unit paling kecil adalah",
+    "pilihan": {
+      "a": "Garis",
+      "b": "Bidang",
+      "c": "Titik",
+      "d": "Bentuk",
+      "e": "Ruang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam musik, ketukan yang membangkitkan semangat dan istilah polyrhythm berkaitan dengan unsur",
+    "pilihan": {
+      "a": "Melodi",
+      "b": "Harmoni",
+      "c": "Ritme",
+      "d": "Timbre",
+      "e": "Dinamika"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Istilah untuk tingkatan tinggi-rendah nada disebut",
+    "pilihan": {
+      "a": "Ritme",
+      "b": "Melodi",
+      "c": "Harmoni",
+      "d": "Polyrhythm",
+      "e": "Timbre"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tokoh musik klasik yang sering ditampilkan dalam soal dengan gambar berambut panjang dan ekspresi dramatis adalah",
+    "pilihan": {
+      "a": "Claude Debussy",
+      "b": "Ludwig van Beethoven",
+      "c": "Igor Stravinsky",
+      "d": "John Cage",
+      "e": "Slamet Abdul Sjukur"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ciri spesifik musik kontemporer yang paling menonjol adalah",
+    "pilihan": {
+      "a": "Penggunaan notasi balok tradisional secara ketat",
+      "b": "Eksperimen dan pembaharuan bunyi",
+      "c": "Hanya menggunakan alat musik klasik",
+      "d": "Struktur simfoni panjang",
+      "e": "Lirik lagu populer"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pengertian musik kontemporer yang paling mencerminkan aspek kekinian dan pembaharuan adalah",
+    "pilihan": {
+      "a": "Musik yang mengikuti aturan abad ke-18",
+      "b": "Musik yang menekankan eksperimen dan konteks masa kini",
+      "c": "Musik tradisional yang dipertahankan",
+      "d": "Musik gereja abad pertengahan",
+      "e": "Musik orkestra romantis"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi seni yang meliputi mitologis, religius, sosial, dan estetis termasuk dalam kelompok konsep",
+    "pilihan": {
+      "a": "Hanya seni murni",
+      "b": "Fungsi seni secara umum",
+      "c": "Hanya seni terapan",
+      "d": "Fungsi ekonomi seni",
+      "e": "Fungsi hiburan semata"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gabungan bentuk-bentuk dasar yang sejenis disebut",
+    "pilihan": {
+      "a": "Titik",
+      "b": "Garis",
+      "c": "Bentuk",
+      "d": "Warna",
+      "e": "Tekstur"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Interaksi bentuk yang saling bertentangan secara visual disebut",
+    "pilihan": {
+      "a": "Harmoni",
+      "b": "Kontras",
+      "c": "Ritme",
+      "d": "Kesatuan",
+      "e": "Dominasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Warna primer dalam hierarki warna adalah",
+    "pilihan": {
+      "a": "Hijau, oranye, ungu",
+      "b": "Merah, kuning, biru",
+      "c": "Hitam, putih, abu-abu",
+      "d": "Cokelat, pink, silver",
+      "e": "Emas, perak, tembaga"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pasangan warna yang menghasilkan kontras paling kuat (komplementer) adalah",
+    "pilihan": {
+      "a": "Merah dan kuning",
+      "b": "Biru dan hijau",
+      "c": "Merah dan hijau",
+      "d": "Kuning dan oranye",
+      "e": "Biru dan ungu"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Aplikasi yang bukan merupakan standar desain grafis untuk reklame adalah",
+    "pilihan": {
+      "a": "Adobe Photoshop",
+      "b": "CorelDRAW",
+      "c": "Microsoft Word",
+      "d": "Adobe Illustrator",
+      "e": "Canva"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Bahan yang secara umum tidak digunakan untuk pembuatan patung atau monumen permanen adalah",
+    "pilihan": {
+      "a": "Batu",
+      "b": "Logam",
+      "c": "Kertas",
+      "d": "Beton",
+      "e": "Kayu keras"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Makna simbolis warna merah dalam karya seni sering dikaitkan dengan",
+    "pilihan": {
+      "a": "Ketenangan",
+      "b": "Keberanian, energi, atau bahaya",
+      "c": "Kesedihan",
+      "d": "Kemurnian",
+      "e": "Kekayaan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Bahan utama yang paling efisien untuk membuat dinding miniatur bangunan adalah",
+    "pilihan": {
+      "a": "Batu alam",
+      "b": "Kardus atau styrofoam",
+      "c": "Logam berat",
+      "d": "Kaca tebal",
+      "e": "Marmer"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kriteria fisik kayu yang baik agar tidak terjadi deformasi pada landasan miniatur adalah kayu yang",
+    "pilihan": {
+      "a": "Basah dan lentur",
+      "b": "Kering dan stabil",
+      "c": "Tipis dan mudah patah",
+      "d": "Bergetah tinggi",
+      "e": "Berwarna gelap"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Penggunaan piano untuk gamelan dalam musik kontemporer termasuk teknik",
+    "pilihan": {
+      "a": "Tradisional",
+      "b": "Eksplorasi bunyi dan hibrida",
+      "c": "Klasik murni",
+      "d": "Populer",
+      "e": "Folk"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Komposer kontemporer beralih dari notasi balok ke notasi tindakan karena",
+    "pilihan": {
+      "a": "Notasi balok lebih mudah dibaca",
+      "b": "Notasi balok kurang mampu menangkap ide eksperimental dan bunyi baru",
+      "c": "Notasi tindakan lebih mahal",
+      "d": "Notasi balok lebih modern",
+      "e": "Notasi tindakan hanya untuk pemula"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teknik unik dalam musik kontemporer adalah",
+    "pilihan": {
+      "a": "Penggunaan notasi balok standar",
+      "b": "Eksplorasi bunyi vokal dan benda sehari-hari",
+      "c": "Hanya memainkan piano klasik",
+      "d": "Lagu dengan lirik sederhana",
+      "e": "Irama waltz"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Empat elemen dasar pembentuk musik kontemporer secara berurutan adalah",
+    "pilihan": {
+      "a": "Ritme, melodi, harmoni, warna nada",
+      "b": "Warna nada, ritme, melodi, harmoni",
+      "c": "Harmoni, ritme, timbre, dinamika",
+      "d": "Melodi, dinamika, ritme, bentuk",
+      "e": "Bentuk, warna, garis, titik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Julukan bagi komposer yang menggunakan bahan sederhana dalam karyanya (minimax) adalah",
+    "pilihan": {
+      "a": "Slamet Abdul Sjukur",
+      "b": "Wolfgang Amadeus Mozart",
+      "c": "Claude Debussy",
+      "d": "John Cage",
+      "e": "Igor Stravinsky"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Musik kontemporer mulai marak diakui sebagai genre mandiri pada abad ke",
+    "pilihan": {
+      "a": "18",
+      "b": "19",
+      "c": "20",
+      "d": "17",
+      "e": "21"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pelukis pelopor impresionisme yang menginspirasi musik kontemporer berasal dari negara",
+    "pilihan": {
+      "a": "Italia",
+      "b": "Jerman",
+      "c": "Prancis",
+      "d": "Rusia",
+      "e": "Indonesia"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Komposer Indonesia di balik karya eksplorasi bunyi mulut 'Tetabuhan Sungut' adalah",
+    "pilihan": {
+      "a": "Wolfgang Amadeus Mozart",
+      "b": "Slamet Abdul Sjukur",
+      "c": "Ludwig van Beethoven",
+      "d": "Claude Debussy",
+      "e": "John Cage"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gambar wayang atau boneka termasuk jenis karya seni rupa",
+    "pilihan": {
+      "a": "Dua dimensi",
+      "b": "Tiga dimensi",
+      "c": "Grafis",
+      "d": "Digital",
+      "e": "Abstrak datar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tujuan penggunaan perabot rumah tangga sebagai karya seni terapan adalah",
+    "pilihan": {
+      "a": "Hanya untuk pajangan",
+      "b": "Memberi nilai estetika sekaligus fungsi praktis",
+      "c": "Menghancurkan fungsi asli",
+      "d": "Hanya untuk koleksi museum",
+      "e": "Meningkatkan harga jual semata"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Istilah untuk kegiatan memberikan penghargaan dan penghayatan terhadap karya seni adalah",
+    "pilihan": {
+      "a": "Kreasi",
+      "b": "Apresiasi",
+      "c": "Produksi",
+      "d": "Distribusi",
+      "e": "Konsumsi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pekerjaan tangan manusia yang mengutamakan nilai visual dan kegunaan praktis disebut",
+    "pilihan": {
+      "a": "Seni murni",
+      "b": "Seni terapan atau kriya",
+      "c": "Seni pertunjukan",
+      "d": "Seni sastra",
+      "e": "Seni musik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tiga pilar cara pembuatan kriya berdasarkan alat dan prosesnya meliputi",
+    "pilihan": {
+      "a": "Tangan, alat sederhana, dan proses industri ringan",
+      "b": "Hanya mesin modern",
+      "c": "Hanya tangan tanpa alat",
+      "d": "Hanya proses kimia",
+      "e": "Hanya cetak digital"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Teknik yang digunakan untuk membentuk bahan dasar tanah liat menjadi keramik adalah",
+    "pilihan": {
+      "a": "Cor, putar, pilin, slab",
+      "b": "Batik tulis",
+      "c": "Ukiran kayu",
+      "d": "Tenun songket",
+      "e": "Sulaman"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pada motif batik, kombinasi alat dan medium yang digunakan adalah",
+    "pilihan": {
+      "a": "Canting dan malam (lilin) dengan pewarna",
+      "b": "Kuvas dan cat minyak",
+      "c": "Pahat dan kayu",
+      "d": "Meja putar dan tanah liat",
+      "e": "Cetakan logam dan kertas"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Istilah teknik menuang logam menggunakan dua keping cetakan batu yang bisa dipakai ulang adalah",
+    "pilihan": {
+      "a": "Bivalve",
+      "b": "Lost wax",
+      "c": "Pilin",
+      "d": "Slab",
+      "e": "Tulis"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Seni masa kini yang terikat pada kondisi saat karya tersebut dibuat disebut",
+    "pilihan": {
+      "a": "Seni klasik",
+      "b": "Seni kontemporer",
+      "c": "Seni tradisional",
+      "d": "Seni romantis",
+      "e": "Seni barok"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Aliran seni di mana gagasan seniman menjadi dasar mutlak penciptaan objek visual adalah",
+    "pilihan": {
+      "a": "Realisme",
+      "b": "Konseptual",
+      "c": "Impresionisme",
+      "d": "Romantisisme",
+      "e": "Klasik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ciri seni rupa yang menekankan ketiadaan persamaan antar karya (orisinalitas personal) adalah ciri",
+    "pilihan": {
+      "a": "Seni massal",
+      "b": "Seni kontemporer",
+      "c": "Seni tradisional",
+      "d": "Seni kerajinan pabrik",
+      "e": "Seni replika"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kerja kelompok dalam pameran berkaitan dengan peningkatan",
+    "pilihan": {
+      "a": "Keterampilan individu saja",
+      "b": "Keterampilan sosial siswa",
+      "c": "Hanya kemampuan menggambar",
+      "d": "Kemampuan bernyanyi",
+      "e": "Keterampilan akting"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi pameran yang membuat siswa tergerak berkarya setelah mengunjungi adalah fungsi",
+    "pilihan": {
+      "a": "Hiburan",
+      "b": "Inspirasi dan edukasi",
+      "c": "Penjualan semata",
+      "d": "Kompetisi",
+      "e": "Penyimpanan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pameran berperan sebagai wadah untuk",
+    "pilihan": {
+      "a": "Menilai dan menghargai karya seni",
+      "b": "Menghancurkan karya",
+      "c": "Hanya menyimpan karya",
+      "d": "Menjual tiket mahal",
+      "e": "Melatih olahraga"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sarana audio yang bertugas menciptakan kenyamanan suasana bagi apresiator di pameran adalah",
+    "pilihan": {
+      "a": "Lampu sorot",
+      "b": "Musik latar atau soundscape",
+      "c": "Proyektor gambar",
+      "d": "Kursi lipat",
+      "e": "Banner besar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ciri yang bukan merupakan bagian dari konsep panggung berbatas pada teater tradisional adalah",
+    "pilihan": {
+      "a": "Pemisahan jelas antara panggung dan penonton",
+      "b": "Panggung terbuka tanpa batas",
+      "c": "Penggunaan properti tradisional",
+      "d": "Kostum khas daerah",
+      "e": "Dialog dalam bahasa daerah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pertunjukan dengan kostum khas daerah yang penuh warna biasanya termasuk jenis teater",
+    "pilihan": {
+      "a": "Modern eksperimental",
+      "b": "Tradisional",
+      "c": "Kontemporer abstrak",
+      "d": "Musikal Broadway",
+      "e": "Teater jalanan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pementasan tanpa naskah tetap dan spontan berdasarkan budaya lokal paling sesuai dengan jenis teater",
+    "pilihan": {
+      "a": "Teater modern",
+      "b": "Teater tradisional/improvisasi",
+      "c": "Opera klasik",
+      "d": "Ballet",
+      "e": "Teater dokumenter"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teknik vokal yang berfokus pada kejelasan pelafalan huruf vokal agar terdengar jelas oleh audiens disebut",
+    "pilihan": {
+      "a": "Diksi",
+      "b": "Intonasi",
+      "c": "Tempo",
+      "d": "Volume",
+      "e": "Harmoni"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Unsur utama yang digunakan untuk mengubah fisik pemain agar serupa dengan karakter yang diperankan adalah",
+    "pilihan": {
+      "a": "Makeup, kostum, dan prostetik",
+      "b": "Hanya suara",
+      "c": "Hanya dialog",
+      "d": "Hanya gerak",
+      "e": "Hanya cahaya panggung"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Istilah bagi tokoh penengah atau pembantu tokoh utama dalam menghadapi konflik adalah",
+    "pilihan": {
+      "a": "Protagonis",
+      "b": "Antagonis",
+      "c": "Deuteragonis",
+      "d": "Figuran",
+      "e": "Narator"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tim yang bertanggung jawab atas pengubahan wajah untuk penguatan karakter dalam teater adalah tim",
+    "pilihan": {
+      "a": "Tata suara",
+      "b": "Tata rias dan kostum",
+      "c": "Tata panggung",
+      "d": "Penulis naskah",
+      "e": "Sutradara saja"
+    },
+    "jawaban": "b"
+  }
+]

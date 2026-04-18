@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Negara berkembang seringkali menjadi tempat bagi korporasi multinasional untuk mengeksploitasi sumber daya alam dengan upah buruh murah, tanpa campur tangan militer langsung, namun tetap menguasai ekonomi negara tersebut. Konsep yang tepat untuk menggambarkan fenomena ini adalah...",
+    "pilihan": {
+      "a": "Kapitalisme",
+      "b": "Imperialisme",
+      "c": "Merkantilisme",
+      "d": "Kolonialisme",
+      "e": "Neokolonialisme"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Masyarakat di perkotaan dengan mudah mengadopsi smartphone dan internet (budaya material), namun seringkali etika dalam bermedia sosial (budaya nonmaterial) masih rendah, seperti maraknya hoaks dan ujaran kebencian. Kondisi ketidakseimbangan ini dalam sosiologi dikenal dengan istilah...",
+    "pilihan": {
+      "a": "Xenophobia",
+      "b": "Hedonisme",
+      "c": "Etnosentrisme",
+      "d": "Cultural lag",
+      "e": "Culture shock"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Seorang mahasiswa rela membeli ponsel pintar dengan harga mahal dan berganti-ganti model hanya untuk mengikuti tren dan menjaga gengsi di hadapan teman-temannya, meskipun secara ekonomi ia harus berutang. Perilaku mahasiswa tersebut mencerminkan...",
+    "pilihan": {
+      "a": "Hedonisme",
+      "b": "Individualisme",
+      "c": "Konsumerisme",
+      "d": "Materialisme",
+      "e": "Sekularisme"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pembangunan pabrik multinasional di suatu daerah memang membuka lapangan kerja, namun juga menyebabkan pencemaran sungai akibat limbah industri. Dampak negatif globalisasi terhadap lingkungan seperti ini disebut...",
+    "pilihan": {
+      "a": "Alih fungsi lahan",
+      "b": "Modernisasi ekologis",
+      "c": "Efisiensi sumber daya",
+      "d": "Adaptasi teknologi",
+      "e": "Degradasi lingkungan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Seorang remaja merasa tertekan dan bingung menentukan jati dirinya karena selalu berusaha mengikuti budaya populer dari media sosial agar tidak dianggap ketinggalan zaman. Kondisi ini menunjukkan dampak negatif globalisasi berupa...",
+    "pilihan": {
+      "a": "Anomie",
+      "b": "Westernisasi",
+      "c": "Hedonisme",
+      "d": "Krisis identitas sosial",
+      "e": "Konsumerisme"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sebuah kelompok pecinta alam memiliki ikatan batin yang kuat karena mereka sering berbagi pengalaman, suka duka, dan tantangan saat menjalani ekspedisi bersama. Unsur pokok pembentuk kelompok sosial yang tampak dalam deskripsi ini adalah...",
+    "pilihan": {
+      "a": "Seperasaan",
+      "b": "Sepenanggungan",
+      "c": "Motif bersama",
+      "d": "Saling memerlukan",
+      "e": "Tujuan bersama"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Di sebuah komunitas petani, terjadi pembagian peran yang jelas. Ada yang bertugas mengolah sawah, menanam, memupuk, hingga memanen. Mereka saling membutuhkan satu sama lain untuk keberhasilan usaha tani. Unsur kelompok sosial yang dominan dalam ilustrasi ini adalah...",
+    "pilihan": {
+      "a": "Kesamaan nasib",
+      "b": "Saling melengkapi",
+      "c": "Motif yang sama",
+      "d": "Sepenanggungan",
+      "e": "Seperasaan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kelompok mahasiswa KKN melakukan pendataan penduduk, potensi desa, serta kondisi geografis sebagai langkah awal sebelum menyusun program kerja. Tahap dalam siklus pemberdayaan masyarakat yang sedang dilakukan adalah...",
+    "pilihan": {
+      "a": "Pelaksanaan program",
+      "b": "Evaluasi program",
+      "c": "Identifikasi masalah",
+      "d": "Pengumpulan data keadaan",
+      "e": "Perencanaan program"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Hasil analisis data desa menunjukkan bahwa masyarakat desa memiliki keterampilan membatik yang sudah turun-temurun. Keterampilan ini merupakan potensi internal yang dapat dikembangkan. Dalam analisis SWOT, potensi ini diklasifikasikan sebagai...",
+    "pilihan": {
+      "a": "Weakness (Kelemahan)",
+      "b": "Opportunity (Peluang)",
+      "c": "Challenge (Tantangan)",
+      "d": "Threats (Ancaman)",
+      "e": "Strength (Kekuatan)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Rencana pembangunan kawasan industri di dekat desa berpotensi menyebabkan pencemaran lingkungan dan merusak lahan pertanian warga. Faktor eksternal yang mengganggu stabilitas dan keberlanjutan kehidupan masyarakat desa ini dalam analisis SWOT disebut...",
+    "pilihan": {
+      "a": "Strength (Kekuatan)",
+      "b": "Weakness (Kelemahan)",
+      "c": "Threats (Ancaman)",
+      "d": "Obstacle (Hambatan)",
+      "e": "Opportunity (Peluang)"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Hasil panen padi di Desa Makmur tahun ini tidak mencapai target yang diharapkan. Para petani kemudian mengadakan pertemuan untuk mencari tahu penyebabnya, mulai dari serangan hama, irigasi yang buruk, hingga kualitas bibit. Langkah awal dalam siklus pemecahan masalah yang mereka lakukan adalah...",
+    "pilihan": {
+      "a": "Pelaksanaan kegiatan",
+      "b": "Pengumpulan data",
+      "c": "Evaluasi program",
+      "d": "Identifikasi masalah",
+      "e": "Perencanaan program"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Posyandu merupakan wadah pemberdayaan masyarakat yang bergerak di bidang...",
+    "pilihan": {
+      "a": "Kesehatan",
+      "b": "Sosial budaya",
+      "c": "Ekonomi",
+      "d": "Pertanian",
+      "e": "Pendidikan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Seorang fasilitator mengadakan pelatihan membuat blog dan memasarkan produk secara online kepada ibu-ibu PKK. Tujuannya agar mereka memiliki penghasilan tambahan. Kegiatan pemberdayaan ini termasuk dalam bidang...",
+    "pilihan": {
+      "a": "Politik",
+      "b": "Kesehatan",
+      "c": "Pendidikan",
+      "d": "Lingkungan",
+      "e": "Ekonomi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sebuah LSM melakukan penilaian cepat terhadap kondisi suatu desa dengan mengamati langsung, wawancara singkat, dan melihat data sekunder. Proses penilaian ini dilakukan dalam waktu singkat dan hasilnya digunakan untuk kepentingan pihak luar. Metode penilaian yang digunakan adalah...",
+    "pilihan": {
+      "a": "Participatory Rural Appraisal (PRA)",
+      "b": "Focus Group Discussion (FGD)",
+      "c": "Rapid Rural Appraisal (RRA)",
+      "d": "Participatory Learning and Action (PLA)",
+      "e": "Survey"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam program pemberdayaan, masyarakat desa dilibatkan secara aktif untuk menilai, menganalisis, dan merencanakan program sendiri. Masyarakat bertindak sebagai subjek, bukan objek. Metode pemberdayaan yang sesuai dengan ciri ini adalah...",
+    "pilihan": {
+      "a": "Focus Group Discussion (FGD)",
+      "b": "Participatory Rural Appraisal (PRA)",
+      "c": "Rapid Rural Appraisal (RRA)",
+      "d": "Monitoring",
+      "e": "Evaluasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Metode pemberdayaan yang menekankan pada proses belajar bersama antara masyarakat dan fasilitator melalui aksi nyata dan refleksi untuk melakukan perubahan disebut...",
+    "pilihan": {
+      "a": "Social Mapping",
+      "b": "Rapid Rural Appraisal (RRA)",
+      "c": "Participatory Learning and Action (PLA)",
+      "d": "Focus Group Discussion (FGD)",
+      "e": "Participatory Rural Appraisal (PRA)"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Untuk menggali informasi mendalam tentang permasalahan di desa, seorang fasilitator mengundang tokoh masyarakat, perangkat desa, dan pemuda untuk berdiskusi terarah dalam satu forum. Teknik pengumpulan data yang digunakan adalah...",
+    "pilihan": {
+      "a": "Wawancara mendalam",
+      "b": "Survey",
+      "c": "Focus Group Discussion (FGD)",
+      "d": "Observasi partisipatif",
+      "e": "Studi dokumentasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tim fasilitator melakukan penilaian terhadap jadwal kegiatan, partisipasi masyarakat, dan penyerapan dana di tengah-tengah pelaksanaan program pemberdayaan. Tujuannya untuk melakukan perbaikan segera jika ditemukan kendala. Jenis evaluasi ini disebut...",
+    "pilihan": {
+      "a": "Summative evaluation",
+      "b": "On-going evaluation",
+      "c": "Ex-post evaluation",
+      "d": "Ex-ante evaluation",
+      "e": "Dampak evaluasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Setelah program pemberdayaan selesai dilaksanakan selama satu tahun, lembaga donor melakukan penilaian untuk melihat keberhasilan program dan dampak jangka panjangnya. Jenis evaluasi ini disebut...",
+    "pilihan": {
+      "a": "On-going evaluation",
+      "b": "Ex-post evaluation",
+      "c": "Input evaluation",
+      "d": "Proses evaluasi",
+      "e": "Formatif evaluation"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam laporan akhir program, disebutkan bahwa dengan dana sebesar Rp100 juta, program berhasil membangun 5 unit jembatan desa. Perbandingan antara input (dana) dan output (jembatan) ini menunjukkan prinsip...",
+    "pilihan": {
+      "a": "Akuntabilitas",
+      "b": "Transparansi",
+      "c": "Partisipasi",
+      "d": "Efisiensi",
+      "e": "Efektivitas"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Seorang fasilitator menggunakan laporan hasil evaluasi program pemberdayaan untuk melengkapi portofolio pengalaman kerjanya. Manfaat evaluasi bagi fasilitator ini adalah untuk...",
+    "pilihan": {
+      "a": "Perumusan kebijakan",
+      "b": "Perbaikan program",
+      "c": "Akuntabilitas publik",
+      "d": "Pengembangan karier",
+      "e": "Transparansi dana"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pemerintah daerah menggunakan hasil evaluasi program pengentasan kemiskinan sebagai dasar untuk menyusun Peraturan Daerah (Perda) tentang perlindungan sosial. Manfaat evaluasi bagi pemerintah ini adalah untuk...",
+    "pilihan": {
+      "a": "Pengembangan karier aparat",
+      "b": "Promosi daerah",
+      "c": "Dokumentasi sejarah",
+      "d": "Akuntabilitas kepada donor",
+      "e": "Perumusan kebijakan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Suatu program pemberdayaan dikatakan berhasil jika tujuannya tercapai, misalnya terjadi peningkatan pendapatan masyarakat sebesar 30% sesuai target. Prinsip yang digunakan untuk mengukur keberhasilan ini adalah...",
+    "pilihan": {
+      "a": "Akuntabilitas",
+      "b": "Transparansi",
+      "c": "Produktivitas",
+      "d": "Efisiensi",
+      "e": "Efektivitas"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Proses pengumpulan informasi secara terus-menerus selama program berlangsung untuk memastikan program berjalan sesuai rencana dan untuk mengambil keputusan cepat jika ada penyimpangan disebut...",
+    "pilihan": {
+      "a": "Monitoring",
+      "b": "Penelitian",
+      "c": "Audit",
+      "d": "Supervisi",
+      "e": "Evaluasi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Konsep Neokolonialisme merujuk pada...",
+    "pilihan": {
+      "a": "Pergerakan kemerdekaan bangsa terjajah",
+      "b": "Perang antarnegara untuk memperluas wilayah",
+      "c": "Penjajahan secara langsung suatu wilayah",
+      "d": "Dominasi negara maju terhadap negara berkembang melalui ekonomi, budaya, dan teknologi tanpa pendudukan fisik",
+      "e": "Sistem perdagangan bebas tanpa aturan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Cultural lag adalah kondisi ketika...",
+    "pilihan": {
+      "a": "Perubahan budaya material lebih cepat daripada perubahan budaya nonmaterial",
+      "b": "Terjadi konflik antar budaya yang berbeda",
+      "c": "Masyarakat menolak semua bentuk budaya asing",
+      "d": "Budaya lokal punah karena globalisasi",
+      "e": "Budaya asing masuk dan menggantikan budaya lokal"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Hedonisme adalah gaya hidup yang menganggap kesenangan dan kenikmatan materi sebagai...",
+    "pilihan": {
+      "a": "Sarana ibadah",
+      "b": "Beban hidup",
+      "c": "Tujuan utama hidup",
+      "d": "Investasi masa depan",
+      "e": "Kebutuhan sekunder"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Salah satu dampak negatif globalisasi di bidang lingkungan adalah...",
+    "pilihan": {
+      "a": "Meningkatnya investasi asing",
+      "b": "Berkembangnya teknologi ramah lingkungan",
+      "c": "Mudahnya akses informasi",
+      "d": "Meningkatnya mobilitas penduduk",
+      "e": "Eksploitasi sumber daya alam secara besar-besaran"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Krisis identitas sosial akibat globalisasi ditandai dengan...",
+    "pilihan": {
+      "a": "Meningkatnya solidaritas kelompok",
+      "b": "Mudahnya beradaptasi dengan budaya baru",
+      "c": "Semakin kuatnya rasa nasionalisme",
+      "d": "Kebanggaan terhadap budaya lokal",
+      "e": "Kebingungan dalam menentukan jati diri karena terpaan budaya asing"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Unsur seperasaan dalam kelompok sosial tercermin dalam pernyataan...",
+    "pilihan": {
+      "a": "Mereka merasakan nasib yang sama sebagai perantau",
+      "b": "Para petani bekerja sama membangun irigasi",
+      "c": "Anggota komunitas motor saling meminjamkan kendaraan",
+      "d": "Karyawan bekerja sesuai tugas masing-masing",
+      "e": "Warga bergotong royong membersihkan desa"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Unsur sepenanggungan dalam kelompok sosial tercermin dalam pernyataan...",
+    "pilihan": {
+      "a": "Mereka memiliki tujuan untuk memenangkan lomba",
+      "b": "Mereka saling membantu ketika ada anggota yang terkena musibah",
+      "c": "Mereka tinggal di wilayah yang sama",
+      "d": "Mereka berasal dari suku yang sama",
+      "e": "Mereka memiliki hobi yang sama"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kegiatan pengumpulan data keadaan dalam pemberdayaan masyarakat bertujuan untuk...",
+    "pilihan": {
+      "a": "Menyusun laporan akhir",
+      "b": "Menilai keberhasilan program",
+      "c": "Mencari dana bantuan",
+      "d": "Menguji hipotesis penelitian",
+      "e": "Mengetahui potensi dan masalah yang ada di masyarakat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam analisis SWOT, yang dimaksud dengan 'Opportunity' adalah...",
+    "pilihan": {
+      "a": "Faktor eksternal yang merugikan",
+      "b": "Faktor internal yang positif",
+      "c": "Faktor internal yang negatif",
+      "d": "Faktor eksternal yang menguntungkan",
+      "e": "Faktor internal dan eksternal"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Langkah pertama dalam siklus pemecahan masalah sosial adalah...",
+    "pilihan": {
+      "a": "Mengidentifikasi masalah",
+      "b": "Menyusun perencanaan",
+      "c": "Melaksanakan program",
+      "d": "Mengevaluasi hasil",
+      "e": "Mencari alternatif solusi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pemberdayaan masyarakat di bidang ekonomi dapat dilakukan melalui kegiatan...",
+    "pilihan": {
+      "a": "Kursus menjahit untuk kemandirian usaha",
+      "b": "Pelatihan membuat pupuk organik",
+      "c": "Posyandu",
+      "d": "Kerja bakti",
+      "e": "Senam bersama"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara RRA (Rapid Rural Appraisal) dan PRA (Participatory Rural Appraisal) terletak pada...",
+    "pilihan": {
+      "a": "Keterlibatan masyarakat sebagai subjek atau objek penilaian",
+      "b": "Biaya yang digunakan",
+      "c": "Waktu yang dibutuhkan",
+      "d": "Metode analisis data",
+      "e": "Jenis data yang dikumpulkan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "PLA (Participatory Learning and Action) menekankan pada proses...",
+    "pilihan": {
+      "a": "Pemetaan wilayah",
+      "b": "Wawancara individu",
+      "c": "Belajar dan aksi secara partisipatif",
+      "d": "Pengumpulan data cepat oleh ahli",
+      "e": "Diskusi terarah dengan tokoh"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Focus Group Discussion (FGD) adalah teknik pengumpulan data yang dilakukan dengan cara...",
+    "pilihan": {
+      "a": "Diskusi kelompok terarah dengan topik tertentu",
+      "b": "Pengamatan langsung di lapangan",
+      "c": "Wawancara satu lawan satu",
+      "d": "Penyebaran kuesioner",
+      "e": "Analisis dokumen"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Evaluasi yang dilakukan di tengah pelaksanaan program bertujuan untuk...",
+    "pilihan": {
+      "a": "Membandingkan dengan program lain",
+      "b": "Melakukan perbaikan segera jika diperlukan",
+      "c": "Menilai dampak akhir program",
+      "d": "Menentukan kelanjutan program",
+      "e": "Menyusun laporan untuk donor"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Evaluasi setelah program selesai (ex-post evaluation) berguna untuk...",
+    "pilihan": {
+      "a": "Memantau penggunaan dana",
+      "b": "Mengukur keberhasilan dan dampak program secara keseluruhan",
+      "c": "Menyusun jadwal kegiatan baru",
+      "d": "Mengoreksi kesalahan saat program berjalan",
+      "e": "Merekrut fasilitator baru"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Prinsip efisiensi dalam evaluasi program menekankan pada...",
+    "pilihan": {
+      "a": "Perbandingan antara input dan output",
+      "b": "Pencapaian tujuan program",
+      "c": "Kepuasan masyarakat",
+      "d": "Keterlibatan semua pihak",
+      "e": "Kesesuaian dengan aturan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Bagi pemerintah, hasil evaluasi program pemberdayaan sangat bermanfaat untuk...",
+    "pilihan": {
+      "a": "Dasar perumusan kebijakan yang lebih baik",
+      "b": "Mencari proyek baru",
+      "c": "Bahan laporan ke pusat",
+      "d": "Menekan anggaran",
+      "e": "Meningkatkan popularitas pejabat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Prinsip efektivitas dalam suatu program mengacu pada...",
+    "pilihan": {
+      "a": "Kepatuhan pada prosedur",
+      "b": "Banyaknya peserta yang hadir",
+      "c": "Kecepatan pelaksanaan program",
+      "d": "Penggunaan dana seminimal mungkin",
+      "e": "Tercapainya tujuan yang telah ditetapkan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kegiatan monitoring dalam suatu program dilakukan secara...",
+    "pilihan": {
+      "a": "Setahun sekali",
+      "b": "Berkala dan terus-menerus selama program berlangsung",
+      "c": "Hanya di akhir program",
+      "d": "Hanya di awal program",
+      "e": "Ketika ada masalah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pembangunan mal dan pusat perbelanjaan mewah di berbagai kota merupakan contoh nyata dari gaya hidup...",
+    "pilihan": {
+      "a": "Spartan",
+      "b": "Hedonisme",
+      "c": "Sederhana",
+      "d": "Askestisisme",
+      "e": "Tradisional"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Globalisasi dapat menyebabkan krisis identitas sosial karena...",
+    "pilihan": {
+      "a": "Terjadi pencampuran budaya yang membingungkan",
+      "b": "Solidaritas sosial meningkat",
+      "c": "Masyarakat semakin mencintai produk lokal",
+      "d": "Masyarakat menolak teknologi",
+      "e": "Nilai dan norma asing sulit diterima"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam analisis SWOT, 'Weakness' mengacu pada...",
+    "pilihan": {
+      "a": "Faktor eksternal yang menjadi ancaman",
+      "b": "Faktor internal yang menjadi kelemahan",
+      "c": "Faktor alamiah",
+      "d": "Faktor eksternal yang menjadi peluang",
+      "e": "Faktor internal yang menjadi kekuatan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Partisipasi masyarakat dalam program pemberdayaan sangat penting karena...",
+    "pilihan": {
+      "a": "Untuk menghabiskan dana bantuan",
+      "b": "Masyarakat hanya sebagai objek pembangunan",
+      "c": "Agar program berjalan cepat",
+      "d": "Masyarakat lebih tahu permasalahan dan potensi dirinya",
+      "e": "Memudahkan tugas fasilitator"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari evaluasi program pemberdayaan adalah...",
+    "pilihan": {
+      "a": "Mencari proyek baru",
+      "b": "Meningkatkan kualitas dan akuntabilitas program",
+      "c": "Mengganti fasilitator",
+      "d": "Mencari kesalahan masyarakat",
+      "e": "Membuat laporan keuangan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu ciri metode PRA (Participatory Rural Appraisal) adalah...",
+    "pilihan": {
+      "a": "Waktu penelitian sangat singkat",
+      "b": "Peneliti asing yang merumuskan masalah",
+      "c": "Hasil penelitian dirahasiakan",
+      "d": "Masyarakat terlibat aktif dalam analisis dan perencanaan",
+      "e": "Masyarakat menjadi objek penelitian"
+    },
+    "jawaban": "d"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Suatu wilayah yang ditetapkan berdasarkan kesamaan atau homogenitas kriteria tertentu, seperti wilayah perkebunan teh atau wilayah beriklim tropis, disebut sebagai...",
+    "pilihan": {
+      "a": "Wilayah Fungsional",
+      "b": "Wilayah Spesifik",
+      "c": "Wilayah Generik",
+      "d": "Wilayah Nodal",
+      "e": "Wilayah Formal (Uniform Region)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kawasan Jabodetabek, di mana Jakarta berfungsi sebagai pusat kegiatan (node) dan kota-kota di sekitarnya memiliki hubungan ketergantungan yang erat, merupakan contoh dari...",
+    "pilihan": {
+      "a": "Wilayah Uniform",
+      "b": "Wilayah Formal",
+      "c": "Wilayah Generik",
+      "d": "Wilayah Spesifik",
+      "e": "Wilayah Fungsional (Nodal Region)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Menurut teori Gunnar Myrdal, perpindahan tenaga kerja terampil dari desa ke kota yang menyebabkan desa kehilangan sumber daya manusia produktif adalah contoh dari...",
+    "pilihan": {
+      "a": "Backwash Effect",
+      "b": "Spread Effect",
+      "c": "Intervening Opportunity",
+      "d": "Multiplier Effect",
+      "e": "Trickle-Down Effect"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam Teori Tempat Sentral Christaller, hierarki yang paling efisien untuk penempatan pusat-pusat pemerintahan agar tidak ada tumpang tindih wilayah kekuasaan adalah...",
+    "pilihan": {
+      "a": "Hierarki K=3 (Pasar)",
+      "b": "Hierarki K=7 (Administrasi)",
+      "c": "Hierarki K=4 (Lalu Lintas)",
+      "d": "Hierarki K=9 (Sosial)",
+      "e": "Hierarki K=12 (Grosir)"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Menurut Teori Sektoral dari Homer Hoyt, perkembangan kota cenderung menjulur mengikuti...",
+    "pilihan": {
+      "a": "Jalur transportasi utama seperti jalan raya dan rel kereta",
+      "b": "Lingkaran konsentris yang seragam",
+      "c": "Pola acak tanpa aturan",
+      "d": "Kontur ketinggian tanah",
+      "e": "Batas-batas administrasi kota"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kekuatan interaksi antara dua kota akan semakin besar jika jumlah penduduk kedua kota tersebut besar dan jaraknya dekat. Konsep ini dijelaskan dalam...",
+    "pilihan": {
+      "a": "Teori Titik Henti",
+      "b": "Teori Sektoral",
+      "c": "Teori Konsentris",
+      "d": "Rumus Gravitasi",
+      "e": "Teori Tempat Sentral"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pola permukiman desa yang rumah-rumahnya cenderung berderet memanjang di sepanjang garis pantai atau tepi jalan raya disebut pola...",
+    "pilihan": {
+      "a": "Memanjang (Linear)",
+      "b": "Grid",
+      "c": "Radial",
+      "d": "Menyebar (Dispersed)",
+      "e": "Mengelompok (Nucleated)"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Desa berfungsi sebagai pemasok bahan mentah dan tenaga kerja bagi kota, sedangkan kota menyediakan barang jadi dan jasa bagi desa. Hubungan ini merupakan salah satu faktor interaksi yang disebut...",
+    "pilihan": {
+      "a": "Backwash Effect",
+      "b": "Intervening Opportunity",
+      "c": "Regional Complementarity (Saling Melengkapi)",
+      "d": "Spatial Transferability",
+      "e": "Centrality"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam interpretasi citra penginderaan jauh, tingkat kecerahan atau kegelapan suatu objek disebut...",
+    "pilihan": {
+      "a": "Situs",
+      "b": "Rona atau Warna",
+      "c": "Bentuk",
+      "d": "Pola",
+      "e": "Tekstur"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada citra inframerah, vegetasi yang sehat akan tampak berwarna merah cerah. Hal ini disebabkan oleh...",
+    "pilihan": {
+      "a": "Pantulan sinar biru yang kuat dari daun",
+      "b": "Suhu daun yang sangat panas",
+      "c": "Warna tanah di bawah vegetasi",
+      "d": "Pantulan sinar inframerah yang kuat dari klorofil",
+      "e": "Penyerapan semua spektrum cahaya oleh daun"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dampak negatif dari interaksi desa-kota bagi desa, di mana lahan pertanian produktif beralih fungsi menjadi perumahan atau industri, dikenal sebagai...",
+    "pilihan": {
+      "a": "Diversifikasi ekonomi",
+      "b": "Alih fungsi lahan",
+      "c": "Spread effect",
+      "d": "Peningkatan pendapatan",
+      "e": "Modernisasi pertanian"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Menurut Teori Sektoral, zona permukiman kaum elite atau kelas atas cenderung menempati sektor yang...",
+    "pilihan": {
+      "a": "Dekat dengan kawasan industri",
+      "b": "Berada di sepanjang rel kereta api",
+      "c": "Memiliki pemandangan indah dan aksesibilitas yang baik",
+      "d": "Dekat dengan pelabuhan",
+      "e": "Berada di pusat kota yang padat"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dampak negatif urbanisasi bagi kota adalah munculnya permukiman liar yang padat dan tidak sehat, yang dikenal sebagai...",
+    "pilihan": {
+      "a": "Kawasan elite",
+      "b": "Slum area",
+      "c": "Central Business District",
+      "d": "Suburbanisasi",
+      "e": "Gentrifikasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada sebuah foto udara, terlihat area dengan objek-objek berbentuk persegi panjang yang tersusun sangat rapi seperti papan catur. Objek tersebut kemungkinan besar adalah...",
+    "pilihan": {
+      "a": "Area persawahan",
+      "b": "Hutan alami",
+      "c": "Delta sungai",
+      "d": "Perkampungan nelayan",
+      "e": "Kawasan perumahan terencana (real estate)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam interpretasi citra, keterkaitan suatu objek dengan objek lain di sekitarnya disebut unsur...",
+    "pilihan": {
+      "a": "Bentuk",
+      "b": "Situs",
+      "c": "Pola",
+      "d": "Tekstur",
+      "e": "Asosiasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sebuah objek pada citra yang berasosiasi dengan rel kereta api dan memiliki bentuk memanjang kemungkinan besar adalah...",
+    "pilihan": {
+      "a": "Stadion",
+      "b": "Stasiun kereta api",
+      "c": "Terminal bus",
+      "d": "Pelabuhan",
+      "e": "Bandar udara"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pemanfaatan citra penginderaan jauh yang direkam pada waktu yang berbeda (misalnya tahun 2015 dan 2025) untuk memantau perubahan penggunaan lahan disebut analisis...",
+    "pilihan": {
+      "a": "Multiskala",
+      "b": "Multifungsional",
+      "c": "Multitemporal",
+      "d": "Multispektral",
+      "e": "Multilevel"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pada foto udara, objek stadion sepak bola dapat dengan mudah dikenali berdasarkan unsur interpretasi...",
+    "pilihan": {
+      "a": "Polanya yang tidak teratur",
+      "b": "Ronanya yang sangat gelap",
+      "c": "Situsnya yang selalu di pegunungan",
+      "d": "Tekstur yang kasar",
+      "e": "Bentuknya yang oval dan ukurannya yang besar"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu tujuan utama pemanfaatan SIG dan Penginderaan Jauh bagi desa tertinggal adalah untuk...",
+    "pilihan": {
+      "a": "Meningkatkan kepadatan penduduk",
+      "b": "Mengubah budaya masyarakat desa",
+      "c": "Menghitung jumlah penduduk secara pasti",
+      "d": "Membangun pusat perbelanjaan modern",
+      "e": "Mengidentifikasi dan memetakan potensi sumber daya alam untuk perencanaan pembangunan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teori yang digunakan untuk menentukan lokasi ideal sebuah fasilitas (seperti SPBU atau sekolah) di antara dua kota dengan jumlah penduduk berbeda adalah...",
+    "pilihan": {
+      "a": "Teori Sektoral",
+      "b": "Teori Konsentris",
+      "c": "Teori Inti Ganda",
+      "d": "Teori Titik Henti (Breaking Point Theory)",
+      "e": "Teori Gravitasi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Wilayah yang didefinisikan berdasarkan jenis atau tipe kriteria yang umum dan bisa ditemukan di banyak tempat, seperti 'kawasan industri' atau 'wilayah iklim gurun', disebut...",
+    "pilihan": {
+      "a": "Specific Region",
+      "b": "Functional Region",
+      "c": "Generic Region",
+      "d": "Nodal Region",
+      "e": "Uniform Region"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Provinsi 'Jawa Barat' atau kawasan 'Asia Tenggara' adalah contoh dari...",
+    "pilihan": {
+      "a": "Functional Region",
+      "b": "Nodal Region",
+      "c": "Generic Region",
+      "d": "Uniform Region",
+      "e": "Specific Region"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perpindahan penduduk dari pulau yang padat ke pulau yang jarang penduduknya melalui program pemerintah disebut...",
+    "pilihan": {
+      "a": "Imigrasi",
+      "b": "Transmigrasi",
+      "c": "Emigrasi",
+      "d": "Evakuasi",
+      "e": "Urbanisasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam interpretasi citra, frekuensi perubahan rona pada suatu area yang memberikan kesan kasar atau halus disebut...",
+    "pilihan": {
+      "a": "Situs",
+      "b": "Pola",
+      "c": "Ukuran",
+      "d": "Tekstur",
+      "e": "Bentuk"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Area hutan hujan tropis yang lebat dengan kanopi pohon yang tidak seragam akan memberikan kenampakan tekstur...",
+    "pilihan": {
+      "a": "Mengkilap",
+      "b": "Sedang",
+      "c": "Halus",
+      "d": "Kasar",
+      "e": "Belang-belang"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Menurut Teori Tempat Sentral, prinsip yang paling mengutamakan efisiensi jaringan transportasi dan menempatkan pusat pelayanan di sepanjang rute lalu lintas adalah...",
+    "pilihan": {
+      "a": "Hierarki K=4",
+      "b": "Hierarki K=2",
+      "c": "Hierarki K=7",
+      "d": "Hierarki K=9",
+      "e": "Hierarki K=3"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jumlah populasi minimum yang dibutuhkan agar suatu pusat pelayanan (misalnya, sebuah bioskop) dapat beroperasi secara menguntungkan disebut...",
+    "pilihan": {
+      "a": "Range (Jangkauan)",
+      "b": "Threshold (Ambang)",
+      "c": "Nodality",
+      "d": "Centrality",
+      "e": "Hierarchy"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Warga desa X biasanya berbelanja ke kota Z. Namun, setelah kota Y yang lebih dekat membangun pasar baru, mereka beralih berbelanja ke kota Y. Dalam faktor interaksi, kota Y berfungsi sebagai...",
+    "pilihan": {
+      "a": "Spatial Transferability",
+      "b": "Nodal Region",
+      "c": "Regional Complementarity",
+      "d": "Intervening Opportunity",
+      "e": "Central Place"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pola permukiman desa yang rumah-rumahnya cenderung berkumpul di satu titik karena kesamaan sumber daya (misalnya mata air) disebut pola...",
+    "pilihan": {
+      "a": "Menyebar (Dispersed)",
+      "b": "Mengelompok (Nucleated)",
+      "c": "Grid",
+      "d": "Memanjang (Linear)",
+      "e": "Radial"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada citra foto udara, sungai yang jernih dan dalam akan cenderung menampilkan rona...",
+    "pilihan": {
+      "a": "Hijau",
+      "b": "Gelap atau hitam",
+      "c": "Merah",
+      "d": "Abu-abu sedang",
+      "e": "Cerah atau putih"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gedung sekolah pada citra seringkali dapat diidentifikasi melalui bentuknya yang khas, yaitu...",
+    "pilihan": {
+      "a": "Persegi panjang yang sangat besar",
+      "b": "Kerucut",
+      "c": "Huruf L, U, atau I",
+      "d": "Lingkaran atau oval",
+      "e": "Tidak beraturan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Perpindahan penduduk dari suatu negara untuk menetap di negara lain disebut...",
+    "pilihan": {
+      "a": "Sirkulasi",
+      "b": "Emigrasi",
+      "c": "Imigrasi",
+      "d": "Transmigrasi",
+      "e": "Urbanisasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Area yang secara hukum ditetapkan khusus untuk kegiatan industri dan pabrik disebut...",
+    "pilihan": {
+      "a": "Sempadan Sungai",
+      "b": "Daerah Milik Jalan",
+      "c": "Zonasi Permukiman",
+      "d": "Kawasan Lindung",
+      "e": "Zonasi Industri"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam analisis SIG, proses menggabungkan dua peta atau lebih (misalnya peta jenis tanah dan peta kemiringan lereng) untuk menghasilkan peta baru (peta kesesuaian lahan) disebut...",
+    "pilihan": {
+      "a": "Buffering",
+      "b": "Overlay (Tumpang Susun)",
+      "c": "Skoring",
+      "d": "Digitasi",
+      "e": "Query"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada citra, area perkebunan kelapa sawit atau teh dapat dikenali dengan mudah melalui unsur...",
+    "pilihan": {
+      "a": "Ukurannya yang selalu kecil",
+      "b": "Teksturnya yang sangat halus seperti air",
+      "c": "Asosiasinya dengan jalan tol",
+      "d": "Polanya yang sangat teratur dan berbaris rapi",
+      "e": "Bentuk setiap pohonnya"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pembangunan jalan tol yang menghubungkan desa dan kota akan meningkatkan faktor interaksi...",
+    "pilihan": {
+      "a": "Spatial Transferability (Kemudahan Transfer)",
+      "b": "Regional Complementarity",
+      "c": "Spread Effect",
+      "d": "Intervening Opportunity",
+      "e": "Backwash Effect"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Teori Tempat Sentral yang paling ideal untuk menggambarkan hierarki pusat-pusat perbelanjaan atau pasar adalah...",
+    "pilihan": {
+      "a": "Hierarki K=7",
+      "b": "Hierarki K=1",
+      "c": "Hierarki K=5",
+      "d": "Hierarki K=3",
+      "e": "Hierarki K=4"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu manfaat utama SIG dalam mitigasi bencana adalah...",
+    "pilihan": {
+      "a": "Membuat peta zona rawan bencana untuk perencanaan evakuasi",
+      "b": "Membangun gedung tahan bencana",
+      "c": "Menghitung kerugian finansial secara pasti",
+      "d": "Mencegah bencana terjadi",
+      "e": "Mengubah cuaca agar tidak terjadi badai"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam interpretasi citra, unsur yang berkaitan dengan lokasi suatu objek terhadap objek lain di sekitarnya (misalnya, permukiman di sepanjang pantai) disebut...",
+    "pilihan": {
+      "a": "Bentuk",
+      "b": "Tekstur",
+      "c": "Asosiasi",
+      "d": "Situs",
+      "e": "Pola"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Menurut Teori Titik Henti, lokasi fasilitas umum akan cenderung lebih dekat ke kota yang memiliki...",
+    "pilihan": {
+      "a": "Jumlah penduduk lebih sedikit",
+      "b": "Fasilitas lebih lengkap",
+      "c": "Jarak yang sama persis di tengah",
+      "d": "Jumlah penduduk lebih banyak",
+      "e": "Wilayah lebih luas"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Proses identifikasi, analisis, dan penilaian objek pada citra penginderaan jauh dengan menggunakan unsur-unsur seperti rona, bentuk, dan pola disebut...",
+    "pilihan": {
+      "a": "Interpretasi Citra",
+      "b": "Digitasi",
+      "c": "Klasifikasi",
+      "d": "Koreksi Geometrik",
+      "e": "Overlay"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pola aliran sungai yang menyerupai struktur tulang daun atau cabang pohon yang tidak teratur disebut pola...",
+    "pilihan": {
+      "a": "Annular",
+      "b": "Radial",
+      "c": "Dendritik",
+      "d": "Trellis",
+      "e": "Rectangular"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Jika suatu kota pusat mengalami perkembangan pesat sehingga mampu menyebarkan inovasi, teknologi, dan investasi ke daerah sekitarnya, fenomena ini disebut...",
+    "pilihan": {
+      "a": "Gentrification",
+      "b": "Spread Effect",
+      "c": "Brain Drain",
+      "d": "Backwash Effect",
+      "e": "Urban Sprawl"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada foto udara, atap sebuah gedung yang terbuat dari seng baru akan menampilkan rona yang...",
+    "pilihan": {
+      "a": "Sangat gelap",
+      "b": "Sangat cerah atau putih karena pantulan tinggi",
+      "c": "Tidak terlihat",
+      "d": "Merah",
+      "e": "Hijau"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perpindahan penduduk dari desa ke kota yang bersifat sementara atau musiman, misalnya buruh tani yang bekerja di kota setelah masa panen, disebut...",
+    "pilihan": {
+      "a": "Emigrasi",
+      "b": "Evakuasi",
+      "c": "Transmigrasi",
+      "d": "Sirkulasi atau Komutasi",
+      "e": "Urbanisasi permanen"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kawasan yang ditetapkan untuk tidak boleh dibangun demi menjaga kelestarian lingkungan, seperti hutan kota atau sempadan sungai, termasuk dalam zonasi...",
+    "pilihan": {
+      "a": "Komersial",
+      "b": "Pariwisata",
+      "c": "Industri",
+      "d": "Permukiman",
+      "e": "Kawasan Lindung"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada citra, lapangan terbang dapat dikenali dengan mudah karena asosiasinya dengan objek...",
+    "pilihan": {
+      "a": "Stadion olahraga",
+      "b": "Landasan pacu (runway) dan pesawat terbang",
+      "c": "Kapal-kapal besar",
+      "d": "Gedung-gedung tinggi",
+      "e": "Rel kereta api"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara Wilayah Formal dan Wilayah Fungsional terletak pada...",
+    "pilihan": {
+      "a": "Tahun pembentukannya",
+      "b": "Luas wilayahnya",
+      "c": "Jumlah penduduknya",
+      "d": "Dasar penentuannya: keseragaman vs. interaksi",
+      "e": "Lokasi geografisnya"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada citra, area persawahan yang baru ditanami padi akan memberikan tekstur yang...",
+    "pilihan": {
+      "a": "Sangat kasar",
+      "b": "Kasar",
+      "c": "Sedang",
+      "d": "Tidak bertekstur",
+      "e": "Halus"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Jarak maksimum yang bersedia ditempuh oleh konsumen untuk mendapatkan suatu barang atau jasa dalam Teori Tempat Sentral disebut...",
+    "pilihan": {
+      "a": "Centrality",
+      "b": "Nodal",
+      "c": "Range",
+      "d": "Hinterland",
+      "e": "Threshold"
+    },
+    "jawaban": "c"
+  }
+]

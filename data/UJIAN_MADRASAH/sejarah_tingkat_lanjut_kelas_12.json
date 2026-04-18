@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Menurut Moh. Yamin, sejarah adalah ilmu pengetahuan yang disusun atas hasil penyelidikan beberapa peristiwa yang dapat dibuktikan dengan...",
+    "pilihan": {
+      "a": "Pendapat umum masyarakat",
+      "b": "Imajinasi penulis",
+      "c": "Cerita rakyat yang beredar",
+      "d": "Dokumen palsu yang menarik",
+      "e": "Kenyataan atau fakta hasil kebudayaan manusia"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ciri sejarah sebagai ilmu yang paling menonjol adalah bersifat...",
+    "pilihan": {
+      "a": "Berdasarkan mitos dan legenda",
+      "b": "Hanya bersifat politik",
+      "c": "Empiris dan dapat diverifikasi dengan bukti",
+      "d": "Mutlak dan tidak berubah",
+      "e": "Subjektif dan imajinatif"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sifat unik sejarah ditunjukkan oleh karakteristik peristiwa yang...",
+    "pilihan": {
+      "a": "Selalu bersifat umum seperti hukum alam",
+      "b": "Terjadi sekali saja pada waktu, tempat, dan konteks tertentu",
+      "c": "Tidak memiliki hubungan sebab-akibat",
+      "d": "Dapat diulang secara persis di tempat lain",
+      "e": "Hanya melibatkan tokoh besar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam menganalisis suatu peristiwa sejarah, hubungan sebab-akibat biasanya melibatkan...",
+    "pilihan": {
+      "a": "Faktor yang tidak dapat dijelaskan",
+      "b": "Faktor multifaktor (langsung dan tidak langsung)",
+      "c": "Hanya faktor alam semata",
+      "d": "Faktor yang bersifat deterministik mutlak",
+      "e": "Hanya satu faktor tunggal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Aktivitas yang termasuk dalam tahap heuristik penelitian sejarah adalah...",
+    "pilihan": {
+      "a": "Mencari dan mengumpulkan sumber-sumber sejarah",
+      "b": "Menganalisis sebab-akibat peristiwa",
+      "c": "Menafsirkan makna peristiwa",
+      "d": "Memverifikasi keaslian sumber",
+      "e": "Menulis narasi sejarah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kritik eksternal sumber sejarah bertujuan untuk memeriksa...",
+    "pilihan": {
+      "a": "Relevansi sumber dengan masa kini",
+      "b": "Keaslian fisik sumber (usia, penulis, keutuhan dokumen)",
+      "c": "Bias penulis sumber",
+      "d": "Hubungan sebab-akibat peristiwa",
+      "e": "Isi dan kebenaran informasi di dalam sumber"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Urutan langkah penelitian sejarah yang logis menurut Kuntowijoyo adalah...",
+    "pilihan": {
+      "a": "Verifikasi \u2192 Heuristik \u2192 Pemilihan topik \u2192 Interpretasi \u2192 Historiografi",
+      "b": "Pemilihan topik \u2192 Heuristik \u2192 Verifikasi \u2192 Interpretasi \u2192 Historiografi",
+      "c": "Interpretasi \u2192 Heuristik \u2192 Verifikasi \u2192 Historiografi \u2192 Pemilihan topik",
+      "d": "Heuristik \u2192 Verifikasi \u2192 Interpretasi \u2192 Historiografi \u2192 Pemilihan topik",
+      "e": "Historiografi \u2192 Interpretasi \u2192 Verifikasi \u2192 Heuristik \u2192 Pemilihan topik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Manfaat belajar sejarah dalam kehidupan masa kini adalah...",
+    "pilihan": {
+      "a": "Menghibur diri dengan cerita masa lalu",
+      "b": "Mengambil hikmah untuk menghindari kesalahan masa lalu",
+      "c": "Meningkatkan kemampuan berimajinasi",
+      "d": "Hanya untuk menghafal tanggal peristiwa",
+      "e": "Mengetahui hanya peristiwa politik saja"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ciri sejarah yang menunjukkan ia bersifat dinamis dan memiliki kesinambungan adalah...",
+    "pilihan": {
+      "a": "Sejarah hanya bersifat unik tanpa pola",
+      "b": "Sejarah bersifat statis dan tidak berubah",
+      "c": "Sejarah hanya berhenti pada peristiwa besar",
+      "d": "Peristiwa masa lalu tidak memengaruhi masa kini",
+      "e": "Peristiwa masa lalu terus berhubungan dan memengaruhi masa kini serta masa depan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perbedaan pendekatan sejarah tradisional dengan pendekatan sosial-ekonomi terletak pada fokus utamanya, yaitu...",
+    "pilihan": {
+      "a": "Tradisional fokus pada budaya, sedangkan sosial-ekonomi pada militer",
+      "b": "Tradisional fokus pada tokoh besar, sedangkan sosial-ekonomi fokus pada struktur masyarakat dan kelas",
+      "c": "Keduanya sama-sama fokus pada peristiwa politik",
+      "d": "Tradisional bersifat ilmiah, sosial-ekonomi bersifat imajinatif",
+      "e": "Keduanya tidak memiliki perbedaan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Suatu peristiwa dapat dikatakan sebagai peristiwa sejarah jika memiliki...",
+    "pilihan": {
+      "a": "Tidak memiliki dampak terhadap masyarakat",
+      "b": "Hanya cerita yang menarik tanpa bukti",
+      "c": "Bukti yang dapat diverifikasi dan signifikansi yang luas",
+      "d": "Terjadi baru-baru ini saja",
+      "e": "Hanya melibatkan tokoh terkenal"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kesinambungan waktu dalam sejarah dapat disimpulkan dari ilustrasi peristiwa bahwa...",
+    "pilihan": {
+      "a": "Waktu sejarah tidak memiliki urutan",
+      "b": "Peristiwa masa lalu memengaruhi dan berlanjut ke masa kini",
+      "c": "Peristiwa masa lalu terputus sama sekali dari masa kini",
+      "d": "Waktu sejarah bersifat siklus yang berulang persis",
+      "e": "Sejarah hanya berlaku untuk satu generasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Langkah penelitian sejarah yang paling tepat jika tujuannya adalah mendapatkan bahan data awal adalah...",
+    "pilihan": {
+      "a": "Analisis dampak",
+      "b": "Heuristik (pengumpulan sumber)",
+      "c": "Verifikasi",
+      "d": "Interpretasi",
+      "e": "Historiografi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Lokasi peradaban Mesopotamia adalah di lembah sungai...",
+    "pilihan": {
+      "a": "Tigris dan Eufrat",
+      "b": "Nil",
+      "c": "Hwang Ho",
+      "d": "Gangga",
+      "e": "Amazon"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Faktor geografis utama yang mendukung kemajuan peradaban Mesir Kuno adalah...",
+    "pilihan": {
+      "a": "Lokasi di tengah hutan tropis",
+      "b": "Kekurangan air sepanjang tahun",
+      "c": "Pegunungan tinggi di sekitar wilayah",
+      "d": "Banjir rutin Sungai Nil yang menyuburkan tanah",
+      "e": "Iklim gurun yang ekstrem"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sungai Hwang Ho (Sungai Kuning) dinamakan demikian karena...",
+    "pilihan": {
+      "a": "Tidak pernah banjir",
+      "b": "Sering membeku di musim dingin",
+      "c": "Berada di wilayah gurun merah",
+      "d": "Airnya berwarna biru jernih",
+      "e": "Membawa lumpur kuning (loess) dari dataran tinggi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Latar belakang ekonomi-politik Revolusi Amerika adalah protes koloni terhadap...",
+    "pilihan": {
+      "a": "Kemerdekaan yang sudah diberikan Inggris",
+      "b": "Perdagangan bebas dengan Eropa",
+      "c": "Pajak tanpa perwakilan di parlemen Inggris",
+      "d": "Bantuan militer dari Prancis",
+      "e": "Monopoli perdagangan teh yang menguntungkan koloni"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Peristiwa pemicu langsung Boston Tea Party (1773) adalah protes terhadap...",
+    "pilihan": {
+      "a": "Perang Tujuh Tahun",
+      "b": "Deklarasi Kemerdekaan",
+      "c": "Bantuan Prancis kepada koloni",
+      "d": "Pajak atas kertas",
+      "e": "Tea Act yang memberi monopoli East India Company"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Faktor penyebab sosial-ekonomi Revolusi Prancis 1789 meliputi...",
+    "pilihan": {
+      "a": "Kemenangan perang yang stabil",
+      "b": "Pengaruh kuat gereja tanpa oposisi",
+      "c": "Pemerintahan yang sangat demokratis",
+      "d": "Krisis keuangan, pajak tinggi pada rakyat jelata, dan ketidakadilan kelas",
+      "e": "Kemakmuran merata di semua lapisan masyarakat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Makna simbolik penyerbuan Bastille (14 Juli 1789) adalah...",
+    "pilihan": {
+      "a": "Penandatanganan perjanjian damai",
+      "b": "Lambang perlawanan rakyat terhadap kesewenang-wenangan monarki",
+      "c": "Awal pemerintahan absolut",
+      "d": "Kemenangan militer Prancis atas Inggris",
+      "e": "Pesta rakyat biasa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Semboyan Revolusi Prancis yang terkenal adalah...",
+    "pilihan": {
+      "a": "Peace, Land, and Bread",
+      "b": "No Taxation without Representation",
+      "c": "Workers of the World Unite",
+      "d": "Liberty, Equality, Fraternity",
+      "e": "God Save the King"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Periode waktu Perang Dunia I secara tepat adalah...",
+    "pilihan": {
+      "a": "1914\u20131918",
+      "b": "1941\u20131945",
+      "c": "1917\u20131921",
+      "d": "1939\u20131945",
+      "e": "1918\u20131939"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Strategi militer kapal selam tanpa batas (unrestricted submarine warfare) yang diterapkan Jerman di PD I dinilai kurang efektif jangka panjang karena...",
+    "pilihan": {
+      "a": "Hanya menyerang kapal militer",
+      "b": "Didukung penuh oleh negara netral",
+      "c": "Memprovokasi Amerika Serikat masuk perang",
+      "d": "Tidak menenggelamkan kapal sama sekali",
+      "e": "Tidak memengaruhi suplai Inggris"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Faktor pemicu utama Perang Dunia II adalah...",
+    "pilihan": {
+      "a": "Penandatanganan Perjanjian Versailles",
+      "b": "Pembentukan Pakta Warsawa",
+      "c": "Kemenangan Liga Bangsa-Bangsa",
+      "d": "Krisis ekonomi 1929 saja",
+      "e": "Invasi Jerman ke Polandia pada 1 September 1939"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dampak kebijakan appeasement (penenangan) terhadap Hitler adalah...",
+    "pilihan": {
+      "a": "Menghentikan ekspansi Jerman sepenuhnya",
+      "b": "Membuat Hitler mundur dari kekuasaan",
+      "c": "Memperkuat Jerman dan mempercepat pecahnya PD II",
+      "d": "Memperkuat Liga Bangsa-Bangsa",
+      "e": "Menyebabkan perdamaian abadi di Eropa"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dampak global Perang Dunia II antara lain...",
+    "pilihan": {
+      "a": "Berakhirnya semua konflik ideologi",
+      "b": "Kembalinya kolonialisme Eropa",
+      "c": "Munculnya Perang Dingin dan dekolonisasi di Asia-Afrika",
+      "d": "Penurunan teknologi militer",
+      "e": "Hilangnya kekuatan superpower"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Karakteristik utama Perang Dingin adalah...",
+    "pilihan": {
+      "a": "Fokus hanya pada perdagangan",
+      "b": "Penghapusan senjata nuklir",
+      "c": "Kerja sama penuh antarblok",
+      "d": "Perang terbuka antara AS dan Uni Soviet",
+      "e": "Persaingan dua blok tanpa perang langsung (perang proksi dan perlombaan senjata)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Jika konflik Perang Dingin berubah menjadi perang terbuka (nuklir), dampak yang diprediksi adalah...",
+    "pilihan": {
+      "a": "Perdamaian dunia seketika",
+      "b": "Kehancuran massal akibat Mutual Assured Destruction",
+      "c": "Hanya kerusakan kecil di Eropa",
+      "d": "Kemenangan cepat salah satu blok",
+      "e": "Tidak ada korban jiwa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Bentuk dukungan internasional terhadap Indonesia pada masa revolusi kemerdekaan termasuk...",
+    "pilihan": {
+      "a": "Pengakuan kemerdekaan dan pembelaan di forum internasional",
+      "b": "Netralitas mutlak semua negara",
+      "c": "Hanya dukungan moral tanpa aksi",
+      "d": "Bantuan militer langsung dari Belanda",
+      "e": "Penolakan total terhadap kemerdekaan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Negara pertama yang mengakui kemerdekaan Indonesia secara de facto adalah...",
+    "pilihan": {
+      "a": "Belanda",
+      "b": "Inggris",
+      "c": "Amerika Serikat",
+      "d": "Mesir",
+      "e": "Jepang"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Peran PBB dalam penyelesaian konflik Indonesia-Belanda adalah...",
+    "pilihan": {
+      "a": "Netral tanpa intervensi",
+      "b": "Menolak keanggotaan Indonesia",
+      "c": "Hanya menjadi penonton",
+      "d": "Mendukung penuh Agresi Militer Belanda",
+      "e": "Mengeluarkan resolusi dan membentuk komisi untuk mendukung kemerdekaan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu bidang perkembangan IPTEK yang pesat pasca-Perang Dingin adalah...",
+    "pilihan": {
+      "a": "Pengobatan herbal saja",
+      "b": "Teknologi komunikasi dan informasi",
+      "c": "Transportasi kereta kuda",
+      "d": "Kerajinan tangan",
+      "e": "Pertanian tradisional"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dampak positif teknologi komunikasi modern adalah...",
+    "pilihan": {
+      "a": "Menghilangkan kebutuhan pendidikan",
+      "b": "Mempercepat penyebaran informasi dan mempermudah hubungan antarmanusia",
+      "c": "Memperlambat inovasi",
+      "d": "Menghambat perdagangan global",
+      "e": "Meningkatkan isolasi sosial"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Jenis teknologi komunikasi modern dapat dikelompokkan menjadi...",
+    "pilihan": {
+      "a": "Radio dan koran tradisional",
+      "b": "Surat pos dan telegram saja",
+      "c": "Internet, telepon seluler, dan media sosial",
+      "d": "Hanya televisi analog",
+      "e": "Pigeon post dan sinyal asap"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dampak negatif perkembangan teknologi militer adalah...",
+    "pilihan": {
+      "a": "Menghilangkan ancaman perang",
+      "b": "Potensi kehancuran massal dan perlombaan senjata yang mahal",
+      "c": "Menjamin perdamaian abadi",
+      "d": "Meningkatkan kerjasama antarnegara tanpa konflik",
+      "e": "Mengurangi anggaran militer"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Contoh organisasi regional adalah...",
+    "pilihan": {
+      "a": "PBB",
+      "b": "NATO",
+      "c": "WTO",
+      "d": "IMF",
+      "e": "ASEAN"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Strategi peran Indonesia dalam organisasi regional seperti ASEAN adalah...",
+    "pilihan": {
+      "a": "Mendorong kerjasama damai dan netral aktif",
+      "b": "Fokus hanya pada kepentingan ekonomi sendiri",
+      "c": "Menjadi pemimpin militer blok",
+      "d": "Menarik diri dari semua kerjasama",
+      "e": "Menentang semua resolusi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Organisasi blok Timur pada masa Perang Dingin adalah...",
+    "pilihan": {
+      "a": "Liga Arab",
+      "b": "Pakta Warsawa",
+      "c": "ASEAN",
+      "d": "Uni Eropa",
+      "e": "NATO"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Contoh organisasi ekonomi global adalah...",
+    "pilihan": {
+      "a": "NATO",
+      "b": "IMF dan WTO",
+      "c": "ASEAN",
+      "d": "Pakta Warsawa",
+      "e": "Liga Bangsa-Bangsa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Penyebab utama konflik ideologi pada masa Perang Dingin adalah persaingan antara...",
+    "pilihan": {
+      "a": "Agama saja",
+      "b": "Nasionalisme semata",
+      "c": "Semua negara menganut ideologi sama",
+      "d": "Hanya persaingan ekonomi tanpa ideologi",
+      "e": "Kapitalisme-liberal (Barat) dan Komunisme (Timur)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dampak kebijakan apartheid di Afrika Selatan adalah...",
+    "pilihan": {
+      "a": "Kerjasama harmonis antar ras",
+      "b": "Kesetaraan penuh antarras",
+      "c": "Diskriminasi rasial sistematis terhadap penduduk kulit hitam",
+      "d": "Tidak ada dampak sosial",
+      "e": "Penghapusan segregasi sejak awal"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tokoh yang paling berperan dalam perjuangan melawan apartheid di Afrika Selatan adalah...",
+    "pilihan": {
+      "a": "Joseph Stalin",
+      "b": "Mao Zedong",
+      "c": "Adolf Hitler",
+      "d": "Nelson Mandela",
+      "e": "Winston Churchill"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tujuan utama kebijakan glasnost dalam reformasi Uni Soviet adalah...",
+    "pilihan": {
+      "a": "Keterbukaan informasi dan kebebasan berpendapat",
+      "b": "Penghapusan semua reformasi",
+      "c": "Kembalinya sistem Stalinis",
+      "d": "Pengetatan sensor media",
+      "e": "Isolasi total dari dunia luar"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dampak runtuhnya Uni Soviet (1991) adalah...",
+    "pilihan": {
+      "a": "Berakhirnya Perang Dingin dan munculnya negara-negara merdeka baru",
+      "b": "Kembalinya kekuatan komunis global",
+      "c": "Tidak ada perubahan peta dunia",
+      "d": "Penghapusan semua organisasi internasional",
+      "e": "Peningkatan konflik nuklir"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu faktor penyebab konflik minyak di Timur Tengah adalah...",
+    "pilihan": {
+      "a": "Kekurangan minyak di seluruh dunia",
+      "b": "Persaingan penguasaan sumber daya minyak strategis",
+      "c": "Kerjasama penuh antarnegara penghasil minyak",
+      "d": "Tidak adanya kepentingan ekonomi",
+      "e": "Hanya konflik agama tanpa faktor ekonomi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Periode konflik Perang Teluk I adalah...",
+    "pilihan": {
+      "a": "1965\u20131975",
+      "b": "1990\u20131991 (Invasi Irak ke Kuwait)",
+      "c": "1939\u20131945",
+      "d": "1947\u20131949",
+      "e": "1914\u20131918"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dampak Perang Teluk terhadap stabilitas global adalah...",
+    "pilihan": {
+      "a": "Penghapusan semua sanksi internasional",
+      "b": "Fluktuasi harga minyak dunia dan ketegangan di Timur Tengah",
+      "c": "Tidak ada dampak ekonomi",
+      "d": "Penurunan produksi minyak secara permanen",
+      "e": "Perdamaian abadi di kawasan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Akar konflik Palestina-Israel terutama berasal dari...",
+    "pilihan": {
+      "a": "Perselisihan atas wilayah dan nasionalisme kedua bangsa",
+      "b": "Kerjasama penuh sejak awal",
+      "c": "Tidak adanya isu tanah suci",
+      "d": "Hanya masalah ekonomi tanpa politik",
+      "e": "Pengaruh Uni Soviet semata"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dampak konflik Israel-Palestina bagi masyarakat adalah...",
+    "pilihan": {
+      "a": "Hanya masalah politik tanpa dampak sosial",
+      "b": "Korban jiwa, pengungsian, dan ketidakstabilan sosial-ekonomi",
+      "c": "Tidak ada dampak kemanusiaan",
+      "d": "Penghapusan semua bentuk kekerasan",
+      "e": "Kemakmuran merata bagi kedua pihak"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Wilayah konflik Kashmir melibatkan perselisihan antara...",
+    "pilihan": {
+      "a": "Israel dan Palestina",
+      "b": "India dan Pakistan",
+      "c": "Irak dan Kuwait",
+      "d": "China dan Jepang",
+      "e": "Amerika Serikat dan Uni Soviet"
+    },
+    "jawaban": "b"
+  }
+]

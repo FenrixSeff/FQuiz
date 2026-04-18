@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Berdasarkan definisi mayoritas ulama, unsur utama yang membedakan Al-Qur'an dengan Hadis Qudsi adalah...",
+    "pilihan": {
+      "a": "Membacanya bernilai ibadah khusus bagi Al-Qur'an.",
+      "b": "Al-Qur'an hanya berisi hukum, Hadis Qudsi berisi nasihat.",
+      "c": "Hadis Qudsi diturunkan melalui mimpi, Al-Qur'an melalui Jibril.",
+      "d": "Redaksi Hadis Qudsi berasal dari Allah, Al-Qur'an dari Nabi.",
+      "e": "Al-Qur'an tidak boleh diterjemahkan, Hadis Qudsi boleh."
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Al-Qur'an diturunkan secara berangsur-angsur (tadarruj). Hikmah utama dari metode ini bagi masyarakat Arab saat itu adalah...",
+    "pilihan": {
+      "a": "Agar Al-Qur'an cepat selesai dibukukan.",
+      "b": "Memudahkan proses penghafalan dan penerapan hukum secara bertahap.",
+      "c": "Menghindari kejenuhan dalam menerima wahyu.",
+      "d": "Membuktikan bahwa Nabi Muhammad SAW bukan penyair.",
+      "e": "Agar wahyu tidak mudah hilang dari catatan."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada masa Rasulullah SAW, media utama yang digunakan oleh para sahabat untuk menuliskan wahyu adalah...",
+    "pilihan": {
+      "a": "Kertas dan tinta impor dari Romawi.",
+      "b": "Kulit binatang, pelepah kurma, dan batu tipis.",
+      "c": "Tablet tanah liat yang dibakar.",
+      "d": "Dinding masjid Nabawi yang permanen.",
+      "e": "Kain sutra yang dijahit rapi."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perhatikan Q.S. Fussilat: 53! Bukti keautentikan Al-Qur'an secara ilmiah menurut ayat tersebut berkaitan dengan...",
+    "pilihan": {
+      "a": "Kemampuan manusia menciptakan yang serupa Al-Qur'an.",
+      "b": "Tanda-tanda kebesaran Allah di alam semesta dan dalam diri manusia.",
+      "c": "Kehebatan sastra Arab pada masa jahiliyah.",
+      "d": "Jumlah kata dalam Al-Qur'an yang selalu seimbang.",
+      "e": "Ketelitian para penghafal Al-Qur'an di seluruh dunia."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam Q.S. Al-Baqarah: 23, Allah menantang siapa pun yang meragukan Al-Qur'an untuk membuat satu surah yang serupa. Hal ini membuktikan kemukjizatan Al-Qur'an dari sisi...",
+    "pilihan": {
+      "a": "Isi ramalan masa depan.",
+      "b": "Keindahan dan ketidaktertandingan bahasa (balaghah).",
+      "c": "Ketebalan mushafnya yang konsisten.",
+      "d": "Penjelasan rinci tentang sejarah nabi-nabi terdahulu.",
+      "e": "Kemudahan untuk diterjemahkan ke berbagai bahasa."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tujuan utama penciptaan manusia menurut Q.S. Adz-Dzariyat: 56 adalah...",
+    "pilihan": {
+      "a": "Menguasai seluruh kekayaan di muka bumi.",
+      "b": "Menjadi pemimpin yang ditakuti oleh makhluk lain.",
+      "c": "Beribadah (mengabdi) hanya kepada Allah SWT.",
+      "d": "Mencari ilmu pengetahuan sebanyak-banyaknya.",
+      "e": "Membangun peradaban yang megah di dunia."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam struktur hadis, peran penting sanad dalam menentukan keabsahan sebuah hadis adalah sebagai...",
+    "pilihan": {
+      "a": "Penjelas makna isi hadis (matan).",
+      "b": "Jaminan bahwa hadis tersebut berasal dari sumber yang terpercaya.",
+      "c": "Penghias redaksi agar terdengar lebih puitis.",
+      "d": "Pembeda antara hadis hukum dan hadis akhlak.",
+      "e": "Syarat agar hadis tersebut boleh ditulis dalam kitab."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Q.S. Al-Baqarah: 110 memerintahkan salat dan zakat secara umum. Hadis yang menjelaskan tata cara salat secara rinci menjalankan fungsi...",
+    "pilihan": {
+      "a": "Bayan At-Taqrir (memperkuat).",
+      "b": "Bayan At-Tafsir/At-Tafshil (merinci/menjelaskan).",
+      "c": "Bayan An-Nasakh (menghapus).",
+      "d": "Bayan At-Tasyri' (membuat hukum baru).",
+      "e": "Bayan Al-Wujub (mewajibkan)."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Implikasi utama perbedaan jumlah perawi antara hadis Mutawatir dan hadis Ahad adalah...",
+    "pilihan": {
+      "a": "Hadis Ahad lebih shahih daripada Mutawatir.",
+      "b": "Hadis Mutawatir memberikan keyakinan pasti (qath'i), Ahad bersifat dugaan kuat (zhanni).",
+      "c": "Hadis Mutawatir hanya untuk urusan ibadah, Ahad untuk muamalah.",
+      "d": "Hadis Ahad tidak boleh dijadikan dasar hukum Islam.",
+      "e": "Hadis Mutawatir tidak memerlukan penelitian sanad lagi."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pernyataan yang benar mengenai perbedaan hadis masyhur, aziz, dan gharib adalah...",
+    "pilihan": {
+      "a": "Gharib diriwayatkan oleh 3 orang perawi pada setiap thabaqat.",
+      "b": "Aziz diriwayatkan oleh minimal 2 orang perawi pada salah satu thabaqat.",
+      "c": "Masyhur hanya diriwayatkan oleh 1 orang perawi saja.",
+      "d": "Ketiganya merupakan bagian dari hadis Mutawatir.",
+      "e": "Gharib lebih kuat kedudukannya daripada masyhur."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kedudukan hadis Mutawatir dalam penetapan akidah Islam adalah...",
+    "pilihan": {
+      "a": "Hanya sebagai pelengkap dalil Al-Qur'an.",
+      "b": "Menjadi dasar yang pasti (qath'i) dan tidak boleh diingkari.",
+      "c": "Boleh ditinggalkan jika bertentangan dengan logika.",
+      "d": "Hanya berlaku bagi kalangan ulama tertentu.",
+      "e": "Kedudukannya di bawah hadis Shahih Ahad."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara hadis Shahih dan hadis Hasan dalam penerapan hukum Islam adalah...",
+    "pilihan": {
+      "a": "Hadis Hasan tidak boleh dijadikan hujah dalam masalah hukum.",
+      "b": "Kualitas hafalan (dhabit) perawi hadis Hasan sedikit di bawah hadis Shahih.",
+      "c": "Hadis Shahih harus diriwayatkan oleh banyak orang, Hasan cukup satu.",
+      "d": "Hadis Hasan hanya berisi tentang keutamaan amal (fadhail amal).",
+      "e": "Hadis Shahih tidak mungkin memiliki cacat ('illat), Hasan pasti ada."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tata cara penggunaan hadis Dhaif dalam Islam yang disepakati mayoritas ulama adalah...",
+    "pilihan": {
+      "a": "Boleh digunakan sebagai dasar hukum halal dan haram.",
+      "b": "Sama sekali tidak boleh dibaca atau dipelajari.",
+      "c": "Boleh digunakan hanya untuk fadhail amal (keutamaan amal) dengan syarat tertentu.",
+      "d": "Kedudukannya setara dengan hadis Hasan dalam urusan akidah.",
+      "e": "Wajib diamalkan meskipun bertentangan dengan hadis Shahih."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Berdasarkan Q.S. Al-Mu'minun: 12-14, urutan fase penciptaan manusia yang benar setelah nuthfah (air mani) adalah...",
+    "pilihan": {
+      "a": "Mudghah -> 'Alaqah -> 'Idzaman.",
+      "b": "'Alaqah -> Mudghah -> 'Idzaman.",
+      "c": "'Idzaman -> 'Alaqah -> Mudghah.",
+      "d": "'Alaqah -> 'Idzaman -> Mudghah.",
+      "e": "Mudghah -> 'Idzaman -> 'Alaqah."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tanggung jawab utama manusia sebagai khalifah di bumi menurut Q.S. Al-Baqarah: 30-32 adalah...",
+    "pilihan": {
+      "a": "Berperang melawan musuh-musuh Allah.",
+      "b": "Mengelola dan memakmurkan bumi sesuai petunjuk Allah.",
+      "c": "Menghancurkan semua peradaban yang tidak beriman.",
+      "d": "Mengumpulkan harta sebanyak-banyaknya untuk bekal ibadah.",
+      "e": "Hanya berdiam diri di masjid untuk berzikir."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam Q.S. Luqman: 13-14, perintah berbakti kepada orang tua disandingkan dengan perintah tauhid. Hikmah dari penyandingan ini adalah...",
+    "pilihan": {
+      "a": "Hak orang tua setara dengan hak Allah dalam segala hal.",
+      "b": "Berbakti kepada orang tua adalah bentuk syukur setelah bersyukur kepada Allah.",
+      "c": "Orang tua adalah pencipta kedua bagi anak-anaknya.",
+      "d": "Tanpa restu orang tua, tauhid seseorang tidak akan diterima.",
+      "e": "Perintah berbakti kepada orang tua hanya berlaku bagi yang sudah bertauhid."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Cara paling efektif untuk menghindari zina dalam kehidupan sehari-hari sesuai prinsip Al-Qur'an adalah...",
+    "pilihan": {
+      "a": "Menghukum pelaku zina dengan berat.",
+      "b": "Menjauhi segala hal yang dapat mendekatkan diri pada perbuatan zina.",
+      "c": "Memperbanyak membaca sejarah kaum terdahulu.",
+      "d": "Mengasingkan diri dari pergaulan sosial sama sekali.",
+      "e": "Hanya berteman dengan orang yang sudah menikah."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Konsep hakiki persaudaraan dalam Islam menurut Q.S. Al-Hujurat: 10 adalah...",
+    "pilihan": {
+      "a": "Persaudaraan karena kesamaan suku dan bangsa.",
+      "b": "Persaudaraan yang didasarkan pada kesamaan kepentingan ekonomi.",
+      "c": "Persaudaraan antar sesama mukmin yang diikat oleh iman.",
+      "d": "Persaudaraan yang hanya berlaku di dalam masjid.",
+      "e": "Persaudaraan karena hubungan darah semata."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Cara terbaik bagi orang tua untuk menjaga keluarganya dari siksa api neraka (Q.S. At-Tahrim: 6) adalah...",
+    "pilihan": {
+      "a": "Memberikan fasilitas hidup yang mewah dan nyaman.",
+      "b": "Membiarkan anak memilih jalannya sendiri tanpa campur tangan.",
+      "c": "Mendidik keluarga dengan ilmu agama dan akhlak yang mulia.",
+      "d": "Menabung harta sebanyak-banyaknya untuk warisan.",
+      "e": "Memaksa anggota keluarga untuk selalu berada di rumah."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Hubungan antara konsep tauhid dan perintah berbuat baik kepada sesama (amal sosial) dalam Q.S. An-Nisa: 36 adalah...",
+    "pilihan": {
+      "a": "Amal sosial tidak ada kaitannya dengan ketauhidan seseorang.",
+      "b": "Tauhid yang benar harus membuahkan kepedulian dan kebaikan kepada sesama.",
+      "c": "Berbuat baik kepada sesama lebih penting daripada bertauhid.",
+      "d": "Amal sosial hanya dilakukan jika ada sisa harta setelah ibadah.",
+      "e": "Tauhid hanya urusan hati, amal sosial urusan fisik."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Syarat utama agar sebuah amal saleh diterima oleh Allah SWT menurut Q.S. An-Nahl: 97 adalah...",
+    "pilihan": {
+      "a": "Dilakukan di tempat yang suci seperti masjid.",
+      "b": "Didasari oleh iman dan dilakukan secara ikhlas.",
+      "c": "Diketahui oleh banyak orang agar menjadi inspirasi.",
+      "d": "Mengeluarkan biaya yang besar dalam pelaksanaannya.",
+      "e": "Dilakukan hanya pada hari-hari besar Islam."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Maksud perintah \"bertebaran di muka bumi\" setelah melaksanakan salat Jumu'ah (Q.S. Al-Jumu'ah: 10) adalah...",
+    "pilihan": {
+      "a": "Meninggalkan ibadah demi mencari kekayaan duniawi.",
+      "b": "Mencari karunia Allah melalui bekerja atau berniaga dengan tetap mengingat Allah.",
+      "c": "Melakukan perjalanan wisata untuk menghilangkan penat.",
+      "d": "Mencari musuh-musuh Islam yang bersembunyi.",
+      "e": "Membangun pemukiman baru di luar kota."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Bentuk penerapan keseimbangan dunia-akhirat dalam konteks kehidupan modern (Q.S. Al-Qasas: 77) yang paling tepat adalah...",
+    "pilihan": {
+      "a": "Fokus beribadah di masa tua, bekerja keras di masa muda.",
+      "b": "Bekerja untuk dunia seolah hidup selamanya, beribadah untuk akhirat seolah mati esok.",
+      "c": "Meninggalkan pekerjaan kantor saat masuk waktu salat, lalu kembali bekerja dengan profesional.",
+      "d": "Memberikan seluruh gaji untuk sedekah tanpa menyisakan untuk keluarga.",
+      "e": "Hanya mau bekerja di instansi yang berbasis agama."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dampak utama mengonsumsi makanan haram terhadap hubungan spiritual dengan Allah (Q.S. Al-Baqarah: 168-169) adalah...",
+    "pilihan": {
+      "a": "Tubuh menjadi lebih kuat namun malas beribadah.",
+      "b": "Menjadi pengikut setan dan doanya sulit dikabulkan.",
+      "c": "Mendapatkan kekayaan yang berlimpah namun tidak berkah.",
+      "d": "Dijauhi oleh masyarakat karena dianggap tidak suci.",
+      "e": "Tidak ada dampak selama tetap melaksanakan salat lima waktu."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Hikmah utama pelarangan mengonsumsi daging babi dalam Islam (Q.S. Al-Baqarah: 173) adalah...",
+    "pilihan": {
+      "a": "Karena babi adalah hewan yang sulit diternakkan.",
+      "b": "Untuk menjaga kesehatan fisik dan kesucian jiwa manusia.",
+      "c": "Karena harga daging babi terlalu mahal bagi umat Islam.",
+      "d": "Agar umat Islam berbeda secara lahiriah dengan umat lain.",
+      "e": "Karena babi merupakan simbol kemiskinan di masa lalu."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kondisi darurat yang memperbolehkan seseorang mengonsumsi makanan haram (Q.S. Al-Baqarah: 173) adalah...",
+    "pilihan": {
+      "a": "Saat merasa lapar di tengah perjalanan jauh.",
+      "b": "Ketika tidak ada makanan halal dan nyawa terancam jika tidak makan.",
+      "c": "Saat diundang makan oleh teman yang non-muslim.",
+      "d": "Ingin mencoba rasa makanan haram karena rasa penasaran.",
+      "e": "Saat harga makanan halal jauh lebih mahal daripada makanan haram."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Contoh sikap pertengahan (Qawam) dalam membelanjakan harta menurut Q.S. Al-Furqan: 67 adalah...",
+    "pilihan": {
+      "a": "Membeli semua barang yang diinginkan mumpung ada uang.",
+      "b": "Menyimpan seluruh uang di bank tanpa pernah bersedekah.",
+      "c": "Membelanjakan harta sesuai kebutuhan, tidak boros dan tidak kikir.",
+      "d": "Meminjam uang untuk memberikan sumbangan yang besar agar terlihat dermawan.",
+      "e": "Memberikan semua harta kepada orang lain hingga diri sendiri kekurangan."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pedoman utama umat Islam dalam membelanjakan harta menurut Q.S. Al-Furqan: 67 adalah...",
+    "pilihan": {
+      "a": "Mengikuti tren gaya hidup masa kini.",
+      "b": "Mengutamakan keinginan daripada kebutuhan.",
+      "c": "Tidak berlebihan (israf) dan tidak pula kikir (bukhl).",
+      "d": "Membelanjakan harta hanya untuk urusan agama saja.",
+      "e": "Menghabiskan harta sebelum hari esok tiba."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pihak yang memiliki hak atas harta kita sesuai Q.S. Al-Isra: 26 adalah...",
+    "pilihan": {
+      "a": "Para penguasa dan pejabat pemerintah.",
+      "b": "Orang-orang kaya yang sedang mengalami kesulitan.",
+      "c": "Kerabat dekat, orang miskin, dan orang yang dalam perjalanan (ibnu sabil).",
+      "d": "Hanya anak yatim yang tinggal di panti asuhan.",
+      "e": "Tetangga yang rumahnya paling megah di lingkungan kita."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Makna kiasan \"tangan terbelenggu pada leher\" dalam Q.S. Al-Isra: 29 adalah larangan terhadap sifat...",
+    "pilihan": {
+      "a": "Pemarah.",
+      "b": "Kikir (pelit).",
+      "c": "Sombong.",
+      "d": "Pemalas.",
+      "e": "Pendusta."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Imam perawi hadis yang meriwayatkan larangan memenuhi lambung secara berlebihan (pola hidup sederhana) adalah...",
+    "pilihan": {
+      "a": "Al-Bukhari.",
+      "b": "Muslim.",
+      "c": "At-Tirmidzi.",
+      "d": "An-Nasa'i.",
+      "e": "Ahmad."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Prioritas utama sasaran sedekah berdasarkan hadis keutamaan memberi adalah...",
+    "pilihan": {
+      "a": "Orang jauh yang belum kita kenal.",
+      "b": "Pembangunan masjid yang megah.",
+      "c": "Keluarga atau orang-orang yang menjadi tanggungan kita.",
+      "d": "Teman sejawat di tempat kerja.",
+      "e": "Organisasi sosial internasional."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Hakikat musibah bagi seorang muslim menurut Q.S. Al-Baqarah: 155 adalah...",
+    "pilihan": {
+      "a": "Bentuk kemarahan Allah yang tidak terampuni.",
+      "b": "Kesialan yang terjadi karena kesalahan teknis manusia.",
+      "c": "Ujian untuk meningkatkan derajat dan kualitas iman.",
+      "d": "Tanda bahwa dunia akan segera berakhir.",
+      "e": "Hukuman yang hanya diberikan kepada orang-orang kafir."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pernyataan yang bukan merupakan prinsip ujian dari Allah SWT adalah...",
+    "pilihan": {
+      "a": "Allah tidak akan menguji hamba-Nya di luar batas kemampuannya.",
+      "b": "Ujian diberikan untuk membedakan siapa yang benar imannya dan siapa yang dusta.",
+      "c": "Ujian hanya diberikan kepada orang-orang yang berbuat dosa besar.",
+      "d": "Di balik setiap kesulitan pasti ada kemudahan.",
+      "e": "Setiap manusia pasti akan diuji dengan ketakutan, kelaparan, dan kekurangan harta."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Nilai kebaikan dari bersikap sabar saat tertimpa musibah bagi seorang mukmin (HR. Muslim) adalah...",
+    "pilihan": {
+      "a": "Mendapatkan ganti rugi materi yang lebih besar seketika.",
+      "b": "Menjadi terkenal sebagai orang yang paling tabah.",
+      "c": "Seluruh urusannya menjadi baik dan bernilai pahala.",
+      "d": "Tidak akan pernah lagi mendapatkan musibah di masa depan.",
+      "e": "Doanya akan langsung dikabulkan tanpa syarat."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Objek observasi perjalanan di muka bumi yang dimaksud dalam Q.S. Ar-Rum: 42 adalah untuk mengambil pelajaran dari...",
+    "pilihan": {
+      "a": "Keindahan pemandangan alam ciptaan Allah.",
+      "b": "Kemajuan teknologi bangsa-bangsa Barat.",
+      "c": "Nasib dan kehancuran umat-umat terdahulu yang mendustakan Allah.",
+      "d": "Kekayaan sumber daya alam yang melimpah.",
+      "e": "Keberagaman budaya dan bahasa manusia."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pernyataan yang tidak sesuai dengan kandungan Q.S. Al-A'raf: 56 mengenai larangan berbuat kerusakan adalah...",
+    "pilihan": {
+      "a": "Larangan merusak lingkungan alam yang sudah tertata baik.",
+      "b": "Perintah untuk berdoa kepada Allah dengan rasa takut dan harap.",
+      "c": "Kerusakan di bumi disebabkan oleh ulah tangan manusia sendiri.",
+      "d": "Rahmat Allah sangat dekat kepada orang-orang yang berbuat baik.",
+      "e": "Manusia diperbolehkan merusak bumi jika untuk kepentingan pembangunan ekonomi."
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Hikmah dari fenomena perubahan bayang-bayang sebagai bentuk keteraturan (Sunnatullah) adalah...",
+    "pilihan": {
+      "a": "Sebagai tanda bahwa waktu istirahat telah tiba.",
+      "b": "Membuktikan bahwa bumi itu datar dan tidak bergerak.",
+      "c": "Menunjukkan kekuasaan Allah dalam mengatur rotasi dan keteraturan alam.",
+      "d": "Hanya sebagai hiasan agar manusia tidak bosan dengan cahaya matahari.",
+      "e": "Untuk menentukan arah mata angin tanpa bantuan kompas."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Reaksi atau sikap orang munafik saat dinasihati untuk bertakwa menurut Q.S. Al-Baqarah: 206 adalah...",
+    "pilihan": {
+      "a": "Langsung bersujud dan memohon ampun kepada Allah.",
+      "b": "Menerima nasihat dengan lapang dada dan segera bertaubat.",
+      "c": "Bangkit kesombongannya yang menyebabkannya berbuat dosa lagi.",
+      "d": "Menangis tersedu-sedu karena takut akan siksa neraka.",
+      "e": "Memberikan sedekah yang banyak untuk menutupi kesalahannya."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Opsi yang bukan merupakan esensi dari perintah membaca (Iqra) pada Q.S. Al-Alaq: 1-5 adalah...",
+    "pilihan": {
+      "a": "Membaca teks tertulis (Al-Qur'an dan buku).",
+      "b": "Membaca fenomena alam dan tanda-tanda kebesaran Allah.",
+      "c": "Membaca hanya untuk mendapatkan gelar akademik yang tinggi.",
+      "d": "Membaca sebagai sarana untuk mengenal Allah sang Pencipta.",
+      "e": "Menumbuhkan budaya literasi dan ilmu pengetahuan dalam Islam."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Akibat bagi kaum yang tidak mau beriman pada tanda kebesaran Allah menurut Q.S. Yunus: 101 adalah...",
+    "pilihan": {
+      "a": "Mereka akan tetap mendapatkan petunjuk di akhir hayatnya.",
+      "b": "Segala tanda kebesaran dan peringatan tidak akan bermanfaat bagi mereka.",
+      "c": "Allah akan memaksa mereka untuk beriman dengan mendatangkan azab.",
+      "d": "Mereka akan menjadi pemimpin yang sukses di dunia.",
+      "e": "Harta mereka akan dilipatgandakan sebagai ujian."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Lafaz Arab yang sesuai dengan terjemahan \"malaikat merendahkan sayapnya bagi penuntut ilmu\" adalah...",
+    "pilihan": {
+      "a": "Innal malaaikata lata-dha'u ajnihataha liradhin lithaalibil 'ilmi.",
+      "b": "Thalabul 'ilmi faridhatun 'ala kulli muslimin.",
+      "c": "Man salaka thariiqan yaltamisu fiihi 'ilman.",
+      "d": "Yarfa'illahu alladziina aamanuu minkum.",
+      "e": "Utlubul 'ilma minal mahdi ilal lahdi."
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sikap destruktif yang harus dihindari oleh seorang juru dakwah agar mad'u (objek dakwah) tidak menjauh adalah...",
+    "pilihan": {
+      "a": "Bersikap lemah lembut dan pemaaf.",
+      "b": "Berhati kasar dan berperilaku keras.",
+      "c": "Bermusyawarah dalam mengambil keputusan.",
+      "d": "Mendoakan kebaikan bagi objek dakwahnya.",
+      "e": "Bertawakal kepada Allah setelah berusaha."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Terjemahan yang tepat untuk potongan ayat 'Wa andzir 'asyiratakal aqrabin' (Q.S. Asy-Syu'ara: 214) adalah...",
+    "pilihan": {
+      "a": "Dan berilah peringatan kepada seluruh umat manusia.",
+      "b": "Dan ajaklah teman-temanmu menuju jalan kebenaran.",
+      "c": "Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat.",
+      "d": "Dan janganlah kamu takut kepada orang-orang kafir.",
+      "e": "Dan bersabarlah kamu bersama orang-orang yang sabar."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Penerapan sikap yang paling relevan dengan hadis tentang pahala mengajak kebaikan (Multiplier Effect) adalah...",
+    "pilihan": {
+      "a": "Beribadah sendirian di dalam kamar agar lebih khusyuk.",
+      "b": "Mengajarkan ilmu yang bermanfaat kepada orang lain agar diamalkan.",
+      "c": "Memberikan bantuan uang kepada pengemis di jalanan.",
+      "d": "Menyimpan rahasia kesuksesan agar tidak tersaingi orang lain.",
+      "e": "Membeli buku agama yang banyak untuk koleksi pribadi."
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Susunlah potongan ayat Q.S. Ali Imran: 104 berikut menjadi rangkaian yang benar! (1) wa yanhauna 'anil munkar (2) wal takun minkum ummatun yad'uuna ilal khair (3) wa ya'muruuna bil ma'ruf (4) wa ulaa-ika humul muflihuun",
+    "pilihan": {
+      "a": "(2)-(1)-(3)-(4)",
+      "b": "(2)-(3)-(1)-(4)",
+      "c": "(3)-(2)-(1)-(4)",
+      "d": "(1)-(2)-(3)-(4)",
+      "e": "(2)-(4)-(3)-(1)"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tindakan yang menjadikan umat Islam sebagai umat terbaik (Khairu Ummah) menurut Q.S. Ali Imran: 110 adalah...",
+    "pilihan": {
+      "a": "Memiliki kekayaan alam yang melimpah.",
+      "b": "Membangun masjid-masjid yang megah di seluruh dunia.",
+      "c": "Menguasai teknologi militer yang paling canggih.",
+      "d": "Mengajak kepada yang ma'ruf, mencegah yang munkar, dan beriman kepada Allah.",
+      "e": "Memiliki jumlah penduduk yang paling banyak."
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Lengkapilah lafaz rumpang hadis berikut: \"Barangsiapa melihat kemunkaran, ubahlah dengan tangannya, jika tidak mampu maka dengan...",
+    "pilihan": {
+      "a": "Hartanya.",
+      "b": "Pedangnya.",
+      "c": "Lisannya.",
+      "d": "Hatinya.",
+      "e": "Doanya."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Karakter dasar Nabi Muhammad SAW dalam menjalankan misi dakwah menurut Q.S. Ali Imran: 159 adalah...",
+    "pilihan": {
+      "a": "Otoriter dan tidak mau menerima kritik.",
+      "b": "Pemarah jika ajakannya ditolak oleh kaum kafir.",
+      "c": "Lemah lembut, pemaaf, dan suka bermusyawarah.",
+      "d": "Tertutup dan hanya berdakwah kepada kalangan tertentu.",
+      "e": "Mengandalkan kekuatan fisik untuk memaksa orang beriman."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Arti mufradat dari kata 'lanfaddhu' dalam Q.S. Ali Imran: 159 adalah...",
+    "pilihan": {
+      "a": "Mereka akan lari/menjauhkan diri dari sekelilingmu.",
+      "b": "Mereka akan mendekat dan memelukmu.",
+      "c": "Mereka akan memberikan bantuan kepadamu.",
+      "d": "Mereka akan membencimu selamanya.",
+      "e": "Mereka akan masuk Islam secara berbondong-bondong."
+    },
+    "jawaban": "a"
+  }
+]

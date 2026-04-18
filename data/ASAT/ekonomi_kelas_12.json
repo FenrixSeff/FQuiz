@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Pak Budi membeli smartphone dari distributor untuk dijual kembali di tokonya tanpa mengubah bentuk atau fungsinya. Aktivitas Pak Budi ini merupakan ciri utama dari perusahaan...",
+    "pilihan": {
+      "a": "Jasa",
+      "b": "Ekstraktif",
+      "c": "Keuangan",
+      "d": "Dagang",
+      "e": "Manufaktur"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "PD Sumber Rezeki membeli barang dagang secara kredit dari PT Indofood seharga Rp10.000.000 dengan syarat 2/10, n/30. Jika PD Sumber Rezeki melunasi utangnya pada hari ke-8 setelah transaksi, berapa kas yang dikeluarkan?",
+    "pilihan": {
+      "a": "Rp9.500.000",
+      "b": "Rp200.000",
+      "c": "Rp8.000.000",
+      "d": "Rp9.800.000",
+      "e": "Rp10.000.000"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada akhir periode, nilai persediaan barang dagang dicatat terlalu tinggi (overstated) dari nilai sebenarnya. Dampak kesalahan ini terhadap Harga Pokok Penjualan (HPP) adalah...",
+    "pilihan": {
+      "a": "HPP menjadi terlalu tinggi",
+      "b": "Tidak berpengaruh pada laporan laba rugi",
+      "c": "Laba kotor menjadi terlalu rendah",
+      "d": "HPP menjadi terlalu rendah",
+      "e": "HPP tidak terpengaruh"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "UD Makmur membeli barang dagang dari PT ABC seharga Rp5.000.000 dengan biaya angkut Rp200.000 yang dibayar tunai. Transaksi ini disepakati dengan syarat FOB Shipping Point. Jurnal yang dibuat oleh UD Makmur (metode fisik) untuk mencatat beban angkut tersebut adalah...",
+    "pilihan": {
+      "a": "Beban Angkut Pembelian (D) Rp200.000, Kas (K) Rp200.000",
+      "b": "Utang Dagang (D) Rp200.000, Kas (K) Rp200.000",
+      "c": "Beban Angkut Penjualan (D) Rp200.000, Kas (K) Rp200.000",
+      "d": "Pembelian (D) Rp5.200.000, Kas (K) Rp5.200.000",
+      "e": "Persediaan (D) Rp200.000, Kas (K) Rp200.000"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Seorang pelanggan mengembalikan beberapa unit barang yang telah dibelinya karena rusak. Akun yang digunakan penjual untuk mencatat pengurangan pendapatan akibat transaksi ini adalah...",
+    "pilihan": {
+      "a": "Retur Pembelian",
+      "b": "Pembelian",
+      "c": "Retur Penjualan",
+      "d": "Penjualan",
+      "e": "Potongan Penjualan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "PD Sejahtera menerima pelunasan piutang dari Toko Rahmat sebesar Rp5.000.000 dengan potongan 2%. Jumlah yang dicatat pada kolom Kas (Debit) dan Piutang Dagang (Kredit) dalam jurnal penerimaan kas adalah...",
+    "pilihan": {
+      "a": "Kas (D) Rp4.900.000, Piutang Dagang (K) Rp5.000.000",
+      "b": "Kas (D) Rp5.000.000, Piutang Dagang (K) Rp4.900.000",
+      "c": "Kas (D) Rp4.900.000, Piutang Dagang (K) Rp4.900.000",
+      "d": "Kas (D) Rp5.000.000, Piutang Dagang (K) Rp5.000.000",
+      "e": "Kas (D) Rp100.000, Piutang Dagang (K) Rp100.000"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Data PD Mawar per 31 Desember 2025: Persediaan awal Rp15.000.000, Pembelian Rp50.000.000, Retur Pembelian Rp2.000.000, Potongan Pembelian Rp1.000.000, dan Beban Angkut Pembelian Rp3.000.000. Nilai Barang Tersedia Untuk Dijual (BTUD) adalah...",
+    "pilihan": {
+      "a": "Rp50.000.000",
+      "b": "Rp63.000.000",
+      "c": "Rp65.000.000",
+      "d": "Rp62.000.000",
+      "e": "Rp64.000.000"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam jurnal penyesuaian dengan metode Ikhtisar Laba/Rugi, akun Potongan Pembelian akan...",
+    "pilihan": {
+      "a": "Tidak perlu disesuaikan",
+      "b": "Dipindahkan langsung ke neraca",
+      "c": "Didebit dan masuk ke kolom laba rugi sebagai pengurang pembelian",
+      "d": "Didebit dan masuk ke kolom neraca",
+      "e": "Dikredit dan masuk ke kolom laba rugi sebagai penambah pembelian"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Setelah menyusun neraca saldo, tahap selanjutnya dalam siklus akuntansi perusahaan dagang adalah...",
+    "pilihan": {
+      "a": "Menyusun laporan keuangan",
+      "b": "Menyusun neraca saldo setelah penutupan",
+      "c": "Memposting ke buku besar",
+      "d": "Membuat jurnal penyesuaian",
+      "e": "Membuat jurnal penutup"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "PD Sinar Jaya memiliki data: Penjualan Bersih Rp100.000.000, HPP Rp60.000.000, Beban Operasional (penjualan dan administrasi) 15% dari Penjualan Bersih. Laba Bersih Operasional PD Sinar Jaya adalah...",
+    "pilihan": {
+      "a": "Rp25.000.000",
+      "b": "Rp15.000.000",
+      "c": "Rp85.000.000",
+      "d": "Rp40.000.000",
+      "e": "Rp9.000.000"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Fungsi utama dari Buku Besar Pembantu Utang adalah untuk...",
+    "pilihan": {
+      "a": "Menggantikan fungsi buku besar umum",
+      "b": "Merinci saldo utang perusahaan kepada setiap kreditur atau pemasok",
+      "c": "Mencatat semua transaksi pembelian tunai",
+      "d": "Mengetahui jumlah total utang perusahaan",
+      "e": "Mencatat penjualan kredit"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Jurnal Penjualan PD Berkah per 31 Januari 2026 menunjukkan total penjualan kredit Rp20.000.000. Proses posting yang benar ke buku besar umum adalah...",
+    "pilihan": {
+      "a": "Penjualan (D) Rp20.000.000 dan Piutang Dagang (K) Rp20.000.000",
+      "b": "Piutang Dagang (D) Rp20.000.000 dan Kas (K) Rp20.000.000",
+      "c": "Penjualan (D) Rp20.000.000 dan Kas (K) Rp20.000.000",
+      "d": "Piutang Dagang (D) Rp20.000.000 dan Penjualan (K) Rp20.000.000",
+      "e": "Kas (D) Rp20.000.000 dan Penjualan (K) Rp20.000.000"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "UD Barokah menjual barang dagang secara kredit seharga Rp2.000.000 dengan syarat 2/10, n/30. Tiga hari kemudian, pembeli mengembalikan barang senilai Rp500.000 karena rusak. Jika pembeli melunasi sisa utangnya dalam periode diskon, potongan penjualan yang diberikan adalah...",
+    "pilihan": {
+      "a": "Rp30.000",
+      "b": "Rp10.000",
+      "c": "Rp40.000",
+      "d": "Rp20.000",
+      "e": "Rp0"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "UD Jaya Abadi membeli barang dagang secara kredit. Kemudian, sebagian barang dikembalikan karena tidak sesuai pesanan. Dalam metode perpetual, pengaruh transaksi retur pembelian ini adalah...",
+    "pilihan": {
+      "a": "Menambah Utang Dagang dan menambah Persediaan",
+      "b": "Menambah Utang Dagang dan mengurangi Persediaan",
+      "c": "Mengurangi Utang Dagang dan mengurangi Persediaan",
+      "d": "Mengurangi Utang Dagang dan menambah Persediaan",
+      "e": "Mengurangi Utang Dagang dan mengurangi Pembelian"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kolom Neraca Saldo Disesuaikan dalam kertas kerja (work sheet) diperoleh dari hasil...",
+    "pilihan": {
+      "a": "Memindahkan langsung dari neraca saldo",
+      "b": "Mengurangkan kolom laba rugi dengan kolom neraca",
+      "c": "Memindahkan langsung dari jurnal penyesuaian",
+      "d": "Menjumlahkan kolom neraca saldo dengan kolom penyesuaian",
+      "e": "Hasil akhir setelah laporan keuangan selesai"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Data persediaan PD Sukses: Persediaan awal Rp8.000.000, Persediaan akhir Rp12.000.000. Jurnal penyesuaian dengan metode Ikhtisar Laba/Rugi yang benar adalah...",
+    "pilihan": {
+      "a": "HPP (D) Rp8.000.000, Persediaan (K) Rp8.000.000",
+      "b": "Ikhtisar L/R (D) Rp12.000.000, Persediaan (K) Rp12.000.000",
+      "c": "Persediaan (D) Rp4.000.000, Ikhtisar L/R (K) Rp4.000.000",
+      "d": "Ikhtisar L/R (D) Rp8.000.000, Persediaan (K) Rp8.000.000 dan Persediaan (D) Rp12.000.000, Ikhtisar L/R (K) Rp12.000.000",
+      "e": "Persediaan (D) Rp8.000.000, Ikhtisar L/R (K) Rp8.000.000 dan Ikhtisar L/R (D) Rp12.000.000, Persediaan (K) Rp12.000.000"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Data keuangan PD Makmur: Persediaan awal Rp20.000.000, Pembelian Rp70.000.000, Beban Angkut Pembelian Rp5.000.000, Retur Pembelian Rp3.000.000, Potongan Pembelian Rp2.000.000, Persediaan akhir Rp25.000.000. Besarnya Harga Pokok Penjualan (HPP) adalah...",
+    "pilihan": {
+      "a": "Rp95.000.000",
+      "b": "Rp70.000.000",
+      "c": "Rp90.000.000",
+      "d": "Rp67.000.000",
+      "e": "Rp65.000.000"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "PD Sejahtera menjual peralatan kantor (bukan barang dagang) secara kredit. Jurnal yang tepat untuk mencatat transaksi ini adalah...",
+    "pilihan": {
+      "a": "Jurnal Penjualan",
+      "b": "Jurnal Penerimaan Kas",
+      "c": "Jurnal Pengeluaran Kas",
+      "d": "Jurnal Umum",
+      "e": "Jurnal Pembelian"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada kertas kerja PD ABC, akun Prive terletak di kolom...",
+    "pilihan": {
+      "a": "Neraca (D)",
+      "b": "Laba/Rugi (D)",
+      "c": "Laba/Rugi (K)",
+      "d": "Penyesuaian (D)",
+      "e": "Neraca (K)"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Saat memeriksa jurnal pengeluaran kas, akuntan menemukan selisih antara total kolom debit dan kredit. Hal ini mengindikasikan...",
+    "pilihan": {
+      "a": "Perusahaan harus segera menutup pembukuan",
+      "b": "Jurnal sudah benar dan siap diposting",
+      "c": "Tidak ada masalah, selisih adalah hal biasa",
+      "d": "Terdapat kesalahan pencatatan atau penjumlahan dalam jurnal",
+      "e": "Perusahaan mendapatkan potongan tunai"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Karakteristik yang membedakan perusahaan dagang dengan perusahaan jasa adalah...",
+    "pilihan": {
+      "a": "Tidak memiliki persediaan barang",
+      "b": "Pendapatan utama berasal dari penjualan jasa",
+      "c": "Mengolah bahan baku menjadi barang jadi",
+      "d": "Tidak memerlukan laporan laba rugi",
+      "e": "Kegiatan utamanya membeli dan menjual barang dagang tanpa mengolahnya"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Syarat penyerahan barang FOB Shipping Point berarti...",
+    "pilihan": {
+      "a": "Biaya angkut ditanggung penjual, barang menjadi milik pembeli saat sampai tujuan",
+      "b": "Biaya angkut ditanggung penjual, barang menjadi milik pembeli saat dikirim",
+      "c": "Biaya angkut ditanggung pembeli, barang menjadi milik pembeli saat sampai tujuan",
+      "d": "Biaya angkut ditanggung pembeli, barang menjadi milik pembeli saat dikirim dari gudang penjual",
+      "e": "Biaya angkut ditanggung penjual dan pembeli"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Syarat penyerahan barang FOB Destination Point berarti...",
+    "pilihan": {
+      "a": "Biaya angkut ditanggung penjual, barang menjadi milik pembeli saat dikirim",
+      "b": "Biaya angkut ditanggung pembeli, barang menjadi milik pembeli saat dikirim",
+      "c": "Biaya angkut ditanggung penjual, barang menjadi milik pembeli saat sampai di gudang pembeli",
+      "d": "Biaya angkut ditanggung pembeli, barang menjadi milik pembeli saat sampai tujuan",
+      "e": "Biaya angkut ditanggung bersama"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Akun Retur Pembelian dan Potongan Pembelian dalam laporan laba rugi berfungsi untuk...",
+    "pilihan": {
+      "a": "Mengurangi nilai persediaan akhir",
+      "b": "Menambah nilai penjualan bersih",
+      "c": "Mengurangi nilai pembelian bersih",
+      "d": "Menambah beban operasional",
+      "e": "Menambah nilai pembelian bersih"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Beban Angkut Pembelian dalam laporan laba rugi berfungsi untuk...",
+    "pilihan": {
+      "a": "Menambah persediaan akhir",
+      "b": "Menambah beban operasional",
+      "c": "Mengurangi penjualan bersih",
+      "d": "Menambah nilai pembelian bersih",
+      "e": "Mengurangi nilai pembelian bersih"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Akun Potongan Penjualan dalam laporan laba rugi berfungsi untuk...",
+    "pilihan": {
+      "a": "Menambah persediaan",
+      "b": "Menambah nilai penjualan",
+      "c": "Mengurangi pembelian",
+      "d": "Mengurangi nilai penjualan",
+      "e": "Menambah beban operasional"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "CV Kurnia membeli barang dagang dari PT Indah seharga Rp15.000.000 dengan syarat 2/10, n/30. Jika CV Kurnia membayar pada hari ke-15 setelah transaksi, jumlah yang dibayar adalah...",
+    "pilihan": {
+      "a": "Rp14.700.000",
+      "b": "Rp14.500.000",
+      "c": "Rp15.000.000",
+      "d": "Rp13.500.000",
+      "e": "Rp300.000"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "UD Mawar menjual barang dagang secara tunai. Jurnal yang digunakan untuk mencatat transaksi ini adalah...",
+    "pilihan": {
+      "a": "Jurnal Pengeluaran Kas",
+      "b": "Jurnal Umum",
+      "c": "Jurnal Penjualan",
+      "d": "Jurnal Penerimaan Kas",
+      "e": "Jurnal Pembelian"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pada akhir periode, PD ABC memiliki data: Penjualan Rp80.000.000, Retur Penjualan Rp2.000.000, Potongan Penjualan Rp1.000.000. Penjualan Bersih PD ABC adalah...",
+    "pilihan": {
+      "a": "Rp79.000.000",
+      "b": "Rp80.000.000",
+      "c": "Rp78.000.000",
+      "d": "Rp77.000.000",
+      "e": "Rp83.000.000"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "PD Sukses membayar utang kepada PT ABC sebesar Rp4.000.000. Jurnal yang tepat untuk mencatat transaksi ini adalah...",
+    "pilihan": {
+      "a": "Jurnal Umum",
+      "b": "Jurnal Pengeluaran Kas",
+      "c": "Jurnal Penerimaan Kas",
+      "d": "Jurnal Pembelian",
+      "e": "Jurnal Penjualan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Jika nilai persediaan akhir dicatat terlalu rendah (understated), maka Harga Pokok Penjualan (HPP) akan menjadi...",
+    "pilihan": {
+      "a": "Menjadi nol",
+      "b": "Sama dengan laba kotor",
+      "c": "Terlalu rendah",
+      "d": "Terlalu tinggi",
+      "e": "Tidak terpengaruh"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu akun yang hanya ada di perusahaan dagang dan tidak ada di perusahaan jasa adalah...",
+    "pilihan": {
+      "a": "Persediaan Barang Dagang",
+      "b": "Beban Gaji",
+      "c": "Utang Usaha",
+      "d": "Kas",
+      "e": "Pendapatan Jasa"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "FOB Destination Point berarti beban angkut ditanggung oleh...",
+    "pilihan": {
+      "a": "Pembeli",
+      "b": "Pemerintah",
+      "c": "Pihak ketiga",
+      "d": "Pembeli dan penjual",
+      "e": "Penjual"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Akun yang didebit saat terjadi retur pembelian secara kredit dalam metode fisik adalah...",
+    "pilihan": {
+      "a": "Kas",
+      "b": "Pembelian",
+      "c": "Utang Dagang",
+      "d": "Retur Pembelian",
+      "e": "Persediaan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "UD Makmur menerima nota kredit dari pemasok karena mengembalikan barang rusak. Transaksi ini dicatat dalam jurnal...",
+    "pilihan": {
+      "a": "Umum",
+      "b": "Pembelian",
+      "c": "Pengeluaran Kas",
+      "d": "Penjualan",
+      "e": "Penerimaan Kas"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perhitungan Harga Pokok Penjualan (HPP) dimulai dari...",
+    "pilihan": {
+      "a": "Persediaan Awal",
+      "b": "Penjualan Bersih",
+      "c": "Beban Operasional",
+      "d": "Pembelian Bersih",
+      "e": "Laba Kotor"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jika perusahaan menggunakan metode periodik, akun Pembelian akan didebit pada saat...",
+    "pilihan": {
+      "a": "Menerima pelunasan piutang",
+      "b": "Terjadi retur pembelian",
+      "c": "Membayar utang",
+      "d": "Menjual barang dagang",
+      "e": "Membeli barang dagang secara kredit"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kolom Laba/Rugi dalam kertas kerja berisi akun-akun...",
+    "pilihan": {
+      "a": "Harta lancar saja",
+      "b": "Nominal (pendapatan dan beban)",
+      "c": "Riil (harta, utang, modal)",
+      "d": "Kewajiban jangka panjang",
+      "e": "Campuran"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Jurnal penutup untuk akun Penjualan adalah...",
+    "pilihan": {
+      "a": "Penjualan (D), Modal (K)",
+      "b": "Penjualan (D), Prive (K)",
+      "c": "Ikhtisar L/R (D), Penjualan (K)",
+      "d": "Modal (D), Penjualan (K)",
+      "e": "Penjualan (D), Ikhtisar L/R (K)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "PD ABC membeli barang dagang seharga Rp7.000.000 dengan biaya angkut Rp300.000 (dibayar penjual) dan syarat FOB Destination Point. Jurnal yang dibuat pembeli adalah...",
+    "pilihan": {
+      "a": "Persediaan (D) Rp7.300.000, Kas (K) Rp7.300.000",
+      "b": "Tidak perlu jurnal",
+      "c": "Pembelian (D) Rp7.300.000, Utang Dagang (K) Rp7.300.000",
+      "d": "Pembelian (D) Rp7.000.000, Utang Dagang (K) Rp7.000.000",
+      "e": "Pembelian (D) Rp7.000.000, Beban Angkut (D) Rp300.000, Utang Dagang (K) Rp7.300.000"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Data PD XYZ: Persediaan awal Rp12.000.000, Pembelian Rp45.000.000, Retur Pembelian Rp2.000.000, Potongan Pembelian Rp1.500.000, Beban Angkut Pembelian Rp1.000.000, Persediaan akhir Rp10.000.000. HPP adalah...",
+    "pilihan": {
+      "a": "Rp45.500.000",
+      "b": "Rp43.500.000",
+      "c": "Rp44.500.000",
+      "d": "Rp47.500.000",
+      "e": "Rp46.500.000"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Siklus akuntansi perusahaan dagang diawali dengan tahap...",
+    "pilihan": {
+      "a": "Analisis dan pencatatan transaksi ke dalam jurnal",
+      "b": "Penyusunan laporan keuangan",
+      "c": "Posting ke buku besar",
+      "d": "Penyusunan neraca saldo",
+      "e": "Pembuatan jurnal penyesuaian"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Akun Retur Penjualan dalam buku besar bersaldo normal di sisi...",
+    "pilihan": {
+      "a": "Kredit",
+      "b": "Debit",
+      "c": "Debit dan kredit",
+      "d": "Nol",
+      "e": "Tidak memiliki saldo normal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "UD Sejahtera menerima pelunasan piutang dari Toko Maju sebesar Rp3.000.000 dengan potongan 2%. Jurnal pada jurnal penerimaan kas adalah...",
+    "pilihan": {
+      "a": "Kas (D) Rp2.940.000, Piutang Dagang (K) Rp2.940.000",
+      "b": "Kas (D) Rp3.000.000, Potongan Penjualan (D) Rp60.000, Piutang Dagang (K) Rp3.060.000",
+      "c": "Kas (D) Rp2.940.000, Potongan Penjualan (D) Rp60.000, Piutang Dagang (K) Rp3.000.000",
+      "d": "Kas (D) Rp3.000.000, Piutang Dagang (K) Rp3.000.000",
+      "e": "Kas (D) Rp60.000, Potongan Penjualan (K) Rp60.000"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam metode periodik, untuk mengetahui nilai persediaan akhir, perusahaan harus...",
+    "pilihan": {
+      "a": "Melihat catatan persediaan setiap saat",
+      "b": "Menjumlahkan semua pembelian",
+      "c": "Melihat saldo akun persediaan di buku besar",
+      "d": "Melakukan perhitungan fisik (stock opname) di akhir periode",
+      "e": "Mengurangkan penjualan dari pembelian"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Akun yang tidak ditutup pada akhir periode akuntansi adalah...",
+    "pilihan": {
+      "a": "Kas",
+      "b": "Ikhtisar L/R",
+      "c": "Beban Gaji",
+      "d": "Penjualan",
+      "e": "Pendapatan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "PD Berkah membeli barang dagang secara kredit Rp2.500.000. Jurnal dalam metode periodik adalah...",
+    "pilihan": {
+      "a": "Kas (D) Rp2.500.000, Pembelian (K) Rp2.500.000",
+      "b": "Pembelian (D) Rp2.500.000, Kas (K) Rp2.500.000",
+      "c": "Utang Dagang (D) Rp2.500.000, Pembelian (K) Rp2.500.000",
+      "d": "Pembelian (D) Rp2.500.000, Utang Dagang (K) Rp2.500.000",
+      "e": "Persediaan (D) Rp2.500.000, Utang Dagang (K) Rp2.500.000"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Data PD Harum: Penjualan Bersih Rp120.000.000, HPP Rp75.000.000, Beban Usaha Rp20.000.000. Laba Bersih adalah...",
+    "pilihan": {
+      "a": "Rp55.000.000",
+      "b": "Rp40.000.000",
+      "c": "Rp25.000.000",
+      "d": "Rp45.000.000",
+      "e": "Rp100.000.000"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Jurnal penyesuaian untuk mencatat pemakaian perlengkapan toko adalah...",
+    "pilihan": {
+      "a": "Perlengkapan (D), Kas (K)",
+      "b": "Beban Perlengkapan (D), Perlengkapan (K)",
+      "c": "Beban Perlengkapan (D), Kas (K)",
+      "d": "Ikhtisar L/R (D), Perlengkapan (K)",
+      "e": "Perlengkapan (D), Beban Perlengkapan (K)"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Neraca saldo setelah penutupan berisi akun-akun...",
+    "pilihan": {
+      "a": "Campuran",
+      "b": "Pendapatan dan beban",
+      "c": "Riil (aset, liabilitas, ekuitas)",
+      "d": "Hanya aset lancar",
+      "e": "Nominal"
+    },
+    "jawaban": "c"
+  }
+]

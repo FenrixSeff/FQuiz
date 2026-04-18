@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Masalah ekonomi muncul karena adanya kesenjangan antara kebutuhan manusia yang tidak terbatas dengan alat pemuas kebutuhan yang terbatas. Fenomena ini dalam ilmu ekonomi dikenal sebagai...",
+    "pilihan": {
+      "a": "Kelangkaan",
+      "b": "Kemakmuran",
+      "c": "Prod{uktivitas",
+      "d": "Efisiensi",
+      "e": "Spesialisasi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Seorang lulusan SMA memiliki dua pilihan: bekerja sebagai pramusaji dengan gaji Rp3.000.000 per bulan atau melanjutkan kuliah. Jika ia memilih untuk melanjutkan kuliah, maka biaya peluang dari keputusannya adalah...",
+    "pilihan": {
+      "a": "Kesempatan untuk mendapatkan gelar sarjana",
+      "b": "Biaya hidup selama kuliah",
+      "c": "Biaya kuliah yang harus dibayar",
+      "d": "Pengalaman kerja yang hilang",
+      "e": "Gaji Rp3.000.000 yang tidak didapatkan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam masalah pokok ekonomi modern, pertanyaan yang berkaitan dengan penentuan jenis barang dan jasa yang akan diproduksi untuk memenuhi kebutuhan masyarakat adalah...",
+    "pilihan": {
+      "a": "For Whom",
+      "b": "How",
+      "c": "What",
+      "d": "Where",
+      "e": "When"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Asumsi ceteris paribus dalam hukum permintaan dan penawaran memiliki arti bahwa...",
+    "pilihan": {
+      "a": "Konsumen memiliki informasi sempurna",
+      "b": "Semua faktor ekonomi dianggap konstan",
+      "c": "Permintaan dan penawaran selalu seimbang",
+      "d": "Pemerintah tidak campur tangan dalam pasar",
+      "e": "Hanya harga yang berubah, faktor lain tetap"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Jika fungsi permintaan suatu barang adalah Qd = 100 - 2P dan fungsi penawaran adalah Qs = 10 + 4P, maka harga keseimbangan (P) pasar adalah...",
+    "pilihan": {
+      "a": "Rp15",
+      "b": "Rp25",
+      "c": "Rp30",
+      "d": "Rp10",
+      "e": "Rp20"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu ciri utama pasar persaingan sempurna adalah...",
+    "pilihan": {
+      "a": "Produk yang diperdagangkan bersifat unik",
+      "b": "Adanya hambatan masuk yang tinggi bagi perusahaan baru",
+      "c": "Penjual dan pembeli bertindak sebagai price taker",
+      "d": "Terdapat sedikit penjual dan banyak pembeli",
+      "e": "Informasi pasar tidak sempurna"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Bagi emiten (perusahaan yang menerbitkan saham atau obligasi), manfaat utama dari pasar modal adalah...",
+    "pilihan": {
+      "a": "Sebagai tempat investasi jangka pendek",
+      "b": "Meningkatkan daya beli konsumen",
+      "c": "Mendapatkan keuntungan dari fluktuasi harga saham",
+      "d": "Memperoleh dana jangka panjang untuk ekspansi usaha",
+      "e": "Mengendalikan jumlah uang beredar di masyarakat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Nilai total barang dan jasa yang dihasilkan di dalam wilayah suatu negara selama periode tertentu, baik oleh warga negara sendiri maupun warga asing yang berada di sana, dikenal sebagai...",
+    "pilihan": {
+      "a": "Pendapatan Nasional Neto (PNN)",
+      "b": "Pendapatan Perseorangan (PP)",
+      "c": "Produk Nasional Bruto (PNB)",
+      "d": "Produk Domestik Bruto (PDB)",
+      "e": "Pendapatan Disposabel (PD)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jika diketahui data pendapatan nasional suatu negara adalah sebagai berikut: Gaji = Rp500 triliun, Bunga = Rp100 triliun, Sewa = Rp80 triliun, dan Laba = Rp220 triliun. Berapakah pendapatan nasional dengan pendekatan pendapatan?",
+    "pilihan": {
+      "a": "Rp900 triliun",
+      "b": "Rp1.000 triliun",
+      "c": "Rp700 triliun",
+      "d": "Rp1.100 triliun",
+      "e": "Rp800 triliun"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Berikut adalah komponen-komponen dalam perhitungan pendapatan nasional dengan pendekatan pengeluaran: \n1. Konsumsi rumah tangga \n2. Investasi \n3. Pengeluaran pemerintah \n4. Ekspor \n5. Impor \nRumus yang tepat untuk pendekatan pengeluaran adalah...",
+    "pilihan": {
+      "a": "Y = C - I + G + (X - M)",
+      "b": "Y = C + I + G + (X + M)",
+      "c": "Y = C + I - G + (X - M)",
+      "d": "Y = C + I + G - (X - M)",
+      "e": "Y = C + I + G + (X - M)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pemerintah memutuskan untuk menaikkan pajak penghasilan dan mengurangi belanja negara dalam upaya mengendalikan inflasi. Kebijakan ini termasuk dalam jenis kebijakan...",
+    "pilihan": {
+      "a": "Non-fiskal",
+      "b": "Moneter ekspansif",
+      "c": "Moneter kontraktif",
+      "d": "Fiskal kontraktif",
+      "e": "Fiskal ekspansif"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jika Bank Indonesia menaikkan suku bunga acuan, tujuan utama dari kebijakan moneter ini adalah untuk...",
+    "pilihan": {
+      "a": "Mengurangi pengangguran",
+      "b": "Mendorong investasi swasta",
+      "c": "Meningkatkan jumlah uang beredar",
+      "d": "Menurunkan tingkat inflasi",
+      "e": "Meningkatkan ekspor nasional"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Menurut Teori Kuantitas Uang Irving Fisher (MV = PT), jika jumlah uang beredar (M) meningkat dan kecepatan peredaran uang (V) serta jumlah barang yang diperdagangkan (T) dianggap konstan, maka yang akan terjadi adalah...",
+    "pilihan": {
+      "a": "Tingkat harga (P) akan meningkat",
+      "b": "Kecepatan peredaran uang (V) akan menurun",
+      "c": "Tingkat harga (P) akan menurun",
+      "d": "Tidak ada perubahan pada tingkat harga",
+      "e": "Jumlah barang yang diperdagangkan (T) akan meningkat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu kelebihan utama dari bentuk badan usaha Perseroan Terbatas (PT) dibandingkan dengan bentuk badan usaha lainnya adalah...",
+    "pilihan": {
+      "a": "Pengambilan keputusan yang cepat dan sederhana",
+      "b": "Proses pendirian yang sangat mudah dan murah",
+      "c": "Kemudahan dalam mengumpulkan modal melalui penerbitan saham",
+      "d": "Tanggung jawab pemilik tidak terbatas",
+      "e": "Tidak memerlukan akta pendirian"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pembelian perlengkapan kantor secara kredit oleh perusahaan akan mempengaruhi persamaan dasar akuntansi dengan...",
+    "pilihan": {
+      "a": "Mengurangi Harta (Kas) dan menambah Utang",
+      "b": "Menambah Harta (Perlengkapan) dan menambah Utang",
+      "c": "Menambah Harta (Perlengkapan) dan mengurangi Modal",
+      "d": "Menambah Harta (Perlengkapan) dan menambah Modal",
+      "e": "Menambah Harta (Kas) dan menambah Utang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sebuah perusahaan dagang membeli barang dagangan seharga Rp5.000.000 dengan syarat 2/10, n/30. Jika pembayaran dilakukan dalam 5 hari, jumlah yang harus dibayar adalah...",
+    "pilihan": {
+      "a": "Rp4.800.000",
+      "b": "Rp4.500.000",
+      "c": "Rp4.900.000",
+      "d": "Rp5.000.000",
+      "e": "Rp4.750.000"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah akun-akun yang umumnya ditemukan dalam perusahaan dagang, KECUALI...",
+    "pilihan": {
+      "a": "Retur Penjualan",
+      "b": "Pendapatan Jasa",
+      "c": "Pembelian",
+      "d": "Beban Angkut Pembelian",
+      "e": "Persediaan Barang Dagang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Jika persediaan akhir barang dagang tercatat terlalu rendah (understated), maka dampak yang terjadi pada Laporan Laba Rugi adalah...",
+    "pilihan": {
+      "a": "Beban operasional menjadi terlalu rendah",
+      "b": "Laba Bersih menjadi terlalu tinggi",
+      "c": "Penjualan bersih menjadi terlalu tinggi",
+      "d": "Harga Pokok Penjualan (HPP) menjadi terlalu rendah",
+      "e": "Harga Pokok Penjualan (HPP) menjadi terlalu tinggi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Transaksi penjualan peralatan kantor (bukan barang dagang) secara kredit dicatat dalam...",
+    "pilihan": {
+      "a": "Jurnal Pembelian",
+      "b": "Jurnal Umum",
+      "c": "Jurnal Pengeluaran Kas",
+      "d": "Jurnal Penerimaan Kas",
+      "e": "Jurnal Penjualan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi utama Buku Besar Pembantu Piutang adalah untuk...",
+    "pilihan": {
+      "a": "Mengidentifikasi piutang yang sudah dilunasi",
+      "b": "Mencatat semua transaksi piutang perusahaan secara global",
+      "c": "Mencatat piutang yang sudah jatuh tempo saja",
+      "d": "Merinci saldo piutang dari setiap pelanggan secara spesifik",
+      "e": "Menghitung total piutang perusahaan pada akhir periode"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam metode pencatatan persediaan perpetual, transaksi retur penjualan kredit akan mempengaruhi akun...",
+    "pilihan": {
+      "a": "Menambah Piutang Dagang (D) dan menambah Penjualan (K)",
+      "b": "Mengurangi Piutang Dagang (K) dan menambah Retur Penjualan (D)",
+      "c": "Mengurangi Piutang Dagang (K) dan mengurangi Persediaan Barang Dagang (D)",
+      "d": "Mengurangi Piutang Dagang (K) dan menambah Harga Pokok Penjualan (D)",
+      "e": "Mengurangi Piutang Dagang (K) dan menambah Persediaan Barang Dagang (D)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kolom Neraca Saldo Disesuaikan dalam kertas kerja (work sheet) merupakan hasil dari...",
+    "pilihan": {
+      "a": "Saldo awal periode akuntansi",
+      "b": "Saldo akhir dari buku besar setelah penutupan",
+      "c": "Penjumlahan semua akun pendapatan dan beban",
+      "d": "Penggabungan saldo kolom Neraca Saldo dengan kolom Penyesuaian",
+      "e": "Saldo akun riil setelah jurnal penutup"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jika suatu negara mengalami inflasi yang disebabkan oleh kenaikan permintaan agregat yang lebih cepat daripada kemampuan produksi, jenis inflasi ini disebut...",
+    "pilihan": {
+      "a": "Imported Inflation",
+      "b": "Cost Push Inflation",
+      "c": "Hyperinflation",
+      "d": "Creeping Inflation",
+      "e": "Demand Pull Inflation"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pemerintah memutuskan untuk menurunkan tarif pajak dan meningkatkan pengeluaran pemerintah untuk mendorong pertumbuhan ekonomi. Kebijakan ini termasuk dalam jenis kebijakan...",
+    "pilihan": {
+      "a": "Non-fiskal",
+      "b": "Moneter kontraktif",
+      "c": "Fiskal kontraktif",
+      "d": "Fiskal ekspansif",
+      "e": "Moneter ekspansif"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu fungsi spesifik Indeks Harga Konsumen (IHK) adalah untuk...",
+    "pilihan": {
+      "a": "Menganalisis struktur pasar suatu industri",
+      "b": "Mengukur tingkat inflasi dan daya beli masyarakat",
+      "c": "Menghitung pendapatan per kapita",
+      "d": "Mengukur pertumbuhan ekonomi suatu negara",
+      "e": "Menentukan tingkat suku bunga acuan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Jika diketahui data PDB suatu negara adalah Rp1.000 triliun dan jumlah penduduknya 250 juta jiwa, maka pendapatan per kapita negara tersebut adalah...",
+    "pilihan": {
+      "a": "Rp5.000.000",
+      "b": "Rp3.000.000",
+      "c": "Rp4.000.000",
+      "d": "Rp2.000.000",
+      "e": "Rp6.000.000"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah unsur-unsur manajemen (6M), KECUALI...",
+    "pilihan": {
+      "a": "Motivation (Motivasi)",
+      "b": "Method (Metode)",
+      "c": "Money (Uang)",
+      "d": "Man (Manusia)",
+      "e": "Machine (Mesin)"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dampak negatif yang mungkin timbul akibat melimpahnya produk impor terhadap industri lokal adalah...",
+    "pilihan": {
+      "a": "Menurunnya produksi dan penjualan industri lokal",
+      "b": "Meningkatnya daya saing produk lokal",
+      "c": "Menurunnya harga barang secara umum",
+      "d": "Mendorong inovasi produk dalam negeri",
+      "e": "Meningkatnya pilihan konsumen"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam persamaan dasar akuntansi, jika perusahaan menerima pendapatan jasa secara tunai, maka akan mempengaruhi...",
+    "pilihan": {
+      "a": "Harta (Kas) bertambah, Harta lain berkurang",
+      "b": "Utang bertambah, Modal berkurang",
+      "c": "Harta (Kas) berkurang, Modal berkurang",
+      "d": "Harta (Kas) bertambah, Modal bertambah",
+      "e": "Harta (Kas) bertambah, Utang bertambah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sebuah perusahaan membeli peralatan kantor seharga Rp10.000.000. Perusahaan membayar uang muka Rp3.000.000 dan sisanya akan dibayar bulan depan. Jurnal yang tepat untuk mencatat transaksi ini adalah...",
+    "pilihan": {
+      "a": "(D) Peralatan Rp7.000.000, (K) Kas Rp3.000.000, (K) Utang Usaha Rp4.000.000",
+      "b": "(D) Peralatan Rp10.000.000, (K) Kas Rp3.000.000, (K) Utang Usaha Rp7.000.000",
+      "c": "(D) Peralatan Rp10.000.000, (K) Kas Rp10.000.000",
+      "d": "(D) Beban Peralatan Rp10.000.000, (K) Kas Rp3.000.000, (K) Utang Usaha Rp7.000.000",
+      "e": "(D) Kas Rp3.000.000, (D) Utang Usaha Rp7.000.000, (K) Peralatan Rp10.000.000"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Berikut adalah data keuangan UD Sejahtera pada akhir periode: \n- Modal Awal: Rp50.000.000 \n- Modal Akhir: Rp65.000.000 \n- Pendapatan Jasa: Rp30.000.000 \n- Prive: Rp5.000.000 \nBerdasarkan data tersebut, besarnya beban usaha UD Sejahtera adalah...",
+    "pilihan": {
+      "a": "Rp20.000.000",
+      "b": "Rp15.000.000",
+      "c": "Rp10.000.000",
+      "d": "Rp25.000.000",
+      "e": "Rp5.000.000"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pembelian barang dagang secara kredit oleh perusahaan dagang akan dicatat dalam...",
+    "pilihan": {
+      "a": "Jurnal Pengeluaran Kas dan Buku Besar Utang",
+      "b": "Jurnal Umum dan Buku Besar Umum",
+      "c": "Jurnal Penerimaan Kas dan Buku Besar Kas",
+      "d": "Jurnal Pembelian dan Buku Besar Pembantu Utang",
+      "e": "Jurnal Penjualan dan Buku Besar Pembantu Piutang"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jika diketahui fungsi permintaan Qd = 200 - 5P dan fungsi penawaran Qs = 50 + 10P, maka jumlah keseimbangan (Q) pasar adalah...",
+    "pilihan": {
+      "a": "200 unit",
+      "b": "125 unit",
+      "c": "100 unit",
+      "d": "150 unit",
+      "e": "175 unit"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam perhitungan pendapatan nasional dengan pendekatan pengeluaran, dana gaji PNS dan bantuan bencana alam termasuk dalam komponen...",
+    "pilihan": {
+      "a": "Investasi",
+      "b": "Pengeluaran pemerintah",
+      "c": "Ekspor",
+      "d": "Konsumsi rumah tangga",
+      "e": "Impor"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kebijakan pemerintah untuk menjaga kestabilan harga dan nilai tukar mata uang melalui pengaturan jumlah uang beredar disebut...",
+    "pilihan": {
+      "a": "Kebijakan Upah",
+      "b": "Kebijakan Harga",
+      "c": "Kebijakan Moneter",
+      "d": "Kebijakan Perdagangan",
+      "e": "Kebijakan Fiskal"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Salah satu manfaat data pendapatan nasional bagi pemerintah adalah...",
+    "pilihan": {
+      "a": "Mengevaluasi kinerja ekonomi dan merencanakan pembangunan",
+      "b": "Menentukan besarnya upah minimum regional",
+      "c": "Menghitung laba bersih perusahaan swasta",
+      "d": "Menentukan harga jual produk di pasar",
+      "e": "Mengukur tingkat kepuasan konsumen"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jika kurva permintaan uang bergeser ke kiri (MD1), hal ini dapat diinterpretasikan sebagai...",
+    "pilihan": {
+      "a": "Penurunan penawaran uang",
+      "b": "Keseimbangan pasar uang",
+      "c": "Penurunan permintaan uang",
+      "d": "Peningkatan penawaran uang",
+      "e": "Peningkatan permintaan uang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Faktor-faktor yang memengaruhi permintaan uang menurut teori Keynesian adalah...",
+    "pilihan": {
+      "a": "Tingkat suku bunga, inflasi, dan pendapatan nasional",
+      "b": "Jumlah uang beredar, kecepatan peredaran uang, dan tingkat harga",
+      "c": "Motif transaksi, motif berjaga-jaga, dan motif spekulasi",
+      "d": "Kebijakan fiskal, kebijakan moneter, dan kebijakan harga",
+      "e": "Produksi, distribusi, dan konsumsi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sebuah perusahaan dagang memiliki persediaan awal Rp15.000.000, pembelian Rp70.000.000, beban angkut pembelian Rp2.000.000, retur pembelian Rp3.000.000, dan potongan pembelian Rp1.000.000. Besarnya pembelian bersih adalah...",
+    "pilihan": {
+      "a": "Rp68.000.000",
+      "b": "Rp74.000.000",
+      "c": "Rp70.000.000",
+      "d": "Rp72.000.000",
+      "e": "Rp76.000.000"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam metode Ikhtisar Laba/Rugi, jurnal penyesuaian untuk menutup persediaan awal adalah...",
+    "pilihan": {
+      "a": "(D) HPP, (K) Persediaan Barang Dagang",
+      "b": "(D) Persediaan Barang Dagang, (K) Ikhtisar Laba/Rugi",
+      "c": "(D) Ikhtisar Laba/Rugi, (K) Persediaan Barang Dagang",
+      "d": "(D) Beban Pokok Penjualan, (K) Persediaan Barang Dagang",
+      "e": "(D) Persediaan Barang Dagang, (K) HPP"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Urutan tahapan siklus akuntansi setelah penyusunan Neraca Saldo adalah...",
+    "pilihan": {
+      "a": "Posting ke Buku Besar",
+      "b": "Penyusunan Jurnal Penutup",
+      "c": "Penyusunan Neraca Saldo Setelah Penutupan",
+      "d": "Penyusunan Laporan Keuangan",
+      "e": "Penyusunan Jurnal Penyesuaian"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Jika total kolom debit dan kredit pada jurnal pengeluaran kas tidak seimbang, hal ini mengindikasikan adanya...",
+    "pilihan": {
+      "a": "Kesalahan pencatatan atau penjumlahan dalam jurnal",
+      "b": "Kesalahan dalam penentuan laba kotor",
+      "c": "Perbedaan metode pencatatan persediaan",
+      "d": "Kesalahan dalam perhitungan HPP",
+      "e": "Adanya transaksi yang belum dicatat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pemerintah menetapkan kebijakan upah minimum untuk memastikan pekerja dapat memenuhi kebutuhan hidup layak. Kebijakan ini bertujuan untuk mengatasi masalah...",
+    "pilihan": {
+      "a": "Keterbatasan sumber daya",
+      "b": "Pengangguran",
+      "c": "Defisit anggaran",
+      "d": "Kesenjangan pendapatan",
+      "e": "Inflasi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dampak positif investasi asing (PMA) terhadap ketenagakerjaan di suatu negara adalah...",
+    "pilihan": {
+      "a": "Terjadinya brain drain",
+      "b": "Meningkatnya penyerapan tenaga kerja lokal",
+      "c": "Meningkatnya utang luar negeri",
+      "d": "Menurunnya daya saing industri dalam negeri",
+      "e": "Meningkatnya ketergantungan pada produk impor"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Disajikan kurva permintaan (D) bergeser ke kanan. Hal ini dapat menjadi penyebab inflasi jenis...",
+    "pilihan": {
+      "a": "Demand Pull Inflation",
+      "b": "Hyperinflation",
+      "c": "Cost Push Inflation",
+      "d": "Imported Inflation",
+      "e": "Creeping Inflation"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kebijakan pemerintah yang melibatkan pengaturan harga dan upah untuk mengendalikan inflasi termasuk dalam kategori kebijakan...",
+    "pilihan": {
+      "a": "Fiskal ekspansif",
+      "b": "Moneter ekspansif",
+      "c": "Moneter kontraktif",
+      "d": "Nonmoneter dan nonfiskal",
+      "e": "Fiskal kontraktif"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jika harga suatu barang setelah diskon 20% adalah Rp80.000, maka harga asli barang tersebut sebelum diskon adalah...",
+    "pilihan": {
+      "a": "Rp96.000",
+      "b": "Rp100.000",
+      "c": "Rp110.000",
+      "d": "Rp90.000",
+      "e": "Rp104.000"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Penggunaan teknik atau metode baru dalam aktivitas usaha, seperti penerapan sistem irigasi tetes pada perkebunan, merupakan perwujudan dari unsur manajemen...",
+    "pilihan": {
+      "a": "Machine",
+      "b": "Materials",
+      "c": "Money",
+      "d": "Method",
+      "e": "Man"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam laporan keuangan perusahaan jasa, jika diketahui modal awal Rp100.000.000, pendapatan Rp50.000.000, prive Rp10.000.000, dan modal akhir Rp120.000.000, maka besarnya beban usaha adalah...",
+    "pilihan": {
+      "a": "Rp30.000.000",
+      "b": "Rp50.000.000",
+      "c": "Rp20.000.000",
+      "d": "Rp10.000.000",
+      "e": "Rp40.000.000"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Berikut ini adalah karakteristik dari sistem ekonomi tradisional, KECUALI...",
+    "pilihan": {
+      "a": "Pemerintah sangat dominan dalam mengatur ekonomi",
+      "b": "Kegiatan ekonomi berdasarkan adat istiadat",
+      "c": "Produksi untuk memenuhi kebutuhan sendiri",
+      "d": "Teknologi produksi masih sederhana",
+      "e": "Pembagian kerja belum jelas"
+    },
+    "jawaban": "a"
+  }
+]

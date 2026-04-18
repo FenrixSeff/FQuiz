@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Pada tanggal berapakah Nahdlatul Ulama (NU) didirikan menurut kalender Masehi?",
+    "pilihan": {
+      "a": "31 Januari 1926",
+      "b": "17 Agustus 1945",
+      "c": "22 Oktober 1945",
+      "d": "1 Januari 1900",
+      "e": "16 Rajab 1344 H"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tanggal pendirian NU menurut kalender Hijriyah adalah?",
+    "pilihan": {
+      "a": "9 Dzulhijjah 1344 H",
+      "b": "12 Rabiul Awal 1344 H",
+      "c": "1 Muharram 1344 H",
+      "d": "27 Rajab 1344 H",
+      "e": "16 Rajab 1344 H"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Apa makna jumlah 99 lilitan tali pada lambang/logo NU?",
+    "pilihan": {
+      "a": "Jumlah Walisongo",
+      "b": "Jumlah tahun berdirinya NU",
+      "c": "Asmaul Husna (99 nama Allah yang indah)",
+      "d": "Jumlah pilar Aswaja",
+      "e": "Jumlah cabang NU di Indonesia"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Lambang tali yang mengelilingi bola dunia pada logo NU melambangkan?",
+    "pilihan": {
+      "a": "Ukhuwah atau persaudaraan",
+      "b": "Pemisahan agama dan negara",
+      "c": "Kekuasaan politik",
+      "d": "Perlawanan bersenjata",
+      "e": "Kekayaan materi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Prinsip I'tidal dalam pilar Aswaja NU bermakna?",
+    "pilihan": {
+      "a": "Hanya fokus pada ibadah ritual",
+      "b": "Sikap ekstrem kanan atau kiri",
+      "c": "Sikap adil, lurus, dan tengah-tengah",
+      "d": "Mendahulukan kepentingan pribadi",
+      "e": "Menolak semua tradisi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Prinsip Tawazun dalam Aswaja NU berarti?",
+    "pilihan": {
+      "a": "Keseimbangan dalam segala aspek kehidupan",
+      "b": "Hanya mengutamakan duniawi",
+      "c": "Ekstrem dalam ritual",
+      "d": "Menghindari akal pikiran",
+      "e": "Kekacauan dalam beragama"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sebutan untuk pengurus NU di tingkat Kabupaten/Kota adalah?",
+    "pilihan": {
+      "a": "Ranting NU",
+      "b": "PBNU",
+      "c": "PCNU",
+      "d": "MWCNU",
+      "e": "PWNU"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Apa perbedaan utama wewenang Syuriyah dan Tanfidziyah dalam NU?",
+    "pilihan": {
+      "a": "Keduanya memiliki wewenang yang sama",
+      "b": "Syuriyah menjalankan program harian, Tanfidziyah membina agama",
+      "c": "Tanfidziyah hanya untuk urusan politik",
+      "d": "Syuriyah sebagai pimpinan tertinggi keagamaan dan pengawas, Tanfidziyah sebagai pelaksana program",
+      "e": "Syuriyah hanya untuk urusan keuangan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Resolusi Jihad NU tahun 1945 menyatakan bahwa mempertahankan kemerdekaan Indonesia adalah?",
+    "pilihan": {
+      "a": "Hanya kewajiban pemerintah",
+      "b": "Hanya perjuangan politik",
+      "c": "Tidak ada hubungannya dengan agama",
+      "d": "Jihad fardhu ain",
+      "e": "Jihad fardhu kifayah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Apa makna Resolusi Jihad bagi warga NU dalam hubungan keimanan dan nasionalisme?",
+    "pilihan": {
+      "a": "Keduanya bertentangan",
+      "b": "Hanya untuk kepentingan ulama",
+      "c": "Menolak negara Indonesia",
+      "d": "Cinta tanah air merupakan bagian dari iman",
+      "e": "Hanya fokus pada akhirat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Badan Otonom NU untuk wanita dewasa adalah?",
+    "pilihan": {
+      "a": "Muslimat NU",
+      "b": "Ansor",
+      "c": "IPNU",
+      "d": "Banser",
+      "e": "Fatayat NU"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Organisasi pemuda NU yang bertugas mengawal kiai dan NKRI adalah?",
+    "pilihan": {
+      "a": "Ansor/Banser",
+      "b": "Muslimat NU",
+      "c": "IPNU",
+      "d": "LAZISNU",
+      "e": "RMI"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Esensi ziarah kubur menurut amaliyah NU adalah?",
+    "pilihan": {
+      "a": "Hanya wisata religi",
+      "b": "Menolak tradisi",
+      "c": "Menyembah kuburan",
+      "d": "Tawasul dan pengingat maut",
+      "e": "Hanya untuk orang saleh"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Menurut paham Aswaja NU, Bid'ah Hasanah adalah?",
+    "pilihan": {
+      "a": "Semua bid'ah dilarang",
+      "b": "Hanya untuk orang modern",
+      "c": "Hanya bid'ah dalam ibadah",
+      "d": "Bid'ah yang dibuat setelah Nabi wafat semua salah",
+      "e": "Bid'ah yang baik dan tidak bertentangan dengan syariat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kitab karangan KH. Hasyim Asy'ari yang menjadi rujukan utama Aswaja NU adalah?",
+    "pilihan": {
+      "a": "Buku politik modern",
+      "b": "Kitab-kitab yang membela Ahlussunnah wal Jama'ah",
+      "c": "Kitab tasawuf Barat",
+      "d": "Kitab kuning umum",
+      "e": "Hanya Al-Qur'an"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Madzhab fiqih utama yang diikuti NU adalah?",
+    "pilihan": {
+      "a": "Syafi'i",
+      "b": "Hanafi",
+      "c": "Maliki",
+      "d": "Semua madzhab sama",
+      "e": "Hambali"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Metode Bahtsul Masa'il dalam NU sering menggunakan?",
+    "pilihan": {
+      "a": "Hanya pendapat pribadi",
+      "b": "Penolakan terhadap tradisi",
+      "c": "Hanya dalil naqli",
+      "d": "Analogi atau Ilhaq",
+      "e": "Metode modern tanpa dalil"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Metode pembelajaran sorogan di pesantren ditandai dengan?",
+    "pilihan": {
+      "a": "Santri membaca kitab satu per satu di depan kyai",
+      "b": "Belajar berkelompok besar",
+      "c": "Hanya mendengarkan ceramah",
+      "d": "Belajar tanpa kitab",
+      "e": "Menggunakan buku cetak modern saja"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Alasan strategis NU kembali ke Khittah 1926 pada Muktamar 1984 adalah?",
+    "pilihan": {
+      "a": "Ingin masuk politik lebih dalam",
+      "b": "Hanya untuk kepentingan ekonomi",
+      "c": "Menghindari dakwah",
+      "d": "Menolak Pancasila",
+      "e": "Kembali fokus sebagai organisasi sosial keagamaan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pencipta lagu Syubbanul Wathon adalah tokoh dari?",
+    "pilihan": {
+      "a": "Pemerintah kolonial",
+      "b": "Seniman dan tokoh NU",
+      "c": "Muslimat NU",
+      "d": "Walisongo",
+      "e": "Ansor"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Doa Qunut Subuh diamalkan NU berdasarkan?",
+    "pilihan": {
+      "a": "Hanya sunnah mutlak",
+      "b": "Hanya di bulan Ramadhan",
+      "c": "Madzhab Syafi'i",
+      "d": "Madzhab Hanafi",
+      "e": "Tidak diamalkan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Strategi dakwah kultural Walisongo yang diteruskan NU adalah?",
+    "pilihan": {
+      "a": "Menolak budaya Nusantara",
+      "b": "Dakwah dengan kekerasan",
+      "c": "Dakwah politik saja",
+      "d": "Hanya dakwah lisan",
+      "e": "Dakwah melalui seni dan budaya lokal"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ukhuwah Basyariyah menurut NU berarti?",
+    "pilihan": {
+      "a": "Persaudaraan hanya sesama muslim",
+      "b": "Hanya untuk keluarga",
+      "c": "Tidak ada persaudaraan",
+      "d": "Persaudaraan sesama manusia (lintas agama)",
+      "e": "Persaudaraan hanya dalam politik"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sikap ta'dzim santri terhadap guru melambangkan?",
+    "pilihan": {
+      "a": "Hanya adat biasa",
+      "b": "Menolak ilmu",
+      "c": "Penyembahan guru",
+      "d": "Penghormatan ilmu",
+      "e": "Sikap sombong"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "NU mengikuti Imam Al-Asy'ari dalam bidang?",
+    "pilihan": {
+      "a": "Tasawuf saja",
+      "b": "Aqidah/teologi",
+      "c": "Ekonomi",
+      "d": "Politik",
+      "e": "Fiqih"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Peran KH. Ahmad Siddiq dalam NU adalah?",
+    "pilihan": {
+      "a": "Pendiri Ansor",
+      "b": "Pendiri NU",
+      "c": "Hanya tokoh politik",
+      "d": "Perumus hubungan Islam dan Pancasila pada era Khittah",
+      "e": "Pencipta logo NU"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sikap NU terhadap Pancasila adalah?",
+    "pilihan": {
+      "a": "Tidak ada hubungan",
+      "b": "Bertentangan dengan syariat",
+      "c": "Menolak Pancasila",
+      "d": "Hanya untuk politik",
+      "e": "Menerima sebagai mitsaqan ghalidza (ikatan kuat)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Batasan usia anggota IPNU ditentukan berdasarkan?",
+    "pilihan": {
+      "a": "Hanya untuk SD-SMP",
+      "b": "Aturan organisasi terbaru",
+      "c": "Aturan pemerintah saja",
+      "d": "Tidak ada batas usia",
+      "e": "Hanya untuk mahasiswa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Menurut tradisi NU, jumlah hewan aqiqah untuk anak laki-laki adalah?",
+    "pilihan": {
+      "a": "Hanya untuk perempuan",
+      "b": "2 ekor",
+      "c": "Tidak ada ketentuan",
+      "d": "3 ekor",
+      "e": "1 ekor"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Lembaga NU yang mengelola dana umat (zakat, infak, sedekah) adalah?",
+    "pilihan": {
+      "a": "IPNU",
+      "b": "LAZISNU",
+      "c": "RMI",
+      "d": "Banser",
+      "e": "LP Ma'arif"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Peran NU dalam konteks global adalah?",
+    "pilihan": {
+      "a": "Menyebarkan radikalisme",
+      "b": "Kontribusi dalam diplomasi perdamaian dunia melalui Islam Wasathiyah",
+      "c": "Hanya nasional",
+      "d": "Hanya ekonomi",
+      "e": "Menolak internasional"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pentingnya bermadzhab bagi kaum awam menurut NU adalah?",
+    "pilihan": {
+      "a": "Agar tidak salah dalam mengambil hukum",
+      "b": "Hanya untuk ulama",
+      "c": "Menolak semua madzhab",
+      "d": "Tidak perlu",
+      "e": "Hanya ikut tren"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Hari Santri Nasional diperingati setiap tanggal?",
+    "pilihan": {
+      "a": "1 Muharram",
+      "b": "17 Agustus",
+      "c": "31 Januari",
+      "d": "9 Dzulhijjah",
+      "e": "22 Oktober"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam fiqih praktis NU, sujud sahwi dilakukan ketika?",
+    "pilihan": {
+      "a": "Shalat sunnah saja",
+      "b": "Tidak pernah dilakukan",
+      "c": "Shalat sempurna",
+      "d": "Imam lupa rakaat",
+      "e": "Hanya di Subuh"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Amar ma'ruf menurut karakter wasathiyah NU dilakukan dengan cara?",
+    "pilihan": {
+      "a": "Menghindari dakwah",
+      "b": "Kasar dan memaksa",
+      "c": "Hanya untuk sesama NU",
+      "d": "Hanya melalui media sosial",
+      "e": "Santun dan sesuai moderasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kontribusi Gus Dur yang dikenang adalah?",
+    "pilihan": {
+      "a": "Perjuangan pluralisme dan demokrasi di Indonesia",
+      "b": "Pencipta lagu NU",
+      "c": "Hanya pendidikan",
+      "d": "Pendiri NU",
+      "e": "Hanya politik praktis"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Lembaga NU yang membidangi pengelolaan madrasah adalah?",
+    "pilihan": {
+      "a": "LP Ma'arif",
+      "b": "Banser",
+      "c": "RMI",
+      "d": "LAZISNU",
+      "e": "IPNU"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Strategi pendidikan Ma'arif NU di era Revolusi Industri 4.0 adalah?",
+    "pilihan": {
+      "a": "Menutup pesantren",
+      "b": "Tidak ada strategi",
+      "c": "Menjaga moralitas santri di tengah tantangan digital",
+      "d": "Hanya belajar teknologi",
+      "e": "Mengabaikan moralitas"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tokoh penggagas istilah Halal bi Halal adalah?",
+    "pilihan": {
+      "a": "KH. Hasyim Asy'ari",
+      "b": "Tokoh NU",
+      "c": "Walisongo",
+      "d": "Gus Dur",
+      "e": "Pemerintah kolonial"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu penyebab sujud sahwi adalah?",
+    "pilihan": {
+      "a": "Lupa dalam rakaat atau gerakan shalat",
+      "b": "Shalat sempurna",
+      "c": "Shalat sunnah",
+      "d": "Hanya di malam hari",
+      "e": "Tidak ada sebab"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kaidah fiqih 'menjaga tradisi lama dan mengambil hal baru' diterapkan NU dalam?",
+    "pilihan": {
+      "a": "Menolak semua hal baru",
+      "b": "Politik saja",
+      "c": "Menghindari teknologi",
+      "d": "Hanya tradisi lama",
+      "e": "Dakwah fleksibel melalui media sosial"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Label 'tradisionalis' pada NU memiliki sisi positif dalam?",
+    "pilihan": {
+      "a": "Menjaga keaslian ilmu bersanad",
+      "b": "Mengikuti tren modern tanpa dasar",
+      "c": "Menolak semua tradisi",
+      "d": "Menghancurkan sanad ilmu",
+      "e": "Hanya politik"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kriteria memilih pemimpin menurut warga NU selaras dengan?",
+    "pilihan": {
+      "a": "Hanya dari partai tertentu",
+      "b": "Tidak ada kriteria",
+      "c": "Hanya popularitas",
+      "d": "Hanya kekayaan",
+      "e": "Sifat wajib Rasul"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Fenomena PCINU menunjukkan?",
+    "pilihan": {
+      "a": "Penurunan pengaruh NU",
+      "b": "NU hanya di Indonesia",
+      "c": "Hanya untuk diaspora",
+      "d": "Tidak ada hubungan global",
+      "e": "Relevansi ajaran NU di kancah internasional"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sikap tasamuh NU dalam menghadapi perbedaan awal Ramadhan adalah?",
+    "pilihan": {
+      "a": "Konflik dan saling menyalahkan",
+      "b": "Menjaga ukhuwah meski berbeda metode hilal atau hisab",
+      "c": "Menolak perbedaan",
+      "d": "Tidak peduli",
+      "e": "Hanya mengikuti satu metode"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi pesantren menurut NU adalah?",
+    "pilihan": {
+      "a": "Benteng NKRI dari paham radikal",
+      "b": "Hanya pendidikan agama",
+      "c": "Hanya ekonomi",
+      "d": "Tempat politik saja",
+      "e": "Menolak negara"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Nilai As-Shidqu dalam Mabadi Khaira Ummah berarti?",
+    "pilihan": {
+      "a": "Kekerasan",
+      "b": "Kedustaan",
+      "c": "Hanya ritual",
+      "d": "Kejujuran",
+      "e": "Ketidakpedulian"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Alasan NU berasaskan Pancasila adalah?",
+    "pilihan": {
+      "a": "Hanya untuk politik",
+      "b": "Tidak ada alasan",
+      "c": "Bertentangan dengan syariat",
+      "d": "Keselarasan dengan Maqashid Syariah",
+      "e": "Menolak agama"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Lembaga RMI-NU berperan dalam?",
+    "pilihan": {
+      "a": "Pendidikan madrasah",
+      "b": "Politik",
+      "c": "Koordinasi pesantren",
+      "d": "Zakat",
+      "e": "Filantropi umum"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pandangan NU terhadap Islam Nusantara adalah?",
+    "pilihan": {
+      "a": "Menghapus tradisi",
+      "b": "Tidak ada hubungan",
+      "c": "Hanya budaya asing",
+      "d": "Pribumisasi Islam melalui akulturasi budaya yang sesuai syariat",
+      "e": "Menolak budaya lokal"
+    },
+    "jawaban": "d"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Disajikan deskripsi tentang sosiologi terapan, fungsi sosiologi pada tahapan pembangunan yang paling tepat adalah...",
+    "pilihan": {
+      "a": "Hanya memberikan data statistik ekonomi",
+      "b": "Memberikan pemahaman realitas sosial untuk perencanaan, pelaksanaan, dan evaluasi pembangunan",
+      "c": "Mengatur langsung kebijakan pemerintah tanpa melibatkan masyarakat",
+      "d": "Fokus pada perubahan teknologi semata",
+      "e": "Menghindari analisis dampak sosial"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ilustrasi pengumpulan data melalui narasi dan opini responden menunjukkan jenis pendekatan penelitian sosial yang digunakan adalah...",
+    "pilihan": {
+      "a": "Kuantitatif",
+      "b": "Kualitatif",
+      "c": "Eksperimental",
+      "d": "Statistik deskriptif",
+      "e": "Survei massal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fenomena remaja yang melupakan tradisi lokal akibat modernisasi termasuk dalam bidang gejala sosial yang disebut...",
+    "pilihan": {
+      "a": "Gejala positif integrasi",
+      "b": "Erosi budaya atau pergeseran nilai tradisional",
+      "c": "Peningkatan produktivitas",
+      "d": "Harmoni antargenerasi",
+      "e": "Mobilitas horizontal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tradisi \"sasi\" di daerah pesisir Maluku berperan dalam kelestarian lingkungan melalui...",
+    "pilihan": {
+      "a": "Larangan permanen pengambilan hasil laut",
+      "b": "Larangan sementara mengambil sumber daya alam agar ekosistem pulih",
+      "c": "Peningkatan eksploitasi komersial",
+      "d": "Penghapusan aturan adat",
+      "e": "Fokus hanya pada pariwisata"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dari daftar faktor sosial-ekonomi, masalah sosial yang sering timbul adalah...",
+    "pilihan": {
+      "a": "Peningkatan pendapatan merata",
+      "b": "Kemiskinan, pengangguran, dan kesenjangan",
+      "c": "Stabilisasi norma tanpa konflik",
+      "d": "Penurunan urbanisasi",
+      "e": "Harmoni total antarkelompok"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Contoh-contoh perubahan sosial seperti adopsi teknologi baru biasanya didorong oleh faktor eksternal berupa...",
+    "pilihan": {
+      "a": "Isolasi budaya",
+      "b": "Globalisasi, modernisasi, dan inovasi teknologi",
+      "c": "Penguatan tradisi lama",
+      "d": "Penurunan interaksi sosial",
+      "e": "Konflik internal semata"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Cepatnya globalisasi sering menyebabkan cultural shock, yang bermakna...",
+    "pilihan": {
+      "a": "Kebahagiaan total dengan budaya baru",
+      "b": "Kejutan dan kesulitan beradaptasi dengan nilai dan norma budaya asing",
+      "c": "Penolakan total terhadap teknologi",
+      "d": "Peningkatan isolasi diri",
+      "e": "Stabilisasi ekonomi tanpa dampak budaya"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kerja sama antarperajin suvenir menunjukkan faktor dasar pembentuk kelompok sosial berupa...",
+    "pilihan": {
+      "a": "Kedekatan emosional semata",
+      "b": "Kepentingan bersama atau tujuan ekonomi",
+      "c": "Perbedaan status sosial",
+      "d": "Konflik internal",
+      "e": "Isolasi wilayah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pengaruh modernisasi Barat sering memunculkan permasalahan sosial seperti...",
+    "pilihan": {
+      "a": "Penguatan kearifan lokal sepenuhnya",
+      "b": "Individualisme, konsumerisme, dan erosi budaya lokal",
+      "c": "Penurunan teknologi",
+      "d": "Harmoni tanpa perubahan",
+      "e": "Mobilitas sosial menurun"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Demonstrasi buruh biasanya disebabkan oleh faktor penyebab konflik sosial berupa...",
+    "pilihan": {
+      "a": "Kesepakatan upah yang adil",
+      "b": "Perebutan hak, upah rendah, atau ketidakadilan",
+      "c": "Integrasi sempurna",
+      "d": "Penurunan partisipasi",
+      "e": "Harmoni total"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gejala sosial individualistis di perkotaan merupakan dampak negatif perubahan sosial berupa...",
+    "pilihan": {
+      "a": "Peningkatan gotong royong",
+      "b": "Melemahnya ikatan sosial dan solidaritas",
+      "c": "Penguatan tradisi keluarga",
+      "d": "Penurunan urbanisasi",
+      "e": "Stabilitas norma tanpa perubahan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Keberagaman masyarakat berdasarkan suku, agama, dan profesi tanpa hierarki termasuk dalam...",
+    "pilihan": {
+      "a": "Stratifikasi sosial",
+      "b": "Diferensiasi sosial",
+      "c": "Mobilitas vertikal",
+      "d": "Konflik struktural",
+      "e": "Integrasi paksa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Adaptasi pendidikan dan pekerjaan secara daring saat pandemi COVID-19 merupakan perubahan sosial yang bersifat...",
+    "pilihan": {
+      "a": "Direncanakan dan lambat",
+      "b": "Tidak direncanakan, cepat, dan luas",
+      "c": "Hanya positif tanpa dampak negatif",
+      "d": "Kembali ke pola lama",
+      "e": "Terisolasi di desa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tren gaya hidup pelajar kota yang menggunakan barang bermerek menunjukkan gejala pembentukan stratifikasi sosial berdasarkan...",
+    "pilihan": {
+      "a": "Kesetaraan total",
+      "b": "Status konsumsi dan kelas sosial",
+      "c": "Diferensiasi horizontal",
+      "d": "Mobilitas horizontal semata",
+      "e": "Penurunan ketimpangan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Penggunaan emoji dalam grup komunikasi daring merupakan objek kajian sosiologi yang paling sesuai karena...",
+    "pilihan": {
+      "a": "Fenomena alam murni",
+      "b": "Interaksi sosial dan komunikasi simbolik antarmanusia",
+      "c": "Perubahan iklim",
+      "d": "Biologi individu",
+      "e": "Teknologi hardware semata"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kecintaan anak muda pada barang bermerek luar negeri merupakan dampak negatif globalisasi berupa...",
+    "pilihan": {
+      "a": "Penguatan ekonomi lokal",
+      "b": "Konsumerisme dan erosi budaya lokal",
+      "c": "Penurunan impor",
+      "d": "Harmoni budaya tanpa konflik",
+      "e": "Mobilitas sosial menurun"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fenomena tawuran antarremaja atau diskriminasi gender sering dilatarbelakangi oleh faktor permasalahan sosial berupa...",
+    "pilihan": {
+      "a": "Kemajuan teknologi semata",
+      "b": "Faktor kebudayaan dan nilai yang bertabrakan",
+      "c": "Stabilitas ekonomi tinggi",
+      "d": "Integrasi sempurna",
+      "e": "Penurunan urbanisasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Keberhasilan seorang pelajar menjadi wirausaha muda menunjukkan jenis mobilitas sosial yang terjadi adalah...",
+    "pilihan": {
+      "a": "Mobilitas horizontal",
+      "b": "Mobilitas vertikal upward (naik)",
+      "c": "Mobilitas downward",
+      "d": "Mobilitas antarwilayah semata",
+      "e": "Tidak ada perubahan status"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Upaya mengatasi kemiskinan melalui industri kecil pedesaan menunjukkan peran kearifan lokal berupa...",
+    "pilihan": {
+      "a": "Pengabaian nilai gotong royong",
+      "b": "Pemanfaatan modal sosial dan pengetahuan lokal untuk pemberdayaan",
+      "c": "Ketergantungan penuh pada pemerintah pusat",
+      "d": "Penghapusan tradisi",
+      "e": "Fokus pada urbanisasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Faktor pendorong integrasi sosial yang berasal dari dalam individu adalah...",
+    "pilihan": {
+      "a": "Paksaan dari pemerintah",
+      "b": "Toleransi, empati, dan sikap saling menghargai",
+      "c": "Perbedaan status ekonomi yang besar",
+      "d": "Etnosentrisme",
+      "e": "Isolasi kelompok"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Persaingan dalam pemilihan ketua kelas merupakan bentuk konflik sosial yang bersifat...",
+    "pilihan": {
+      "a": "Konflik antarnegara",
+      "b": "Konflik antarindividu atau kelompok kecil",
+      "c": "Konflik struktural besar",
+      "d": "Konflik tanpa penyebab",
+      "e": "Integrasi langsung"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Peristiwa lingkungan dan sosial yang muncul secara spontan seperti dampak bencana termasuk perubahan sosial yang...",
+    "pilihan": {
+      "a": "Selalu direncanakan",
+      "b": "Tidak direncanakan",
+      "c": "Hanya positif",
+      "d": "Lambat dan terbatas",
+      "e": "Tanpa dampak"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kemudahan mendapat pekerjaan bagi individu dari keluarga berada menunjukkan faktor yang memengaruhi mobilitas sosial berupa...",
+    "pilihan": {
+      "a": "Usaha pribadi semata",
+      "b": "Latar belakang keluarga dan warisan (ascribed status)",
+      "c": "Penurunan pendidikan",
+      "d": "Isolasi sosial",
+      "e": "Konflik kelas"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Adaptasi kebutuhan hidup via aplikasi online masa pandemi merupakan upaya masyarakat membangun...",
+    "pilihan": {
+      "a": "Konflik baru",
+      "b": "Harmoni sosial melalui adaptasi bersama",
+      "c": "Individualisme total",
+      "d": "Penolakan teknologi",
+      "e": "Kembali ke pola tradisional tanpa perubahan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fenomena seperti kemiskinan struktural dan kenakalan remaja tergolong dalam...",
+    "pilihan": {
+      "a": "Gejala sosial positif",
+      "b": "Masalah sosial",
+      "c": "Perubahan yang diinginkan",
+      "d": "Integrasi sempurna",
+      "e": "Mobilitas horizontal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pembentukan rukun tetangga (RT) dan rukun warga (RW) merupakan kelompok sosial berdasarkan...",
+    "pilihan": {
+      "a": "Kepentingan nasional",
+      "b": "Lokalitas atau wilayah tempat tinggal",
+      "c": "Profesi semata",
+      "d": "Agama tunggal",
+      "e": "Konflik internal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tolong-menolong antarwarga beda status ekonomi menunjukkan pentingnya integrasi sosial untuk...",
+    "pilihan": {
+      "a": "Meningkatkan konflik",
+      "b": "Membangun solidaritas dan harmoni antarkelompok",
+      "c": "Mempertegas stratifikasi",
+      "d": "Menghilangkan gotong royong",
+      "e": "Fokus pada individualisme"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fenomena interaksi antarmanusia seperti penggunaan emoji di media sosial merupakan objek kajian sosiologi, sedangkan fenomena alam murni seperti gempa bukanlah objek utama karena...",
+    "pilihan": {
+      "a": "Tidak ada hubungan sosial",
+      "b": "Objek sosiologi adalah interaksi, struktur, dan proses sosial",
+      "c": "Hanya fokus pada biologi",
+      "d": "Tidak relevan dengan masyarakat",
+      "e": "Selalu negatif"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kasus penghormatan terhadap kepala desa meski berlatar belakang petani menunjukkan fungsi struktur sosial berupa...",
+    "pilihan": {
+      "a": "Menghapus hierarki",
+      "b": "Memberikan stabilitas, mengatur peran, dan legitimasi wewenang",
+      "c": "Meningkatkan konflik",
+      "d": "Menghilangkan diferensiasi",
+      "e": "Fokus pada kesetaraan total"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Meningkatnya urbanisasi yang menyebabkan permukiman kumuh disebabkan oleh gejala sosial utama berupa...",
+    "pilihan": {
+      "a": "Penurunan migrasi",
+      "b": "Migrasi desa-kota karena faktor ekonomi dan peluang kerja",
+      "c": "Penguatan desa tradisional",
+      "d": "Harmoni tanpa perubahan",
+      "e": "Penurunan populasi kota"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Konsep tindakan sosial Max Weber dengan \"verstehen\" berfokus pada analisis...",
+    "pilihan": {
+      "a": "Hanya perilaku luar yang terukur",
+      "b": "Makna subjektif dan pemahaman mendalam di balik tindakan sosial",
+      "c": "Statistik semata",
+      "d": "Perubahan ekonomi tanpa makna",
+      "e": "Konflik tanpa interpretasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kondisi masyarakat pasca Revolusi Industri menjadi latar belakang lahirnya ilmu sosiologi karena...",
+    "pilihan": {
+      "a": "Stabilitas total tanpa perubahan",
+      "b": "Urbanisasi massal, kemiskinan, dan konflik sosial yang memerlukan pemahaman ilmiah",
+      "c": "Penurunan teknologi",
+      "d": "Isolasi masyarakat",
+      "e": "Kembalinya ke tradisi feodal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Syarat utama penulisan laporan penelitian sosial adalah...",
+    "pilihan": {
+      "a": "Subjektif dan naratif bebas",
+      "b": "Sistematis, objektif, dan dapat dipertanggungjawabkan",
+      "c": "Hanya berbasis opini",
+      "d": "Tanpa metodologi",
+      "e": "Fokus pada data kualitatif semata tanpa verifikasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kendala responden gagal memahami bahasa akademis dalam angket dapat diatasi dengan tindakan perbaikan instrumen berupa...",
+    "pilihan": {
+      "a": "Meningkatkan kerumitan bahasa",
+      "b": "Simplifikasi bahasa dan uji coba instrumen",
+      "c": "Menghapus pertanyaan",
+      "d": "Menggunakan hanya data sekunder",
+      "e": "Mengabaikan responden"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kesulitan kelompok minoritas mendapat pekerjaan dan dipinggirkan merupakan bentuk kekerasan sosial yang disebut...",
+    "pilihan": {
+      "a": "Kekerasan fisik langsung",
+      "b": "Kekerasan struktural",
+      "c": "Kekerasan verbal",
+      "d": "Konflik antarindividu",
+      "e": "Integrasi paksa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Proses pengendalian konflik melalui penunjukan pihak ketiga yang memberi nasihat merupakan bentuk penyelesaian berupa...",
+    "pilihan": {
+      "a": "Konfrontasi langsung",
+      "b": "Mediasi",
+      "c": "Dominasi satu pihak",
+      "d": "Penghindaran",
+      "e": "Es kalasi konflik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pelibatan pemerintah dan LSM dalam evaluasi pemberdayaan masyarakat bertujuan untuk...",
+    "pilihan": {
+      "a": "Menghentikan program",
+      "b": "Menilai keberlanjutan, efektivitas, dan partisipasi masyarakat",
+      "c": "Meningkatkan ketergantungan",
+      "d": "Mengabaikan kearifan lokal",
+      "e": "Fokus pada biaya semata"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Strategi pelaksanaan pemberdayaan komunitas yang tepat adalah...",
+    "pilihan": {
+      "a": "Pendekatan top-down tanpa partisipasi",
+      "b": "Partisipatif dan berbasis komunitas",
+      "c": "Hanya bergantung pada LSM",
+      "d": "Mengabaikan evaluasi",
+      "e": "Fokus pada urbanisasi paksa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Persaingan layanan dua perusahaan ojek online merupakan bentuk interaksi sosial disosiatif berupa...",
+    "pilihan": {
+      "a": "Kerja sama",
+      "b": "Persaingan",
+      "c": "Akomodasi",
+      "d": "Asimilasi",
+      "e": "Integrasi penuh"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pelanggaran tata krama saat bertamu termasuk pelanggaran norma sosial pada tingkatan...",
+    "pilihan": {
+      "a": "Hukum negara",
+      "b": "Kesopanan atau tata krama",
+      "c": "Adat istiadat yang ketat",
+      "d": "Norma agama",
+      "e": "Norma universal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perilaku anak balita yang meniru rutinitas ayahnya menunjukkan tahap perkembangan diri menurut G.H. Mead yaitu...",
+    "pilihan": {
+      "a": "Game stage",
+      "b": "Tahap imitasi atau preparatory stage",
+      "c": "Play stage penuh",
+      "d": "Penerimaan norma kolektif",
+      "e": "Tahap dewasa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perubahan perilaku anak baik menjadi peminum akibat pergaulan menunjukkan penyebab penyimpangan sosial berupa...",
+    "pilihan": {
+      "a": "Sosialisasi yang sempurna",
+      "b": "Pengaruh kelompok teman atau tekanan pergaulan",
+      "c": "Penguatan norma keluarga",
+      "d": "Pendidikan formal tinggi",
+      "e": "Isolasi sosial"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kegiatan penyuluhan rutin dari aparat kepolisian ke sekolah merupakan pengendalian sosial yang bersifat...",
+    "pilihan": {
+      "a": "Represif",
+      "b": "Preventif (pencegahan)",
+      "c": "Restitutif",
+      "d": "Hanya hukuman",
+      "e": "Pasif"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sikap kelompok masyarakat yang merasa kebudayaannya paling tinggi menghambat integrasi sosial karena disebut...",
+    "pilihan": {
+      "a": "Toleransi tinggi",
+      "b": "Etnosentrisme",
+      "c": "Asimilasi cepat",
+      "d": "Gotong royong",
+      "e": "Mobilitas sosial"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Komposisi keanggotaan OSIS yang majemuk lintas agama dan suku menunjukkan konsep...",
+    "pilihan": {
+      "a": "Persilangan keanggotaan (cross-cutting membership)",
+      "b": "Stratifikasi ketat",
+      "c": "Diferensiasi vertikal",
+      "d": "Konflik permanen",
+      "e": "Isolasi kelompok"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kisah sukses pengangkatan guru honorer hingga menjadi Kepala Dinas menunjukkan saluran mobilitas sosial (social elevator) utamanya adalah...",
+    "pilihan": {
+      "a": "Warisan kekayaan",
+      "b": "Pendidikan dan jalur karir",
+      "c": "Konflik sosial",
+      "d": "Penurunan status",
+      "e": "Isolasi wilayah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ciri-ciri interaksi masyarakat pedesaan yang akrab dan emosional sesuai dengan konsep kelompok sosial menurut Ferdinand Tönnies yaitu...",
+    "pilihan": {
+      "a": "Gesellschaft",
+      "b": "Gemeinschaft",
+      "c": "Stratifikasi modern",
+      "d": "Persaingan rasional",
+      "e": "Individualisme tinggi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi sekolah dalam mencegah dan menunda pernikahan dini termasuk jenis fungsi lembaga pendidikan berupa...",
+    "pilihan": {
+      "a": "Fungsi ekonomi semata",
+      "b": "Fungsi kontrol sosial dan sosialisasi",
+      "c": "Fungsi hiburan",
+      "d": "Fungsi produksi barang",
+      "e": "Fungsi politik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pasar swalayan yang meminggirkan pasar tradisional menunjukkan ketimpangan sosial akibat globalisasi di bidang...",
+    "pilihan": {
+      "a": "Pendidikan",
+      "b": "Ekonomi dan persaingan usaha",
+      "c": "Agama",
+      "d": "Kesenian",
+      "e": "Olahraga"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kembalinya tren mode gaya busana era 1980-an pada masa kini sesuai dengan teori perubahan sosial yang bersifat...",
+    "pilihan": {
+      "a": "Linear progresif",
+      "b": "Siklus (siklik)",
+      "c": "Evolusi biologis",
+      "d": "Revolusi total",
+      "e": "Stagnan"
+    },
+    "jawaban": "b"
+  }
+]

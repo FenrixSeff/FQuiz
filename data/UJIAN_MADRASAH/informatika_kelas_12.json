@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Manakah di antara aplikasi berikut yang bukan merupakan bagian dari paket Microsoft Office?",
+    "pilihan": {
+      "a": "Adobe Photoshop",
+      "b": "Microsoft Access",
+      "c": "Microsoft Word",
+      "d": "Microsoft Excel",
+      "e": "Microsoft PowerPoint"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Aplikasi yang paling tepat digunakan untuk membuat materi presentasi yang menarik adalah?",
+    "pilihan": {
+      "a": "Microsoft PowerPoint",
+      "b": "Microsoft Excel",
+      "c": "Notepad",
+      "d": "Microsoft Word",
+      "e": "Microsoft Publisher"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Sistem operasi yang mendukung jalannya aplikasi Microsoft PowerPoint secara optimal adalah?",
+    "pilihan": {
+      "a": "Linux",
+      "b": "Android",
+      "c": "iOS",
+      "d": "Windows",
+      "e": "ChromeOS"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kumpulan tab perintah yang berisi berbagai ikon perintah dalam Microsoft PowerPoint disebut?",
+    "pilihan": {
+      "a": "Taskbar",
+      "b": "Status Bar",
+      "c": "Title Bar",
+      "d": "Ribbon",
+      "e": "Scroll Bar"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Orientasi tampilan standar yang digunakan pada aplikasi Microsoft PowerPoint untuk presentasi adalah?",
+    "pilihan": {
+      "a": "Landscape",
+      "b": "A4",
+      "c": "Vertical",
+      "d": "Square",
+      "e": "Portrait"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Manakah yang bukan merupakan keunggulan dari Microsoft PowerPoint?",
+    "pilihan": {
+      "a": "Dapat menyisipkan video dan audio",
+      "b": "Dapat digunakan untuk mengolah data statistik yang sangat kompleks",
+      "c": "Tersedia berbagai pilihan tema menarik",
+      "d": "Mudah dalam pembuatan desain slide",
+      "e": "Memiliki berbagai pilihan transisi slide"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Istilah untuk lembar kerja utama yang digunakan dalam Microsoft PowerPoint adalah?",
+    "pilihan": {
+      "a": "Canvas",
+      "b": "Slide",
+      "c": "Sheet",
+      "d": "Frame",
+      "e": "Page"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ikon perintah 'Save' pada Microsoft PowerPoint berfungsi untuk?",
+    "pilihan": {
+      "a": "Mencetak dokumen",
+      "b": "Menutup aplikasi",
+      "c": "Menghapus slide",
+      "d": "Menyimpan perubahan pada dokumen",
+      "e": "Membuka file baru"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Perintah atau tombol pada keyboard yang digunakan untuk menjalankan presentasi dalam mode layar penuh (fullscreen) dari awal adalah?",
+    "pilihan": {
+      "a": "F5",
+      "b": "F12",
+      "c": "F2",
+      "d": "F1",
+      "e": "Esc"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Ekstensi standar untuk file yang dihasilkan oleh aplikasi Microsoft PowerPoint versi terbaru adalah?",
+    "pilihan": {
+      "a": ".pdf",
+      "b": ".pptx",
+      "c": ".txt",
+      "d": ".docx",
+      "e": ".xlsx"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fitur yang digunakan untuk membuat teks dengan berbagai variasi gaya artistik dalam PowerPoint adalah?",
+    "pilihan": {
+      "a": "ClipArt",
+      "b": "Shapes",
+      "c": "WordArt",
+      "d": "SmartArt",
+      "e": "Chart"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Untuk mengganti latar belakang slide dengan warna atau gambar, menu yang harus dipilih adalah?",
+    "pilihan": {
+      "a": "Home > Background",
+      "b": "Design > Format Background",
+      "c": "Insert > Background",
+      "d": "View > Background",
+      "e": "Review > Background"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Cara tercepat untuk menambahkan slide baru dalam presentasi adalah dengan menekan kombinasi tombol?",
+    "pilihan": {
+      "a": "Ctrl + P",
+      "b": "Ctrl + S",
+      "c": "Ctrl + M",
+      "d": "Ctrl + N",
+      "e": "Ctrl + O"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam pengaturan halaman (Page Setup), istilah untuk tampilan halaman yang melebar ke samping disebut?",
+    "pilihan": {
+      "a": "Narrow",
+      "b": "Standard",
+      "c": "Portrait",
+      "d": "Landscape",
+      "e": "Wide"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Ikon huruf 'I' miring pada toolbar teks berfungsi untuk memberikan efek?",
+    "pilihan": {
+      "a": "Warna huruf",
+      "b": "Coret tengah",
+      "c": "Huruf tebal",
+      "d": "Garis bawah",
+      "e": "Huruf miring (Italic)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Manakah di bawah ini yang merupakan format file khusus untuk gambar?",
+    "pilihan": {
+      "a": ".mp4",
+      "b": ".zip",
+      "c": ".mp3",
+      "d": ".png",
+      "e": ".exe"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Ikon yang digunakan untuk menebalkan huruf (Bold) dalam Microsoft PowerPoint dilambangkan dengan huruf?",
+    "pilihan": {
+      "a": "U",
+      "b": "A",
+      "c": "S",
+      "d": "I",
+      "e": "B"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Menu yang digunakan untuk memilih desain tampilan slide yang sudah disediakan oleh PowerPoint secara otomatis adalah?",
+    "pilihan": {
+      "a": "Transitions",
+      "b": "Insert",
+      "c": "Animations",
+      "d": "Design (Tema)",
+      "e": "Review"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Fungsi utama dari fitur 'Transition' dalam PowerPoint adalah?",
+    "pilihan": {
+      "a": "Memeriksa ejaan kata dalam presentasi",
+      "b": "Memberikan efek gerak pada teks di dalam slide",
+      "c": "Memberikan efek gerak saat perpindahan dari satu slide ke slide lain",
+      "d": "Menyisipkan gambar dari internet",
+      "e": "Mengubah warna latar belakang slide"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari sebuah presentasi dalam komunikasi digital adalah?",
+    "pilihan": {
+      "a": "Menyimpan data dalam jumlah besar",
+      "b": "Menghibur audiens dengan gambar lucu",
+      "c": "Menyampaikan informasi atau ide secara efektif kepada audiens",
+      "d": "Mengedit foto agar terlihat lebih bagus",
+      "e": "Membuat laporan keuangan yang detail"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Manakah di antara pilihan berikut yang bukan merupakan perangkat lunak (software)?",
+    "pilihan": {
+      "a": "Google Chrome",
+      "b": "Microsoft Word",
+      "c": "Adobe Reader",
+      "d": "Monitor",
+      "e": "Windows 10"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pengertian dari perangkat keras (hardware) komputer yang paling tepat adalah?",
+    "pilihan": {
+      "a": "Data yang disimpan di dalam komputer",
+      "b": "Program yang menjalankan komputer",
+      "c": "Pengguna yang mengoperasikan komputer",
+      "d": "Komponen fisik komputer yang dapat dilihat dan disentuh",
+      "e": "Jaringan yang menghubungkan komputer"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Topologi jaringan di mana semua komputer terhubung ke satu pusat (hub atau switch) disebut?",
+    "pilihan": {
+      "a": "Topologi Bus",
+      "b": "Topologi Ring",
+      "c": "Topologi Mesh",
+      "d": "Topologi Tree",
+      "e": "Topologi Star"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu ciri utama dari topologi star adalah?",
+    "pilihan": {
+      "a": "Semua komputer terhubung dalam satu lingkaran",
+      "b": "Kegagalan satu komputer tidak akan mengganggu komputer lain kecuali pusatnya",
+      "c": "Setiap komputer terhubung ke komputer di sebelahnya",
+      "d": "Membutuhkan kabel yang sangat sedikit",
+      "e": "Data mengalir ke satu arah saja"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pengertian topologi jaringan komputer secara umum adalah?",
+    "pilihan": {
+      "a": "Cara atau pola hubungan fisik maupun logis antar komputer dalam jaringan",
+      "b": "Kabel yang digunakan untuk menghubungkan komputer",
+      "c": "Sistem keamanan yang digunakan dalam jaringan",
+      "d": "Aplikasi yang digunakan untuk mengelola jaringan",
+      "e": "Kecepatan akses internet dalam sebuah ruangan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Topologi jaringan di mana setiap perangkat terhubung langsung ke setiap perangkat lainnya disebut?",
+    "pilihan": {
+      "a": "Topologi Star",
+      "b": "Topologi Hybrid",
+      "c": "Topologi Bus",
+      "d": "Topologi Ring",
+      "e": "Topologi Mesh"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pernyataan yang tidak benar mengenai perbandingan antara topologi star dan mesh adalah?",
+    "pilihan": {
+      "a": "Topologi star lebih mudah dikelola daripada mesh",
+      "b": "Topologi mesh lebih tahan terhadap gangguan kabel daripada star",
+      "c": "Topologi star membutuhkan lebih banyak kabel daripada mesh",
+      "d": "Topologi star memiliki satu titik pusat (central node)",
+      "e": "Topologi mesh lebih mahal biayanya daripada star"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Aspek legal dalam Teknologi Informasi dan Komunikasi (TIK) sangat penting karena bertujuan untuk?",
+    "pilihan": {
+      "a": "Membatasi kreativitas pengguna internet",
+      "b": "Menjual data pengguna ke pihak ketiga",
+      "c": "Menghapus semua konten negatif secara otomatis",
+      "d": "Melindungi hak kekayaan intelektual dan privasi pengguna",
+      "e": "Mempercepat koneksi internet global"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tindakan mengambil data pribadi orang lain tanpa izin di dunia digital merupakan pelanggaran aspek?",
+    "pilihan": {
+      "a": "Efisiensi",
+      "b": "Kolaborasi",
+      "c": "Privasi",
+      "d": "Kreativitas",
+      "e": "Kecepatan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Salah satu cara paling efektif untuk melindungi keamanan akun digital dari peretasan adalah?",
+    "pilihan": {
+      "a": "Tidak pernah mengganti password sejak awal",
+      "b": "Menggunakan password yang sama untuk semua akun",
+      "c": "Menyimpan password di catatan yang mudah dilihat",
+      "d": "Mengaktifkan fitur Otentikasi Dua Faktor (2FA)",
+      "e": "Membagikan password kepada teman dekat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Bidang Kecerdasan Buatan (AI) yang fokus pada kemampuan komputer untuk memahami dan mengolah teks atau bahasa manusia disebut?",
+    "pilihan": {
+      "a": "Expert Systems",
+      "b": "Machine Learning",
+      "c": "Robotics",
+      "d": "Computer Vision",
+      "e": "Natural Language Processing (NLP)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Jenis AI yang mampu menciptakan konten baru seperti gambar, teks, atau musik berdasarkan data yang dipelajarinya disebut?",
+    "pilihan": {
+      "a": "AI Statis",
+      "b": "AI Analitis",
+      "c": "AI Generatif",
+      "d": "AI Prediktif",
+      "e": "AI Diskriminatif"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam literasi digital, sikap yang paling tepat saat menerima informasi hasil olahan AI adalah?",
+    "pilihan": {
+      "a": "Menyebarkannya ke grup WhatsApp agar orang lain tahu",
+      "b": "Menghapus semua aplikasi AI di smartphone",
+      "c": "Langsung mempercayainya karena AI sangat pintar",
+      "d": "Mengabaikan semua informasi yang berasal dari AI",
+      "e": "Melakukan verifikasi dan pengecekan fakta dari sumber terpercaya"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Proses memecah masalah besar menjadi bagian-bagian yang lebih kecil dan sederhana dalam Computational Thinking disebut?",
+    "pilihan": {
+      "a": "Algoritma",
+      "b": "Dekomposisi",
+      "c": "Pengenalan Pola",
+      "d": "Evaluasi",
+      "e": "Abstraksi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Menyusun langkah-langkah sistematis dan logis untuk menyelesaikan sebuah masalah merupakan pilar Computational Thinking yaitu?",
+    "pilihan": {
+      "a": "Abstraksi",
+      "b": "Generalisasi",
+      "c": "Dekomposisi",
+      "d": "Pengenalan Pola",
+      "e": "Algoritma"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam Prompt Engineering, bagian yang memberikan batasan atau syarat tambahan agar hasil AI lebih spesifik disebut?",
+    "pilihan": {
+      "a": "Task (Tugas)",
+      "b": "Context (Konteks)",
+      "c": "Output Format",
+      "d": "Constraint (Batasan)",
+      "e": "Role (Peran)"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam personal branding, tujuan utama menjaga konsistensi identitas visual (seperti warna dan font) di berbagai platform digital adalah?",
+    "pilihan": {
+      "a": "Agar terlihat membosankan",
+      "b": "Memenuhi syarat dari penyedia platform",
+      "c": "Menghindari serangan siber",
+      "d": "Menghemat biaya desain",
+      "e": "Membangun kepercayaan dan pengenalan merek yang kuat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kriteria 'Specific' dalam SMART Goals berarti bahwa tujuan proyek harus?",
+    "pilihan": {
+      "a": "Jelas, detail, dan tidak bermakna ganda",
+      "b": "Disetujui oleh semua orang",
+      "c": "Dapat diukur dengan angka",
+      "d": "Memiliki biaya yang sangat murah",
+      "e": "Bisa dicapai dalam waktu singkat"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam struktur pitching ide bisnis, bagian yang menjelaskan masalah atau keresahan yang dihadapi oleh calon pelanggan disebut?",
+    "pilihan": {
+      "a": "Solution",
+      "b": "Problem",
+      "c": "Greeting",
+      "d": "Success",
+      "e": "Summary"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Proses pengulangan desain atau perbaikan terus-menerus berdasarkan umpan balik untuk mencapai hasil terbaik disebut?",
+    "pilihan": {
+      "a": "Integrasi",
+      "b": "Inovasi",
+      "c": "Iterasi",
+      "d": "Informasi",
+      "e": "Instalasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Secara umum, pengertian Artificial Intelligence (AI) adalah?",
+    "pilihan": {
+      "a": "Perangkat keras yang sangat berat",
+      "b": "Mesin yang bisa bekerja tanpa listrik",
+      "c": "Aplikasi untuk mengedit video secara manual",
+      "d": "Sistem komputer yang mampu meniru kemampuan intelektual manusia",
+      "e": "Kabel yang menghubungkan seluruh dunia"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu penerapan AI dalam kehidupan sehari-hari yang memudahkan transaksi adalah?",
+    "pilihan": {
+      "a": "Penggunaan QR Code dinamis berbasis AI untuk keamanan",
+      "b": "Pembayaran tunai",
+      "c": "Menulis surat dengan tangan",
+      "d": "Menelepon lewat telepon kabel",
+      "e": "Mengirim barang lewat pos"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Teknologi AI yang digunakan pada layanan Chatbot untuk menjawab pertanyaan pelanggan secara otomatis adalah?",
+    "pilihan": {
+      "a": "Cloud Computing",
+      "b": "Data Mining",
+      "c": "Hardware Engineering",
+      "d": "Robotics",
+      "e": "Natural Language Processing (NLP)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Prinsip etika digital yang dilanggar ketika seseorang menyebarkan data pribadi orang lain tanpa izin adalah?",
+    "pilihan": {
+      "a": "Efisiensi",
+      "b": "Privasi",
+      "c": "Konektivitas",
+      "d": "Kreativitas",
+      "e": "Produktivitas"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam aplikasi Canva, fungsi utama dari 'Template' adalah?",
+    "pilihan": {
+      "a": "Menyediakan tata letak desain siap pakai untuk mempercepat pekerjaan",
+      "b": "Meningkatkan kecepatan internet",
+      "c": "Mengganti password akun secara otomatis",
+      "d": "Menyimpan data di hard drive lokal",
+      "e": "Menghapus virus di komputer"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari konsistensi desain dalam sebuah branding visual adalah?",
+    "pilihan": {
+      "a": "Mengurangi jumlah warna yang digunakan",
+      "b": "Mengikuti tren desain yang paling baru saja",
+      "c": "Agar desain terlihat berbeda-beda setiap hari",
+      "d": "Menciptakan kesan profesional dan mudah diingat oleh audiens",
+      "e": "Menghilangkan elemen teks dalam desain"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Penggunaan elemen visual (seperti gambar dan ikon) dalam presentasi digital bertujuan untuk?",
+    "pilihan": {
+      "a": "Menyembunyikan informasi yang kurang penting",
+      "b": "Mempercepat waktu presentasi",
+      "c": "Menggantikan seluruh teks dalam slide",
+      "d": "Membuat file menjadi sangat berat",
+      "e": "Memperjelas pesan dan menarik perhatian audiens"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam produksi media digital, pengaturan ukuran cetak yang tepat sangat penting untuk?",
+    "pilihan": {
+      "a": "Memastikan hasil cetakan tidak pecah dan sesuai dengan media fisiknya",
+      "b": "Menghemat penggunaan tinta printer",
+      "c": "Menambah jumlah halaman secara gratis",
+      "d": "Menghapus elemen gambar yang tidak perlu",
+      "e": "Mengubah warna desain secara otomatis"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Fitur 'Background Remover' dalam editing gambar digital berfungsi untuk?",
+    "pilihan": {
+      "a": "Menambah latar belakang baru yang lebih cerah",
+      "b": "Menghapus seluruh file foto dari komputer",
+      "c": "Mengubah warna seluruh foto menjadi hitam putih",
+      "d": "Menghapus latar belakang foto agar subjek terlihat transparan",
+      "e": "Memotong bagian pinggir foto secara manual"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Fitur kolaborasi dalam Canva memungkinkan pengguna untuk?",
+    "pilihan": {
+      "a": "Menjual desain secara langsung ke pasar internasional",
+      "b": "Menghapus akun pengguna lain secara otomatis",
+      "c": "Bekerja sendirian tanpa gangguan",
+      "d": "Bekerja bersama tim pada satu desain yang sama secara real-time",
+      "e": "Mengunci desain agar tidak bisa dilihat orang lain"
+    },
+    "jawaban": "d"
+  }
+]

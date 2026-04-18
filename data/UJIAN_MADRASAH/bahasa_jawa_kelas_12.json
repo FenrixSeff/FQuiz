@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Nilai moral ing crita rakyat 'Malin Kundang' yaiku ...",
+    "pilihan": {
+      "a": "Sabar lan nrima",
+      "b": "Matur nuwun marang wong tuwa",
+      "c": "Duraka marang wong tuwa bakal kena kutuk",
+      "d": "Gaweyan kang angel mesthi sukses",
+      "e": "Tresna marang alam"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Latar wektu ing teks sastra biasane digambarake liwat ...",
+    "pilihan": {
+      "a": "Deskripsi swasana lan prastawa",
+      "b": "Dialog paraga",
+      "c": "Konflik batin",
+      "d": "Amanat crita",
+      "e": "Fungsi sosial"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Alur maju (forward) ing cerkak utawa novel ditondoi dening ...",
+    "pilihan": {
+      "a": "Kedadeyan sing diwiwiti saka pungkasan banjur mundur",
+      "b": "Kedadeyan sing mlaku saka awal menyang pungkasan kanthi urut",
+      "c": "Campuran antarane maju lan mundur",
+      "d": "Ora ana urutan wektu",
+      "e": "Mung fokus ing konflik batin"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Konflik fisik ing crita biasane ana ing antarane ...",
+    "pilihan": {
+      "a": "Paraga lan awake dhewe",
+      "b": "Paraga lan paraga liyane kanthi kekerasan fisik",
+      "c": "Paraga lan masyarakat tanpa kekerasan",
+      "d": "Paraga lan alam tanpa interaksi langsung",
+      "e": "Mung ing batin paraga"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ciri khas cerkak yaiku nduweni ...",
+    "pilihan": {
+      "a": "Alur sing dawa lan rumit",
+      "b": "Efek tunggal utawa kesan tunggal",
+      "c": "Paraga akeh banget",
+      "d": "Fungsi mung minangka hiburan",
+      "e": "Latar sing ora jelas"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Bedane novel karo cerkak yaiku novel ...",
+    "pilihan": {
+      "a": "Luweh cekak lan fokus ing efek tunggal",
+      "b": "Luweh dawa, alur rumit, lan paraga akeh",
+      "c": "Ora nduweni unsur intrinsik",
+      "d": "Mung kanggo dokumentasi sejarah",
+      "e": "Ora ana konflik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi novel minangka sarana ...",
+    "pilihan": {
+      "a": "Mung hiburan tanpa piwulang",
+      "b": "Refleksi diri lan dokumentasi sosial-sejarah",
+      "c": "Mung kanggo latihan maca",
+      "d": "Ora nduweni nilai budaya",
+      "e": "Mung kanggo paraga tunggal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Legenda minangka crita rakyat sing ...",
+    "pilihan": {
+      "a": "Mung fiksi tanpa piwulang moral",
+      "b": "Biasane ana unsur sejarah lan piwulang moral",
+      "c": "Ora ana paraga nyata",
+      "d": "Mung crita lucu",
+      "e": "Ora ana latar panggonan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Unsur 'Ing ngendi' (Where) ing teks pawarta yaiku ...",
+    "pilihan": {
+      "a": "Sapa sing melu",
+      "b": "Panggonan kedadeane prastawa",
+      "c": "Kapan kedadeyan",
+      "d": "Kenapa kedadeyan",
+      "e": "Kepriye kedadeyan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sikap tabayyun ing media sosial nalika nampa kabar sing durung jelas yaiku ...",
+    "pilihan": {
+      "a": "Langsung nyebar tanpa verifikasi",
+      "b": "Nyelidiki dhisik apa bener utawa salah",
+      "c": "Ora peduli lan ora maca",
+      "d": "Mung percaya marang siji sumber",
+      "e": "Nggawe kabar anyar kanggo bales"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sesirah (headline) ing pawarta nduweni fungsi minangka ...",
+    "pilihan": {
+      "a": "Penutup pawarta",
+      "b": "Pintu gerbang kanggo narik perhatian pamaca",
+      "c": "Isi lengkap pawarta",
+      "d": "Daftar sumber",
+      "e": "Foto ilustrasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Clickbait ing pawarta nduweni tujuan utama ...",
+    "pilihan": {
+      "a": "Menehi informasi akurat",
+      "b": "Narik klik supaya akeh pengunjung",
+      "c": "Menehi analisis jero",
+      "d": "Ngajak diskusi",
+      "e": "Menehi foto asli"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pancaindra sing paling kerep digunakake ing teks deskripsi yaiku ...",
+    "pilihan": {
+      "a": "Mung irung lan kuping",
+      "b": "Mripat, irung, kuping, rasa, lan tutul",
+      "c": "Mung rasa lan tutul",
+      "d": "Ora ana pancaindra",
+      "e": "Mung kanggo swara"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "'Deskripsi Bagian' ing teks deskripsi isine ...",
+    "pilihan": {
+      "a": "Gambaran umum obyek",
+      "b": "Rincian detail saben bagéan obyek",
+      "c": "Kesimpulan lan amanat",
+      "d": "Dialog antarane paraga",
+      "e": "Alur kedadeyan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pilihan tembung (diksi) sing apik ing deskripsi yaiku sing ...",
+    "pilihan": {
+      "a": "Biasa lan ora nggugah",
+      "b": "Urip lan nggugah pancaindra",
+      "c": "Mung kanggo informasi",
+      "d": "Ora ana rasa",
+      "e": "Mung angka lan data"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teks deskripsi sing ngandhut nilai cinta lingkungan biasane nggambarake ...",
+    "pilihan": {
+      "a": "Kerusakan alam tanpa solusi",
+      "b": "Keindahan lan pentinge njaga alam",
+      "c": "Mung bangunan kota",
+      "d": "Kendaraan lan polusi",
+      "e": "Ora ana nilai karakter"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Paugeran tembang macapat ditetepake dening ...",
+    "pilihan": {
+      "a": "Mung guru lagu",
+      "b": "Guru gatra, guru wilangan, lan guru lagu",
+      "c": "Mung jumlah paraga",
+      "d": "Ora ana aturan",
+      "e": "Mung diksi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ukara 'ngelmu iku kelakone kanthi laku' asale saka tembang ...",
+    "pilihan": {
+      "a": "Sinom",
+      "b": "Pocung",
+      "c": "Gambuh",
+      "d": "Kinanthi",
+      "e": "Durma"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Watak tembang Sinom yaiku ...",
+    "pilihan": {
+      "a": "Grapyak lan sumanak",
+      "b": "Sedih lan suram",
+      "c": "Lucu lan jenaka",
+      "d": "Kasar lan kasar",
+      "e": "Ora nduweni watak"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Filosofi tembang Sinom nggambarake fase urip ...",
+    "pilihan": {
+      "a": "Bocah cilik",
+      "b": "Remaja sing lagi ngendhaleni hawa nafsu",
+      "c": "Wong tuwa",
+      "d": "Pati",
+      "e": "Perkawinan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sandhangan Cakra digunakake kanggo nulis swara ...",
+    "pilihan": {
+      "a": "Ya",
+      "b": "Ra",
+      "c": "Re",
+      "d": "Ng",
+      "e": "H"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sandhangan Keret digunakake kanggo swara ...",
+    "pilihan": {
+      "a": "Ra",
+      "b": "Rê (ra pepet)",
+      "c": "Ya",
+      "d": "La",
+      "e": "Wa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pengkal digunakake kanggo swara ...",
+    "pilihan": {
+      "a": "Ra",
+      "b": "Ya",
+      "c": "Re",
+      "d": "Ng",
+      "e": "H"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Angka Jawa ditulis kanthi tandha 'Pada Pangkat' sing wujude ...",
+    "pilihan": {
+      "a": "꧈",
+      "b": "꧇",
+      "c": "꧉",
+      "d": "꧊",
+      "e": "꧋"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Aksara Rekan digunakake kanggo nulis tembung serapan saka basa manca, contone ...",
+    "pilihan": {
+      "a": "Basa Jawa asli",
+      "b": "Fakir (saka Arab)",
+      "c": "Ora perlu sandhangan",
+      "d": "Mung aksara Latin",
+      "e": "Mung tembung Jawa kuna"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ing crita 'Bima Bungkus', paraga sing kasil mbedah bungkus yaiku ...",
+    "pilihan": {
+      "a": "Kurawa",
+      "b": "Gajah Sena",
+      "c": "Prabu Pandu",
+      "d": "Dewi Kunthi",
+      "e": "Semar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Simbol 'Bungkus' ing crita Bima Bungkus nggambarake ...",
+    "pilihan": {
+      "a": "Kekuwatan tanpa wates",
+      "b": "Jati dhiri manungsa sing isih keiket hawa nafsu",
+      "c": "Kasugihan",
+      "d": "Perkawinan",
+      "e": "Pati"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Watak Kurawa ing crita wayang biasane digambarake minangka ...",
+    "pilihan": {
+      "a": "Apik lan jujur",
+      "b": "Ala lan iri",
+      "c": "Sabar lan nrima",
+      "d": "Ora nduweni watak",
+      "e": "Mung protagonis"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Nilai kakuwatan sejati saka tokoh Bima yaiku ...",
+    "pilihan": {
+      "a": "Mung kekuwatan fisik",
+      "b": "Kakuwatan batin lan laku sing becik",
+      "c": "Kekayaan",
+      "d": "Jumlah kanca",
+      "e": "Ora ana nilai"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tugas utama pranatacara ing sawijining acara yaiku ...",
+    "pilihan": {
+      "a": "Mung nyanyi",
+      "b": "Mimpin lan ngatur jalane acara",
+      "c": "Mung mangan",
+      "d": "Ora nduweni tugas",
+      "e": "Mung nggawe guyon"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sangu pranatacara (4W) kalebu Wiraga lan Wirasa, Wiraga yaiku ...",
+    "pilihan": {
+      "a": "Empan papan lan swasana",
+      "b": "Penampilan lan busana",
+      "c": "Wicara lan swara",
+      "d": "Ora ana arti",
+      "e": "Mung panganan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kesalahan pranatacara sing guyon berlebihan gegayutan karo unsur ...",
+    "pilihan": {
+      "a": "Wiraga",
+      "b": "Wirasa (empan papan)",
+      "c": "Wirama",
+      "d": "Ora ana kesalahan",
+      "e": "Mung teknik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perangan 'Wasana' ing struktur sesorah isine ...",
+    "pilihan": {
+      "a": "Pambuka",
+      "b": "Atur pangaksama lan panuwun",
+      "c": "Isi utama",
+      "d": "Judul",
+      "e": "Foto"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teknik ekstemporan ing sesorah yaiku ...",
+    "pilihan": {
+      "a": "Maca naskah lengkap",
+      "b": "Nggunakake cathetan cilik",
+      "c": "Impromptu tanpa persiapan",
+      "d": "Mung nyanyi",
+      "e": "Ora ana teknik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pamedhar sabda kudu nggatekake audiens amarga ...",
+    "pilihan": {
+      "a": "Ora penting",
+      "b": "Supaya pesen cocok lan gampang dimangerteni",
+      "c": "Mung kanggo guyon",
+      "d": "Ora ana hubungane",
+      "e": "Mung kanggo panitia"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Struktur batin ing geguritan kalebu ...",
+    "pilihan": {
+      "a": "Diksi lan tipografi",
+      "b": "Amanat, tema, lan rasa",
+      "c": "Guru wilangan",
+      "d": "Ora ana beda",
+      "e": "Mung fisik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Unsur sing nggawe pamaca ngrasakake kahanan tartamtu ing geguritan yaiku ...",
+    "pilihan": {
+      "a": "Tipografi",
+      "b": "Rasa (unsur emosional)",
+      "c": "Jumlah baris",
+      "d": "Judul",
+      "e": "Ora ana rasa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Prabédan utama antarane tembang macapat lan geguritan yaiku ...",
+    "pilihan": {
+      "a": "Geguritan luwih bebas lan mardika, tembang macapat kaiket paugeran ketat",
+      "b": "Tembang macapat luwih bebas",
+      "c": "Ora ana beda",
+      "d": "Geguritan mung kanggo tembang",
+      "e": "Mung diksi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Ing novel, fungsi minangka dokumentasi sosial-sejarah yaiku ...",
+    "pilihan": {
+      "a": "Ora ana",
+      "b": "Nggambarake kahanan masyarakat ing jaman tartamtu",
+      "c": "Mung hiburan",
+      "d": "Mung konflik batin",
+      "e": "Ora nduweni paraga"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Etika informasi ing literasi digital nyaranake supaya ...",
+    "pilihan": {
+      "a": "Langsung percaya kabar viral",
+      "b": "Nindakake tabayyun sadurunge nyebar",
+      "c": "Mung maca judul",
+      "d": "Ora peduli keaslian foto",
+      "e": "Nggawe manipulasi AI"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Analisis media kanggo mbedakake foto asli lan manipulasi AI bisa liwat ...",
+    "pilihan": {
+      "a": "Mung ndeleng warna",
+      "b": "Cek detail digital, cahya, lan sumber",
+      "c": "Ora perlu dicek",
+      "d": "Mung percaya judul",
+      "e": "Mung kanggo clickbait"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tembang Gambuh nduweni filosofi babagan ...",
+    "pilihan": {
+      "a": "Masa remaja",
+      "b": "Perkawinan lan persatuan rumah tangga",
+      "c": "Pati",
+      "d": "Bocah cilik",
+      "e": "Ora ana filosofi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tembang Kinanthi nduweni filosofi kanggo ...",
+    "pilihan": {
+      "a": "Ngendhaleni nafsu remaja",
+      "b": "Tuntunan supaya slamet ing urip",
+      "c": "Lucu lan jenaka",
+      "d": "Sedih",
+      "e": "Mung hiburan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tembang Pocung nduweni watak ...",
+    "pilihan": {
+      "a": "Gravyak sumanak",
+      "b": "Nasihat lan ngelingake pati",
+      "c": "Mung kanggo remaja",
+      "d": "Ora nduweni watak",
+      "e": "Kasar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ing aksara Jawa, tandha 'Pada Pangkat' (꧇) digunakake kanggo ...",
+    "pilihan": {
+      "a": "Pungkasan ukara",
+      "b": "Nandhani angka Jawa",
+      "c": "Pungkasan paragraf",
+      "d": "Mung swara",
+      "e": "Ora digunakake"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Latar panggonan ing crita Bima Bungkus salah sijine yaiku ...",
+    "pilihan": {
+      "a": "Alas Krendawahana",
+      "b": "Ora ana latar",
+      "c": "Mung ing kraton",
+      "d": "Mung ing segara",
+      "e": "Ora ana paraga"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pranatacara kudu nduweni wirasa kanggo ...",
+    "pilihan": {
+      "a": "Mung penampilan",
+      "b": "Ngempan papan lan swasana acara",
+      "c": "Mung guyon",
+      "d": "Ora penting",
+      "e": "Mung maca naskah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Geguritan luwih mardika tinimbang tembang macapat amarga ...",
+    "pilihan": {
+      "a": "Kaiket paugeran ketat",
+      "b": "Luweh bebas ing struktur fisik lan batin",
+      "c": "Ora nduweni amanat",
+      "d": "Mung kanggo tembang",
+      "e": "Ora ana rasa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Nilai karakter ing teks deskripsi bisa digambarake liwat ...",
+    "pilihan": {
+      "a": "Mung deskripsi fisik",
+      "b": "Penggambaran obyek sing nduweni piwulang, contone cinta lingkungan",
+      "c": "Ora ana nilai",
+      "d": "Mung angka",
+      "e": "Mung dialog"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Ing pawarta, unsur 5W+1H kudu ana kanggo ...",
+    "pilihan": {
+      "a": "Mung narik perhatian",
+      "b": "Menehi informasi sing lengkap lan jelas",
+      "c": "Mung kanggo headline",
+      "d": "Ora perlu lengkap",
+      "e": "Mung kanggo foto"
+    },
+    "jawaban": "b"
+  }
+]

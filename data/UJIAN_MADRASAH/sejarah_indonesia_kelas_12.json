@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Setiap peristiwa sejarah bersifat unik dan hanya terjadi satu kali pada ruang dan waktu tertentu. Sifat unik ini dalam istilah sejarah disebut dengan?",
+    "pilihan": {
+      "a": "Sinkronis",
+      "b": "Diakronis",
+      "c": "Empiris",
+      "d": "Einmalig",
+      "e": "Ideografis"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Penulisan sejarah yang membutuhkan intuisi, imajinasi, emosi, dan gaya bahasa yang baik agar cerita sejarah menjadi hidup merupakan karakteristik sejarah sebagai?",
+    "pilihan": {
+      "a": "Seni",
+      "b": "Kisah",
+      "c": "Metode",
+      "d": "Peristiwa",
+      "e": "Ilmu"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Berikut ini yang BUKAN termasuk dalam cara berpikir sejarah adalah?",
+    "pilihan": {
+      "a": "Periodisasi",
+      "b": "Spekulatif",
+      "c": "Kronologis",
+      "d": "Diakronis",
+      "e": "Sinkronis"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tahap penelitian sejarah yang dilakukan dengan menafsirkan dan merangkai fakta-fakta sejarah untuk menemukan makna dan hubungan sebab-akibat disebut?",
+    "pilihan": {
+      "a": "Heuristik",
+      "b": "Historiografi",
+      "c": "Verifikasi",
+      "d": "Kritik Intern",
+      "e": "Interpretasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kegiatan mengumpulkan sumber-sumber sejarah baik sumber primer maupun sekunder dalam penelitian sejarah disebut?",
+    "pilihan": {
+      "a": "Interpretasi",
+      "b": "Historiografi",
+      "c": "Heuristik",
+      "d": "Kritik Ekstern",
+      "e": "Verifikasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Historiografi tradisional seperti babad dan hikayat memiliki kelemahan utama, yaitu?",
+    "pilihan": {
+      "a": "Menggunakan metode penelitian modern",
+      "b": "Ditulis berdasarkan fakta empiris",
+      "c": "Ditulis oleh rakyat jelata",
+      "d": "Bersifat istana-sentris dan mengandung mitos",
+      "e": "Terlalu objektif dalam menceritakan raja"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kelemahan Teori Brahmana dalam proses masuknya Hindu-Buddha ke Nusantara berdasarkan konteks historis adalah?",
+    "pilihan": {
+      "a": "Kaum Brahmana tidak menguasai bahasa Sanskerta",
+      "b": "Kaum Brahmana dilarang menyeberangi lautan",
+      "c": "Kaum Brahmana tidak diakui oleh raja lokal",
+      "d": "Kaum Brahmana hanya fokus pada perdagangan",
+      "e": "Kaum Brahmana datang sebagai tawanan perang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Prasasti Tugu dari Kerajaan Tarumanegara memiliki nilai sejarah yang penting karena menceritakan tentang?",
+    "pilihan": {
+      "a": "Silsilah raja-raja Kutai",
+      "b": "Kemenangan Raden Wijaya atas tentara Mongol",
+      "c": "Pembangunan saluran Gomati untuk irigasi dan banjir",
+      "d": "Perang antara Majapahit dan Sunda",
+      "e": "Penerimaan agama Buddha oleh Raja Purnawarman"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kerajaan Mataram Kuno yang diperintah oleh Dinasti Sanjaya dan Dinasti Syailendra memiliki ciri sistem pemerintahan yang dipengaruhi oleh?",
+    "pilihan": {
+      "a": "Sistem demokrasi langsung",
+      "b": "Sistem khilafah",
+      "c": "Konsep devaraja (raja titisan dewa)",
+      "d": "Sistem republik parlementer",
+      "e": "Pemerintahan militer absolut"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tokoh yang memindahkan pusat Kerajaan Mataram Kuno dari Jawa Tengah ke Jawa Timur (Medang Kamulan) adalah?",
+    "pilihan": {
+      "a": "Mpu Sindok",
+      "b": "Rakai Panangkaran",
+      "c": "Raja Sanjaya",
+      "d": "Raja Kertanegara",
+      "e": "Raja Airlangga"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Bentuk akulturasi budaya asli Indonesia dengan Hindu-Buddha pada bangunan candi terlihat pada?",
+    "pilihan": {
+      "a": "Relief yang hanya menceritakan kehidupan di India",
+      "b": "Penggunaan atap kubah seperti masjid",
+      "c": "Penggunaan semen sebagai perekat batu",
+      "d": "Warna cat bangunan yang mencolok",
+      "e": "Bentuk punden berundak pada struktur candi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Faktor utama yang menyebabkan Islam menyebar dengan cepat melalui jalur perdagangan di Nusantara adalah?",
+    "pilihan": {
+      "a": "Sifat Islam yang terbuka dan tidak mengenal kasta",
+      "b": "Islam disebarkan melalui peperangan besar",
+      "c": "Raja-raja lokal menolak ajaran Hindu",
+      "d": "Pedagang Muslim memiliki tentara yang kuat",
+      "e": "Adanya paksaan dari pedagang Muslim"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Walisongo menggunakan strategi pendekatan budaya dalam menyebarkan Islam di Jawa, salah satunya melalui media?",
+    "pilihan": {
+      "a": "Wayang kulit dan gamelan",
+      "b": "Pembangunan piramida",
+      "c": "Opera sabun",
+      "d": "Seni bela diri karate",
+      "e": "Seni patung dan lukis"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Adanya tradisi perayaan Tabuik di Pariaman (Sumatra Barat) menjadi salah satu bukti historis dari?",
+    "pilihan": {
+      "a": "Teori Mekkah",
+      "b": "Teori Gujarat",
+      "c": "Teori Persia",
+      "d": "Teori China",
+      "e": "Teori Maritim"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Ciri khas kerajaan Islam di Nusantara yang membedakannya dengan kerajaan Hindu-Buddha adalah?",
+    "pilihan": {
+      "a": "Tidak memiliki angkatan laut",
+      "b": "Raja dianggap sebagai titisan dewa",
+      "c": "Raja bergelar Sultan dan bertindak sebagai pemimpin agama",
+      "d": "Pusat pemerintahan selalu di pegunungan",
+      "e": "Masyarakat terbagi ke dalam sistem kasta"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Sebab utama bangsa Eropa melakukan penjelajahan samudra hingga ke Nusantara pada abad ke-15 adalah?",
+    "pilihan": {
+      "a": "Mencari daerah baru untuk tempat tinggal",
+      "b": "Kekurangan tenaga kerja di Eropa",
+      "c": "Ingin membuktikan bumi itu bulat",
+      "d": "Adanya perintah dari Paus untuk berperang",
+      "e": "Jatuhnya Konstantinopel ke tangan Turki Usmani"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Jika Konstantinopel tidak jatuh ke tangan Turki Usmani, kemungkinan besar sejarah Indonesia akan berubah karena?",
+    "pilihan": {
+      "a": "Agama Islam tidak akan masuk ke Indonesia",
+      "b": "Belanda akan tetap menjajah Indonesia lebih awal",
+      "c": "Bangsa Eropa tidak akan pernah mengenal rempah-rempah",
+      "d": "Kerajaan Majapahit tidak akan runtuh",
+      "e": "Jalur perdagangan rempah-rempah ke Eropa tetap terbuka"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perjanjian Saragosa (1529) bertujuan untuk membagi wilayah penjelajahan antara?",
+    "pilihan": {
+      "a": "Belanda dan Spanyol",
+      "b": "Inggris dan Belanda",
+      "c": "Portugis dan Inggris",
+      "d": "Perancis dan Belanda",
+      "e": "Portugis dan Spanyol"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Hukum Tawan Karang yang diberlakukan oleh raja-raja di Bali berdampak pada?",
+    "pilihan": {
+      "a": "Meningkatnya pendapatan rakyat Bali",
+      "b": "Konflik dan serangan militer Belanda ke Bali",
+      "c": "Hubungan baik antara Bali dan Belanda",
+      "d": "Masuknya agama Kristen di Bali",
+      "e": "Hapusnya sistem kasta di Bali"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pada masa kolonial, tanah berfungsi secara ekonomi bagi pemerintah Belanda sebagai?",
+    "pilihan": {
+      "a": "Hutan lindung untuk pelestarian alam",
+      "b": "Tempat wisata bagi pejabat kolonial",
+      "c": "Sumber pendapatan melalui sistem pajak dan tanam paksa",
+      "d": "Tempat latihan militer bersama",
+      "e": "Lahan pemukiman bagi penduduk pribumi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Berikut ini yang BUKAN merupakan faktor pembentuk nasionalisme Indonesia adalah?",
+    "pilihan": {
+      "a": "Penderitaan akibat penjajahan",
+      "b": "Keinginan untuk tetap menjadi jajahan Belanda",
+      "c": "Kenangan kejayaan masa lalu",
+      "d": "Lahirnya golongan terpelajar",
+      "e": "Kemenangan Jepang atas Rusia (1905)"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Organisasi pergerakan nasional yang bersifat politik pertama dan menuntut kemerdekaan penuh adalah?",
+    "pilihan": {
+      "a": "Indische Partij",
+      "b": "Nahdlatul Ulama",
+      "c": "Muhammadiyah",
+      "d": "Budi Utomo",
+      "e": "Sarekat Islam"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tokoh yang BUKAN termasuk pendiri organisasi Indische Partij (Tiga Serangkai) adalah?",
+    "pilihan": {
+      "a": "Tjipto Mangoenkoesoemo",
+      "b": "Ki Hajar Dewantara",
+      "c": "E.F.E. Douwes Dekker",
+      "d": "H.O.S. Tjokroaminoto",
+      "e": "Suwardi Suryaningrat"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara sistem pemerintahan Jepang dan Belanda di Indonesia adalah?",
+    "pilihan": {
+      "a": "Jepang tidak menggunakan tenaga kerja lokal",
+      "b": "Jepang bersifat sipil, Belanda militer",
+      "c": "Jepang membagi Indonesia menjadi dua wilayah",
+      "d": "Belanda memberikan kemerdekaan bertahap",
+      "e": "Jepang bersifat militer, Belanda sipil"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Organisasi militer bentukan Jepang yang bertujuan untuk membantu pertahanan Jepang di medan perang adalah?",
+    "pilihan": {
+      "a": "Jawa Hokokai",
+      "b": "Seinendan",
+      "c": "Heiho",
+      "d": "Keibodan",
+      "e": "Putera"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Bentuk eksploitasi tenaga kerja yang paling menyengsarakan rakyat pada masa pendudukan Jepang disebut?",
+    "pilihan": {
+      "a": "Sewa Tanah",
+      "b": "Romusha",
+      "c": "Tanam Paksa",
+      "d": "Kerja Rodi",
+      "e": "Politik Etis"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Latar belakang Jepang membentuk organisasi-organisasi di Indonesia adalah untuk?",
+    "pilihan": {
+      "a": "Mensejahterakan rakyat Indonesia",
+      "b": "Memobilisasi rakyat untuk kepentingan perang Jepang",
+      "c": "Memberikan kemerdekaan secepat mungkin",
+      "d": "Menghapus pengaruh agama Islam",
+      "e": "Membangun industri modern di desa-desa"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fungsi utama PPKI (Panitia Persiapan Kemerdekaan Indonesia) setelah proklamasi adalah?",
+    "pilihan": {
+      "a": "Membentuk tentara rahasia",
+      "b": "Mengesahkan UUD 1945 dan memilih Presiden/Wapres",
+      "c": "Menyelidiki kekayaan pejabat Jepang",
+      "d": "Mengajak Belanda untuk berunding",
+      "e": "Membubarkan BPUPKI"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Peristiwa Rengasdengklok terjadi karena adanya perbedaan pendapat antara golongan muda dan golongan tua mengenai?",
+    "pilihan": {
+      "a": "Bentuk negara Indonesia",
+      "b": "Siapa yang akan menjadi presiden",
+      "c": "Waktu dan cara pelaksanaan proklamasi",
+      "d": "Lokasi pembacaan proklamasi",
+      "e": "Teks proklamasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Peristiwa pembacaan Proklamasi 17 Agustus 1945 memiliki makna strategis bagi bangsa Indonesia, yaitu?",
+    "pilihan": {
+      "a": "Belanda mengakui kekalahannya secara langsung",
+      "b": "Berakhirnya semua masalah ekonomi",
+      "c": "Jepang memberikan wilayah Indonesia secara resmi",
+      "d": "PBB langsung memberikan bantuan dana",
+      "e": "Lahirnya negara Indonesia yang merdeka dan berdaulat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Berikut ini yang BUKAN merupakan tugas dari pasukan AFNEI di Indonesia adalah?",
+    "pilihan": {
+      "a": "Melucuti dan memulangkan tentara Jepang",
+      "b": "Membebaskan tawanan perang Sekutu",
+      "c": "Menjaga keamanan dan ketertiban",
+      "d": "Membantu Belanda menguasai kembali Indonesia",
+      "e": "Menerima penyerahan dari tangan Jepang"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pertempuran 10 November di Surabaya dipicu oleh peristiwa?",
+    "pilihan": {
+      "a": "Penangkapan Soekarno",
+      "b": "Tewasnya Brigjen A.W.S. Mallaby",
+      "c": "Perobekan bendera di Hotel Yamato",
+      "d": "Serangan udara Sekutu ke Jakarta",
+      "e": "Pelanggaran Perjanjian Linggarjati"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pemicu konflik spesifik antara Indonesia dan Belanda setelah proklamasi adalah keinginan Belanda untuk?",
+    "pilihan": {
+      "a": "Melindungi situs-situs sejarah",
+      "b": "Memberikan bantuan kemanusiaan",
+      "c": "Membangun sekolah di Indonesia",
+      "d": "Mengajak Indonesia bergabung dalam Uni Eropa",
+      "e": "Mengembalikan kekuasaan kolonialnya di Indonesia"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perjanjian Linggarjati yang mengakui kedaulatan RI atas Jawa, Sumatra, dan Madura ditandatangani secara resmi pada?",
+    "pilihan": {
+      "a": "17 Agustus 1945",
+      "b": "25 Maret 1947",
+      "c": "27 Desember 1949",
+      "d": "10 November 1945",
+      "e": "1 Maret 1949"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Peristiwa Serangan Umum 1 Maret 1949 di Yogyakarta bertujuan untuk?",
+    "pilihan": {
+      "a": "Membakar kota Yogyakarta",
+      "b": "Merebut senjata dari gudang Belanda",
+      "c": "Membebaskan Soekarno-Hatta dari penjara",
+      "d": "Membunuh jenderal-jenderal Belanda",
+      "e": "Menunjukkan kepada dunia bahwa TNI dan RI masih ada"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu kesepakatan penting dalam Perjanjian Roem-Roijen adalah?",
+    "pilihan": {
+      "a": "Pembubaran tentara Indonesia",
+      "b": "Indonesia menjadi negara bagian Belanda",
+      "c": "Penyerahan Irian Barat secara langsung",
+      "d": "Pemerintah RI kembali ke Yogyakarta",
+      "e": "Belanda mendapatkan hak monopoli rempah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Belanda secara resmi mengakui kedaulatan Indonesia pada tanggal 27 Desember 1949 melalui hasil perundingan?",
+    "pilihan": {
+      "a": "Konferensi Meja Bundar (KMB)",
+      "b": "Renville",
+      "c": "Linggarjati",
+      "d": "Roem-Roijen",
+      "e": "Perjanjian Bongaya"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Penyebab utama jatuhnya Kabinet Wilopo pada tahun 1953 adalah peristiwa?",
+    "pilihan": {
+      "a": "Dekrit Presiden 5 Juli",
+      "b": "Peristiwa Tanjung Morawa",
+      "c": "Konfrontasi Malaysia",
+      "d": "G30S/PKI",
+      "e": "Pemberontakan DI/TII"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kabinet yang berhasil menyelenggarakan Pemilu pertama di Indonesia pada tahun 1955 adalah?",
+    "pilihan": {
+      "a": "Kabinet Djuanda",
+      "b": "Kabinet Burhanuddin Harahap",
+      "c": "Kabinet Natsir",
+      "d": "Kabinet Ali Sastroamidjojo I",
+      "e": "Kabinet Sukiman"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sistem multipartai pada masa Demokrasi Liberal berdampak pada?",
+    "pilihan": {
+      "a": "Hanya ada satu partai pemenang",
+      "b": "Presiden memiliki kekuasaan mutlak",
+      "c": "Stabilitas politik yang sangat kuat",
+      "d": "Seringnya terjadi pergantian kabinet",
+      "e": "Hapusnya peran parlemen"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Politik luar negeri Indonesia yang 'Bebas Aktif' pertama kali ditegaskan dalam pidato Mohammad Hatta yang berjudul?",
+    "pilihan": {
+      "a": "Lahirnya Pancasila",
+      "b": "Mendayung di Antara Dua Karang",
+      "c": "Jadikanlah Deritaku sebagai Kesaksian",
+      "d": "Nawaksara",
+      "e": "Indonesia Menggugat"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "PKI dibubarkan dan dinyatakan sebagai partai terlarang setelah peristiwa?",
+    "pilihan": {
+      "a": "Proklamasi Kemerdekaan",
+      "b": "Tragedi Trisakti",
+      "c": "Agresi Militer Belanda",
+      "d": "Peristiwa Malari",
+      "e": "G30S/PKI tahun 1965"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Faktor ekonomi yang mendorong lahirnya Orde Baru adalah?",
+    "pilihan": {
+      "a": "Banyaknya investasi asing yang masuk",
+      "b": "Cadangan emas yang melimpah",
+      "c": "Nilai rupiah yang terlalu kuat",
+      "d": "Keberhasilan swasembada pangan",
+      "e": "Hiperinflasi yang mencapai 600%"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Penyebab utama lahirnya gerakan Reformasi tahun 1998 adalah?",
+    "pilihan": {
+      "a": "Banyaknya partai politik yang dibubarkan",
+      "b": "Krisis moneter dan ketidakpercayaan pada Orde Baru",
+      "c": "Keinginan untuk kembali ke sistem kerajaan",
+      "d": "Kemenangan Indonesia di Piala Asia",
+      "e": "Adanya serangan dari negara tetangga"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk dalam tuntutan utama gerakan Reformasi adalah?",
+    "pilihan": {
+      "a": "Memperpanjang masa jabatan presiden",
+      "b": "Membubarkan Mahkamah Konstitusi",
+      "c": "Menerapkan kembali Dwifungsi ABRI",
+      "d": "Memberantas KKN (Korupsi, Kolusi, Nepotisme)",
+      "e": "Menghapuskan otonomi daerah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jika krisis moneter 1997 tidak terjadi, kemungkinan sejarah Reformasi akan berbeda karena?",
+    "pilihan": {
+      "a": "Pemerintah Orde Baru tidak akan kehilangan dukungan ekonomi",
+      "b": "PBB akan mengambil alih pemerintahan",
+      "c": "Indonesia akan langsung menjadi negara maju",
+      "d": "Mahasiswa tidak akan pernah berdemonstrasi",
+      "e": "Soeharto akan mengundurkan diri lebih awal"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Hasil reformasi di bidang politik yang paling signifikan adalah?",
+    "pilihan": {
+      "a": "Presiden dipilih oleh MPR selamanya",
+      "b": "Hapusnya kebebasan pers",
+      "c": "Pembubaran semua partai politik",
+      "d": "Masa jabatan presiden tidak dibatasi",
+      "e": "Adanya pemilihan presiden secara langsung oleh rakyat"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kebijakan reformasi di bidang militer yang paling mendasar adalah?",
+    "pilihan": {
+      "a": "Penghapusan Dwifungsi ABRI dan pemisahan TNI-Polri",
+      "b": "Membubarkan angkatan laut",
+      "c": "Menjadikan TNI sebagai partai politik",
+      "d": "Mewajibkan semua warga negara ikut militer",
+      "e": "Meningkatkan anggaran perang"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Perubahan orientasi kurikulum pendidikan di era Reformasi bertujuan untuk?",
+    "pilihan": {
+      "a": "Menyesuaikan dengan perkembangan zaman dan kebutuhan demokrasi",
+      "b": "Menyeragamkan semua pemikiran siswa",
+      "c": "Menghapuskan mata pelajaran sejarah",
+      "d": "Fokus pada indoktrinasi ideologi tertentu",
+      "e": "Mengurangi jumlah hari sekolah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dampak positif dari reformasi birokrasi adalah?",
+    "pilihan": {
+      "a": "Hilangnya jabatan fungsional",
+      "b": "Meningkatnya jumlah pegawai negeri",
+      "c": "Semua urusan harus melalui pemerintah pusat",
+      "d": "Pelayanan publik yang lebih transparan dan akuntabel",
+      "e": "Biaya pengurusan dokumen semakin mahal"
+    },
+    "jawaban": "d"
+  }
+]

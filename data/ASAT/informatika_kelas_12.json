@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Dalam analogi 'Segitiga Sakti' teknologi, komponen yang berperan sebagai 'bahan bakar' utama bagi sistem kecerdasan buatan adalah?",
+    "pilihan": {
+      "a": "Hardware",
+      "b": "Software",
+      "c": "Data",
+      "d": "Brainware",
+      "e": "Algoritma"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Manakah di bawah ini yang merupakan contoh aktivitas digital yang menggunakan jenis AI bersifat generatif?",
+    "pilihan": {
+      "a": "Mendeteksi wajah untuk membuka kunci smartphone",
+      "b": "Menyaring email spam ke folder terpisah",
+      "c": "Membuat ilustrasi gambar baru berdasarkan deskripsi teks",
+      "d": "Memprediksi harga saham di masa depan",
+      "e": "Mengelompokkan data pelanggan berdasarkan usia"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Fenomena di mana model AI memberikan jawaban yang salah namun terdengar sangat meyakinkan dan logis disebut sebagai?",
+    "pilihan": {
+      "a": "AI Error",
+      "b": "Halusinasi AI",
+      "c": "Bias Algoritma",
+      "d": "Deepfake",
+      "e": "Overfitting"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam anatomi prompt, bagian kalimat 'Kamu adalah seorang ahli pemasaran digital yang berpengalaman' berfungsi sebagai?",
+    "pilihan": {
+      "a": "Task (Tugas)",
+      "b": "Context (Konteks)",
+      "c": "Role (Peran)",
+      "d": "Format (Bentuk Keluaran)",
+      "e": "Constraint (Batasan)"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Teknik prompting yang dilakukan dengan memberikan beberapa contoh referensi kepada AI sebelum memberikan perintah utama disebut?",
+    "pilihan": {
+      "a": "Zero-Shot Prompting",
+      "b": "One-Shot Prompting",
+      "c": "Few-Shot Prompting",
+      "d": "Chain-of-Thought Prompting",
+      "e": "Negative Prompting"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Seorang desainer memecah proyek pembuatan website yang kompleks menjadi bagian-bagian kecil seperti desain header, konten, dan footer. Tindakan ini merupakan penerapan pilar Berpikir Komputasional yaitu?",
+    "pilihan": {
+      "a": "Pengenalan Pola",
+      "b": "Abstraksi",
+      "c": "Dekomposisi",
+      "d": "Algoritma",
+      "e": "Evaluasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Proses menghilangkan elemen-elemen hiasan yang tidak penting pada sebuah aplikasi agar pengguna fokus pada fungsi utamanya adalah contoh penerapan?",
+    "pilihan": {
+      "a": "Dekomposisi",
+      "b": "Abstraksi",
+      "c": "Algoritma",
+      "d": "Pengenalan Pola",
+      "e": "Debugging"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fitur pada Canva Magic Studio yang berfungsi untuk memperluas latar belakang gambar yang sempit secara otomatis menggunakan AI adalah?",
+    "pilihan": {
+      "a": "Magic Edit",
+      "b": "Magic Eraser",
+      "c": "Magic Expand",
+      "d": "Magic Grab",
+      "e": "Magic Morph"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Jika sebuah gambar hasil AI melanggar norma syariat atau etika budaya, tindakan perbaikan yang paling tepat dan etis adalah?",
+    "pilihan": {
+      "a": "Tetap menggunakannya karena itu hasil teknologi",
+      "b": "Menghapus dan melakukan iterasi prompt agar sesuai norma",
+      "c": "Menyalahkan penyedia layanan AI secara publik",
+      "d": "Membagikannya dengan peringatan konten sensitif",
+      "e": "Mengeditnya secara manual tanpa memberitahu siapapun"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Untuk membangun personal branding yang berkesan 'profesional dan tegas', kombinasi elemen visual yang paling relevan adalah?",
+    "pilihan": {
+      "a": "Font dekoratif dan warna merah muda",
+      "b": "Font serif dan warna biru tua atau hitam",
+      "c": "Font script dan warna kuning cerah",
+      "d": "Font sans-serif dan warna-warna pastel",
+      "e": "Font tulisan tangan dan warna neon"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam metode kreativitas SCAMPER, huruf 'S' merupakan kepanjangan dari kata?",
+    "pilihan": {
+      "a": "Simplify",
+      "b": "Substitute",
+      "c": "Systematize",
+      "d": "Standardize",
+      "e": "Strengthen"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Inovasi yang mengganti sistem absensi kertas menjadi sistem absensi digital berbasis wajah termasuk dalam kategori modifikasi SCAMPER yaitu?",
+    "pilihan": {
+      "a": "Combine",
+      "b": "Adapt",
+      "c": "Substitute",
+      "d": "Eliminate",
+      "e": "Reverse"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Manakah rumusan tujuan proyek berikut yang paling memenuhi kriteria SMART?",
+    "pilihan": {
+      "a": "Membuat aplikasi yang bagus dan disukai banyak orang secepatnya",
+      "b": "Meningkatkan jumlah pengguna aplikasi sebanyak-banyaknya tahun ini",
+      "c": "Menyelesaikan fitur login aplikasi dalam waktu 2 minggu dengan tim pengembang",
+      "d": "Mendapatkan keuntungan besar dari penjualan produk digital",
+      "e": "Menjadi perusahaan teknologi terbaik di Indonesia dalam waktu dekat"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Urutan tahapan utama dalam alur kerja produksi digital profesional yang benar adalah?",
+    "pilihan": {
+      "a": "Produksi - Pra-produksi - Pasca-produksi",
+      "b": "Pra-produksi - Produksi - Pasca-produksi",
+      "c": "Pra-produksi - Pasca-produksi - Produksi",
+      "d": "Produksi - Pasca-produksi - Evaluasi",
+      "e": "Analisis - Produksi - Distribusi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam teknik pitching P-S-S, kutipan kalimat yang menjelaskan keresahan audiens atau data negatif mengenai suatu masalah disebut bagian?",
+    "pilihan": {
+      "a": "Problem",
+      "b": "Solution",
+      "c": "Success",
+      "d": "Story",
+      "e": "Summary"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Fitur Canva Magic Studio yang memungkinkan pengguna mengubah satu objek tertentu dalam foto menjadi objek lain (misal: bunga menjadi buah) adalah?",
+    "pilihan": {
+      "a": "Magic Expand",
+      "b": "Magic Edit",
+      "c": "Magic Eraser",
+      "d": "Magic Grab",
+      "e": "Magic Media"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Mengapa proses iterasi prompt sangat penting dalam penggunaan AI generatif?",
+    "pilihan": {
+      "a": "Agar biaya penggunaan AI menjadi lebih murah",
+      "b": "Untuk mempercepat waktu respon server AI",
+      "c": "Untuk menyempurnakan hasil agar lebih akurat dan sesuai kebutuhan",
+      "d": "Karena AI tidak bisa memberikan jawaban dalam satu kali perintah",
+      "e": "Agar AI bisa mempelajari data pribadi pengguna secara mendalam"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam proyek teknologi lintas bidang, perilaku yang mencerminkan nilai 'Hubbunnaas' (hubungan baik dengan sesama manusia) adalah?",
+    "pilihan": {
+      "a": "Menggunakan kode program orang lain tanpa izin",
+      "b": "Menyelesaikan semua tugas sendirian tanpa bantuan tim",
+      "c": "Berkomunikasi secara sopan dan menghargai pendapat anggota tim",
+      "d": "Fokus hanya pada keuntungan finansial proyek",
+      "e": "Mengabaikan masukan dari pengguna aplikasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Istilah teknis untuk sistem penyimpanan data digital berskala global yang memungkinkan akses data dari mana saja melalui internet adalah?",
+    "pilihan": {
+      "a": "Local Drive",
+      "b": "Cloud Storage",
+      "c": "Hard Disk External",
+      "d": "Flash Drive",
+      "e": "Data Center"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kalimat penutup presentasi yang menekankan pada manfaat jangka panjang dan keberhasilan yang akan dicapai setelah menggunakan solusi merupakan bagian dari struktur P-S-S yaitu?",
+    "pilihan": {
+      "a": "Problem",
+      "b": "Solution",
+      "c": "Success",
+      "d": "Step",
+      "e": "System"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam kriteria SMART, huruf 'M' yang berarti 'Measurable' memiliki arti bahwa tujuan harus?",
+    "pilihan": {
+      "a": "Mudah dicapai oleh siapa saja",
+      "b": "Memiliki indikator keberhasilan yang dapat diukur",
+      "c": "Masuk akal dan logis untuk dikerjakan",
+      "d": "Memiliki batas waktu pengerjaan yang jelas",
+      "e": "Menjadi fokus utama dalam organisasi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu penyebab utama terjadinya Halusinasi AI adalah?",
+    "pilihan": {
+      "a": "Model AI terlalu pintar untuk manusia",
+      "b": "Kurangnya data pelatihan atau data yang bias",
+      "c": "Sinyal internet yang tidak stabil saat memproses",
+      "d": "Pengguna memberikan prompt yang terlalu pendek",
+      "e": "Perangkat keras komputer yang sudah lama"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teknik membuang detail-detail yang tidak relevan untuk menyederhanakan masalah dalam berpikir komputasional disebut?",
+    "pilihan": {
+      "a": "Algoritma",
+      "b": "Dekomposisi",
+      "c": "Abstraksi",
+      "d": "Pengenalan Pola",
+      "e": "Generalisasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Akronim kriteria penetapan tujuan proyek yang efektif adalah?",
+    "pilihan": {
+      "a": "SWOT",
+      "b": "SMART",
+      "c": "SCAMPER",
+      "d": "PSS",
+      "e": "UI/UX"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Rumus struktur presentasi singkat yang efektif untuk pitching adalah?",
+    "pilihan": {
+      "a": "A-B-C",
+      "b": "P-S-S",
+      "c": "S-W-O-T",
+      "d": "I-D-E-A",
+      "e": "S-M-A-R-T"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam ekosistem digital, yang dimaksud dengan 'Brainware' adalah?",
+    "pilihan": {
+      "a": "Perangkat keras komputer",
+      "b": "Sistem operasi dan aplikasi",
+      "c": "Manusia yang mengoperasikan teknologi",
+      "d": "Koneksi jaringan internet",
+      "e": "Pusat data (Data Center)"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Apa kepanjangan dari 'C' dalam metode SCAMPER?",
+    "pilihan": {
+      "a": "Change",
+      "b": "Combine",
+      "c": "Create",
+      "d": "Control",
+      "e": "Communicate"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu pilar Berpikir Komputasional yang mencari kesamaan atau karakteristik yang berulang dalam suatu masalah disebut?",
+    "pilihan": {
+      "a": "Dekomposisi",
+      "b": "Abstraksi",
+      "c": "Pengenalan Pola",
+      "d": "Algoritma",
+      "e": "Evaluasi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kriteria 'Achievable' dalam SMART Goals berarti bahwa tujuan tersebut harus?",
+    "pilihan": {
+      "a": "Sangat ambisius agar memotivasi tim",
+      "b": "Dapat dicapai sesuai dengan sumber daya yang ada",
+      "c": "Memiliki batas waktu yang sangat singkat",
+      "d": "Mudah diukur dengan angka-angka pasti",
+      "e": "Relevan dengan visi misi perusahaan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tahapan pasca-produksi dalam workflow digital profesional biasanya meliputi kegiatan?",
+    "pilihan": {
+      "a": "Penyusunan ide dan konsep",
+      "b": "Pengambilan gambar atau rekaman",
+      "c": "Editing, finishing, dan distribusi",
+      "d": "Riset pasar dan kompetitor",
+      "e": "Pembentukan tim kerja"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam personal branding, pemilihan warna biru seringkali digunakan untuk memberikan kesan?",
+    "pilihan": {
+      "a": "Keceriaan dan energi",
+      "b": "Kepercayaan dan ketenangan",
+      "c": "Kemewahan dan misteri",
+      "d": "Keberanian dan gairah",
+      "e": "Kesuburan dan pertumbuhan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Metode SCAMPER yang dilakukan dengan cara membuang atau menghilangkan bagian tertentu dari produk agar lebih efisien disebut?",
+    "pilihan": {
+      "a": "Substitute",
+      "b": "Adapt",
+      "c": "Eliminate",
+      "d": "Reverse",
+      "e": "Modify"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan 'Zero-Shot Prompting'?",
+    "pilihan": {
+      "a": "Memberikan perintah tanpa contoh sama sekali",
+      "b": "Memberikan satu contoh referensi",
+      "c": "Memberikan banyak contoh referensi",
+      "d": "Meminta AI untuk tidak menjawab apapun",
+      "e": "Menggunakan prompt dalam bahasa pemrograman"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Fitur 'Magic Eraser' pada aplikasi desain berbasis AI berfungsi untuk?",
+    "pilihan": {
+      "a": "Menghapus seluruh latar belakang foto",
+      "b": "Menghapus objek tertentu dalam foto secara bersih",
+      "c": "Menambah objek baru ke dalam foto",
+      "d": "Mengubah warna langit dalam foto",
+      "e": "Memperbaiki kualitas foto yang buram"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Istilah untuk kumpulan data yang sangat besar, kompleks, dan terus bertambah sehingga sulit dikelola dengan metode tradisional adalah?",
+    "pilihan": {
+      "a": "Small Data",
+      "b": "Big Data",
+      "c": "Meta Data",
+      "d": "Master Data",
+      "e": "Data Mining"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam teknik P-S-S, bagian 'Solution' fokus pada?",
+    "pilihan": {
+      "a": "Menjelaskan kerugian jika masalah tidak diatasi",
+      "b": "Menawarkan cara atau produk untuk mengatasi masalah",
+      "c": "Menampilkan testimoni dari pengguna yang puas",
+      "d": "Memperkenalkan profil pendiri perusahaan",
+      "e": "Meminta investasi modal kepada audiens"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Contoh literasi digital dalam menghadapi berita hoax adalah?",
+    "pilihan": {
+      "a": "Langsung membagikan berita yang menarik perhatian",
+      "b": "Mengecek kebenaran informasi melalui sumber terpercaya",
+      "c": "Mengabaikan semua berita yang ada di media sosial",
+      "d": "Mempercayai berita yang dikirim oleh orang tua",
+      "e": "Menghapus semua aplikasi berita di smartphone"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Huruf 'R' dalam SMART Goals adalah singkatan dari?",
+    "pilihan": {
+      "a": "Realistic",
+      "b": "Relevant",
+      "c": "Responsible",
+      "d": "Reliable",
+      "e": "Repeatable"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pilar berpikir komputasional yang menyusun langkah-langkah logis untuk menyelesaikan masalah disebut?",
+    "pilihan": {
+      "a": "Dekomposisi",
+      "b": "Abstraksi",
+      "c": "Pengenalan Pola",
+      "d": "Algoritma",
+      "e": "Simulasi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam metode SCAMPER, huruf 'A' berarti 'Adapt' yang artinya?",
+    "pilihan": {
+      "a": "Menambah ukuran produk",
+      "b": "Menyesuaikan ide dari bidang lain untuk produk kita",
+      "c": "Mengganti bahan baku produk",
+      "d": "Menghapus fungsi yang tidak perlu",
+      "e": "Membalik urutan kerja produk"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Manakah yang merupakan elemen visual 'Typography' dalam personal branding?",
+    "pilihan": {
+      "a": "Logo perusahaan",
+      "b": "Pemilihan jenis font",
+      "c": "Skema warna utama",
+      "d": "Gaya fotografi",
+      "e": "Tagline atau slogan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tujuan utama dari 'Chain-of-Thought Prompting' adalah agar AI?",
+    "pilihan": {
+      "a": "Memberikan jawaban yang lebih singkat",
+      "b": "Menjelaskan langkah-langkah berpikirnya secara logis",
+      "c": "Bisa menerjemahkan bahasa lebih cepat",
+      "d": "Hanya memberikan jawaban berupa angka",
+      "e": "Bisa menghasilkan gambar berkualitas tinggi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Fasilitas fisik yang menyimpan ribuan server untuk mengelola data digital secara global disebut?",
+    "pilihan": {
+      "a": "Data Center",
+      "b": "Cloud Center",
+      "c": "Server Room",
+      "d": "Network Hub",
+      "e": "Mainframe"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Etika visual dalam penggunaan AI generatif gambar mencakup hal-hal berikut, kecuali?",
+    "pilihan": {
+      "a": "Menghargai hak cipta seniman asli",
+      "b": "Tidak membuat konten yang mengandung kebencian",
+      "c": "Mengklaim hasil AI murni sebagai karya tangan manusia",
+      "d": "Transparansi bahwa gambar dibuat menggunakan AI",
+      "e": "Menghindari pembuatan konten deepfake yang merugikan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam manajemen proyek, kriteria 'Time-bound' memastikan bahwa proyek memiliki?",
+    "pilihan": {
+      "a": "Anggaran yang tidak terbatas",
+      "b": "Banyak anggota tim yang ahli",
+      "c": "Tenggat waktu atau jadwal yang jelas",
+      "d": "Teknologi paling mutakhir",
+      "e": "Dokumentasi yang sangat tebal"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Menggabungkan dua fungsi perangkat, misalnya kamera dan telepon menjadi smartphone, adalah contoh penerapan SCAMPER yaitu?",
+    "pilihan": {
+      "a": "Substitute",
+      "b": "Combine",
+      "c": "Adapt",
+      "d": "Modify",
+      "e": "Eliminate"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Mengapa penting untuk menentukan 'Role' (Peran) dalam sebuah prompt AI?",
+    "pilihan": {
+      "a": "Agar AI tidak meminta bayaran",
+      "b": "Agar AI memberikan sudut pandang dan gaya bahasa yang spesifik",
+      "c": "Agar AI bisa mengakses data pribadi kita",
+      "d": "Karena AI tidak tahu siapa dirinya",
+      "e": "Agar AI bisa bekerja tanpa koneksi internet"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam berpikir komputasional, proses mendesain instruksi memasak mie instan langkah demi langkah adalah contoh?",
+    "pilihan": {
+      "a": "Dekomposisi",
+      "b": "Abstraksi",
+      "c": "Pengenalan Pola",
+      "d": "Algoritma",
+      "e": "Debugging"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Personal branding yang menggunakan font sans-serif biasanya ingin menonjolkan kesan?",
+    "pilihan": {
+      "a": "Tradisional dan klasik",
+      "b": "Modern, bersih, dan minimalis",
+      "c": "Kaku dan sangat formal",
+      "d": "Ramah dan kekanak-kanakan",
+      "e": "Sangat mewah dan mahal"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Nilai karakter yang mengutamakan kebermanfaatan teknologi bagi orang banyak dan kemudahan urusan sesama adalah?",
+    "pilihan": {
+      "a": "Hubbunnaas",
+      "b": "Hubbulwathon",
+      "c": "Istiqomah",
+      "d": "Tawadhu",
+      "e": "Fathonah"
+    },
+    "jawaban": "a"
+  }
+]

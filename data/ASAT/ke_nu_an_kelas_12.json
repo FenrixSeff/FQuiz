@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Sebelum masuknya Islam, sistem pendidikan yang berkembang di Nusantara pada umumnya bersifat...",
+    "pilihan": {
+      "a": "Pendidikan ala barat",
+      "b": "Formal dan terstruktur",
+      "c": "Sistem pesantren modern",
+      "d": "Non-formal berbasis padepokan atau ashram",
+      "e": "Pendidikan sekuler"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pesantren pertama di Indonesia diperkirakan didirikan pada abad ke...",
+    "pilihan": {
+      "a": "13 Masehi",
+      "b": "19 Masehi",
+      "c": "15 Masehi",
+      "d": "20 Masehi",
+      "e": "17 Masehi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pondok Pesantren dapat diklasifikasikan menjadi dua jenis utama, yaitu pesantren...",
+    "pilihan": {
+      "a": "Kota dan Desa",
+      "b": "Kecil dan Besar",
+      "c": "Negeri dan Swasta",
+      "d": "Diniyah dan Umum",
+      "e": "Salaf dan Modern"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk unsur-unsur utama sebuah pesantren adalah...",
+    "pilihan": {
+      "a": "Kepala sekolah, guru, komite, kurikulum, dan laboratorium",
+      "b": "Kiai, santri, masjid, pondok, dan pengajian kitab kuning",
+      "c": "Guru, murid, kelas, papan tulis, dan seragam",
+      "d": "Ustadz, mushola, tempat parkir, dan koperasi",
+      "e": "Kiai, santri, lapangan olahraga, dan perpustakaan modern"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Konsep strategi dakwah yang bernilai Islam dengan tetap mencintai tanah air disebut...",
+    "pilihan": {
+      "a": "Tabligh",
+      "b": "Ukhuwah Islamiyah",
+      "c": "Jihad fi sabilillah",
+      "d": "Ukhuwah Wathaniyah",
+      "e": "Hubbul Wathan minal Iman"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam tradisi pesantren, santri yang menetap dan tinggal di pondok disebut...",
+    "pilihan": {
+      "a": "Santri kalong",
+      "b": "Santri musiman",
+      "c": "Santri mukim",
+      "d": "Santri biasa",
+      "e": "Santri ndalem"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Santri yang tidak menetap di pondok dan pulang ke rumah masing-masing setiap hari disebut...",
+    "pilihan": {
+      "a": "Santri mingguan",
+      "b": "Santri lepas",
+      "c": "Santri kalong",
+      "d": "Santri ndalem",
+      "e": "Santri mukim"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tiga pilar pendidikan pesantren yang membentuk karakter santri meliputi pendidikan...",
+    "pilihan": {
+      "a": "Akademik, keterampilan, dan seni",
+      "b": "Formal, non-formal, dan informal",
+      "c": "Tauhid, fiqih, dan tasawuf",
+      "d": "Hati, akal, dan fisik (iman, ilmu, dan amal)",
+      "e": "Diniyah, umum, dan ekstrakurikuler"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kegiatan latihan santri yang menggunakan nalar kritis untuk memecahkan masalah hukum Islam kontemporer dengan merujuk pada kitab kuning disebut...",
+    "pilihan": {
+      "a": "Tahfidz Quran",
+      "b": "Muhadharah",
+      "c": "Wetonan",
+      "d": "Sorogan kitab",
+      "e": "Bahtsul Masail"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Salah satu tradisi di pesantren selain makan bersama yang merupakan implementasi nilai kebersamaan dan gotong royong adalah...",
+    "pilihan": {
+      "a": "Malam mingguan",
+      "b": "Nonton bareng",
+      "c": "Rebo-reboan",
+      "d": "Jalan-jalan santai",
+      "e": "Kerja bakti"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tradisi ziarah kubur ke makam para wali dan kiai yang dilakukan santri menjelang Ramadhan merupakan implementasi nilai...",
+    "pilihan": {
+      "a": "Tawassul dan menghormati leluhur",
+      "b": "Tawasut",
+      "c": "I'tisham bil 'urwatil wutsqa",
+      "d": "Tabligh",
+      "e": "Tasamuh"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Secara etimologis, kata 'khittah' dalam bahasa Arab berarti...",
+    "pilihan": {
+      "a": "Organisasi",
+      "b": "Perjuangan",
+      "c": "Kemenangan",
+      "d": "Kekalahan",
+      "e": "Garis atau rencana"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam konteks organisasi NU, khittah dimaknai sebagai...",
+    "pilihan": {
+      "a": "Garis perjuangan organisasi",
+      "b": "Anggaran dasar organisasi",
+      "c": "Keputusan Muktamar",
+      "d": "Program kerja pengurus",
+      "e": "Latar belakang berdirinya NU"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Khittah NU 1926 merupakan garis perjuangan yang menekankan pada...",
+    "pilihan": {
+      "a": "Mendirikan partai politik",
+      "b": "Bidang sosial keagamaan, pendidikan, dan ekonomi",
+      "c": "Melawan penjajah secara fisik",
+      "d": "Keterlibatan aktif dalam politik praktis",
+      "e": "Membangun jaringan bisnis internasional"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Kegelisahan para ulama terhadap politik praktis pada masa awal kemerdekaan disebabkan oleh...",
+    "pilihan": {
+      "a": "Banyaknya ulama yang menjadi pejabat",
+      "b": "Kurangnya ulama di parlemen",
+      "c": "Adanya penyimpangan politik yang mengatasnamakan agama untuk kepentingan golongan",
+      "d": "Larangan berpolitik bagi ulama",
+      "e": "Banyaknya partai Islam"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Keputusan NU untuk kembali ke Khittah 1926 pada Muktamar Situbondo tahun 1984 dilatarbelakangi oleh...",
+    "pilihan": {
+      "a": "Permintaan dari ulama Timur Tengah",
+      "b": "Kekalahan NU dalam pemilu",
+      "c": "Kekhawatiran NU terpecah belah karena politik praktis dan ingin fokus pada bidang sosial keagamaan",
+      "d": "Tekanan dari pemerintah orde baru",
+      "e": "Keinginan menjadi partai politik"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Hasil Muktamar NU ke-27 tahun 1984 di Situbondo menetapkan bahwa Rais 'Am PBNU adalah...",
+    "pilihan": {
+      "a": "KH. Abdurrahman Wahid (Gus Dur)",
+      "b": "KH. Ahmad Siddiq",
+      "c": "KH. Hasyim Asy'ari",
+      "d": "KH. Idham Chalid",
+      "e": "KH. Wahab Chasbullah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Hasil Muktamar NU ke-27 tahun 1984 di Situbondo menetapkan bahwa Ketua Umum PBNU adalah...",
+    "pilihan": {
+      "a": "KH. Hasyim Asy'ari",
+      "b": "KH. Ahmad Siddiq",
+      "c": "KH. Sahal Mahfudh",
+      "d": "KH. Abdurrahman Wahid (Gus Dur)",
+      "e": "KH. Idham Chalid"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dalam menyelesaikan masalah perbedaan pendapat di masyarakat, warga NU mengedepankan sikap tawasut, yang berarti...",
+    "pilihan": {
+      "a": "Meninggalkan masalah",
+      "b": "Mengikuti kelompok mayoritas",
+      "c": "Bersikap keras",
+      "d": "Memaksakan pendapat",
+      "e": "Mengambil jalan tengah"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sikap tasamuh yang diajarkan NU dalam kehidupan bermasyarakat adalah...",
+    "pilihan": {
+      "a": "Toleransi terhadap perbedaan",
+      "b": "Memusuhi non-muslim",
+      "c": "Fanatik terhadap golongan",
+      "d": "Mengisolasi diri dari masyarakat",
+      "e": "Menolak pendapat orang lain"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu implementasi ekonomi kerakyatan sebagai bagian dari misi sosial ekonomi NU adalah...",
+    "pilihan": {
+      "a": "Mendirikan bank-bank besar",
+      "b": "Menjadi pemasok barang impor",
+      "c": "Fokus pada bisnis properti",
+      "d": "Mengembangkan koperasi pesantren dan BMT",
+      "e": "Bekerja sama dengan perusahaan asing"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Organisasi Nahdlatul Ulama (NU) didirikan pada tahun...",
+    "pilihan": {
+      "a": "1908",
+      "b": "1950",
+      "c": "1912",
+      "d": "1945",
+      "e": "1926"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pendiri utama Nahdlatul Ulama (NU) adalah...",
+    "pilihan": {
+      "a": "KH. Hasyim Asy'ari",
+      "b": "KH. Idham Chalid",
+      "c": "KH. Bisri Syansuri",
+      "d": "KH. Wahab Chasbullah",
+      "e": "KH. Ahmad Dahlan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Lambang NU berbentuk bola dunia (globe) yang dikelilingi tali dan bintang sembilan. Jumlah bintang sembilan melambangkan...",
+    "pilihan": {
+      "a": "9 wali songo",
+      "b": "9 provinsi pertama Indonesia",
+      "c": "Asmaul Husna",
+      "d": "Rukun Iman",
+      "e": "9 tokoh pendiri NU"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tujuan utama didirikannya NU adalah untuk...",
+    "pilihan": {
+      "a": "Mempertahankan dan mengembangkan ajaran Ahlussunnah wal Jama'ah",
+      "b": "Melawan penjajahan Belanda secara fisik",
+      "c": "Menjadi partai politik pemenang pemilu",
+      "d": "Memperjuangkan berdirinya negara Islam",
+      "e": "Membangun sekolah-sekolah modern"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Madzhab yang menjadi pedoman utama NU dalam bidang fiqih adalah...",
+    "pilihan": {
+      "a": "Hanafi",
+      "b": "Zhahiri",
+      "c": "Syafi'i",
+      "d": "Maliki",
+      "e": "Hanbali"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam bidang aqidah, NU mengikuti madzhab...",
+    "pilihan": {
+      "a": "Muhammad bin Abdul Wahab",
+      "b": "Imam Abu Hasan Al-Asy'ari dan Imam Abu Mansur Al-Maturidi",
+      "c": "Ibn Taimiyah",
+      "d": "Imam Al-Ghazali",
+      "e": "Sayyid Qutb"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam bidang tasawuf, NU mengikuti madzhab...",
+    "pilihan": {
+      "a": "Ibn Arabi",
+      "b": "Rabiah Al-Adawiyah",
+      "c": "Junaid Al-Baghdadi dan Al-Ghazali",
+      "d": "Hasan Al-Bashri",
+      "e": "Al-Hallaj"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Metode pengajaran kitab kuning di pesantren dengan cara santri membaca kitab di hadapan kiai untuk dikoreksi kesalahannya disebut...",
+    "pilihan": {
+      "a": "Wetonan",
+      "b": "Sorogan",
+      "c": "Bandongan",
+      "d": "Halaqah",
+      "e": "Mudzakarah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Metode pengajaran kitab kuning di pesantren dengan cara kiai membaca, menerjemahkan, dan menjelaskan kitab di hadapan santri disebut...",
+    "pilihan": {
+      "a": "Bandongan",
+      "b": "Diskusi",
+      "c": "Hafalan",
+      "d": "Sorogan",
+      "e": "Seminar"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Istilah untuk organisasi otonom NU yang bergerak di bidang pemuda adalah...",
+    "pilihan": {
+      "a": "IPPNU",
+      "b": "Fatayat NU",
+      "c": "IPNU",
+      "d": "Muslimat NU",
+      "e": "GP Ansor"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Organisasi otonom NU untuk kalangan pelajar putra adalah...",
+    "pilihan": {
+      "a": "Fatayat",
+      "b": "Muslimat",
+      "c": "IPNU",
+      "d": "GP Ansor",
+      "e": "IPPNU"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Organisasi otonom NU untuk kalangan pelajar putri adalah...",
+    "pilihan": {
+      "a": "Fatayat",
+      "b": "GP Ansor",
+      "c": "IPPNU",
+      "d": "IPNU",
+      "e": "Muslimat"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Organisasi otonom NU untuk kalangan perempuan dewasa (usia di atas 40 tahun) adalah...",
+    "pilihan": {
+      "a": "Muslimat NU",
+      "b": "Fatayat NU",
+      "c": "IPPNU",
+      "d": "GP Ansor",
+      "e": "JQH NU"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Organisasi otonom NU untuk kalangan perempuan muda (usia 20-40 tahun) adalah...",
+    "pilihan": {
+      "a": "Muslimat NU",
+      "b": "IPPNU",
+      "c": "GP Ansor",
+      "d": "IPNU",
+      "e": "Fatayat NU"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Resolusi Jihad yang dikeluarkan NU pada 22 Oktober 1945 bertujuan untuk...",
+    "pilihan": {
+      "a": "Mendirikan partai politik",
+      "b": "Membentuk tentara Islam",
+      "c": "Mengusir pedagang asing",
+      "d": "Melawan pemerintah Hindia Belanda",
+      "e": "Mempertahankan kemerdekaan Indonesia dari serangan Sekutu/NICA"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Hari Santri Nasional diperingati setiap tanggal...",
+    "pilihan": {
+      "a": "10 November",
+      "b": "28 Oktober",
+      "c": "1 Muharram",
+      "d": "12 Rabiul Awal",
+      "e": "22 Oktober"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Sikap tawasut dalam beragama berarti...",
+    "pilihan": {
+      "a": "Liberal",
+      "b": "Sekuler",
+      "c": "Konservatif ekstrem",
+      "d": "Moderat dan tidak ekstrem",
+      "e": "Radikal"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sikap tasamuh dalam kehidupan sosial berarti...",
+    "pilihan": {
+      "a": "Memaksakan kehendak",
+      "b": "Fanatik terhadap kelompok sendiri",
+      "c": "Menolak pendapat orang lain",
+      "d": "Toleran terhadap perbedaan",
+      "e": "Individualistis"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Prinsip i'tidal dalam NU berarti...",
+    "pilihan": {
+      "a": "Toleransi",
+      "b": "Keseimbangan dan adil",
+      "c": "Gotong royong",
+      "d": "Moderat",
+      "e": "Kebersamaan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Nahdlatul Ulama secara bahasa berarti...",
+    "pilihan": {
+      "a": "Kekuatan ulama",
+      "b": "Kebangkitan ulama",
+      "c": "Cinta ulama",
+      "d": "Perjuangan ulama",
+      "e": "Persatuan ulama"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "KH. Hasyim Asy'ari adalah pendiri NU yang juga pimpinan pesantren...",
+    "pilihan": {
+      "a": "Tegalrejo",
+      "b": "Gontor",
+      "c": "Tebuireng",
+      "d": "Lirboyo",
+      "e": "Krapyak"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kitab kuning yang menjadi rujukan utama dalam kajian hadits di pesantren adalah...",
+    "pilihan": {
+      "a": "Tafsir Jalalain",
+      "b": "Al-Hikam",
+      "c": "Fathul Qarib",
+      "d": "Ihya Ulumuddin",
+      "e": "Shahih Bukhari"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kitab kuning yang menjadi rujukan utama dalam kajian fiqih di pesantren salaf adalah...",
+    "pilihan": {
+      "a": "Tafsir Ibnu Katsir",
+      "b": "Riyadhus Shalihin",
+      "c": "Fathul Mu'in",
+      "d": "Bulughul Maram",
+      "e": "Shahih Muslim"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tradisi pembacaan doa dan dzikir bersama yang dilakukan secara rutin di pesantren disebut...",
+    "pilihan": {
+      "a": "Manakiban",
+      "b": "Istighosah",
+      "c": "Semua jawaban benar",
+      "d": "Tahlilan",
+      "e": "Barzanji"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Peran NU dalam bidang ekonomi kerakyatan diwujudkan dengan mendirikan lembaga keuangan mikro syariah berupa...",
+    "pilihan": {
+      "a": "Asuransi",
+      "b": "Bank Mandiri",
+      "c": "Bank BRI",
+      "d": "Pegadaian",
+      "e": "BMT (Baitul Maal wat Tamwil)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Muktamar NU ke-28 di Yogyakarta tahun 1989 menghasilkan keputusan penting tentang...",
+    "pilihan": {
+      "a": "Kerjasama dengan ormas lain",
+      "b": "Kembali ke Khittah 1926",
+      "c": "Pembentukan partai politik",
+      "d": "Pendirian universitas",
+      "e": "Penerimaan Pancasila sebagai asas organisasi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tokoh NU yang menjadi Presiden RI ke-4 adalah...",
+    "pilihan": {
+      "a": "KH. Wahid Hasyim",
+      "b": "KH. Idham Chalid",
+      "c": "KH. Ahmad Siddiq",
+      "d": "KH. Abdurrahman Wahid (Gus Dur)",
+      "e": "KH. Hasyim Asy'ari"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "KH. Wahid Hasyim, putra KH. Hasyim Asy'ari, dikenal sebagai...",
+    "pilihan": {
+      "a": "Duta Besar",
+      "b": "Panglima TNI",
+      "c": "Menteri Agama RI pertama",
+      "d": "Wakil Presiden RI",
+      "e": "Ketua MPR"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Tradisi berpuasa sunnah dan membaca wirid tertentu secara berjamaah menjelang Ramadhan di pesantren disebut...",
+    "pilihan": {
+      "a": "Khataman",
+      "b": "Pasanan",
+      "c": "Rapelan",
+      "d": "Syawalan",
+      "e": "Nuzulul Quran"
+    },
+    "jawaban": "b"
+  }
+]

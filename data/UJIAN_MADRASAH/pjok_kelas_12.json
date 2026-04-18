@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Salah satu manfaat utama melakukan aktivitas fisik teratur bagi kesehatan jantung dan paru-paru adalah...",
+    "pilihan": {
+      "a": "Meningkatkan efisiensi kerja jantung dan paru-paru",
+      "b": "Menyebabkan kelelahan berlebihan",
+      "c": "Menurunkan kepadatan tulang",
+      "d": "Meningkatkan risiko penyakit kronis",
+      "e": "Mempercepat penuaan sel tubuh"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Kemampuan tubuh untuk melakukan aktivitas sehari-hari tanpa merasakan kelelahan yang berlebihan disebut...",
+    "pilihan": {
+      "a": "Kekuatan otot",
+      "b": "Kebugaran jasmani",
+      "c": "Kelenturan",
+      "d": "Daya tahan otot",
+      "e": "Kecepatan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tujuan utama melakukan pemanasan (warming up) sebelum aktivitas fisik inti adalah...",
+    "pilihan": {
+      "a": "Mempercepat kelelahan otot",
+      "b": "Menurunkan suhu tubuh",
+      "c": "Meningkatkan risiko kram",
+      "d": "Mencegah cedera dan melenturkan otot",
+      "e": "Mengurangi konsentrasi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Latihan push-up secara spesifik difokuskan untuk melatih kekuatan otot pada bagian tubuh...",
+    "pilihan": {
+      "a": "Pinggul dan panggul",
+      "b": "Leher dan bahu",
+      "c": "Paha dan betis",
+      "d": "Lengan (triceps) dan dada",
+      "e": "Perut dan punggung"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pencipta permainan bola voli yang dikenal dunia adalah...",
+    "pilihan": {
+      "a": "Michael Sweeney",
+      "b": "Jim Thorpe",
+      "c": "Dick Fosbury",
+      "d": "Dr. James Naismith",
+      "e": "William G. Morgan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam permainan bola voli, pemain yang bertugas khusus sebagai pemain bertahan dan tidak diperbolehkan melakukan smash atau servis disebut...",
+    "pilihan": {
+      "a": "Spiker",
+      "b": "Blocker",
+      "c": "Libero",
+      "d": "Tosser",
+      "e": "Server"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Ukuran standar lapangan bola voli yang diakui secara internasional adalah...",
+    "pilihan": {
+      "a": "10 x 20 meter",
+      "b": "12 x 24 meter",
+      "c": "8 x 16 meter",
+      "d": "9 x 18 meter",
+      "e": "11 x 22 meter"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Induk organisasi sepak bola internasional adalah...",
+    "pilihan": {
+      "a": "FIBA",
+      "b": "PBVSI",
+      "c": "PSSI",
+      "d": "PERBASI",
+      "e": "FIFA"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam sepak bola, penggunaan tangan oleh pemain (selain penjaga gawang) hanya diperbolehkan saat melakukan...",
+    "pilihan": {
+      "a": "Tendangan penalti",
+      "b": "Lemparan ke dalam (throw-in)",
+      "c": "Kontrol bola dengan dada",
+      "d": "Tendangan bebas",
+      "e": "Tendangan sudut"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pencipta permainan bola basket adalah...",
+    "pilihan": {
+      "a": "Dr. James Naismith",
+      "b": "Kareem Abdul-Jabbar",
+      "c": "William G. Morgan",
+      "d": "Michael Jordan",
+      "e": "Dick Fosbury"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Teknik mengoper bola basket dengan cara memantulkannya ke lantai terlebih dahulu agar sulit direbut lawan disebut...",
+    "pilihan": {
+      "a": "Chest Pass",
+      "b": "Baseball Pass",
+      "c": "Hook Pass",
+      "d": "Overhead Pass",
+      "e": "Bounce Pass"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Gaya lompat tinggi yang dicirikan dengan posisi punggung yang melewati mistar terlebih dahulu dan ditemukan oleh Dick Fosbury adalah gaya...",
+    "pilihan": {
+      "a": "Eastern Cut-off",
+      "b": "Fosbury Flop",
+      "c": "Gunting",
+      "d": "Straddle",
+      "e": "Western Roll"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teknik awalan dalam lompat tinggi gaya Fosbury Flop biasanya menggunakan lintasan berbentuk...",
+    "pilihan": {
+      "a": "Huruf S",
+      "b": "Huruf J (J-run)",
+      "c": "Lingkaran penuh",
+      "d": "Garis lurus",
+      "e": "Zig-zag"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam lari estafet, teknik penerimaan tongkat di mana telapak tangan penerima menghadap ke bawah disebut teknik...",
+    "pilihan": {
+      "a": "Downsweep",
+      "b": "Non-visual Pass",
+      "c": "Blind Pass",
+      "d": "Visual Pass",
+      "e": "Upsweep"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Salah satu penyebab diskualifikasi yang sering terjadi dalam lari estafet adalah...",
+    "pilihan": {
+      "a": "Berlari di jalur yang salah",
+      "b": "Menjatuhkan tongkat estafet",
+      "c": "Menggunakan sepatu yang tidak standar",
+      "d": "Pelari jatuh saat start",
+      "e": "Melewati garis finish dengan satu kaki"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Berat peluru standar untuk atlet putra dalam cabang olahraga tolak peluru adalah...",
+    "pilihan": {
+      "a": "6 kg",
+      "b": "7,25 kg",
+      "c": "8 kg",
+      "d": "4 kg",
+      "e": "5 kg"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara jalan cepat dan lari terletak pada...",
+    "pilihan": {
+      "a": "Posisi badan",
+      "b": "Kecepatan gerakan",
+      "c": "Kontak kaki dengan tanah",
+      "d": "Jarak tempuh",
+      "e": "Penggunaan otot kaki"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Teknik memegang bet tenis meja seperti memegang pena, yang populer di kalangan pemain Asia, disebut...",
+    "pilihan": {
+      "a": "Chinese Grip",
+      "b": "Seemiller Grip",
+      "c": "American Grip",
+      "d": "Shakehand Grip",
+      "e": "Penhold Grip"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pukulan dalam tenis meja yang dilakukan dengan posisi telapak tangan menghadap ke depan/lawan disebut pukulan...",
+    "pilihan": {
+      "a": "Chop",
+      "b": "Forehand",
+      "c": "Smash",
+      "d": "Loop",
+      "e": "Backhand"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Penyakit Sifilis disebabkan oleh infeksi bakteri...",
+    "pilihan": {
+      "a": "Chlamydia trachomatis",
+      "b": "Neisseria gonorrhoeae",
+      "c": "Treponema pallidum",
+      "d": "Human Immunodeficiency Virus",
+      "e": "Herpes simplex virus"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Salah satu komplikasi serius sifilis kongenital pada bayi yang lahir dari ibu penderita sifilis adalah...",
+    "pilihan": {
+      "a": "Peningkatan sistem kekebalan tubuh",
+      "b": "Pertumbuhan rambut yang lebat",
+      "c": "Peningkatan berat badan",
+      "d": "Cacat lahir atau keguguran",
+      "e": "Kulit menjadi lebih cerah"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Cara paling efektif untuk mencegah penularan Penyakit Menular Seksual (PMS) di masyarakat adalah dengan...",
+    "pilihan": {
+      "a": "Berolahraga secara berlebihan",
+      "b": "Menghindari perilaku seks bebas dan edukasi kesehatan",
+      "c": "Menggunakan pakaian yang sama",
+      "d": "Makan makanan yang sama",
+      "e": "Berbagi jarum suntik"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Matras dalam senam lantai berfungsi sebagai alat pengaman utama untuk...",
+    "pilihan": {
+      "a": "Meningkatkan kecepatan gerakan",
+      "b": "Meminimalisir risiko cedera",
+      "c": "Mengurangi kelenturan tubuh",
+      "d": "Menambah beban latihan",
+      "e": "Memperindah gerakan senam"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Urutan bagian tubuh yang menyentuh matras saat melakukan guling depan yang benar adalah...",
+    "pilihan": {
+      "a": "Tengkuk, punggung, pinggang, panggul",
+      "b": "Kepala, bahu, punggung, pinggang",
+      "c": "Bahu, kepala, pinggang, panggul",
+      "d": "Punggung, kepala, pinggang, panggul",
+      "e": "Panggul, pinggang, punggung, tengkuk"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam gerakan kayang, manfaat utama yang diperoleh adalah peningkatan...",
+    "pilihan": {
+      "a": "Kekuatan otot lengan",
+      "b": "Keseimbangan statis",
+      "c": "Kecepatan reaksi",
+      "d": "Kelenturan otot perut, punggung, dan bahu",
+      "e": "Daya tahan kardiovaskular"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Tujuan utama tangan menopang pinggang saat melakukan sikap lilin adalah untuk...",
+    "pilihan": {
+      "a": "Menjaga stabilitas dan menopang beban tubuh",
+      "b": "Mengurangi kekuatan otot perut",
+      "c": "Mempercepat gerakan kaki",
+      "d": "Meningkatkan kelenturan punggung",
+      "e": "Menambah beban latihan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Otot yang sangat berperan penting agar posisi kaki dapat bertahan tegak lurus ke atas saat melakukan sikap lilin adalah...",
+    "pilihan": {
+      "a": "Otot leher",
+      "b": "Otot lengan",
+      "c": "Otot paha",
+      "d": "Otot betis",
+      "e": "Otot perut"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam permainan bola basket, aturan 3 detik (*three-second violation*) melarang pemain penyerang berada di area terlarang lawan selama lebih dari 3 detik saat...",
+    "pilihan": {
+      "a": "Pemain melakukan tembakan bebas",
+      "b": "Bola keluar lapangan",
+      "c": "Bola berada dalam penguasaan timnya di area depan",
+      "d": "Pemain bertahan melakukan blok",
+      "e": "Terjadi pelanggaran oleh tim lawan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pelanggaran *double dribble* dalam bola basket terjadi jika pemain...",
+    "pilihan": {
+      "a": "Menggiring bola dengan dua tangan secara bersamaan",
+      "b": "Menggiring bola melewati garis tengah lapangan",
+      "c": "Melakukan dribel terlalu tinggi",
+      "d": "Melakukan dribel, berhenti, lalu melakukan dribel kembali",
+      "e": "Membawa bola tanpa melakukan dribel"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jarak standar FIBA untuk garis tembakan tiga angka (*three-point line*) dalam bola basket adalah...",
+    "pilihan": {
+      "a": "7,75 meter",
+      "b": "5,75 meter",
+      "c": "7,25 meter",
+      "d": "6,25 meter",
+      "e": "6,75 meter"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Strategi pertahanan dalam bola basket di mana setiap pemain menjaga area tertentu untuk menutup ruang tembak lawan disebut...",
+    "pilihan": {
+      "a": "Man-to-man defense",
+      "b": "Pressing defense",
+      "c": "Zone defense",
+      "d": "Full court press",
+      "e": "Trap defense"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Taktik penyerangan dalam bola basket di mana seorang pemain melakukan *screen* untuk rekan setimnya yang membawa bola, lalu bergerak menuju ring untuk menerima operan disebut...",
+    "pilihan": {
+      "a": "Motion Offense",
+      "b": "Fast Break",
+      "c": "Triangle Offense",
+      "d": "Pick and Roll",
+      "e": "Give and Go"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Strategi menekan lawan di seluruh area lapangan, biasanya dilakukan saat tim sedang tertinggal poin untuk memaksa lawan melakukan kesalahan, disebut...",
+    "pilihan": {
+      "a": "Zone defense",
+      "b": "Man-to-man defense",
+      "c": "Full court press",
+      "d": "Box-and-one defense",
+      "e": "Half court defense"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Gerakan menghalangi lawan agar rekan setim bebas dari penjagaan dalam bola basket disebut...",
+    "pilihan": {
+      "a": "Rebound",
+      "b": "Pivot",
+      "c": "Block",
+      "d": "Screen",
+      "e": "Layup"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Induk organisasi bola basket dunia adalah...",
+    "pilihan": {
+      "a": "PSSI",
+      "b": "NBA",
+      "c": "PERBASI",
+      "d": "PBVSI",
+      "e": "FIBA"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Pada tolak peluru, berat peluru standar untuk atlet putri adalah...",
+    "pilihan": {
+      "a": "5 kg",
+      "b": "3 kg",
+      "c": "6 kg",
+      "d": "4 kg",
+      "e": "7,25 kg"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pelanggaran yang sering menyebabkan diskualifikasi dalam lari estafet adalah...",
+    "pilihan": {
+      "a": "Berlari di jalur lawan",
+      "b": "Menggunakan sepatu yang tidak sesuai",
+      "c": "Menjatuhkan tongkat estafet",
+      "d": "Mengambil start terlalu cepat",
+      "e": "Tidak melakukan pemanasan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Teknik pegangan cakram yang benar adalah dengan meletakkan cakram pada telapak tangan, jari-jari menyebar di pinggiran cakram, dan...",
+    "pilihan": {
+      "a": "Telapak tangan sepenuhnya menutupi cakram",
+      "b": "Ruas ujung jari menekuk untuk mengunci posisi cakram",
+      "c": "Ibu jari menekan bagian tengah cakram",
+      "d": "Hanya dua jari yang memegang cakram",
+      "e": "Semua jari rapat di satu sisi cakram"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sifilis adalah Penyakit Menular Seksual (PMS) yang disebabkan oleh bakteri...",
+    "pilihan": {
+      "a": "Staphylococcus aureus",
+      "b": "Treponema pallidum",
+      "c": "Mycobacterium tuberculosis",
+      "d": "Escherichia coli",
+      "e": "Salmonella typhi"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Salah satu gejala awal sifilis yang sering muncul adalah...",
+    "pilihan": {
+      "a": "Pembengkakan kelenjar getah bening di leher",
+      "b": "Demam tinggi dan ruam seluruh tubuh",
+      "c": "Nyeri sendi dan otot",
+      "d": "Luka yang tidak sakit pada alat kelamin",
+      "e": "Batuk kronis dan sesak napas"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Komplikasi serius yang dapat terjadi pada bayi yang lahir dari ibu penderita sifilis (sifilis kongenital) adalah...",
+    "pilihan": {
+      "a": "Peningkatan nafsu makan",
+      "b": "Kulit yang sangat sehat",
+      "c": "Cacat lahir atau keguguran",
+      "d": "Pertumbuhan fisik yang sangat cepat",
+      "e": "Kecerdasan di atas rata-rata"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pencegahan paling efektif terhadap Penyakit Menular Seksual (PMS) di masyarakat adalah dengan...",
+    "pilihan": {
+      "a": "Sering berganti pasangan seksual",
+      "b": "Menggunakan jarum suntik secara bergantian",
+      "c": "Edukasi kesehatan dan menghindari perilaku seks bebas",
+      "d": "Tidak melakukan aktivitas fisik",
+      "e": "Mengkonsumsi obat-obatan terlarang"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kemampuan tubuh untuk melakukan aktivitas sehari-hari tanpa merasakan kelelahan yang berlebihan merupakan definisi dari...",
+    "pilihan": {
+      "a": "Daya tahan",
+      "b": "Kecepatan",
+      "c": "Kelenturan",
+      "d": "Kebugaran jasmani",
+      "e": "Kekuatan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Latihan sit-up secara spesifik difokuskan untuk melatih kekuatan otot pada bagian tubuh...",
+    "pilihan": {
+      "a": "Paha",
+      "b": "Perut",
+      "c": "Dada",
+      "d": "Lengan",
+      "e": "Punggung"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pemain yang bertugas khusus sebagai pemain bertahan dan tidak diperbolehkan melakukan smash atau servis dalam bola voli disebut...",
+    "pilihan": {
+      "a": "Spiker",
+      "b": "Server",
+      "c": "Tosser",
+      "d": "Blocker",
+      "e": "Libero"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam sepak bola, penggunaan tangan oleh pemain (selain penjaga gawang) hanya diperbolehkan saat...",
+    "pilihan": {
+      "a": "Mengontrol bola dengan dada",
+      "b": "Melakukan lemparan ke dalam (throw-in)",
+      "c": "Mencetak gol",
+      "d": "Melakukan tendangan bebas",
+      "e": "Melakukan tendangan sudut"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Teknik mengoper bola basket dengan cara memantulkannya ke lantai terlebih dahulu disebut...",
+    "pilihan": {
+      "a": "Overhead Pass",
+      "b": "Bounce Pass",
+      "c": "Baseball Pass",
+      "d": "Hook Pass",
+      "e": "Chest Pass"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gaya lompat tinggi yang dicirikan dengan posisi punggung yang melewati mistar terlebih dahulu adalah...",
+    "pilihan": {
+      "a": "Gaya Gunting",
+      "b": "Gaya Straddle",
+      "c": "Gaya Western Roll",
+      "d": "Gaya Eastern Cut-off",
+      "e": "Gaya Fosbury Flop"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Teknik penerimaan tongkat dalam lari estafet di mana telapak tangan penerima menghadap ke bawah disebut teknik...",
+    "pilihan": {
+      "a": "Non-visual Pass",
+      "b": "Upsweep",
+      "c": "Visual Pass",
+      "d": "Downsweep",
+      "e": "Blind Pass"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Perbedaan utama antara jalan cepat dan lari adalah...",
+    "pilihan": {
+      "a": "Kontak kaki dengan tanah",
+      "b": "Jarak tempuh",
+      "c": "Posisi tubuh",
+      "d": "Penggunaan energi",
+      "e": "Kecepatan"
+    },
+    "jawaban": "a"
+  }
+]

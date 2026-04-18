@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "What is the main purpose of descriptive text about Indian markets?",
+    "pilihan": {
+      "a": "To persuade readers to visit India",
+      "b": "To describe the characteristics and atmosphere of the markets",
+      "c": "To explain how to buy spices",
+      "d": "To tell a story about a merchant",
+      "e": "To compare Indian markets with others"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "According to descriptive text, which items are commonly sold in Indian markets?",
+    "pilihan": {
+      "a": "Cars and electronics",
+      "b": "Spices, textiles, jewelry, and handicrafts",
+      "c": "Only fresh vegetables",
+      "d": "Books and stationery",
+      "e": "Furniture and appliances"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What is one main purpose of creating murals in public spaces?",
+    "pilihan": {
+      "a": "To make the area more expensive",
+      "b": "To beautify the environment and convey social messages",
+      "c": "To advertise products",
+      "d": "To create private art collections",
+      "e": "To block sunlight"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "In the exposition text about plastic waste, what negative impact of social media is often mentioned?",
+    "pilihan": {
+      "a": "Increased physical activity",
+      "b": "FOMO (Fear of Missing Out)",
+      "c": "Better sleep quality",
+      "d": "Stronger family bonds",
+      "e": "Reduced screen time"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What does FOMO refer to in the context of social media?",
+    "pilihan": {
+      "a": "Fear of making others happy",
+      "b": "Fear of missing out on experiences or events",
+      "c": "Fear of online shopping",
+      "d": "Fear of old memories",
+      "e": "Fear of organic food"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "According to the exposition text, what is one benefit of drinking plain water?",
+    "pilihan": {
+      "a": "It causes dehydration",
+      "b": "It helps with digestion and removes toxins",
+      "c": "It increases sugar levels",
+      "d": "It makes skin drier",
+      "e": "It reduces brain function"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "In the legend of Malin Kundang, what was the main background of the conflict?",
+    "pilihan": {
+      "a": "Malin Kundang was rich from the beginning",
+      "b": "Malin denied his poor mother after becoming successful",
+      "c": "His mother refused to let him go to sea",
+      "d": "He fought with his friends",
+      "e": "He lost his ship in a storm"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What is the moral value of the Malin Kundang legend?",
+    "pilihan": {
+      "a": "Success is more important than family",
+      "b": "We must respect and be grateful to our parents",
+      "c": "Traveling always brings happiness",
+      "d": "Money can solve all problems",
+      "e": "Curses never come true"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "In the procedure text, what is the first step in making liquid organic fertilizer?",
+    "pilihan": {
+      "a": "Filter the liquid",
+      "b": "Prepare materials such as manure, green matter, and water",
+      "c": "Apply it to plants",
+      "d": "Sell the fertilizer",
+      "e": "Dilute with chemicals"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Why is fermentation important in making organic liquid fertilizer?",
+    "pilihan": {
+      "a": "To make the mixture smell bad",
+      "b": "To break down organic matter into nutrients using microorganisms",
+      "c": "To make it more expensive",
+      "d": "To change the color only",
+      "e": "To kill all bacteria"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What is the correct order in the water cycle according to the report text?",
+    "pilihan": {
+      "a": "Precipitation – Evaporation – Condensation",
+      "b": "Evaporation – Condensation – Precipitation",
+      "c": "Condensation – Precipitation – Evaporation",
+      "d": "Infiltration – Runoff – Transpiration",
+      "e": "Transpiration – Precipitation – Collection"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What happens during the condensation stage of the water cycle?",
+    "pilihan": {
+      "a": "Water falls as rain",
+      "b": "Water vapor cools and forms clouds",
+      "c": "Water is absorbed by plants",
+      "d": "Water flows into rivers",
+      "e": "Water turns into ice"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What is the first stage in a butterfly’s life cycle?",
+    "pilihan": {
+      "a": "Larva",
+      "b": "Egg",
+      "c": "Pupa",
+      "d": "Adult",
+      "e": "Chrysalis"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What stage does a caterpillar turn into after eating a lot?",
+    "pilihan": {
+      "a": "Egg",
+      "b": "Pupa or chrysalis",
+      "c": "Adult butterfly immediately",
+      "d": "Larva again",
+      "e": "Worm"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What is the main topic of the school announcement in functional text?",
+    "pilihan": {
+      "a": "A new library opening",
+      "b": "An important school event with details of time and items to bring",
+      "c": "A story about a student",
+      "d": "How to make fertilizer",
+      "e": "Description of a market"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What is the appropriate response to 'Congratulations on your achievement!'?",
+    "pilihan": {
+      "a": "I'm sorry",
+      "b": "Thank you very much!",
+      "c": "Goodbye",
+      "d": "How are you?",
+      "e": "See you later"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What is the English translation of 'Alhamdulillah'?",
+    "pilihan": {
+      "a": "God willing",
+      "b": "Praise be to Allah",
+      "c": "In the name of Allah",
+      "d": "Glory be to Allah",
+      "e": "I seek forgiveness"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "In the sentence 'The butterfly emerges from the chrysalis', what does 'emerge' mean?",
+    "pilihan": {
+      "a": "Hide",
+      "b": "Come out or appear",
+      "c": "Eat",
+      "d": "Sleep",
+      "e": "Fly away"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What does the word 'digestion' refer to in the context of health texts?",
+    "pilihan": {
+      "a": "Breathing process",
+      "b": "The process of breaking down food in the body",
+      "c": "Running exercise",
+      "d": "Sleeping habit",
+      "e": "Drinking habit"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "The word 'tightly' in 'Tie the bag tightly' means ...",
+    "pilihan": {
+      "a": "Loosely",
+      "b": "Firmly or securely",
+      "c": "Quickly",
+      "d": "Slowly",
+      "e": "Carelessly"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Which sentence uses Simple Present Tense correctly for daily habits?",
+    "pilihan": {
+      "a": "Yesterday I drink water every day",
+      "b": "Students drink water to stay healthy",
+      "c": "Last year she drinks a lot",
+      "d": "They drank water tomorrow",
+      "e": "He will drink water yesterday"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Choose the correct Simple Past Tense for a past holiday experience:",
+    "pilihan": {
+      "a": "I go to the beach last holiday",
+      "b": "I went to the beach last holiday",
+      "c": "I am going to the beach",
+      "d": "I will go to the beach yesterday",
+      "e": "I goes to the beach"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Change the active sentence 'Farmers make organic fertilizer' into passive voice.",
+    "pilihan": {
+      "a": "Organic fertilizer make by farmers",
+      "b": "Organic fertilizer is made by farmers",
+      "c": "Farmers is made organic fertilizer",
+      "d": "Organic fertilizer was make farmers",
+      "e": "Farmers made by organic fertilizer"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "The correct passive form of 'People create beautiful murals' is ...",
+    "pilihan": {
+      "a": "Beautiful murals is created by people",
+      "b": "Beautiful murals are created by people",
+      "c": "People are created beautiful murals",
+      "d": "Beautiful murals create by people",
+      "e": "People created by beautiful murals"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Which sentence uses comparative degree correctly?",
+    "pilihan": {
+      "a": "This market is more colorful that one",
+      "b": "This market is more colorful than that one",
+      "c": "This market is most colorful than that",
+      "d": "This market colorful than that",
+      "e": "This market is colorfuller"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "'Drinking water is _____ than drinking soda.' The correct word is ...",
+    "pilihan": {
+      "a": "good",
+      "b": "better",
+      "c": "best",
+      "d": "more good",
+      "e": "well"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What specific information can be found in descriptive text about Indian markets?",
+    "pilihan": {
+      "a": "The history of India",
+      "b": "Goods sold such as spices and textiles",
+      "c": "How to cook Indian food",
+      "d": "Political situation in India",
+      "e": "Weather in India"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "In exposition text about health, why is drinking water recommended?",
+    "pilihan": {
+      "a": "It contains sugar",
+      "b": "It helps prevent dehydration and supports digestion",
+      "c": "It is more expensive",
+      "d": "It causes FOMO",
+      "e": "It makes people sleepy"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "The conflict in Malin Kundang story begins when ...",
+    "pilihan": {
+      "a": "Malin was a child",
+      "b": "Malin became rich and denied his mother",
+      "c": "His mother got sick",
+      "d": "He lost his money",
+      "e": "He married a poor woman"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "In procedure text, what is the purpose of diluting the liquid fertilizer?",
+    "pilihan": {
+      "a": "To make it stronger",
+      "b": "To prevent burning the plant roots",
+      "c": "To make it more expensive",
+      "d": "To change its color",
+      "e": "To throw it away"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "What is the final stage in the butterfly life cycle?",
+    "pilihan": {
+      "a": "Egg",
+      "b": "Adult butterfly",
+      "c": "Larva",
+      "d": "Pupa",
+      "e": "Caterpillar"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "In the announcement, students are usually told ...",
+    "pilihan": {
+      "a": "To ignore the event",
+      "b": "The time and what to bring",
+      "c": "A fairy tale",
+      "d": "Grammar rules",
+      "e": "How to make murals"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "'InsyaAllah' in English means ...",
+    "pilihan": {
+      "a": "Praise be to God",
+      "b": "God willing",
+      "c": "Thank you",
+      "d": "Sorry",
+      "e": "Congratulations"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "The word 'tightly' is an adverb that describes ...",
+    "pilihan": {
+      "a": "How something is done",
+      "b": "A noun",
+      "c": "A place",
+      "d": "A time",
+      "e": "An emotion"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Which sentence is in Simple Past Tense?",
+    "pilihan": {
+      "a": "She visits her grandmother every week",
+      "b": "She visited her grandmother last week",
+      "c": "She is visiting her grandmother",
+      "d": "She will visit her grandmother",
+      "e": "She visits her grandmother yesterday"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Passive voice is often used in ...",
+    "pilihan": {
+      "a": "Narrative text only",
+      "b": "Procedure and report texts",
+      "c": "Daily conversation only",
+      "d": "Poetry",
+      "e": "Songs"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "The superlative form of 'expensive' is ...",
+    "pilihan": {
+      "a": "more expensive",
+      "b": "most expensive",
+      "c": "expensiver",
+      "d": "expensivest",
+      "e": "expensivest of all"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Murals in public spaces are created to ...",
+    "pilihan": {
+      "a": "Hide buildings",
+      "b": "Express creativity and build community",
+      "c": "Sell products only",
+      "d": "Block the view",
+      "e": "Make the area darker"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "FOMO can lead to ...",
+    "pilihan": {
+      "a": "Better mental health",
+      "b": "Stress, anxiety, and reduced productivity",
+      "c": "More real-life interactions",
+      "d": "Less social media use",
+      "e": "Improved sleep"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "In Malin Kundang, the mother cursed her son because ...",
+    "pilihan": {
+      "a": "He was poor",
+      "b": "He denied and disrespected her",
+      "c": "He gave her money",
+      "d": "He stayed at home",
+      "e": "He became a sailor"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "The purpose of each step in the procedure text is to ...",
+    "pilihan": {
+      "a": "Make the process longer",
+      "b": "Ensure the fertilizer is effective and safe for plants",
+      "c": "Waste materials",
+      "d": "Make it smell good",
+      "e": "Change the taste"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Runoff and infiltration are parts of ...",
+    "pilihan": {
+      "a": "Butterfly life cycle",
+      "b": "The water cycle",
+      "c": "Making fertilizer",
+      "d": "Descriptive text",
+      "e": "Grammar rules"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "A chrysalis is the stage when ...",
+    "pilihan": {
+      "a": "The butterfly flies",
+      "b": "The caterpillar transforms into an adult",
+      "c": "Eggs are laid",
+      "d": "Caterpillar eats leaves",
+      "e": "The butterfly dies"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "In an announcement, the information about 'what to bring' is ...",
+    "pilihan": {
+      "a": "Optional",
+      "b": "Important detail",
+      "c": "Not needed",
+      "d": "Only for teachers",
+      "e": "Secret information"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "'Subhanallah' means ...",
+    "pilihan": {
+      "a": "God willing",
+      "b": "Glory be to Allah",
+      "c": "Praise be to Allah",
+      "d": "Thank you",
+      "e": "Congratulations"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "The sentence 'Water helps digestion' uses ...",
+    "pilihan": {
+      "a": "Past tense",
+      "b": "Simple present tense",
+      "c": "Future tense",
+      "d": "Passive voice only",
+      "e": "Comparative"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Change to passive: 'They sell spices in Indian markets.'",
+    "pilihan": {
+      "a": "Spices is sold in Indian markets",
+      "b": "Spices are sold in Indian markets",
+      "c": "Indian markets sell by spices",
+      "d": "Spices sell in Indian markets",
+      "e": "They are sold spices"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "This bag is _____ expensive than that one.",
+    "pilihan": {
+      "a": "more",
+      "b": "most",
+      "c": "much",
+      "d": "many",
+      "e": "very"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "The main idea of exposition text on plastic waste is usually to ...",
+    "pilihan": {
+      "a": "Describe plastic",
+      "b": "Persuade readers to reduce plastic use",
+      "c": "Tell a legend",
+      "d": "Explain grammar",
+      "e": "Describe markets"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Malin Kundang turned into stone because of ...",
+    "pilihan": {
+      "a": "His kindness",
+      "b": "His arrogance and disobedience to his mother",
+      "c": "His poverty",
+      "d": "His success",
+      "e": "His marriage"
+    },
+    "jawaban": "b"
+  }
+]

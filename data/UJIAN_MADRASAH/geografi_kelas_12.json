@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Hakikat geografi modern menurut perdebatan para ahli lebih menekankan pada prinsip apa yang memandang gejala, faktor, dan masalah dari segi penyebaran serta keterkaitannya di permukaan bumi?",
+    "pilihan": {
+      "a": "Prinsip eksplorasi wilayah",
+      "b": "Prinsip posibilisme mutlak",
+      "c": "Prinsip deskripsi historis",
+      "d": "Prinsip korologi",
+      "e": "Prinsip determinisme lingkungan"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Hubungan sebab-akibat antar geosfer pada fenomena iklim El Ni\u00f1o menyebabkan dampak berupa?",
+    "pilihan": {
+      "a": "Penurunan suhu global secara drastis",
+      "b": "Peningkatan curah hujan di Indonesia bagian barat",
+      "c": "Perubahan arah angin monsun menjadi konstan",
+      "d": "Kekeringan di wilayah Indonesia dan kebakaran hutan",
+      "e": "Peningkatan aktivitas gunung berapi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Konsep geografi yang sesuai untuk menganalisis perbedaan fungsi wilayah antara kawasan industri dan kawasan pertanian adalah konsep?",
+    "pilihan": {
+      "a": "Interaksi keruangan",
+      "b": "Diferensiasi areal",
+      "c": "Lokasi absolut",
+      "d": "Keterkaitan ekologis",
+      "e": "Homogenitas wilayah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam perencanaan fasilitas umum seperti rumah sakit, penerapan lokasi absolut lebih tepat digunakan untuk menentukan?",
+    "pilihan": {
+      "a": "Preferensi masyarakat setempat",
+      "b": "Aksesibilitas melalui jalan raya",
+      "c": "Koordinat lintang dan bujur yang tetap",
+      "d": "Hubungan dengan fasilitas lain",
+      "e": "Jarak relatif terhadap pusat kota"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Komponen peta yang diperlukan agar informasi dapat ditafsirkan dengan benar adalah?",
+    "pilihan": {
+      "a": "Hanya simbol dan warna",
+      "b": "Simbol tanpa legenda",
+      "c": "Proyeksi dan warna dasar",
+      "d": "Legenda, skala, dan arah utara",
+      "e": "Judul dan garis tepi saja"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Peta dikatakan tidak layak untuk pengambilan keputusan jika tidak memiliki komponen?",
+    "pilihan": {
+      "a": "Simbol yang artistik",
+      "b": "Garis kontur yang detail",
+      "c": "Ukuran kertas besar",
+      "d": "Sumber data dan tahun pembuatan",
+      "e": "Warna yang menarik"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Faktor utama penyebab kualitas citra penginderaan jauh rendah pada kondisi gangguan atmosfer adalah?",
+    "pilihan": {
+      "a": "Vegetasi yang lebat",
+      "b": "Permukaan air yang tenang",
+      "c": "Sinar matahari yang terlalu terang",
+      "d": "Topografi datar",
+      "e": "Awan tebal dan hujan deras"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Manfaat utama penginderaan jauh untuk penilaian cepat dampak bencana alam adalah?",
+    "pilihan": {
+      "a": "Memberikan data akurat tanpa kunjungan lapangan",
+      "b": "Menghitung populasi korban secara langsung",
+      "c": "Mengukur kedalaman laut",
+      "d": "Memprediksi cuaca jangka panjang",
+      "e": "Menggantikan survei tanah secara total"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Rumusan masalah yang spesifik, terukur, dan berbatas waktu untuk penelitian geografi tentang banjir di suatu kota adalah?",
+    "pilihan": {
+      "a": "Apakah banjir berdampak negatif?",
+      "b": "Bagaimana cara mencegah banjir selamanya?",
+      "c": "Apakah banjir terjadi di kota besar?",
+      "d": "Seberapa besar luas genangan banjir di Jakarta pada musim hujan 2025 dibandingkan 2020?",
+      "e": "Mengapa banjir selalu terjadi?"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Pernyataan yang termasuk hipotesis dalam studi geografi tentang pengaruh urbanisasi terhadap lahan pertanian adalah?",
+    "pilihan": {
+      "a": "Urbanisasi terjadi di kota besar.",
+      "b": "Konversi lahan dilakukan oleh pemerintah.",
+      "c": "Urbanisasi menyebabkan konversi lahan pertanian menjadi permukiman.",
+      "d": "Penduduk kota lebih banyak daripada desa.",
+      "e": "Lahan pertanian terletak di pinggiran kota."
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pernyataan yang tepat tentang karakteristik lapisan litosfer adalah?",
+    "pilihan": {
+      "a": "Lapisan es di kutub",
+      "b": "Lapisan cair yang mengandung magma",
+      "c": "Lapisan terluar bumi yang tersusun dari kerak dan bagian atas mantel",
+      "d": "Lapisan gas yang mengelilingi bumi",
+      "e": "Lapisan air yang menutupi permukaan bumi"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Urutan proses perubahan batuan dalam siklus batuan yang benar adalah?",
+    "pilihan": {
+      "a": "Batuan metamorf \u2192 pelapukan \u2192 magma \u2192 batuan beku",
+      "b": "Batuan sedimen \u2192 batuan beku \u2192 magma \u2192 pelapukan",
+      "c": "Batuan beku \u2192 magma \u2192 batuan sedimen \u2192 metamorf",
+      "d": "Magma \u2192 batuan beku \u2192 pelapukan \u2192 batuan sedimen \u2192 metamorfosis \u2192 magma",
+      "e": "Magma \u2192 pelapukan \u2192 batuan sedimen \u2192 batuan beku"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Sampel batuan dengan tekstur kristalin kasar, asal dari pendinginan lambat magma di dalam bumi, dan proses pembentukan kristalisasi termasuk kelompok?",
+    "pilihan": {
+      "a": "Batuan beku ekstrusif",
+      "b": "Batuan beku intrusif",
+      "c": "Batuan organik",
+      "d": "Batuan sedimen",
+      "e": "Batuan metamorf"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Lapisan atmosfer yang berperan dalam perlindungan dari radiasi ultraviolet berbahaya berdasarkan kasus kerusakan ozon adalah?",
+    "pilihan": {
+      "a": "Stratosfer",
+      "b": "Eksosfer",
+      "c": "Termosfer",
+      "d": "Troposfer",
+      "e": "Mesosfer"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Hubungan ketinggian tempat dengan perubahan tekanan udara adalah semakin tinggi tempat maka tekanan udara?",
+    "pilihan": {
+      "a": "Semakin rendah",
+      "b": "Tetap konstan",
+      "c": "Berfluktuasi acak",
+      "d": "Tidak berhubungan",
+      "e": "Semakin tinggi"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Peran atmosfer dalam tahapan siklus hidrologi pada proses evaporasi adalah?",
+    "pilihan": {
+      "a": "Menyimpan air dalam bentuk es",
+      "b": "Membekukan uap air menjadi salju",
+      "c": "Mengalirkan air melalui sungai",
+      "d": "Menyerap uap air dari permukaan bumi",
+      "e": "Menghasilkan presipitasi langsung"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Keuntungan letak strategis Indonesia terhadap aktivitas ekonomi dan transportasi global adalah?",
+    "pilihan": {
+      "a": "Menjadi jalur transit perdagangan internasional melalui selat-selat penting",
+      "b": "Tidak memiliki pelabuhan strategis",
+      "c": "Terisolasi dari jalur perdagangan dunia",
+      "d": "Menghindari pengaruh badai tropis",
+      "e": "Memiliki iklim yang seragam sepanjang tahun"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tipe vegetasi yang sesuai dengan karakteristik iklim tropis basah di wilayah Indonesia adalah?",
+    "pilihan": {
+      "a": "Hutan hujan tropis",
+      "b": "Padang rumput savana",
+      "c": "Tundra",
+      "d": "Hutan gugur",
+      "e": "Hutan taiga"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Strategi pemerataan pembangunan yang tepat berdasarkan perbandingan kepadatan penduduk tinggi di Jawa dan rendah di Papua adalah?",
+    "pilihan": {
+      "a": "Peningkatan kepadatan di daerah padat saja",
+      "b": "Pemindahan seluruh penduduk ke Jawa",
+      "c": "Transmigrasi dan pengembangan wilayah timur Indonesia",
+      "d": "Penghentian pembangunan di luar Jawa",
+      "e": "Pengurangan lahan pertanian di Jawa"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Indikator demografi yang dihitung dari data kelompok umur adalah?",
+    "pilihan": {
+      "a": "Luas wilayah",
+      "b": "Jumlah pelabuhan",
+      "c": "Jumlah gunung berapi",
+      "d": "Curah hujan tahunan",
+      "e": "Rasio ketergantungan"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Proyeksi penduduk suatu wilayah dengan jumlah awal 100.000 jiwa dan laju pertumbuhan 2% per tahun setelah 5 tahun adalah?",
+    "pilihan": {
+      "a": "110.408 jiwa",
+      "b": "105.000 jiwa",
+      "c": "120.000 jiwa",
+      "d": "110.000 jiwa",
+      "e": "100.000 jiwa"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Piramida penduduk dengan dasar lebar dan puncak sempit menunjukkan permasalahan demografis berupa?",
+    "pilihan": {
+      "a": "Beban ketergantungan muda yang tinggi",
+      "b": "Penurunan angka kelahiran drastis",
+      "c": "Penuaan penduduk yang cepat",
+      "d": "Migrasi keluar yang besar",
+      "e": "Keseimbangan struktur umur"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Aspek mitigasi yang perlu diperkuat berdasarkan kasus rendahnya kesiapsiagaan masyarakat terhadap gempa bumi adalah?",
+    "pilihan": {
+      "a": "Peningkatan kepadatan penduduk di daerah rawan",
+      "b": "Penghapusan jalur evakuasi",
+      "c": "Pendidikan dan simulasi evakuasi secara rutin",
+      "d": "Pengurangan anggaran peringatan dini",
+      "e": "Pembangunan gedung tinggi tanpa standar"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Bentuk adaptasi budaya terhadap kondisi geografis berupa sawah terasering di daerah pegunungan adalah contoh adaptasi terhadap?",
+    "pilihan": {
+      "a": "Kepadatan penduduk rendah",
+      "b": "Iklim gurun",
+      "c": "Cuaca dingin ekstrem",
+      "d": "Kekurangan lahan datar",
+      "e": "Topografi curam dan ketersediaan air"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kebijakan pembangunan bendungan yang mempertimbangkan aspek keberlanjutan lingkungan, sosial, dan ekonomi dinilai baik jika?",
+    "pilihan": {
+      "a": "Mengurangi banjir, menyediakan listrik, dan tidak merelokasi penduduk secara paksa",
+      "b": "Meningkatkan pengangguran lokal",
+      "c": "Menghancurkan situs budaya",
+      "d": "Mengabaikan dampak ekosistem sungai",
+      "e": "Hanya memprioritaskan produksi listrik"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jenis wilayah berdasarkan kriteria keseragaman atau kehomogenan disebut wilayah?",
+    "pilihan": {
+      "a": "Wilayah nodal",
+      "b": "Wilayah vernakular",
+      "c": "Wilayah administratif",
+      "d": "Wilayah fungsional",
+      "e": "Wilayah formal"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dasar klasifikasi perwilayahan dari deskripsi zonasi global seperti zona tropis, subtropis, dan kutub adalah klasifikasi berdasarkan?",
+    "pilihan": {
+      "a": "Kriteria iklim dan vegetasi",
+      "b": "Jumlah pelabuhan",
+      "c": "Kepadatan penduduk",
+      "d": "Sumber daya mineral",
+      "e": "Batas politik negara"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tujuan hierarki tertinggi dalam teori tempat sentral menurut Walter Christaller adalah untuk mencapai?",
+    "pilihan": {
+      "a": "Transportasi dengan biaya tertinggi",
+      "b": "Pelayanan minimal",
+      "c": "Persaingan antar pusat maksimal",
+      "d": "Pasar dengan jangkauan terkecil",
+      "e": "Efisiensi administrasi optimum (prinsip K=7)"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Wilayah pembangunan di Indonesia yang diklasifikasikan sebagai wilayah tertinggal berdasarkan informasi provinsi adalah wilayah di?",
+    "pilihan": {
+      "a": "Papua dan Maluku",
+      "b": "Sumatera bagian timur",
+      "c": "Sulawesi selatan",
+      "d": "Kalimantan selatan",
+      "e": "Jawa dan Bali"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Paket kebijakan yang konsisten dengan peningkatan kualitas hidup di kota berdasarkan masalah kemiskinan dan pengangguran adalah?",
+    "pilihan": {
+      "a": "Pembangunan mall mewah saja",
+      "b": "Pengurangan ruang hijau",
+      "c": "Peningkatan pajak tinggi",
+      "d": "Peningkatan akses pendidikan, kesehatan, dan lapangan kerja",
+      "e": "Pembatasan migrasi penduduk"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Kebijakan tata ruang yang tepat untuk mengatasi kemacetan di kota besar adalah?",
+    "pilihan": {
+      "a": "Perluasan jalan tanpa perencanaan",
+      "b": "Penambahan lahan parkir tanpa batas",
+      "c": "Pembuatan flyover di setiap ruas",
+      "d": "Pengurangan jalur pejalan kaki",
+      "e": "Pengembangan transportasi umum massal dan pembatasan kendaraan pribadi"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Ketentuan waktu ruang lingkup Rencana Tata Ruang Wilayah (RTRW) nasional adalah berlaku untuk jangka waktu?",
+    "pilihan": {
+      "a": "5 tahun tanpa peninjauan",
+      "b": "10 tahun tetap",
+      "c": "1 tahun tahunan",
+      "d": "20 tahun dengan peninjauan setiap 5 tahun",
+      "e": "30 tahun tanpa revisi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Dampak jangka panjang perubahan fungsi lahan dari pertanian menjadi permukiman adalah peningkatan risiko?",
+    "pilihan": {
+      "a": "Peningkatan produksi pangan",
+      "b": "Penurunan suhu udara",
+      "c": "Peningkatan biodiversitas",
+      "d": "Pengurangan polusi",
+      "e": "Banjir dan longsor akibat berkurangnya daerah resapan air"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dampak urbanisasi terhadap struktur sosial-ekonomi wilayah asal (desa) adalah?",
+    "pilihan": {
+      "a": "Peningkatan lapangan kerja di desa",
+      "b": "Penurunan migrasi",
+      "c": "Pemerataan pendapatan antar desa",
+      "d": "Penurunan tenaga kerja produktif dan penuaan penduduk di desa",
+      "e": "Hilangnya masalah kemiskinan desa"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Faktor yang memengaruhi interaksi desa-kota dari daftar indikator adalah?",
+    "pilihan": {
+      "a": "Luas hutan lindung",
+      "b": "Curah hujan tahunan",
+      "c": "Jenis tanah di desa",
+      "d": "Akses transportasi dan perbedaan peluang ekonomi",
+      "e": "Jumlah gunung berapi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Indikator yang tepat untuk membedakan kualitas pembangunan manusia antarwilayah adalah?",
+    "pilihan": {
+      "a": "Luas wilayah administratif",
+      "b": "Jumlah hari hujan",
+      "c": "Kepadatan kendaraan",
+      "d": "Indeks Pembangunan Manusia (IPM)",
+      "e": "Jumlah gunung berapi aktif"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Makna pembangunan menurut pernyataan kebijakan yang menekankan keberlanjutan adalah?",
+    "pilihan": {
+      "a": "Peningkatan konsumsi sumber daya alam",
+      "b": "Urbanisasi total",
+      "c": "Pembangunan yang memenuhi kebutuhan saat ini tanpa mengorbankan generasi mendatang",
+      "d": "Pertumbuhan ekonomi semata",
+      "e": "Pembangunan infrastruktur tanpa batas"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Kondisi kesejahteraan masyarakat dapat disimpulkan meningkat jika terjadi perubahan layanan dasar berupa?",
+    "pilihan": {
+      "a": "Pembatasan akses air",
+      "b": "Penurunan jumlah sekolah",
+      "c": "Peningkatan akses air bersih, pendidikan, dan fasilitas kesehatan",
+      "d": "Berkurangnya rumah sakit",
+      "e": "Penurunan kualitas pendidikan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Ciri revolusi industri 4.0 dari ilustrasi proses produksi adalah?",
+    "pilihan": {
+      "a": "Produksi manual sepenuhnya",
+      "b": "Penggunaan tenaga uap saja",
+      "c": "Pabrik tanpa listrik",
+      "d": "Fokus pada pertanian tradisional",
+      "e": "Integrasi teknologi digital, IoT, dan otomatisasi cerdas"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Karakteristik society 5.0 dari contoh penerapan teknologi untuk problem sosial adalah?",
+    "pilihan": {
+      "a": "Kembali ke masyarakat praindustri",
+      "b": "Fokus hanya pada produksi massal",
+      "c": "Penghapusan teknologi digital",
+      "d": "Penggunaan teknologi untuk menggantikan manusia sepenuhnya",
+      "e": "Integrasi AI dan big data untuk meningkatkan kualitas hidup manusia secara humanis"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Kebijakan adaptif untuk merespons dampak otomatisasi di era revolusi industri 4.0 adalah?",
+    "pilihan": {
+      "a": "Pembatasan akses pendidikan",
+      "b": "Pengurangan investasi teknologi",
+      "c": "Peningkatan impor tenaga kerja asing",
+      "d": "Penghentian penggunaan mesin",
+      "e": "Peningkatan kompetensi SDM melalui pelatihan dan kemitraan industri"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perubahan pola ruang atau pusat pertumbuhan akibat pembangunan infrastruktur digital adalah?",
+    "pilihan": {
+      "a": "Munculnya pusat ekonomi baru di daerah terpencil melalui e-commerce",
+      "b": "Pengurangan akses informasi",
+      "c": "Konsentrasi ekonomi hanya di kota besar",
+      "d": "Hilangnya pusat pertumbuhan lama",
+      "e": "Penurunan interaksi antarwilayah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Solusi pembangunan yang tepat untuk mengatasi keterbatasan akses digital dan pendidikan di daerah tertinggal adalah?",
+    "pilihan": {
+      "a": "Pengurangan anggaran pendidikan",
+      "b": "Pembangunan infrastruktur internet dan program pelatihan digital inklusif",
+      "c": "Fokus hanya pada pendidikan tradisional",
+      "d": "Pembatasan penggunaan gadget",
+      "e": "Penutupan akses internet"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Faktor pendorong kerjasama antarnegara dari skenario saling ketergantungan ekonomi adalah?",
+    "pilihan": {
+      "a": "Penurunan perdagangan internasional",
+      "b": "Konflik wilayah perbatasan",
+      "c": "Persaingan ketat tanpa kerjasama",
+      "d": "Kebutuhan saling melengkapi sumber daya dan pasar",
+      "e": "Isolasi ekonomi nasional"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Bentuk kerjasama berdasarkan jumlah pihak yang terlibat jika melibatkan banyak negara disebut kerjasama?",
+    "pilihan": {
+      "a": "Multilateral",
+      "b": "Bilateral",
+      "c": "Regional saja",
+      "d": "Nasional",
+      "e": "Unilateral"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Contoh kerjasama regional berdasarkan forum dan tujuan adalah ASEAN yang bertujuan?",
+    "pilihan": {
+      "a": "Fokus pada pertanian saja",
+      "b": "Penghapusan batas wilayah",
+      "c": "Isolasi dari negara tetangga",
+      "d": "Hanya perdagangan dengan Eropa",
+      "e": "Meningkatkan kerjasama ekonomi, politik, dan keamanan di Asia Tenggara"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Faktor geopolitik yang relevan dari ilustrasi jalur pelayaran internasional melalui Selat Malaka adalah?",
+    "pilihan": {
+      "a": "Konflik hanya di darat",
+      "b": "Isolasi wilayah pedalaman",
+      "c": "Penurunan lalu lintas kapal",
+      "d": "Kurangnya sumber daya laut",
+      "e": "Pengendalian jalur perdagangan strategis antar samudra"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Peran Indonesia dalam kerjasama bidang ekonomi regional adalah sebagai?",
+    "pilihan": {
+      "a": "Negara importir utama tanpa ekspor",
+      "b": "Penghambat kerjasama",
+      "c": "Penonton dalam forum ekonomi",
+      "d": "Fokus hanya pada pariwisata domestik",
+      "e": "Negara dengan pasar domestik besar dan jalur perdagangan strategis di ASEAN"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dampak kebijakan perdagangan bebas terhadap ketahanan ekonomi wilayah adalah?",
+    "pilihan": {
+      "a": "Penurunan perdagangan secara keseluruhan",
+      "b": "Hilangnya lapangan kerja domestik total",
+      "c": "Isolasi ekonomi wilayah",
+      "d": "Pengurangan ekspor komoditas",
+      "e": "Peningkatan akses pasar tetapi perlu penguatan industri lokal agar tidak tergantung impor"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Tujuan kerjasama bidang sosial dalam lingkup regional seperti ASEAN adalah?",
+    "pilihan": {
+      "a": "Penghapusan identitas nasional",
+      "b": "Pengurangan program sosial",
+      "c": "Meningkatkan kesejahteraan masyarakat melalui pertukaran budaya dan pendidikan",
+      "d": "Pembatasan mobilitas penduduk",
+      "e": "Hanya fokus pada militer"
+    },
+    "jawaban": "c"
+  }
+]

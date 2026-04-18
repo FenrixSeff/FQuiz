@@ -1,0 +1,552 @@
+[
+  {
+    "pertanyaan": "Seorang guru olahraga menjelaskan sejarah singkat tentang permainan bola basket yang diciptakan oleh seorang instruktur olahraga asal Kanada pada tahun 1891. Nama pencipta permainan bola basket tersebut adalah...",
+    "pilihan": {
+      "a": "George Mikan",
+      "b": "Michael Jordan",
+      "c": "James Naismith",
+      "d": "Luther Gulick",
+      "e": "William G. Morgan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam pertandingan bola basket resmi yang menggunakan aturan FIBA, durasi waktu setiap kuarter adalah...",
+    "pilihan": {
+      "a": "15 menit",
+      "b": "12 menit",
+      "c": "10 menit",
+      "d": "20 menit",
+      "e": "8 menit"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam sebuah lapangan bola basket standar FIBA, jarak garis three point (tiga angka) dari ring basket adalah...",
+    "pilihan": {
+      "a": "5,80 meter",
+      "b": "6,60 meter",
+      "c": "6,75 meter",
+      "d": "7,24 meter",
+      "e": "6,25 meter"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Seorang pemain bertahan berada di area terlarang (restricted area/lane) lawan selama 4 detik tanpa melakukan gerakan aktif. Menurut aturan PERBASI/FIBA, wasit akan meniup peluit karena...",
+    "pilihan": {
+      "a": "Violation 5 detik",
+      "b": "Violation 24 detik",
+      "c": "Violation 3 detik",
+      "d": "Tidak melanggar karena masih 4 detik",
+      "e": "Violation 8 detik"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam sebuah pertandingan bola basket, tim A memiliki postur pemain yang tinggi dan kuat di bawah ring, tetapi kurang cepat. Strategi penyerangan terstruktur (pattern) yang paling efektif untuk tim tersebut adalah...",
+    "pilihan": {
+      "a": "One on one dari luar area",
+      "b": "Penyerangan melalui screen dan umpan masuk ke dalam (inside)",
+      "c": "Three point shoot",
+      "d": "Shoot from outside",
+      "e": "Fast break"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Tim lawan memiliki beberapa pemain dengan kemampuan tembakan jarak jauh (three point) yang sangat akurat. Strategi pertahanan zona yang paling tepat untuk mematikan pergerakan penembak jitu tersebut adalah...",
+    "pilihan": {
+      "a": "Zona 2-3",
+      "b": "Zona 1-3-1",
+      "c": "Zona 2-1-2",
+      "d": "Box and one",
+      "e": "Zona 3-2"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Perhatikan diagram gerakan dua pemain dalam bola basket berikut: Pemain A membawa bola, lalu pemain B bergerak menghampiri dan berdiri di samping defender A. Pemain A kemudian bergerak melewati sisi pemain B sambil membawa bola. Strategi penyerangan yang dilakukan adalah...",
+    "pilihan": {
+      "a": "Backdoor",
+      "b": "Cutting",
+      "c": "Screen",
+      "d": "Isolation",
+      "e": "Pick and Roll"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Seorang pemain bola basket berhenti menggiring bola (dribble), lalu ia memegang bola dengan kedua tangan, dan kemudian ia mulai menggiring bola kembali. Wasit akan meniup peluit karena terjadi pelanggaran...",
+    "pilihan": {
+      "a": "Carrying",
+      "b": "Traveling",
+      "c": "Three seconds violation",
+      "d": "Back ball",
+      "e": "Double dribble"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam senam lantai, penggunaan matras sangat penting. Fungsi utama matras dalam aktivitas senam lantai adalah...",
+    "pilihan": {
+      "a": "Menambah beban latihan",
+      "b": "Mempermudah gerakan",
+      "c": "Menjaga suhu tubuh",
+      "d": "Memperindah gerakan",
+      "e": "Meminimalisir risiko cedera"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Urutan bagian tubuh yang menyentuh matras dalam gerakan guling depan (roll depan) yang benar adalah...",
+    "pilihan": {
+      "a": "Dahi - leher - punggung - pinggul",
+      "b": "Kepala - leher - punggung - pinggang",
+      "c": "Tangan - kepala - punggung - kaki",
+      "d": "Kepala - bahu - punggung - kaki",
+      "e": "Tengkuk - punggung - pinggang - pinggul"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam gambar tahapan guling depan, seorang pesenam terlihat melakukan awalan dengan berlari kecil lalu melakukan tolakan dengan kedua kaki sebelum meletakkan tangan di matras. Jenis awalan yang digunakan adalah...",
+    "pilihan": {
+      "a": "Awalan dengan sikap berdiri",
+      "b": "Awalan dengan tolakan satu kaki",
+      "c": "Awalan dengan lari dan tolakan dua kaki",
+      "d": "Awalan berdiri ditempat",
+      "e": "Awalan dengan sikap jongkok"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Saat melakukan guling belakang (roll belakang), seorang siswa gagal berguling dan panggulnya tidak dapat terangkat. Penyebab utama kegagalan tersebut adalah...",
+    "pilihan": {
+      "a": "Kepala menoleh ke samping",
+      "b": "Kurangnya tolakan tangan saat kedua telapak tangan menyentuh matras di samping kepala",
+      "c": "Posisi tangan terlalu rapat",
+      "d": "Sikap awal terlalu tegak",
+      "e": "Kaki tidak lurus"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam gerakan kayang, seorang siswa sering gagal mengangkat perut dan badannya. Setelah dievaluasi, kesalahan yang paling mungkin terjadi adalah...",
+    "pilihan": {
+      "a": "Siku dan lutut ditekuk",
+      "b": "Posisi kaki terlalu rapat",
+      "c": "Pandangan ke arah perut",
+      "d": "Tangan terlalu dekat dengan kaki",
+      "e": "Tumpuan tangan terlalu jauh dari kaki"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Gerakan senam lantai yang dilakukan dengan posisi badan membusur, bertumpu pada kedua tangan dan kedua kaki, dengan posisi siku dan lutut lurus, disebut...",
+    "pilihan": {
+      "a": "Headstand",
+      "b": "Guling depan",
+      "c": "Guling belakang",
+      "d": "Sikap lilin",
+      "e": "Kayang"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Gerakan kayang melatih kelentukan (fleksibilitas) pada bagian tubuh tertentu. Bagian tubuh yang paling dominan mengalami peningkatan kelentukan saat melakukan kayang adalah...",
+    "pilihan": {
+      "a": "Otot lengan dan bahu",
+      "b": "Otot punggung dan pinggul",
+      "c": "Otot leher",
+      "d": "Otot paha dan betis",
+      "e": "Otot perut dan dada"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam sikap lilin, kedua tangan menopang pinggang. Tujuan utama dari tumpuan tangan tersebut adalah...",
+    "pilihan": {
+      "a": "Melatih kekuatan otot lengan",
+      "b": "Menjaga keseimbangan dan stabilitas tubuh agar kaki tetap tegak",
+      "c": "Mengurangi tekanan pada leher",
+      "d": "Membantu pernapasan",
+      "e": "Memperindah gerakan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Dalam sepak bola, penjaga gawang memiliki hak istimewa untuk menggunakan tangan. Batasan area penggunaan tangan bagi kiper adalah...",
+    "pilihan": {
+      "a": "Area kotak gawang (goal area)",
+      "b": "Area kotak penalti (penalty area)",
+      "c": "Tidak ada batasan",
+      "d": "Seluruh area lapangan",
+      "e": "Lingkaran tengah lapangan"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Induk organisasi bola basket internasional yang menaungi seluruh federasi basket di dunia adalah...",
+    "pilihan": {
+      "a": "IVBF",
+      "b": "FIFA",
+      "c": "FIBA",
+      "d": "IAAF",
+      "e": "NBA"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam strategi pertahanan satu lawan satu (man to man defense), tugas utama setiap pemain adalah...",
+    "pilihan": {
+      "a": "Menjaga area perimeter",
+      "b": "Menjaga satu pemain lawan secara spesifik kemanapun ia bergerak",
+      "c": "Menjaga daerah tertentu di lapangan",
+      "d": "Membantu rekan yang dijebol lawan",
+      "e": "Menunggu bola masuk ke area sendiri"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Sebuah tim basket tertinggal 10 poin dengan sisa waktu 2 menit. Strategi yang paling tepat untuk mengejar ketertinggalan adalah...",
+    "pilihan": {
+      "a": "Man to man defense biasa",
+      "b": "Slow tempo offense",
+      "c": "Full Court Press (tekanan seluruh lapangan)",
+      "d": "Menunggu lawan melakukan kesalahan",
+      "e": "Zona defense"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Upaya menghalangi gerak lawan dengan berdiri diam di depan lawan agar rekan satu tim bisa melewatinya disebut...",
+    "pilihan": {
+      "a": "Assist",
+      "b": "Cutting",
+      "c": "Steal",
+      "d": "Rebound",
+      "e": "Screen"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Dalam lempar cakram, teknik pegangan (grip) yang benar adalah dengan meletakkan jari-jari tangan...",
+    "pilihan": {
+      "a": "Menggenggam bagian tengah cakram",
+      "b": "Menggenggam erat tepi cakram",
+      "c": "Hanya menggunakan ibu jari dan telunjuk",
+      "d": "Semua jari rapat di tengah cakram",
+      "e": "Menyebar pada permukaan cakram dengan ruas jari pertama berada di pinggiran cakram"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Gerakan yang membutuhkan kekuatan otot perut dan tangan untuk mengangkat dan menahan kaki tetap tegak lurus ke atas adalah...",
+    "pilihan": {
+      "a": "Guling depan",
+      "b": "Sikap lilin",
+      "c": "Kayang",
+      "d": "Headstand",
+      "e": "Handstand"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Penyakit yang menyerang sistem kekebalan tubuh manusia, sehingga penderitanya mudah terkena berbagai infeksi oportunistik adalah...",
+    "pilihan": {
+      "a": "Demam berdarah",
+      "b": "Hepatitis",
+      "c": "HIV/AIDS",
+      "d": "TBC",
+      "e": "Malaria"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Alat pengaman utama yang digunakan dalam senam lantai untuk mengurangi risiko cedera saat jatuh atau berguling adalah...",
+    "pilihan": {
+      "a": "Karpet",
+      "b": "Kasur",
+      "c": "Matras",
+      "d": "Bantalan",
+      "e": "Tikar"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pemain yang bertugas melakukan rebound dan menjaga area dekat ring dalam permainan bola basket biasanya disebut...",
+    "pilihan": {
+      "a": "Playmaker",
+      "b": "Small Forward",
+      "c": "Power Forward atau Center",
+      "d": "Shooting Guard",
+      "e": "Point Guard"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Dalam pertandingan bola basket, jika bola keluar lapangan, maka bola akan dimainkan dengan cara...",
+    "pilihan": {
+      "a": "Jump ball",
+      "b": "Free throw",
+      "c": "Time out",
+      "d": "Throw in",
+      "e": "Shoot"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Jumlah pemain bola basket dalam satu regu saat bertanding adalah...",
+    "pilihan": {
+      "a": "5 orang",
+      "b": "4 orang",
+      "c": "8 orang",
+      "d": "6 orang",
+      "e": "7 orang"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Pemanasan sebelum melakukan senam lantai bertujuan untuk...",
+    "pilihan": {
+      "a": "Mencegah cedera dan menyiapkan otot",
+      "b": "Mempercepat pendinginan",
+      "c": "Menguras keringat",
+      "d": "Menambah beban latihan",
+      "e": "Membuat tubuh lelah"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Dalam guling lenting, gerakan akhir setelah badan melenting adalah...",
+    "pilihan": {
+      "a": "Telentang",
+      "b": "Berdiri tegak",
+      "c": "Jongkok",
+      "d": "Terlentang",
+      "e": "Duduk"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Induk organisasi sepak bola dunia adalah...",
+    "pilihan": {
+      "a": "IAAF",
+      "b": "FIFA",
+      "c": "BWF",
+      "d": "IVBF",
+      "e": "FIBA"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Pelanggaran dalam sepak bola karena menjatuhkan lawan dari belakang di dalam kotak penalti akan dihukum dengan...",
+    "pilihan": {
+      "a": "Tendangan penalti",
+      "b": "Tendangan sudut",
+      "c": "Lemparan ke dalam",
+      "d": "Tendangan bebas langsung",
+      "e": "Tendangan bebas tidak langsung"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tujuan utama permainan sepak bola adalah...",
+    "pilihan": {
+      "a": "Menguasai lapangan",
+      "b": "Memasukkan bola ke gawang lawan sebanyak-banyaknya",
+      "c": "Mematikan pergerakan lawan",
+      "d": "Menjaga penguasaan bola",
+      "e": "Menampilkan permainan indah"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Posisi badan saat melakukan servis bawah dalam bola voli adalah...",
+    "pilihan": {
+      "a": "Membungkuk",
+      "b": "Jongkok",
+      "c": "Berbaring",
+      "d": "Tegak",
+      "e": "Berdiri kangkang"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Induk organisasi bola voli dunia adalah...",
+    "pilihan": {
+      "a": "BWF",
+      "b": "IAAF",
+      "c": "FIVB",
+      "d": "FIFA",
+      "e": "FIBA"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Teknik dasar dalam lompat jauh yang bertujuan untuk mendapatkan kecepatan maksimal adalah...",
+    "pilihan": {
+      "a": "Mendarat",
+      "b": "Awalan",
+      "c": "Tolakan",
+      "d": "Lari",
+      "e": "Melayang"
+    },
+    "jawaban": "b"
+  },
+  {
+    "pertanyaan": "Gaya dalam lompat tinggi yang paling populer saat ini adalah...",
+    "pilihan": {
+      "a": "Gaya flop (Fosbury)",
+      "b": "Gaya guling",
+      "c": "Gaya straddle",
+      "d": "Gaya western",
+      "e": "Gaya gunting"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Jarak tempuh lari maraton adalah...",
+    "pilihan": {
+      "a": "42,195 km",
+      "b": "21,0975 km",
+      "c": "100 km",
+      "d": "5 km",
+      "e": "10 km"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Start yang digunakan dalam lari jarak pendek adalah...",
+    "pilihan": {
+      "a": "Start tidur",
+      "b": "Start berdiri",
+      "c": "Start duduk",
+      "d": "Start melayang",
+      "e": "Start jongkok"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Zona tolakan dalam lompat jauh ditandai dengan...",
+    "pilihan": {
+      "a": "Tali",
+      "b": "Garis batas",
+      "c": "Kapur",
+      "d": "Bendera",
+      "e": "Papan tumpu"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "HIV dapat ditularkan melalui...",
+    "pilihan": {
+      "a": "Udara",
+      "b": "Makanan",
+      "c": "Jarum suntik bekas pakai",
+      "d": "Berenang bersama",
+      "e": "Berpelukan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Pencegahan HIV/AIDS yang paling efektif adalah...",
+    "pilihan": {
+      "a": "Vaksinasi",
+      "b": "Olahraga teratur",
+      "c": "Minum obat herbal",
+      "d": "Makan makanan bergizi",
+      "e": "Menghindari perilaku berisiko"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Gerakan meroda dalam senam lantai disebut juga...",
+    "pilihan": {
+      "a": "Cartwheel",
+      "b": "Roll belakang",
+      "c": "Handstand",
+      "d": "Headstand",
+      "e": "Roll depan"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Latihan yang dapat meningkatkan daya tahan jantung dan paru-paru adalah...",
+    "pilihan": {
+      "a": "Lari jarak jauh",
+      "b": "Back up",
+      "c": "Angkat beban",
+      "d": "Sit up",
+      "e": "Push up"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Latihan untuk menguatkan otot perut adalah...",
+    "pilihan": {
+      "a": "Sit up",
+      "b": "Push up",
+      "c": "Back up",
+      "d": "Pull up",
+      "e": "Squat jump"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Induk organisasi atletik dunia adalah...",
+    "pilihan": {
+      "a": "IAAF (sekarang World Athletics)",
+      "b": "BWF",
+      "c": "FIBA",
+      "d": "FIFA",
+      "e": "FIVB"
+    },
+    "jawaban": "a"
+  },
+  {
+    "pertanyaan": "Tujuan pendinginan setelah olahraga adalah...",
+    "pilihan": {
+      "a": "Menambah beban latihan",
+      "b": "Menguras tenaga",
+      "c": "Menyiapkan otot",
+      "d": "Mengembalikan tubuh ke kondisi normal",
+      "e": "Meningkatkan denyut nadi"
+    },
+    "jawaban": "d"
+  },
+  {
+    "pertanyaan": "Salah satu bentuk latihan kekuatan otot lengan adalah...",
+    "pilihan": {
+      "a": "Sit up",
+      "b": "Jogging",
+      "c": "Stretching",
+      "d": "Lari",
+      "e": "Push up"
+    },
+    "jawaban": "e"
+  },
+  {
+    "pertanyaan": "Komponen kebugaran jasmani yang berkaitan dengan rentang gerak sendi adalah...",
+    "pilihan": {
+      "a": "Kekuatan",
+      "b": "Daya tahan",
+      "c": "Kelentukan",
+      "d": "Kecepatan",
+      "e": "Kelincahan"
+    },
+    "jawaban": "c"
+  },
+  {
+    "pertanyaan": "Latihan kelincahan yang sering dilakukan adalah...",
+    "pilihan": {
+      "a": "Sit up",
+      "b": "Jogging",
+      "c": "Push up",
+      "d": "Lari zig-zag",
+      "e": "Lari lurus"
+    },
+    "jawaban": "d"
+  }
+]
